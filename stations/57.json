@@ -2,14 +2,6 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Баново Брдо",
-      "longitude": 20.413657,
-      "latitude": 44.768269
-    }
-  ],
-  "direction_b": [
-    {
-      "id": "_1",
       "label": "Требевићка",
       "longitude": 20.414277,
       "latitude": 44.771319
@@ -152,5 +144,6 @@
       "longitude": 20.413657,
       "latitude": 44.768269
     }
-  ]
+  ],
+  "direction_b": []
 }
