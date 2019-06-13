@@ -1703,10 +1703,6 @@
       "latitude": 44.772763
     },
     {
-      "longitude": 20.517267,
-      "latitude": 44.772729
-    },
-    {
       "longitude": 20.517225,
       "latitude": 44.772709
     },
@@ -1737,18 +1733,6 @@
     {
       "longitude": 20.517164,
       "latitude": 44.772359
-    },
-    {
-      "longitude": 20.517265,
-      "latitude": 44.772258
-    },
-    {
-      "longitude": 20.517281,
-      "latitude": 44.772248
-    },
-    {
-      "longitude": 20.517281,
-      "latitude": 44.772248
     }
   ]
 }

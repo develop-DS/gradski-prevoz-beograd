@@ -845,36 +845,12 @@
       "latitude": 44.830912
     },
     {
-      "longitude": 20.548149,
-      "latitude": 44.830786
-    },
-    {
-      "longitude": 20.54812,
-      "latitude": 44.83077
-    },
-    {
-      "longitude": 20.54806,
-      "latitude": 44.830733
-    },
-    {
       "longitude": 20.5482,
       "latitude": 44.83061
     },
     {
       "longitude": 20.54836,
       "latitude": 44.830501
-    },
-    {
-      "longitude": 20.5482,
-      "latitude": 44.83061
-    },
-    {
-      "longitude": 20.54806,
-      "latitude": 44.830733
-    },
-    {
-      "longitude": 20.54761,
-      "latitude": 44.830487
     }
   ],
   "direction_b": [
@@ -1791,68 +1767,24 @@
       "latitude": 44.81664
     },
     {
-      "longitude": 20.462404,
-      "latitude": 44.816682
+      "longitude": 20.462581,
+      "latitude": 44.816762
     },
     {
-      "longitude": 20.462389,
-      "latitude": 44.816122
+      "longitude": 20.46239,
+      "latitude": 44.81687
     },
     {
-      "longitude": 20.462327,
-      "latitude": 44.815709
+      "longitude": 20.462128,
+      "latitude": 44.817061
     },
     {
-      "longitude": 20.461893,
-      "latitude": 44.815764
-    },
-    {
-      "longitude": 20.46152,
-      "latitude": 44.81581
-    },
-    {
-      "longitude": 20.46139,
-      "latitude": 44.81585
-    },
-    {
-      "longitude": 20.46129,
-      "latitude": 44.81588
-    },
-    {
-      "longitude": 20.46122,
-      "latitude": 44.81594
-    },
-    {
-      "longitude": 20.461025,
-      "latitude": 44.816089
-    },
-    {
-      "longitude": 20.460869,
-      "latitude": 44.816218
-    },
-    {
-      "longitude": 20.460784,
-      "latitude": 44.816288
-    },
-    {
-      "longitude": 20.460612,
-      "latitude": 44.81643
-    },
-    {
-      "longitude": 20.460824,
-      "latitude": 44.816562
-    },
-    {
-      "longitude": 20.460977,
-      "latitude": 44.816649
+      "longitude": 20.46191,
+      "latitude": 44.81722
     },
     {
       "longitude": 20.461148,
       "latitude": 44.81675
-    },
-    {
-      "longitude": 20.461823,
-      "latitude": 44.816714
     },
     {
       "longitude": 20.461823,

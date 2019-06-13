@@ -903,14 +903,6 @@
     {
       "longitude": 20.40032,
       "latitude": 44.79778
-    },
-    {
-      "longitude": 20.400183,
-      "latitude": 44.798108
-    },
-    {
-      "longitude": 20.40018,
-      "latitude": 44.798132
     }
   ],
   "direction_b": [
@@ -1757,10 +1749,6 @@
     {
       "longitude": 20.456758,
       "latitude": 44.81393
-    },
-    {
-      "longitude": 20.456674,
-      "latitude": 44.813939
     },
     {
       "longitude": 20.456674,

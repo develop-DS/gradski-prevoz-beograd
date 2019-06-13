@@ -2,6 +2,14 @@
   "direction_a": [
     {
       "id": "_1",
+      "label": "Чукаричка Падина",
+      "longitude": 20.404825,
+      "latitude": 44.778126
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
       "label": "Стевана Ђурђевића",
       "longitude": 20.407534,
       "latitude": 44.776439
@@ -84,6 +92,5 @@
       "longitude": 20.404825,
       "latitude": 44.778126
     }
-  ],
-  "direction_b": []
+  ]
 }

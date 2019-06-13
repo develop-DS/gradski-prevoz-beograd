@@ -913,36 +913,12 @@
       "latitude": 44.830912
     },
     {
-      "longitude": 20.548149,
-      "latitude": 44.830786
-    },
-    {
-      "longitude": 20.54812,
-      "latitude": 44.83077
-    },
-    {
-      "longitude": 20.54806,
-      "latitude": 44.830733
-    },
-    {
       "longitude": 20.5482,
       "latitude": 44.83061
     },
     {
       "longitude": 20.54836,
       "latitude": 44.830501
-    },
-    {
-      "longitude": 20.5482,
-      "latitude": 44.83061
-    },
-    {
-      "longitude": 20.54806,
-      "latitude": 44.830733
-    },
-    {
-      "longitude": 20.54761,
-      "latitude": 44.830487
     }
   ],
   "direction_b": [
@@ -1785,10 +1761,6 @@
     {
       "longitude": 20.47947,
       "latitude": 44.80503
-    },
-    {
-      "longitude": 20.479616,
-      "latitude": 44.804854
     },
     {
       "longitude": 20.479616,
