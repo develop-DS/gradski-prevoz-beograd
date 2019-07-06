@@ -3,58 +3,136 @@
     {
       "id": "_1",
       "label": "Славија трг",
-      "longitude": 20.466271,
-      "latitude": 44.803493
+      "longitude": 20.465837,
+      "latitude": 44.802769
     },
     {
       "id": "_2",
-      "label": "РК Београђанка",
-      "longitude": 20.464091,
-      "latitude": 44.807451
+      "label": "Катанићева",
+      "longitude": 20.47173,
+      "latitude": 44.799452
     },
     {
       "id": "_3",
-      "label": "Теразије",
-      "longitude": 20.461143,
-      "latitude": 44.813146
+      "label": "Мачванска",
+      "longitude": 20.473985,
+      "latitude": 44.797783
     },
     {
       "id": "_4",
-      "label": "Палата Албанија",
-      "longitude": 20.460171,
-      "latitude": 44.814578
+      "label": "Војводе Драгомира",
+      "longitude": 20.479197,
+      "latitude": 44.797926
+    },
+    {
+      "id": "_5",
+      "label": "Црвени Крст",
+      "longitude": 20.48748,
+      "latitude": 44.797368
+    },
+    {
+      "id": "_6",
+      "label": "Брегалничка",
+      "longitude": 20.490626,
+      "latitude": 44.795113
+    },
+    {
+      "id": "_7",
+      "label": "Велимира Тодоровића",
+      "longitude": 20.494931,
+      "latitude": 44.793341
+    },
+    {
+      "id": "_8",
+      "label": "Школа Војислав Илић",
+      "longitude": 20.496881,
+      "latitude": 44.791372
+    },
+    {
+      "id": "_9",
+      "label": "Бачванска",
+      "longitude": 20.494381,
+      "latitude": 44.791025
+    },
+    {
+      "id": "_10",
+      "label": "Грчића Миленка",
+      "longitude": 20.490941,
+      "latitude": 44.791443
+    },
+    {
+      "id": "_11",
+      "label": "Крушевачка",
+      "longitude": 20.484816,
+      "latitude": 44.790635
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Палата Албанија",
-      "longitude": 20.460171,
-      "latitude": 44.814578
+      "label": "Крушевачка",
+      "longitude": 20.484816,
+      "latitude": 44.790635
     },
     {
       "id": "_2",
-      "label": "Теразије",
-      "longitude": 20.460963,
-      "latitude": 44.81283
+      "label": "Грчића Миленка",
+      "longitude": 20.489145,
+      "latitude": 44.791623
     },
     {
       "id": "_3",
-      "label": "РК Београђанка",
-      "longitude": 20.463978,
-      "latitude": 44.807329
+      "label": "Бачванска",
+      "longitude": 20.493625,
+      "latitude": 44.79088
     },
     {
       "id": "_4",
-      "label": "Славија трг",
-      "longitude": 20.466129,
-      "latitude": 44.803451
+      "label": "Школа Војислав Илић",
+      "longitude": 20.497479,
+      "latitude": 44.791782
     },
     {
       "id": "_5",
+      "label": "Велимира Тодоровића",
+      "longitude": 20.494443,
+      "latitude": 44.793685
+    },
+    {
+      "id": "_6",
+      "label": "Брегалничка",
+      "longitude": 20.490811,
+      "latitude": 44.795156
+    },
+    {
+      "id": "_7",
+      "label": "Црвени Крст",
+      "longitude": 20.485996,
+      "latitude": 44.797869
+    },
+    {
+      "id": "_8",
+      "label": "Војводе Драгомира",
+      "longitude": 20.480401,
+      "latitude": 44.798072
+    },
+    {
+      "id": "_9",
+      "label": "Новопазарска",
+      "longitude": 20.474085,
+      "latitude": 44.797926
+    },
+    {
+      "id": "_10",
+      "label": "Катанићева",
+      "longitude": 20.471284,
+      "latitude": 44.799998
+    },
+    {
+      "id": "_11",
       "label": "Славија трг",
-      "longitude": 20.466271,
-      "latitude": 44.803493
+      "longitude": 20.465837,
+      "latitude": 44.802769
     }
   ]
 }
