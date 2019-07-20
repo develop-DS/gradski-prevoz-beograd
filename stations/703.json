@@ -38,21 +38,21 @@
     },
     {
       "id": "_7",
-      "label": "Metro",
-      "longitude": 20.348791,
-      "latitude": 44.864123
+      "label": "Предузеће Галеника Магмасил",
+      "longitude": 20.358731,
+      "latitude": 44.867506
     },
     {
       "id": "_8",
-      "label": "Земун парк",
-      "longitude": 20.343988,
-      "latitude": 44.866715
+      "label": "Coca Cola",
+      "longitude": 20.35371,
+      "latitude": 44.869684
     },
     {
       "id": "_9",
-      "label": "Пут за Нови Сад",
-      "longitude": 20.336479,
-      "latitude": 44.872944
+      "label": "Електронска Индустрија",
+      "longitude": 20.34382,
+      "latitude": 44.87398
     },
     {
       "id": "_10",
@@ -340,66 +340,60 @@
     },
     {
       "id": "_25",
-      "label": "Пут за Нови Сад",
-      "longitude": 20.336256,
-      "latitude": 44.872538
+      "label": "Електронска Индустрија",
+      "longitude": 20.344053,
+      "latitude": 44.873742
     },
     {
       "id": "_26",
-      "label": "Земун парк",
-      "longitude": 20.343878,
-      "latitude": 44.866682
+      "label": "Coca Cola",
+      "longitude": 20.356008,
+      "latitude": 44.868512
     },
     {
       "id": "_27",
-      "label": "Metro",
-      "longitude": 20.348564,
-      "latitude": 44.864143
+      "label": "Предузеће Галеника Магмасил",
+      "longitude": 20.360101,
+      "latitude": 44.866742
     },
     {
       "id": "_28",
-      "label": "Насеље Мала Пруга",
-      "longitude": 20.353745,
-      "latitude": 44.860751
-    },
-    {
-      "id": "_29",
       "label": "Земун /Горњи град/ ",
       "longitude": 20.37815,
       "latitude": 44.85889
     },
     {
-      "id": "_30",
+      "id": "_29",
       "label": "Филипа Вишњића",
       "longitude": 20.387565,
       "latitude": 44.854709
     },
     {
-      "id": "_31",
+      "id": "_30",
       "label": "Дунавска",
       "longitude": 20.396757,
       "latitude": 44.851288
     },
     {
-      "id": "_32",
+      "id": "_31",
       "label": "Наде Димић",
       "longitude": 20.402336,
       "latitude": 44.849214
     },
     {
-      "id": "_33",
+      "id": "_32",
       "label": "РК Београд",
       "longitude": 20.411983,
       "latitude": 44.843533
     },
     {
-      "id": "_34",
+      "id": "_33",
       "label": "Земун /Ослобођења Кеј/",
       "longitude": 20.416698,
       "latitude": 44.843707
     },
     {
-      "id": "_35",
+      "id": "_34",
       "label": "Земун /Ослобођења Кеј/",
       "longitude": 20.415779,
       "latitude": 44.84349

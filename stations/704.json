@@ -50,66 +50,60 @@
     },
     {
       "id": "_9",
-      "label": "Metro",
-      "longitude": 20.348791,
-      "latitude": 44.864123
+      "label": "Геомашина",
+      "longitude": 20.364047,
+      "latitude": 44.865221
     },
     {
       "id": "_10",
-      "label": "Metro",
-      "longitude": 20.349849,
-      "latitude": 44.865173
+      "label": "Предузеће Галеника Магмасил",
+      "longitude": 20.358731,
+      "latitude": 44.867506
     },
     {
       "id": "_11",
-      "label": "Coca Cola 1",
-      "longitude": 20.356172,
-      "latitude": 44.867705
-    },
-    {
-      "id": "_12",
       "label": "Coca Cola",
       "longitude": 20.35371,
       "latitude": 44.869684
     },
     {
-      "id": "_13",
+      "id": "_12",
       "label": "Електронска Индустрија",
       "longitude": 20.34382,
       "latitude": 44.87398
     },
     {
-      "id": "_14",
+      "id": "_13",
       "label": "Пут за Нови Сад",
       "longitude": 20.335471,
       "latitude": 44.872707
     },
     {
-      "id": "_15",
+      "id": "_14",
       "label": "Институт за Кукуруз",
       "longitude": 20.329723,
       "latitude": 44.870335
     },
     {
-      "id": "_16",
+      "id": "_15",
       "label": "Браће Крњешевац",
       "longitude": 20.32438,
       "latitude": 44.868177
     },
     {
-      "id": "_17",
+      "id": "_16",
       "label": "Вртић Бубамара",
       "longitude": 20.322395,
       "latitude": 44.870821
     },
     {
-      "id": "_18",
+      "id": "_17",
       "label": "Фрање Крча",
       "longitude": 20.324026,
       "latitude": 44.872467
     },
     {
-      "id": "_19",
+      "id": "_18",
       "label": "Земун Поље",
       "longitude": 20.318782,
       "latitude": 44.875938
@@ -149,65 +143,77 @@
     {
       "id": "_6",
       "label": "Пут за Нови Сад",
-      "longitude": 20.336256,
-      "latitude": 44.872538
+      "longitude": 20.336479,
+      "latitude": 44.872944
     },
     {
       "id": "_7",
-      "label": "Земун парк",
-      "longitude": 20.343878,
-      "latitude": 44.866682
+      "label": "Електронска Индустрија",
+      "longitude": 20.344053,
+      "latitude": 44.873742
     },
     {
       "id": "_8",
-      "label": "Metro",
-      "longitude": 20.348564,
-      "latitude": 44.864143
+      "label": "Coca Cola",
+      "longitude": 20.356008,
+      "latitude": 44.868512
     },
     {
       "id": "_9",
+      "label": "Предузеће Галеника Магмасил",
+      "longitude": 20.360101,
+      "latitude": 44.866742
+    },
+    {
+      "id": "_10",
+      "label": "Геомашина",
+      "longitude": 20.365106,
+      "latitude": 44.864614
+    },
+    {
+      "id": "_11",
       "label": "Земун /Горњи град/ ",
       "longitude": 20.37815,
       "latitude": 44.85889
     },
     {
-      "id": "_10",
+      "id": "_12",
       "label": "Филипа Вишњића",
       "longitude": 20.387565,
       "latitude": 44.854709
     },
     {
-      "id": "_11",
+      "id": "_13",
       "label": "Тршћанска",
       "longitude": 20.391693,
       "latitude": 44.853165
     },
     {
-      "id": "_12",
+      "id": "_14",
       "label": "Наде Димић",
       "longitude": 20.402336,
       "latitude": 44.849214
     },
     {
-      "id": "_13",
+      "id": "_15",
       "label": "РК Београд",
       "longitude": 20.411983,
       "latitude": 44.843533
     },
     {
-      "id": "_14",
+      "id": "_16",
       "label": "Карађорђев трг",
       "longitude": 20.417246,
       "latitude": 44.837067
     },
     {
-      "id": "_15",
+      "id": "_17",
       "label": "Хотел Југославија",
       "longitude": 20.419617,
       "latitude": 44.827233
     },
     {
-      "id": "_16",
+      "id": "_18",
       "label": "Зелени венац",
       "longitude": 20.456704,
       "latitude": 44.814052
