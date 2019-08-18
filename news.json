@@ -1,82 +1,190 @@
 [
   {
-    "date": "09.08.2019",
-    "title": "Izmene na linijama broj: 15, 27E, 35, 60, 84, 704, 706, 707 zbog radova u Bulevaru Nikole Tesle (od 10.08.2019)",
+    "date": "16.08.2019",
+    "title": "Izmene na linijama broj: 25, 25P, 26 zbog sanacije kvara u Strumičkoj ulici (od 17.08.2019)",
     "sections": [
       {
-        "text": "Zbog radova na izgradnji kišne kanalizacije u Bulevaru Nikole Tesle, u zoni raskrsnice sa ulicom Ušće (zatvaranje kolovozne trake u smeru ka Zemunu), koje će izvoditi preduzeće „BAUWESEN”, u periodu od subote 10.08. do 12.08.2019., menja se režim rada linija javnog prevoza na sledeći način:"
+        "text": "Zbog hitne sanacije kvara, u Strumičkoj ulici kod broja 19, koje će izvoditi JKP „Beogradske elektrane“, u periodu od subote 17.08.2019. od 08:00 časova do 18.08.2018. u 20:00 časova, doći će do izmene režim rada linija JGP-a na sledeći način:"
       },
       {
-        "text": "• Vozila sa linija broj: 15, 84, 704, 706, 707 će saobraćati: u smeru ka Zemunu: Brankov most – Bulevar Mihajla Pupina – Trešnjin cvet – Bulevar\nNikole Tesle i dalje redovnim trasama; u smeru ka Zelenom vencu: vozila će saobraćati redovnom trasom\n• Vozila sa linija broj: 27E, 35 će saobraćati: u smeru ka terminusu Novi Beograd /Blok 20/: Brankov most – Bulevar Mihajla Pupina – Milentija Popovića – Vladimira Popovića – NOVI BEOGRAD/ BLOK 20/\n• Vozila sa linije broj 60 će saobraćati: u smeru ka terminusu Novi Beograd /Toplana/: Brankov most – Bulevar Mihajla Pupina – Milentija Popovića – interna saobraćajnica – Vladimira Popovića – Zemunski put – Brodarska i dalje redovnom trasom"
+        "text": "• Vozila sa linija 25, 25P, 26 u smeru ka naseljima Kumodraž i Braće Jerković će saobraćati: Južni bulevar – Đerdapska – Gospodara Vučića – Kruševačka i dalje redovnim trasama. U suprotnom smeru ne menja se režim rada linija JGP-a"
+      },
+      {
+        "text": "Privremeno se ukida stajalište: „Tetovska“, u smeru ka Kumodražu, u ul. Strumičkoj za linije 25, 25P, 26."
+      },
+      {
+        "text": "Uspostavlja se privremeno stajalište za linije 25, 25P, 26, u smeru ka Kumodražu, u ulici Kruševačkoj, preko puta postojećeg stajališta “Kruševačka”."
+      },
+      {
+        "text": "Na izmenjenom delu trase vozila JGP-a će koristiti postojeća stajališta."
+      }
+    ]
+  },
+  {
+    "date": "15.08.2019",
+    "title": "Izmene na linijama broj: 73, 702, 703, 706, 706E, 706N zbog radova u ulici Majora Zorana Radosavljevića (od 17.08.2019)",
+    "sections": [
+      {
+        "text": "U sklopu radova na izgradnji fekalne kanalizacije, u ulici Majora Zorana Radosavljevića (potpuno zatvaranje), na delu od ulice Majke Jugovića (uključujući i samu raskrsnicu) do ulice Carice Jelene, koje će izvoditi GP „Rad GM“ d.o.o. u periodu od subote 17.08.2019. do 15.10.2019., menja se režim rada linije JGP-a, na sledeći način:"
+      },
+      {
+        "text": "• Vozila sa linije 73 na izmenjenom delu trase, će saobraćati: u smeru ka Batajnici: Majora Zorana Radosavljevića – Stevana Dubajića – Kralja Radoslava – Vojvode Nikole Stanjevića – Matrozova – BATAJNICA /ŽELEZNIČKA STANICA/; u smeru ka Zemunu: Carice Jelene – Jovana Brankovića – Save Grkinića – Vojvođanskih brigada – Braće Smiljanića – Majora Zorana Radosavljevića i dalje redovnom trasom\n• Vozila sa linije 702 na izmenjenom delu trase će saobraćati: u smeru ka okretnici Batajnica /Železnička stanica/: Carice Jelene – Jovana Brankovića – Save Grkinića – Vojvođanskih brigada – Braće Smiljanića – Braće Savić – Kralja Radoslava i dalje redovnom trasom; u smeru ka okretnici Busije /Crkva/: svojom redovnom trasom\n• Vozila sa linije 703 na izmenjenom delu trase će saobraćati: u smeru ka Zemunu: Carice Jelene – Jovana Brankovića – Save Grkinića – Vojvođanskih brigada – Braće Smiljanića – Majora Zorana Radosavljevića i dalje redovnom trasom; u smeru ka Ugrinovcima: svojom redovnom trasom\n• Vozila sa linija 706, 706E na izmenjenom delu trase će saobraćati: u smeru ka Batajnici: Majora Zorana Radosavljevića – Stevana Dubajića – Kralja Radoslava – Vojvode Nikole Stanjevića – Matrozova – Carice Jelene – Pukovnika Milenka Pavlovića i dalje redovnim trasama; u smeru ka Zemunu: Pukovnika Milenka Pavlovića – Carice Jelene – Jovana Brankovića – Save Grkinića – Vojvođanskih brigada – Braće Smiljanića – Majora Zorana Radosavljevića i dalje redovnim trasama\n• Vozila sa noćne linije 706N će saobraćati kao i autobusi sa dnevne linije 706 u izmenjenom režimu"
       },
       {
         "text": "Privremeno se ukidaju stajališta:"
       },
       {
-        "text": "• UŠĆE (linije: 15, 84)\n• PALATA SRBIJA (linije: 15, 84)\n• ŠEST KAPLARA (linije: 27E, 35)\n• NOVI BEOGRAD /UŠĆE/ (linija: 60)\n• STARO SAJMIŠTE (linija: 60)"
+        "text": "• „Maksima Brankovića“, „Braće Smiljanić“ i „Majke Jugovića“ u smeru ka Batajnici, za linije 73, 706, 706E\n• „Batajnica/centar/“ i „Batajnica/Železnička stanica/“ u smeru ka Batajnici za liniju 73\n• „Batajnica/centar/“ i „Majke Jugovića“ u smeru ka Zemunu za linije 73, 702, 703, 706, 706E"
+      },
+      {
+        "text": "Privremeno se uspostavlja stajalište: „Batajnica (centar)“, u ulici Jovana Brankovića, na poziciji postojećeg međumesnog stajališta u zoni lokalnog vatrogasnog doma za linije broj: 73, 702, 703, 706, 706E."
+      },
+      {
+        "text": "Na izmenjenom delu trase, vozila će koristiti postojeća stajališta linija JGP-a."
       }
     ]
   },
   {
-    "date": "09.08.2019",
-    "title": "Izmene na linijama broj: 7, 9 zbog radova u ulici Milentija Popovića (Faza 2) (10.08. / 11.08.2019)",
+    "date": "14.08.2019",
+    "title": "Izmene u režimu rada linija broj: 5A, 21A, 22A, 29A, 22L, 29L, 40, 79 od 16.08.2019.",
     "sections": [
       {
-        "text": "Zbog radova na redovnom održavanju tramvajskih baštica u ulici Milentija Popovića, na delu od Bulevara Mihajla Pupina do Bulevara Milutina Milankovića (sa obe strane ulice), koje će izvoditi JKP „Beograd put”, u periodu od petka 09.08.2019. od 22:00 časova do 12.08.2019. do 04:00 časova, menja se režim rada linija javnog prevoza."
+        "text": "Budući da se istovremeno u gradu odvijaju radovi na Trgu republike, u ulicama 27. Marta, Džordža Vašingtona, Cara Dušana i Mis Irbijeva, u periodu od 16.08.2019. zbog pomenutih radova biće primenjen režim rada linija javnog prevoza:"
       },
       {
-        "text": "U subotu 10.08. i nedelju 11.08.2019., celodnevno:"
-      },
-      {
-        "text": "• Tramvajske linije broj 7, 9 u oba smera, će saobraćati: Savski trg – Savska – Bulevar vojvode Mišića – Petlja “Radnička” – Most na Adi – Bulevar heroja sa Košara – Đorđa Stanojevića – Bulevar Milutina Milankovića – Antifašističke borbe i dalje redovnom trasom\n• Uspostavlja se autobuska linija broj 7A na relaciji: Savski trg – Jurija Gagarina."
-      },
-      {
-        "text": "Trasa linije 7A:"
-      },
-      {
-        "text": "Smer A: Savski trg – Karađorđeva – Zemunski put – Stari savski most – Sajmište – Bulevar Mihajla Pupina – Milentija Popovića – Bulevar Milutina Milankovića – Antifašističke borbe – Jurija Gagarina – Marka Hristića – Đorđa Stanojevića"
-      },
-      {
-        "text": "Vozila će vršiti promenu smera kretanja ulicama: Đorđa Stanojevića – Bulevar Crvene armije – Jurija Gagarina"
-      },
-      {
-        "text": "Dolazno stajalište je „Garaža Novi Beograd“ u ulici Đorđa Stanojevića (zajedno sa linijom 85 i polazno stajalište za liniju EKO 1), a polazno stajalište je „Dr Agostina Neta“ u ulici Jurija Gagarina."
-      },
-      {
-        "text": "Smer B: Jurija Gagarina – Antifašističke borbe – Bulevar Milutina Milankovića -Milentija Popovića – Bulevar Mihajla Pupina – Zemunski put – Stari savski most – Karađorđeva – Savski trg"
-      },
-      {
-        "text": "Vozila će promenu smera kretanja vršiti ulicama: Savska – Miloša Pocerca – Sarajevska – Hajduk Veljkov venac – Nemanjina."
-      },
-      {
-        "text": "Dolazno stajalište je „Savski trg“ u Savskoj ulici u visini pošte, (polazno stajalište za linije 46, 51, 91, 92, 511, 551, 553 i 601) a polazno stajalište je „Savski trg“ zajedno sa linijama 78 i 83 u smeru ka Novom Beogradu."
-      },
-      {
-        "text": "Napomena: Vozila sa linije 7A neće saobraćati tramvajskom bašticom i koristiće autobuska stajališta duž trase."
-      },
-      {
-        "text": "Napomena: Kroz ulicu Milentija Popovića vozila sa linija 7A, 68, 95 i EKO 1 će vršiti izmenu putnika u visini postojećih stajališta."
+        "text": "• Ukida se linija 40 i privremeno se na trasi te linije uvodi autobuska linija 40A na kojoj će saobraćati 20 autobusa radnim danima i 14 autobusa vikendom\n• Ukidaju se privremene autobuske linije: 21A (Trg Slavija – Učiteljsko naselje), 22A (Trg Slavija – Kruševačka), 29A (Palata „Albanija“ – Medaković 3)\n• Uspostavlja se autobuska linija 21A (Palata „Albanija“ – Učiteljsko naselje) sa 8 autobusa radnim danima i 7 autobusa vikendom\n• Uspostavljaju se trolejbuske linije 22L, 29L – od Trga Slavija do perifernih terminusa\n• Linije 33, 48 se vraćaju na redovne trase i radiće po redovnom redu vožnje\n• Vozila sa linije 5A (Dorćol /SRC „Milan Gale Muškatirović“ – Vukov spomenik) će kao i u prethodnom periodu saobraćati na trasi: Terminus Dorćol /SRC „Milan Gale Muškatirović“, Tadeuša Košćuška, Cara Dušana, Francuska, Braće Jugovića, Dečanska, Trg Nikole Pašića, Bulevar kralja Aleksandra, Vukov spomenik\n• Vozila sa linije 79 će u zoni radova saobraćati ulicama: Terminus Dorćol /SRC „Milan Gale Muškatirović“, Tadeuša Košćuška, Cara Dušana, Venizelosova, Poenkareova, Cvijićeva, Dimitrija Tucovića i dalje redovnom trasom"
       }
     ]
   },
   {
-    "date": "06.08.2019",
-    "title": "Izmena na liniji broj: 310 zbog radova u ulici Narodnog fronta (od 08.08.2019)",
+    "date": "14.08.2019",
+    "title": "Izmene na linijama broj: 5A, 16, 23, 27E, 32E, 35, 40, 43, 58, 77, 79, 95, 96, 27N, 32N, 304N, 401N  zbog radova na rekonstrukciji i uređenju ulica Džordža Vašingtona i Cara Dušana (od 16.08.2019)",
     "sections": [
       {
-        "text": "Zbog radova na redovnom održavanju kolovoza i trotoara u ulici Narodnog fronta u Malom Mokrom Lugu, na delu od ulice Prvomajske do kućnog broja 84 (potpuno zatvaranje ulice na predmetnoj deonici) koje će izvoditi JKP „Beograd put“, u periodu od četvrtka 08.08.2019. od 08:30h do 10.08.2019., menja se režim rada linije JGP-a, na sledeći način:"
+        "text": "Tokom izvođenja radova na rekonstrukciji i uređenju ulica Džordža Vašingtona i Cara Dušana (deo između ulica Bulevar despota Stefana i Francuska – faza S4) u periodu od 16.08. do 07.11.2019., kao i polovina raskrsnice ulica Bulevar despota Stefana i Džordža Vašingtona (desna strana gledano u smeru ka Trgu republike – podfaza DS2) i polovina raskrsnice ulica Takovska i Džordža Vašingtona (desna strana gledano u smeru ka Pančevačkom mostu – podfaza T1) u periodu od 16.08. do 26.08.2019., doći će do promena u radu linija javnog prevoza."
       },
       {
-        "text": "• Vozila sa linije 310 u smeru ka Šumicama, će saobraćati ulicama: 20.oktobra – Partizanska – Bulevar kralja Aleksandra – Ustanička i dalje redovnom trasom. U smeru ka terminusu Mali Mokri Lug (crkva) će saobraćati neizmenjeno."
+        "text": "Tokom izvođenja radova u ulici Džordža Vašingtona (deo između ulica Bulevar despota Stefana i Francuska), biće primenjen sledeći režim rada linija javnog prevoza:"
       },
       {
-        "text": "Privremeno se ukidaju stajališta, u smeru ka Šumicama, za liniju 310:"
+        "text": "• Vozila sa linije 5A (Dorćol /SRC „Milan Gale Muškatirović“ – Vukov spomenik) će kao i u prethodnom periodu saobraćati na trasi: Terminus Dorćol /SRC „Milan Gale Muškatirović“, Tadeuša Košćuška, Cara Dušana, Francuska, Braće Jugović, Dečanska, Trg Nikole Pašića, Bulevar kralja Aleksandra, Vukov spomenik\n• Vozila sa linije 79 će u zoni radova saobraćati ulicama: Terminus Dorćol /SRC „Milan Gale Muškatirović“, Tadeuša Košćuška, Cara Dušana, Venizelosova, Poenkareova, Cvijićeva, Dimitrija Tucovića i dalje redovnom trasom"
       },
       {
-        "text": "Smer B:"
+        "text": "Privremeno se ukidaju stajališta:"
       },
       {
-        "text": "• NARODNOG FRONTA\n• PIJACA MML\n• ŽIVKA DAVIDOVIĆA\n• OŠ DESANKA MAKSIMOVIĆ"
+        "text": "• „Pijaca Skadarlija“ u oba smera, za liniju 5A, 79\n• „Glavna pošta“ u smeru ka Dorćolu, za liniju 5A\n• privremeno stajalište „Glavna pošta 1“, u smeru ka Vukovom spomeniku, za liniju 5A\n• „Bulevar despota Stefana“ u oba smera, za linije 5A, 79\n• privremeno stajalište „Takovska“ u ulici Džordža Vašingtona, u smeru ka Dorćolu za linije 5A, 79\n• „27.marta“ u smeru ka Mirijevu, za liniju 79\n• „Jaše Prodanovića“ u smeru ka Dorćolu, za liniju 79"
+      },
+      {
+        "text": "Napomena: Tokom izvođenja radova u zoni raskrsnice ulica Bulevar despota Stefana i Džordža Vašingtona (u smeru ka Trgu Republike) doći će do zauzeća 1⁄2 profila kolovoza, zbog čega će se vozila javnog prevoza kretati dvosmerno preostalom širinom kolovoza u periodu od 15.08. do 26.08.2019. Zbog navedenog privremeno se izmešta stajalište „Džordža Vašingtona“ (smer ka Pančevačkom mostu), na lokaciju oko 45 metara nakon postojeće lokacije (u visini saobraćajnog znaka III-30 rezervisana parking mesta) za linije javnog prevoza broj: 16, 27E, 32E, 35, 43, 58, 95, 96."
+      },
+      {
+        "text": "• Privremeno se ukida trolejbuska linija 40 i umesto nje će saobraćati autobuska linija 40A na relaciji Zvezdara – Banjica 2\n• Linije 33, 48 se vraćaju na svoje redovne trase\n• Vozila sa linije 27N, u oba smera, će saobraćati ulicama: Braće Jugovića – Dečanska – Bulevar kralja Aleksandra – Ruzveltova i dalje redovnom trasom. Polazno stajalište TRG REPUBLIKE se izmešta na lokaciju polaznog stajališta za dnevnu liniju broj 27\n• Vozila sa linije 32N, u oba smera, će saobraćati ulicama: Braće Jugovića, Dečanska – Bulevar kralja Aleksandra – Ruzveltova i dalje redovnom trasom. Zadržava postojeće polazno stajalište TRG REPUBLIKE (polazno za liniju broj 27)\n• Vozila sa linije 304N će saobraćati: u smeru prema Ritopeku: Braće Jugovića – Dečanska – Bulevar kralja Aleksandra – Takovska i dalje redovnom trasom; u smeru prema Trgu republike: Svetogorska – Makedonska – Braće Jugović – Francuska – TRG REPUBLIKE. Polazno stajalište TRG REPUBLIKE se izmešta na lokaciju polaznog stajališta za dnevnu liniju broj 27\n• Vozila sa linije 401N će saobraćati u oba smera ulicama Cara Dušana – Francuska – TRG REPUBLIKE (polazno za liniju br. 96) – Dečanska -Trg Nikole Pašića – Bulevar kralja Aleksandra – Beogradska i dalje redovnom trasom"
+      },
+      {
+        "text": "Privremeno se izmešta stajalište „27. marta“ (smer prema Pančevačkom mostu) za linije javnog prevoza broj: 23, 40A, 77 na lokaciju koja se nalazi oko 30 metara posle raskrsnice sa ulicom Dallmatinska, kao i stajalište „Džordža Vašingtona“ (smer prema Pančevačkom mostu) za linije javnog prevoza broj: 16, 27E, 32E, 35, 43, 58, 95, 96 na lokaciju koja se nalazi oko 45 metara nakon postojeće lokacije (u visini saobraćajnog znaka III-30 rezervisna parking mesta)."
+      },
+      {
+        "text": "Napomena: Osim ovoga, važiće privremeni režim koji je uspostavljen tokom izvođenja radova u ulicama Kraljice Marije i 27. marta na delu od Ruzveltove do ulice Takovska."
+      }
+    ]
+  },
+  {
+    "date": "14.08.2019",
+    "title": "Izmene na linijama broj: 20, 21A zbog radova na uglu ulica Vojislava Ilića i Mis Irbijeva (od 15.08.2019)",
+    "sections": [
+      {
+        "text": "Zbog radova na priključenju na vodovodnu i kanalizacionu mrežu tržnog centra, na uglu ulica Vojislava Ilića i Mis Irbijeva, tokom kojih će u ulici Mis Irbijeva, važiti jednosmeran režim saobraćaja u smeru ka Učiteljskom naselju, koje izvodi Preduzeće „EG TIM – ING“, od četvrtka 15.08. do 02.09.2019., menja se režim rada linija JGP-a, na sledeći način:"
+      },
+      {
+        "text": "• Vozila sa linije 20 će saobraćati: u smeru ka Velikom Mokrom Lugu: Mis Irbijeva – Križanićeva – Velikomoravska – Vojislava Ilića i dalje redovnom trasom; u smeru ka Mirijevu: vozila će saobraćati redovnom trasom\n• Vozila sa linije 21A će u smeru ka Učiteljskom naselju saobraćati u skladu sa trasom definisanom u sklopu radova na Trgu republike (Vojislava Ilića, Mis Irbijeva…), dok će u smeru ka gradu saobraćati ulicama Mis Irbijeva, Križanićeva, Velikomoravska, Vojislava Ilića i dalje u skladu trasom definisanom u sklopu radova na Trgu republike"
+      },
+      {
+        "text": "Privremeno se ukidaju stajališta:"
+      },
+      {
+        "text": "• „Rimska“, u ulici Mis Irbijeva, u smeru ka Velikom Mokrom Lugu , za liniju broj 20\n• „Rimska “, u ulici Vojislava Ilića, u smeru ka Trgu Slavija, za liniju broj 21A"
+      },
+      {
+        "text": "Napomena: Privremeno se uspostavlja stajalište „Vojislava Ilića 1“u ulici Velikomoravska, oko 30m ispred raskrsnice sa ulicom Vojislava Ilića."
+      }
+    ]
+  },
+  {
+    "date": "14.08.2019",
+    "title": "Izmene na linijama broj: 15, 27E, 35, 60, 84, 704, 706, 707, 860 za vreme održavanja manifestacije “Beer fest” (od 15.08.2019)",
+    "sections": [
+      {
+        "text": "Zbog održavanja manifestacije „Beer FEST”, na prostoru kod PC „Ušće“, u periodu od:"
+      },
+      {
+        "text": "• 15./16.08.2019. od 17:30 do 04:10 časova narednog dana\n• 16./17.08.2019. od 17:00 do 05:50 časova narednog dana\n• 17./18.08.2019. od 17:20 do 05:50 časova narednog dana\n• 18./19.08.2019. od 17:00 do 04:45 časova narednog dana\n• 19./20.08.2019. od 17:30 do 04:10 časova narednog dana"
+      },
+      {
+        "text": "menja se režim rada linija JGP-a na sledeći način:"
+      },
+      {
+        "text": "• Vozila sa linija 15, 84, 704, 706, 707, u oba smera, će saobraćati: Brankov most – Bulevar Mihajla Pupina – Trešnjinog cveta – Bulevar Nikole Tesle i dalje redovnim trasama\n• Vozila sa linija 27E, 35 u oba smera, će saobraćati: Brankov most – Bulevar Mihajla Pupina – Milentija Popovića – interna saobraćajnica pored hotela Hyatt – Vladimira Popovića – terminus Blok 20\n• Vozila sa linije 60, će saobraćati: u smeru ka terminusu Novi Beograd /Toplana/: Brankov most – Bulevar Mihajla Pupina – Milentija Popovića – Saobraćajnica pored hotela Hyatt – Vladimira Popovića – Zemunski put – Staro sajmište i dalje redovnom trasom; u smeru ka Zelenom vencu: vozila će saobraćati redovnom trasom\n• Na liniji 860 uspostavljaju se dodatni polasci, sa terminusa “Beograd” u 01:00h, sa terminusa “Obrenovac” u: 02:00h."
+      },
+      {
+        "text": "Privremeno se ukidaju stajališta:"
+      },
+      {
+        "text": "• „Ušće“ i „Palata Srbija”,u oba smera, za linije 15, 84\n• „Šest kaplara“, u ul. Ušće, u smeru ka Bloku 20, za linije 27E, 35\n• „Staro sajmište“ i „Novi Beograd /Ušće/“, u smeru ka Novom Beogradu, za liniju 60"
+      }
+    ]
+  },
+  {
+    "date": "13.08.2019",
+    "title": "Izmene na linijama broj: 37, 50, 57, 89 zbog radova u ulici Ratka Mitrovića (Faza 2) (od 14.08.2019)",
+    "sections": [
+      {
+        "text": "Zbog radova na redovnom održavanju kolovoza u ulici Ratka Mitrovića, na delu od ulice Jablaničke do Kneza Višeslava, (zatvaranje kolovoza) koje izvodi JKP „Beograd put“, a na zahtev građana i vozača JGP-a, od srede 14.08.2019. do 25.08.2019., menja se režim rada linija JGP-a, na sledeći način:"
+      },
+      {
+        "text": "• Vozila sa linija: 37, 50 u oba smera, će saobraćati ulicama: Pilota Mihaila Petrovića – Cerski venac – Vinogradski venac – Jablanička – Ratka Mitrovića i dalje redovnim trasama\n• Vozila sa linije 89 u oba smera, će saobraćati ulicama: Patrijaha Joanikija – Pilota Mihaila Petrovića – Cerski venac – Vinogradski venac – Jablanička – Ratka Mitrovića i dalje redovnom trasom\n• Vozila sa linije 57 će saobraćati ulicama: Žarkovačka – Blagoja Parovića – Kneza Višeslava – Pilota Mihaila Petrovića – Cerski venac – Vinogradski venac – Jablanička – Ratka Mitrovića i dalje redovnom trasom"
+      },
+      {
+        "text": "Privremeno se ukidaju stajališta:"
+      },
+      {
+        "text": "• „Pilota Mihaila Petrovića“, u smeru ka gardu, za linije: 37, 50, 89\n• „Kneza Višeslava “, u oba smera, za linije 37, 50, 89\n• „Ane Ahmatove“ u oba smera za linije: 37, 50, 89\n• „Vojno medicinski centar“ u smeru ka periferiji za linije: 37, 50, 89\n• „Vrtić Bajka“, „Mile Jevtović“, „Jovana Mikića“, „Milovana Čelebića“ i „Ratka\nMitrovića“ u smeru ka naselju Golf za liniju 57\n• „Ane Ahmetove“, „Ratka Mitrovića“ u ul. Kneza Višeslava, „Ilije Stojadinovića“,\n„Miloja Zakića“, „Dimitrija Avramovića“, „Vrtić Košuta“ u smeru ka Banovom Brdu za liniju 57"
+      }
+    ]
+  },
+  {
+    "date": "10.08.2019",
+    "title": "Izmene u režimu rada linija broj: 17, 31, 50, 308, 310, ADA 3 zbog radova u Ustaničkoj ulici (od 12.08.2019)",
+    "sections": [
+      {
+        "text": "Zbog izvođenja radova na redovnom održavanju u ulici Ustanička, na delu od ulice Mihajla Todorovića do ulice Vojislava Ilića, u periodu od 12.08.2019. od 08:30 časova do 21.08.2019. doći će do poremećaja u radu linija javnog prevoza."
+      },
+      {
+        "text": "Tokom izvođenja radova predviđeno je zatvaranje kolovoza ulice Ustanička (smer prema ulici Vojislava Ilića), dok će se kolovoz koji se u redovnom režimu koristi za saobraćaj u smeru prema ulici Bulevar kralja Aleksandra koristiti za dvosmerno odvijanje saobraćaja."
+      },
+      {
+        "text": "Privremeno se izmeštaju stajališta (smer prema ulici Vojislava Ilića):"
+      },
+      {
+        "text": "• „Petrinjska“ za linije javnog prevoza broj: 17, 31, 50, 308, 310, ADA 3 – stajalište se postavlja na razdelno ostrvo, u visini postojeće pozicije stajališta\n• Polazno stajalište „Konjarnik“ za linije javnog prevoza broj: 17, 31, ADA 3 – stajalište se postavlja u okviru okretnice, na poziciju ispred objekta sa kućnim brojem 230B\n• „Konjarnik“ za linije javnog prevoza broj: 50, 308, 310 – stajalište se postavlja preko puta pozicije koja se nalazi neposredno ispred kolskog ulaza u objekat sa kućnim brojem 234"
+      }
+    ]
+  },
+  {
+    "date": "10.08.2019",
+    "title": "Izmene na linijama broj: 860, 860E, 860L, 860M, 861A zbog radova u ulici Kralja Aleksandra u Obrenovcu (od 10.08.2019)",
+    "sections": [
+      {
+        "text": "Zbog izvođenja radova na redovnom održavanju ulice Kralja Aleksandra I (državni put Ib – 26) u Obrenovcu, na delu od kružnog toka u zoni raskrsnice ulica Zabranski put i Miloša Obrenovića do ulice Kralja Petra I u vremenskom periodu od 10.08.2019. do 10.09.2019. doći će do poremećaja u radu linija javnog prevoza."
+      },
+      {
+        "text": "Tokom izvođenja radova vozila sa linija javnog prevoza će se kretati izmenjenom trasom i to:"
+      },
+      {
+        "text": "• Vozila sa linija broj: 860, 860E, 860L, 860M, 861A, 862, 863A, 932, 932A, 934, 935, 936, 937, 938, 939, 939A, 940, 5570 će umesto ulicama Zabranski put i Kralja Aleksandra I saobraćati ulicama Miloša Obrenovića, Kralja Petra I i dalje redovnim trasama\n• Vozila sa linija broj 911, 911A će u smeru ka Nemanjinoj ulici, umesto ulicama Miloša Obrenovića, Zabranski put i Kralja Aleksandra I saobraćati ulicama Miloša Obrenovića, Kralja Petra I i dalje redovnim trasama\n• Vozila sa linije broj 914 će umesto ulicama Zabranski put i Kralja Aleksandra I saobraćati ulicama Zabranski put, Miloša Obrenovića, Kralja Petra I i dalje redovnim trasama."
+      },
+      {
+        "text": "Vozila će na izmenjenom delu trase koristiti stajališta u zoni nekadašnjih stajališta „Topolice“ i „Kralja Petra I“ u ulicama Miloša Obrenovića i Kralja Petra I."
       }
     ]
   },
@@ -101,111 +209,6 @@
       },
       {
         "text": "Radovi bi okvirno trebalo da traju 10 dana."
-      }
-    ]
-  },
-  {
-    "date": "01.08.2019",
-    "title": "Izmene na linijama broj: 73, 702, 703, 706, 706E zbog radova u ulici Majora Zorana Radosavljevića (od 02.08.2019)",
-    "sections": [
-      {
-        "text": "U sklopu radova na izgradnji fekalne kanalizacije, u ul. Majora Zorana Radosavljevića, između ulica Stevana Dubajića i Majke Jugovića, koje će izvoditi GP „Rad GM“ d.o.o. u periodu od petka 02.08.2019. do 31.08.2019., menja se režim rada linije JGP-a, na sledeći način:"
-      },
-      {
-        "text": "• Vozila sa linija 73, 706, 706E na izmenjenom delu trase, u oba smera, će saobraćati: Majora Zorana Radosavljevića – Stevana Dubajića – Kralja Radoslava – Majke Jugovića i dalje redovnim trasama\n• Vozila sa linije 702 na izmenjenom delu trase će saobraćati: u smeru ka okretnici Batajnica /Železnička stanica/: Majora Zorana Radosavljevića – Majke Jugovića – Kralja Radoslava i dalje redovnom trasom; u smeru ka okretnici Busije/Crkva/: svojom redovnom trasom\n• Vozila sa linije 703 na izmenjenom delu trase će saobraćati: u smeru ka Zemunu: Majora Zorana Radosavljevića – Majke Jugovića – Kralja\nRadoslava – Stevana Dubajića i dalje redovnom trasom; u smeru ka Ugrinovcima: svojom redovnom trasom\n• Vozila sa linije 700 će saobraćati redovnom trasom"
-      },
-      {
-        "text": "Ukidaju se stajališta:"
-      },
-      {
-        "text": "• „Maksima Brankovića“ u smeru ka Zemunu, za linije 73, 703, 706 i 706E\n• „Braće Smiljanić“ u oba smera za linije 73, 706 706E , odnosno i za liniju 703\nu smeru ka Zemunu\n• „Majke Jugovića“ u smeru ka gradu, za linije 73, 702, 703, 706 i 706E\n• „Braće Savić“ u smeru ka terminusu Batajnica /železnička stanica/, za liniju\n702\n• „Braće Radišić“ u smeru ka Ugrinovcima, za linije 702\n• privremeno stajalište „Batajnica /ulaz/, za linije 73, 703, 706 i 706E\n• privremeno stajalište „Vrtić“ za liniju 700"
-      }
-    ]
-  },
-  {
-    "date": "01.08.2019",
-    "title": "Operativna izmena na linijama broj: 34, 42 zbog kvara na vodovodnoj mreži u ulici Mihaila Avramovića",
-    "sections": [
-      {
-        "text": "Zbog kvara na vodovodnoj mreži u ulici Mihaila Avramovića:"
-      },
-      {
-        "text": "• Vozila sa linije 34 saobraćaju ulicama: Baje Pivljanina – Mihaila Avramovića – Bulevar kneza Aleksandra Karađorđevića i dalje redovnom trasom\n• Vozila sa linije 42 saobraćaju ulicama: Bulevar kneza Aleksandra Karađorđevića – Neznanog junaka – Crnotravska i dalje redovnom trasom"
-      }
-    ]
-  },
-  {
-    "date": "25.07.2019",
-    "title": "Izmene na linijama broj: 5A, 79, 27N, 32N, 304N, 401N zbog radova u ulici Džordža Vašingtona (od 26.07.2019)",
-    "sections": [
-      {
-        "text": "Radovi produženi do 15.08.2019"
-      },
-      {
-        "text": "U sklopu radova na rekonstrukciji i uređenju ulice Džordža Vašingtona, na delu između ulica Takovske i Bulevara despota Stefana, u periodu od petka 26.07. do 08.08.2019., menja se režim rada linija JGP-a, na sledeći način:"
-      },
-      {
-        "text": "• Vozila sa linije 5A, u oba smera, će saobraćati: Dorćol /SRC „Milan Gale Muškatirović“/ – Tadeuša Košćuška – Cara Dušana – Francuska – Braće Jugović – Dečanska – Trg Nikole Pašića – Bulevar kralja Aleksandra – Vukov spomenik\n• Vozila sa linije 79, u oba smera, će saobraćati: Dorćol /SRC „Milan Gale Muškatirović“/ – Tadeuša Košćuška – Cara Dušana – Džordža Vašingtona – Bulevar despota Stefana – Cvijićeva – Dimitrija Tucovića i dalje redovnom trasom"
-      },
-      {
-        "text": "Privremeno se ukidaju stajališta:"
-      },
-      {
-        "text": "• „Pijaca Skadarlija“ u oba smera, za liniju 5A\n• „Glavna pošta“ u smeru ka Dorćolu, za liniju 5A\n• Privremeno stajalište „Glavna pošta 1“, u smeru ka Vukovom spomeniku, za liniju\n5A\n• „Bulevar despota Stefana“ u oba smera, za linije 5A i 79\n• Privremeno stajalište „Takovska“ u ulici Džordža Vašingtona, u smeru ka Dorćolu za linije 5A i 79\n• „27.marta“ u smeru ka Mirijevu, za liniju 79\n• „Jaše Prodanovića“ u smeru ka Dorćolu, za liniju 79."
-      },
-      {
-        "text": "Noćni saobraćaj:"
-      },
-      {
-        "text": "• Vozila sa linije 27N, u oba smera, će saobraćati ulicama: Braće Jugovića – Dečanska – Bulevar kralja Aleksandra – Ruzveltova i dalje redovnom trasom. Polazno stajalište TRG REPUBLIKE se izmešta na lokaciju polaznog stajališta za dnevnu liniju br. 27\n• Vozila sa linije 32N, u oba smera, će saobraćati ulicama: Braće Jugovića, Dečanska – Bulevar kralja Aleksandra – Ruzveltova i dalje redovnom trasom. Zadržava postojeće polazno stajalište TRG REPUBLIKE (polazno za liniju br. 27)\n• Vozila sa linije 304N će saobraćati: u smeru prema Ritopeku ulicama: Braće Jugovića – Dečanska – Bulevar kralja Aleksandra – Takovska i dalje redovnom trasom; u smeru prema Trgu republike ulicama: Svetogorska – Makedonska – Braće Jugović – Francuska – TRG REPUBLIKE. Polazno stajalište TRG REPUBLIKE se izmešta na lokaciju polaznog stajališta za dnevnu liniju br. 27\n• Vozila sa linije 401N će saobraćati u oba smera ulicama Cara Dušana – Francuska – TRG REPUBLIKE (polazno za liniju br. 96) – Dečanska -Trg Nikole Pašića – Bulevar kralja Aleksandra – Beogradska i dalje redovnom trasom"
-      }
-    ]
-  },
-  {
-    "date": "23.07.2019",
-    "title": "Izmene na linijama broj: 37, 50, 52, 57, 89 zbog radova u ulici Ratka Mitrovića (od 24.07.2019)",
-    "sections": [
-      {
-        "text": "Zbog radova na redovnom održavanju kolovoza u ulici Ratka Mitrovića, na delu od ulice Ace Joksimovića do ulice Jablaničke (potpuna obustava saobraćaja) koje će izvoditi JKP „Beograd put“, u periodu od srede 24.07.2019. od 08:30 časova do 12.08.2019., menja se režim rada linija JGP-a, na sledeći način:"
-      },
-      {
-        "text": "• Vozila sa linija broj: 37, 50, 89 u oba smera, će saobraćati ulicama: Ratka Mitrovića – Jablanička – Trgovačka i dalje redovnim trasama\n• Vozila sa linije broj: 52 u oba smera, će saobraćati ulicama: Vinogradski venac – Jablanička – Trgovačka i dalje redovnom trasom\n• Vozila sa linije broj: 57 će saobraćati ulicama: Žarkovačka – Blagoja Parovića – Kneza Višeslava – Ratka Mitrovića – Jablanička – Trgovačka – Đorđa Ognjanovića – Požeška – Banovo brdo"
-      },
-      {
-        "text": "Privremeno se ukidaju stajališta:"
-      },
-      {
-        "text": "• „Ratka Mitrovića“, u oba smera za linije: 37, 50, 52 i 57\n• „Ratka Mitrovića“, u smeru ka Vidikovcu za linije 57 i 89\n• „Ace Joksimovića“ u oba smera za linije: 37, 50 i 52\n• „Žarkovo“ u smeru ka periferiji za linije: 37, 50 i 52\n• „Bitoljska“, „Kosmajska“, „Ljubice Ivošević“, „Šavnička“ u oba smera za liniju 52\n• „Mile Jevtović“, „Jovana Mikića“ u oba smera i „Vrtić Bajka“, „Ilije Stojadinovića“,\n„Ratka Mitrovića“ u ulici Kneza Višeslava, „Ane Ahmatove“, „Miloja Zakića“, „Dimitrija Avramovića“, „Vrtić Košuta“, „Krajiških brigada“ u smeru ka Banovom brdu za liniju 57\n• „Milovana Čelebića“, „Dom zdravlja“ i „Jovana Mikića“, u oba smera za liniju 89."
-      },
-      {
-        "text": "Na izmenjenom delu trase vozila će koristiti postojeća stajališta JGP-a."
-      }
-    ]
-  },
-  {
-    "date": "23.07.2019",
-    "title": "Izmene na linijama broj: 33, 48 zbog radova u ulicama Kraljice Marije i 27. marta (od 24.07.2019)",
-    "sections": [
-      {
-        "text": "Radovi produženi do 14.08.2019"
-      },
-      {
-        "text": "U sklopu radova na rekonstrukciji i uređenju ulica Kraljice Marije i 27. marta, u periodu od srede 24.07. do 05.08.2019., biće uspostavljen jednosmeran režim saobraćaja duž ulice Starine Novaka u zoni raskrsnice sa ulicom 27.marta, na osnovu čega se menja režim rada linija JGP-a, na sledeći način:"
-      },
-      {
-        "text": "• Vozila sa linija 33, 48, će saobraćati: u smeru ka Trgu Slavija: redovnom trasom; u smeru ka Pančevačkom mostu: Beogradska – Bulevar kralja Aleksandra – Takovska – Jaše Prodanovića – Cvijićeva – Zdravka Čelara i dalje redovnim trasama"
-      },
-      {
-        "text": "Privremeno se ukidaju stajališta linija 33 i 48, u smeru ka Pančevačkom mostu:"
-      },
-      {
-        "text": "• „Pravni fakultet“\n• „27.marta“"
-      },
-      {
-        "text": "Na izmenjenom delu trase vozila će koristiti stajališta:"
-      },
-      {
-        "text": "• „Park Tašmajdan“\n• „Glavna pošta“ u ulici Takovska\n• „27.marta“\n• „Jaše Prodanovića“"
       }
     ]
   },
@@ -346,7 +349,13 @@
         "text": "U sklopu rekonstrukcije Trga Republike i potpune obustave saobraćaja u zoni Trga Republike na potezu od Kolarčeve, Makedonske, Francuske i Dositejeve, od subote 22.06.2019. do 01.09.2019.godine, doći će do nove izmene rada linija JGP-a na sledeći način:"
       },
       {
-        "text": "• Ukidaju se privremene trolejbuske linije 21L, 22L i 29L. Redovne trolejbuske linije 19, 21, 22, 28, 29 i 41 su i dalje ukinute\n• Ukida se privremena autobuska linija 22A koja je saobraćala na relaciji Palata „Albanija“ – Trg Slavija\n• Trolejbuska linija 40 će i dalje saobraćati po zimskom redu vožnje\n• Umesto trolejbuskih linija uspostavljaju se autobuske linije: 21A (Trg Slavija – Učiteljsko naselje) ; 22A (Trg Slavija – Kruševačka) ; 29A (Palata “Albanija” – Medaković 3)\n• Vozila sa autobuskih linija broj: 27, 31 će saobraćati do privremenog terminusa ispred Palate „Albanija“\n• Vozila sa autobuskih linija broj: 24, 26, 37, 44 će saobraćati: u smeru ka periferiji: Francuska – kroz terminus „Trg Republike“ – Bulevar despota Stefana – Braće Jugovića – Dečanska – Trg Nikole Pašića i dalje redovnom trasom; u smeru ka Dorćolu: Dečanska – Braće Jugović – Francuska i dalje redovnom trasom\n• Vozila sa autobuskih linija broj: 32E, 43, 96 će u smeru ka terminusu „Trg\nRepublike“ saobraćati: Bulevar despota Stefana – Braće Jugović – Francuska – terminus „Trg Republike“"
+        "text": "• Ukidaju se privremene trolejbuske linije 21L, 22L i 29L. Redovne trolejbuske linije 19, 21, 22, 28, 29 i 41 su i dalje ukinute\n• Ukida se privremena autobuska linija 22A koja je saobraćala na relaciji Palata „Albanija“ – Trg Slavija\n• Trolejbuska linija 40 će i dalje saobraćati po zimskom redu vožnje"
+      },
+      {
+        "text": "• Umesto trolejbuskih linija uspostavljaju se autobuske linije: 21A (Trg Slavija – Učiteljsko naselje) ; 22A (Trg Slavija – Kruševačka) ; 29A (Palata “Albanija” – Medaković 3)"
+      },
+      {
+        "text": "• Vozila sa autobuskih linija broj: 27, 31 će saobraćati do privremenog terminusa ispred Palate „Albanija“\n• Vozila sa autobuskih linija broj: 24, 26, 37, 44 će saobraćati: u smeru ka periferiji: Francuska – kroz terminus „Trg Republike“ – Bulevar despota Stefana – Braće Jugovića – Dečanska – Trg Nikole Pašića i dalje redovnom trasom; u smeru ka Dorćolu: Dečanska – Braće Jugović – Francuska i dalje redovnom trasom\n• Vozila sa autobuskih linija broj: 32E, 43, 96 će u smeru ka terminusu „Trg\nRepublike“ saobraćati: Bulevar despota Stefana – Braće Jugović – Francuska – terminus „Trg Republike“"
       },
       {
         "text": "Ukidaju se stajališta:"
@@ -373,13 +382,13 @@
   },
   {
     "date": "14.06.2019",
-    "title": "Izmene na linijama broj: 2L, 5, 6, 10, 14, 33, 48, 65, 77, 79, 27N, 32N, 401N zbog radova na rekonstrukciji ulica Kraljice Marije i 27. Marta (od 15.06.2019)",
+    "title": "Izmene na linijama broj: 2L, 5, 6, 10, 14, 65, 77, 79, 27N, 32N, 401N zbog radova na rekonstrukciji ulica Kraljice Marije i 27. Marta (od 15.06.2019)",
     "sections": [
       {
         "text": "Zbog radova na rekonstrukciji ulica Kraljice Marije i 27. marta, na delu između Ruzveltove i Takovske ulice, pri čemu će raskrsnice sa ulicama Ruzveltovom i Takovskom biti prohodne za saobraćaj, dok će raskrsnica sa ul. Starine Novaka biti prohodna na 1⁄2 profila (1 traka po smeru) u periodu od 15.06. od 00:00 časova do 15.09.2019. godine, doći će do izmene režima rada linija JGP-a na sledeći način:"
       },
       {
-        "text": "• Tramvaji sa linije 2L će saobraćati na relaciji: Omladinski stadion – Vukov spomenik – Pravni fakultet – Trg Slavija – Savski trg – Gospodarska mehana i nosiće oznaku 2L1\n• Ukidaju se tramvajske linije 5, 10\n• Tramvajske linije 6, 14 biće pojačane\n• Umesto tramvajskih linija, biće uspostavljena autobuska linija 5A (Dorćol /SRC „Milan Gale Muškatirović“/ – Vukov spomenik). Trasa linije 5A u oba smera: Dorćol /SRC „Milan Gale Muškatirović“/ – Tadeuša Košćuška – Cara Dušana – Džordža Vašingtona – Takovska – Bulevar kralja Aleksandra – (Ruzveltova u smeru ka Vukovom spomeniku) – Kraljice Marije – Vukov spomenik. Polazno-dolazno stajalište je „Vukov spomenik“ zajedno sa linijama 32, 66 i EKO 1."
+        "text": "• Tramvaji sa linije 2L će saobraćati na relaciji: Omladinski stadion – Vukov spomenik – Pravni fakultet – Trg Slavija – Savski trg – Gospodarska mehana i nosiće oznaku 2L1\n• Ukidaju se tramvajske linije 5, 10\n• Tramvajske linije 6, 14 biće pojačane\n• Umesto tramvajskih linija, biće uspostavljena autobuska linija 5A (Dorćol /SRC „Milan Gale Muškatirović“/ – Vukov spomenik). Trasa linije 5A u oba smera: Dorćol /SRC „Milan Gale Muškatirović“/ – Tadeuša Košćuška – Cara Dušana – Francuska – Braće Jugović – Dečanska – Trg Nikole Pašića – Bulevar kralja Aleksandra – Vukov spomenik"
       },
       {
         "text": "Vozila sa linija 33, 48, će saobraćati: u smeru ka Trgu Slavija: redovnom trasom; u smeru ka Pančevačkom mostu: Beogradska – Bulevar kralja Aleksandra – Takovska – Jaše Prodanovića – Cvijićeva – Zdravka Čelara i dalje redovnim trasama"
@@ -388,7 +397,7 @@
         "text": "• Autobusi sa linije 65 će saobraćati, u oba smera: Svetog Nikole – Ruzveltova – Bulevar kralja Aleksandra – Trg Nikole Pašića – Dečanska – Terazijski tunel i dalje redovnom trasom\n• Autobusi sa linije 77 će saobraćati, u oba smera: Dimitrija Tucovića – Cvijićeva – Jaše Prodanovića – Takovska – Svetogorska i dalje redovnom trasom\n• Autobusi sa linije 79 će saobraćati, u oba smera: Dimitrija Tucovića – Cvijićeva – Jaše Prodanovića – Takovska – Džordža Vašingtona i dalje redovnom trasom"
       },
       {
-        "text": "Vozila sa linije 79, u oba smera, će saobraćati: Dorćol /SRC „Milan Gale Muškatirović“/ – Tadeuša Košćuška – Cara Dušana – Džordža Vašingtona – Bulevar despota Stefana – Cvijićeva – Dimitrija Tucovića i dalje redovnom trasom"
+        "text": "Vozila sa linije 79 će u zoni radova saobraćati ulicama: Terminus Dorćol /SRC „Milan Gale Muškatirović“, Tadeuša Košćuška, Cara Dušana, Venizelosova, Poenkareova, Cvijićeva, Dimitrija Tucovića i dalje redovnom trasom"
       },
       {
         "text": "Ukidaju se stajališta:"
@@ -409,22 +418,7 @@
         "text": "Noćni saobraćaj:"
       },
       {
-        "text": "• Linija 27N – zadržava postojeće polazno stajalište TRG REPUBLIKE (ispred POŠTE u Bulevaru despota Stefana) i dalje saobraća ulicama Bulevar despota Stefana, Džordža Vašingtona, Takovska, Bulevar kralja Aleksandra, Ruzveltova i dalje redovno, dok u smeru prema gradu saobraća ulicama Ruzveltova, Bulevar kralja Aleksandra, Dečanska, Braće Jugovića, Francuska, TRG REPUBLIKE\n• Linija 32N – zadržava postojeće polazno stajalište TRG REPUBLIKE (polazno za liniju br. 27) i dalje saobraća ulicama Bulevar despota Stefana, Džordža Vašingtona, Takovska, Bulevar kralja Aleksandra, Ruzveltova i dalje redovno, dok u smeru prema gradu saobraća ulicama Ruzveltova, Bulevar kralja Aleksandra, Dečanska, Braće Jugovića, Francuska, TRG REPUBLIKE\n• Linija 401N – saobraćaće u oba smera ulicama Cara Dušana, Džordža Vašingtona, Takovska, Bulevar kralja Aleksandra, Beogradska i dalje redovno"
-      }
-    ]
-  },
-  {
-    "date": "08.04.2019",
-    "title": "Privremeno izmešteno stajalište “27. marta” za linije broj 23, 40",
-    "sections": [
-      {
-        "text": "Zbog radova u Takovskoj ulici privremeno je izmešteno stajalište “27 marta”."
-      },
-      {
-        "text": "• Stajalište „27.marta“ (smer ka Vidikovcu / Banjici), izmešteno je oko 40 metara nakon pozicije pešačkog prelaza koji se nalazi u zoni raskrsnice sa ulicom Dalmatinska (tj. sada je pre raskrsnice Takovska/27. Marta)."
-      },
-      {
-        "text": "Predmetno stajalište će biti izmešteno na alternativnu lokaciju dok se ne završe radovi na izgradnji hotela."
+        "text": "• Vozila sa linije 27N, u oba smera, će saobraćati ulicama: Braće Jugovića – Dečanska – Bulevar kralja Aleksandra – Ruzveltova i dalje redovnom trasom. Polazno stajalište TRG REPUBLIKE se izmešta na lokaciju polaznog stajališta za dnevnu liniju broj 27\n• Vozila sa linije 32N, u oba smera, će saobraćati ulicama: Braće Jugovića, Dečanska – Bulevar kralja Aleksandra – Ruzveltova i dalje redovnom trasom. Zadržava postojeće polazno stajalište TRG REPUBLIKE (polazno za liniju broj 27)\n• Vozila sa linije 401N će saobraćati u oba smera ulicama Cara Dušana – Francuska – TRG REPUBLIKE (polazno za liniju br. 96) – Dečanska -Trg Nikole Pašića – Bulevar kralja Aleksandra – Beogradska i dalje redovnom trasom"
       }
     ]
   },
