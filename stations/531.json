@@ -3,160 +3,160 @@
     {
       "id": "_1",
       "label": "Баново Брдо (Предграђе)",
-      "longitude": 20.413775,
-      "latitude": 44.768269
+      "longitude": 20.413826,
+      "latitude": 44.768453
     },
     {
       "id": "_2",
       "label": "Јулино Брдо",
-      "longitude": 20.413987,
-      "latitude": 44.762579
+      "longitude": 20.414025,
+      "latitude": 44.762507
     },
     {
       "id": "_3",
       "label": "Жарково споменик",
-      "longitude": 20.415092,
-      "latitude": 44.758688
+      "longitude": 20.41512,
+      "latitude": 44.758555
     },
     {
       "id": "_4",
       "label": "Браће Вучковић",
-      "longitude": 20.413569,
-      "latitude": 44.753518
+      "longitude": 20.413622,
+      "latitude": 44.753536
     },
     {
       "id": "_5",
       "label": "Јабланичка",
-      "longitude": 20.411822,
-      "latitude": 44.74805
+      "longitude": 20.411809,
+      "latitude": 44.748051
     },
     {
       "id": "_6",
       "label": "Кнежевац",
-      "longitude": 20.419494,
-      "latitude": 44.733667
+      "longitude": 20.41951,
+      "latitude": 44.733646
     },
     {
       "id": "_7",
       "label": "Насеље Петлово Брдо",
-      "longitude": 20.417646,
-      "latitude": 44.723597
+      "longitude": 20.417752,
+      "latitude": 44.723573
     },
     {
       "id": "_8",
       "label": "Рушањ /Ново Насеље/",
-      "longitude": 20.42857,
-      "latitude": 44.682233
+      "longitude": 20.428594,
+      "latitude": 44.682234
     },
     {
       "id": "_9",
       "label": "Рушањ /Илије Миличевића/",
-      "longitude": 20.431936,
-      "latitude": 44.679617
+      "longitude": 20.431978,
+      "latitude": 44.679601
     },
     {
       "id": "_10",
       "label": "Рушань /Ослобођења/",
-      "longitude": 20.436161,
-      "latitude": 44.682773
+      "longitude": 20.436181,
+      "latitude": 44.682776
     },
     {
       "id": "_11",
       "label": "МЗ Рушањ",
-      "longitude": 20.439178,
-      "latitude": 44.682342
+      "longitude": 20.439264,
+      "latitude": 44.682311
     },
     {
       "id": "_12",
       "label": "Рушань /Луке Ружића/",
-      "longitude": 20.44568,
-      "latitude": 44.681242
+      "longitude": 20.445707,
+      "latitude": 44.681199
     },
     {
       "id": "_13",
       "label": "Рушањ (13. септембар)",
-      "longitude": 20.451364,
-      "latitude": 44.68282
+      "longitude": 20.451397,
+      "latitude": 44.682797
     }
   ],
   "direction_b": [
     {
       "id": "_1",
       "label": "Рушањ (13. септембар)",
-      "longitude": 20.451364,
-      "latitude": 44.68282
+      "longitude": 20.451397,
+      "latitude": 44.682797
     },
     {
       "id": "_2",
       "label": "Рушань /Луке Ружића/",
-      "longitude": 20.445372,
-      "latitude": 44.681263
+      "longitude": 20.445539,
+      "latitude": 44.681253
     },
     {
       "id": "_3",
       "label": "МЗ Рушањ",
-      "longitude": 20.439353,
-      "latitude": 44.68238
+      "longitude": 20.439384,
+      "latitude": 44.682385
     },
     {
       "id": "_4",
       "label": "Рушань /Ослобођења/",
-      "longitude": 20.435708,
-      "latitude": 44.682761
+      "longitude": 20.435709,
+      "latitude": 44.682751
     },
     {
       "id": "_5",
       "label": "Рушањ /Илије Миличевића/",
-      "longitude": 20.431523,
-      "latitude": 44.679516
+      "longitude": 20.431667,
+      "latitude": 44.679561
     },
     {
       "id": "_6",
       "label": "Рушањ /Ново Насеље/",
-      "longitude": 20.428745,
-      "latitude": 44.682123
+      "longitude": 20.428785,
+      "latitude": 44.682124
     },
     {
       "id": "_7",
       "label": "Насеље Петлово Брдо",
-      "longitude": 20.417077,
+      "longitude": 20.417094,
       "latitude": 44.721805
     },
     {
       "id": "_8",
       "label": "Кнежевац",
-      "longitude": 20.419394,
-      "latitude": 44.735159
+      "longitude": 20.419412,
+      "latitude": 44.735146
     },
     {
       "id": "_9",
       "label": "Јабланичка",
-      "longitude": 20.412214,
-      "latitude": 44.749591
+      "longitude": 20.412284,
+      "latitude": 44.749631
     },
     {
       "id": "_10",
       "label": "Браће Вучковић",
-      "longitude": 20.414609,
-      "latitude": 44.754524
+      "longitude": 20.414707,
+      "latitude": 44.75463
     },
     {
       "id": "_11",
       "label": "Жарково споменик",
-      "longitude": 20.415454,
-      "latitude": 44.759478
+      "longitude": 20.415492,
+      "latitude": 44.75952
     },
     {
       "id": "_12",
       "label": "Јулино Брдо",
-      "longitude": 20.413963,
-      "latitude": 44.763575
+      "longitude": 20.41394,
+      "latitude": 44.763668
     },
     {
       "id": "_13",
       "label": "Баново Брдо (Предграђе)",
-      "longitude": 20.413775,
-      "latitude": 44.768269
+      "longitude": 20.413826,
+      "latitude": 44.768453
     }
   ]
 }

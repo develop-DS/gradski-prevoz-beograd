@@ -3,172 +3,172 @@
     {
       "id": "_1",
       "label": "Звездара",
-      "longitude": 20.506912,
-      "latitude": 44.798204
+      "longitude": 20.506933,
+      "latitude": 44.798216
     },
     {
       "id": "_2",
       "label": "Милоша Јанковића",
-      "longitude": 20.503898,
-      "latitude": 44.799286
+      "longitude": 20.503829,
+      "latitude": 44.799319
     },
     {
       "id": "_3",
       "label": "Градска болница",
-      "longitude": 20.499418,
-      "latitude": 44.800008
+      "longitude": 20.49932,
+      "latitude": 44.800042
     },
     {
       "id": "_4",
       "label": "Чегарска",
-      "longitude": 20.496038,
-      "latitude": 44.800718
+      "longitude": 20.495957,
+      "latitude": 44.80075
     },
     {
       "id": "_5",
       "label": "Живојина Жујовића",
-      "longitude": 20.492812,
-      "latitude": 44.80151
+      "longitude": 20.492849,
+      "latitude": 44.801539
     },
     {
       "id": "_6",
       "label": "Марка Орешковића",
-      "longitude": 20.486946,
-      "latitude": 44.804113
+      "longitude": 20.487022,
+      "latitude": 44.804067
     },
     {
       "id": "_7",
       "label": "Подвожњак",
-      "longitude": 20.483904,
-      "latitude": 44.806086
+      "longitude": 20.4839,
+      "latitude": 44.806163
     },
     {
       "id": "_8",
       "label": "Здравка Челара",
-      "longitude": 20.479165,
-      "latitude": 44.811672
+      "longitude": 20.479143,
+      "latitude": 44.811723
     },
     {
       "id": "_9",
       "label": "Јаше Продановића",
-      "longitude": 20.476625,
-      "latitude": 44.815165
+      "longitude": 20.476637,
+      "latitude": 44.815169
     },
     {
       "id": "_10",
       "label": "27. марта",
-      "longitude": 20.471384,
-      "latitude": 44.812965
+      "longitude": 20.471343,
+      "latitude": 44.812951
     },
     {
       "id": "_11",
       "label": "Македонска /Политика/",
-      "longitude": 20.464313,
-      "latitude": 44.815549
+      "longitude": 20.464288,
+      "latitude": 44.815594
     },
     {
       "id": "_12",
       "label": "Зелени венац",
-      "longitude": 20.457047,
-      "latitude": 44.814461
+      "longitude": 20.457023,
+      "latitude": 44.814487
     },
     {
       "id": "_13",
       "label": "Бранков мост",
-      "longitude": 20.452359,
-      "latitude": 44.815207
+      "longitude": 20.452342,
+      "latitude": 44.815215
     },
     {
       "id": "_14",
       "label": "Шест Каплара",
-      "longitude": 20.433538,
-      "latitude": 44.815291
+      "longitude": 20.433531,
+      "latitude": 44.81528
     },
     {
       "id": "_15",
       "label": "Палата Србија",
-      "longitude": 20.429748,
-      "latitude": 44.816931
+      "longitude": 20.429702,
+      "latitude": 44.816954
     },
     {
       "id": "_16",
       "label": "Шпанских Бораца",
-      "longitude": 20.423498,
-      "latitude": 44.81972
+      "longitude": 20.423451,
+      "latitude": 44.819767
     },
     {
       "id": "_17",
       "label": "Блок 30",
-      "longitude": 20.416712,
-      "latitude": 44.822821
+      "longitude": 20.416628,
+      "latitude": 44.822841
     },
     {
       "id": "_18",
       "label": "Улаз у Париске Комуне",
-      "longitude": 20.412069,
-      "latitude": 44.824849
+      "longitude": 20.412174,
+      "latitude": 44.824819
     },
     {
       "id": "_19",
       "label": "Фонтана",
-      "longitude": 20.407603,
-      "latitude": 44.826679
+      "longitude": 20.407634,
+      "latitude": 44.826675
     },
     {
       "id": "_20",
       "label": "Студентска",
-      "longitude": 20.402445,
-      "latitude": 44.826272
+      "longitude": 20.402402,
+      "latitude": 44.826224
     },
     {
       "id": "_21",
       "label": "Студентски Град",
-      "longitude": 20.396888,
-      "latitude": 44.826822
+      "longitude": 20.396761,
+      "latitude": 44.826849
     },
     {
       "id": "_22",
       "label": "Зеленгорска",
-      "longitude": 20.38897,
-      "latitude": 44.827636
+      "longitude": 20.389067,
+      "latitude": 44.827635
     },
     {
       "id": "_23",
       "label": "Расадник",
-      "longitude": 20.389246,
-      "latitude": 44.830436
+      "longitude": 20.389289,
+      "latitude": 44.830434
     },
     {
       "id": "_24",
       "label": "Дом Пензионера",
-      "longitude": 20.390609,
-      "latitude": 44.833447
+      "longitude": 20.390622,
+      "latitude": 44.833457
     },
     {
       "id": "_25",
       "label": "КБЦ Бежанијска Коса",
-      "longitude": 20.382804,
-      "latitude": 44.829243
+      "longitude": 20.382914,
+      "latitude": 44.829219
     },
     {
       "id": "_26",
       "label": "Бежанијска Коса /Болница/",
-      "longitude": 20.37988,
-      "latitude": 44.829919
+      "longitude": 20.380059,
+      "latitude": 44.829872
     }
   ],
   "direction_b": [
     {
       "id": "_1",
       "label": "Бежанијска Коса /Болница/",
-      "longitude": 20.37988,
-      "latitude": 44.829919
+      "longitude": 20.380059,
+      "latitude": 44.829872
     },
     {
       "id": "_2",
       "label": "КБЦ Бежанијска Коса",
-      "longitude": 20.383453,
-      "latitude": 44.828956
+      "longitude": 20.383489,
+      "latitude": 44.828951
     },
     {
       "id": "_3",
@@ -179,8 +179,8 @@
     {
       "id": "_4",
       "label": "СЦ 11. Април",
-      "longitude": 20.393868,
-      "latitude": 44.827034
+      "longitude": 20.393915,
+      "latitude": 44.827041
     },
     {
       "id": "_5",
@@ -191,14 +191,14 @@
     {
       "id": "_6",
       "label": "Студентска",
-      "longitude": 20.403269,
-      "latitude": 44.826964
+      "longitude": 20.403212,
+      "latitude": 44.826838
     },
     {
       "id": "_7",
       "label": "Фонтана",
-      "longitude": 20.409438,
-      "latitude": 44.825654
+      "longitude": 20.40947,
+      "latitude": 44.825671
     },
     {
       "id": "_8",
@@ -209,98 +209,98 @@
     {
       "id": "_9",
       "label": "Блок 30",
-      "longitude": 20.418305,
-      "latitude": 44.821759
+      "longitude": 20.418549,
+      "latitude": 44.821665
     },
     {
       "id": "_10",
       "label": "Шпанских Бораца",
-      "longitude": 20.42308,
-      "latitude": 44.819617
+      "longitude": 20.423156,
+      "latitude": 44.819593
     },
     {
       "id": "_11",
       "label": "Палата Србија",
-      "longitude": 20.428643,
-      "latitude": 44.817131
+      "longitude": 20.428727,
+      "latitude": 44.817077
     },
     {
       "id": "_12",
       "label": "Шест Каплара",
-      "longitude": 20.433229,
-      "latitude": 44.815093
+      "longitude": 20.43321,
+      "latitude": 44.815106
     },
     {
       "id": "_13",
       "label": "Бранков мост",
-      "longitude": 20.452112,
-      "latitude": 44.81492
+      "longitude": 20.452631,
+      "latitude": 44.814962
     },
     {
       "id": "_14",
       "label": "Зелени венац",
-      "longitude": 20.456843,
-      "latitude": 44.814282
+      "longitude": 20.456666,
+      "latitude": 44.814357
     },
     {
       "id": "_15",
       "label": "Македонска /Политика/",
-      "longitude": 20.465161,
-      "latitude": 44.815239
+      "longitude": 20.465155,
+      "latitude": 44.815233
     },
     {
       "id": "_16",
       "label": "27. марта",
-      "longitude": 20.472663,
-      "latitude": 44.81355
+      "longitude": 20.472653,
+      "latitude": 44.813551
     },
     {
       "id": "_17",
       "label": "Јаше Продановића",
-      "longitude": 20.477338,
-      "latitude": 44.814786
+      "longitude": 20.477352,
+      "latitude": 44.814728
     },
     {
       "id": "_18",
       "label": "Здравка Челара",
-      "longitude": 20.479409,
-      "latitude": 44.810909
+      "longitude": 20.479411,
+      "latitude": 44.810926
     },
     {
       "id": "_19",
       "label": "Подвожњак",
       "longitude": 20.483502,
-      "latitude": 44.806269
+      "latitude": 44.806259
     },
     {
       "id": "_20",
       "label": "Марка Орешковића",
-      "longitude": 20.488477,
-      "latitude": 44.803144
+      "longitude": 20.488482,
+      "latitude": 44.803145
     },
     {
       "id": "_21",
       "label": "Шабачка",
-      "longitude": 20.493544,
-      "latitude": 44.801129
+      "longitude": 20.493561,
+      "latitude": 44.801132
     },
     {
       "id": "_22",
       "label": "Градска болница",
-      "longitude": 20.500339,
-      "latitude": 44.799673
+      "longitude": 20.500308,
+      "latitude": 44.79966
     },
     {
       "id": "_23",
       "label": "Милоша Јанковића",
-      "longitude": 20.503121,
-      "latitude": 44.799293
+      "longitude": 20.503166,
+      "latitude": 44.799275
     },
     {
       "id": "_24",
       "label": "Звездара",
-      "longitude": 20.506912,
-      "latitude": 44.798204
+      "longitude": 20.506933,
+      "latitude": 44.798216
     }
   ]
 }

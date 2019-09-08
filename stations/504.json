@@ -3,38 +3,38 @@
     {
       "id": "_1",
       "label": "Миљаковац 1",
-      "longitude": 20.449961,
-      "latitude": 44.748109
+      "longitude": 20.449918,
+      "latitude": 44.748084
     },
     {
       "id": "_2",
       "label": "Станка Пауновића",
-      "longitude": 20.453306,
-      "latitude": 44.748416
+      "longitude": 20.453423,
+      "latitude": 44.748411
     },
     {
       "id": "_3",
       "label": "Варешка",
-      "longitude": 20.455706,
-      "latitude": 44.748869
+      "longitude": 20.455738,
+      "latitude": 44.748897
     },
     {
       "id": "_4",
       "label": "Топлана",
-      "longitude": 20.454754,
-      "latitude": 44.749829
+      "longitude": 20.454757,
+      "latitude": 44.749841
     },
     {
       "id": "_5",
       "label": "Миљаковац /Пијаца/",
-      "longitude": 20.448915,
-      "latitude": 44.750895
+      "longitude": 20.448968,
+      "latitude": 44.750918
     },
     {
       "id": "_6",
       "label": "Железничка Станица Раковица",
-      "longitude": 20.443674,
-      "latitude": 44.746981
+      "longitude": 20.443699,
+      "latitude": 44.746984
     },
     {
       "id": "_7",
@@ -45,14 +45,14 @@
     {
       "id": "_8",
       "label": "Кнежевац",
-      "longitude": 20.431448,
-      "latitude": 44.734687
+      "longitude": 20.431475,
+      "latitude": 44.73467
     },
     {
       "id": "_9",
       "label": "Депонија",
-      "longitude": 20.4348,
-      "latitude": 44.728838
+      "longitude": 20.434859,
+      "latitude": 44.728864
     },
     {
       "id": "_10",
@@ -63,14 +63,14 @@
     {
       "id": "_11",
       "label": "Испод тунела",
-      "longitude": 20.442542,
-      "latitude": 44.724403
+      "longitude": 20.442592,
+      "latitude": 44.724439
     },
     {
       "id": "_12",
       "label": "Споменик",
-      "longitude": 20.446077,
-      "latitude": 44.722684
+      "longitude": 20.446297,
+      "latitude": 44.72263
     },
     {
       "id": "_13",
@@ -81,154 +81,154 @@
     {
       "id": "_14",
       "label": "Ресник /Палих Бораца/",
-      "longitude": 20.44829,
-      "latitude": 44.7173
+      "longitude": 20.448303,
+      "latitude": 44.717271
     },
     {
       "id": "_15",
       "label": "Ресник /Јосипа Теларевића/",
-      "longitude": 20.452037,
-      "latitude": 44.718962
+      "longitude": 20.452091,
+      "latitude": 44.718942
     },
     {
       "id": "_16",
       "label": "Ресник /Брђанска/",
-      "longitude": 20.457125,
-      "latitude": 44.716591
+      "longitude": 20.457189,
+      "latitude": 44.716559
     },
     {
       "id": "_17",
       "label": "Ресник /Авалска/",
-      "longitude": 20.459547,
-      "latitude": 44.714371
+      "longitude": 20.45959,
+      "latitude": 44.714386
     },
     {
       "id": "_18",
       "label": "Ресник /Каменац/",
-      "longitude": 20.456304,
-      "latitude": 44.712519
+      "longitude": 20.456339,
+      "latitude": 44.71253
     },
     {
       "id": "_19",
       "label": "Ресник /Милорада Јанковића Доце/",
-      "longitude": 20.452659,
-      "latitude": 44.710614
+      "longitude": 20.452673,
+      "latitude": 44.710599
     },
     {
       "id": "_20",
       "label": "Ресник /Александра Војиновића/",
-      "longitude": 20.451307,
-      "latitude": 44.706913
+      "longitude": 20.451309,
+      "latitude": 44.706904
     },
     {
       "id": "_21",
       "label": "Железничка Станица Ресник",
-      "longitude": 20.449607,
-      "latitude": 44.704582
+      "longitude": 20.449657,
+      "latitude": 44.704584
     }
   ],
   "direction_b": [
     {
       "id": "_1",
       "label": "Железничка Станица Ресник",
-      "longitude": 20.449607,
-      "latitude": 44.704582
+      "longitude": 20.449657,
+      "latitude": 44.704584
     },
     {
       "id": "_2",
       "label": "Ресник /Александра Војиновића/",
-      "longitude": 20.45105,
-      "latitude": 44.706561
+      "longitude": 20.45109,
+      "latitude": 44.706559
     },
     {
       "id": "_3",
       "label": "Ресник /Милорада Јанковића Доце/",
-      "longitude": 20.452828,
-      "latitude": 44.710589
+      "longitude": 20.452941,
+      "latitude": 44.710584
     },
     {
       "id": "_4",
       "label": "Ресник /Каменац/",
-      "longitude": 20.456664,
-      "latitude": 44.712586
+      "longitude": 20.456806,
+      "latitude": 44.712639
     },
     {
       "id": "_5",
       "label": "Ресник /Авалска/",
-      "longitude": 20.459493,
-      "latitude": 44.714169
+      "longitude": 20.45957,
+      "latitude": 44.714189
     },
     {
       "id": "_6",
       "label": "Ресник /Брђанска/",
-      "longitude": 20.457289,
-      "latitude": 44.716555
+      "longitude": 20.457328,
+      "latitude": 44.716545
     },
     {
       "id": "_7",
       "label": "Ресник /Јосипа Теларевића/",
-      "longitude": 20.451618,
-      "latitude": 44.718709
+      "longitude": 20.451628,
+      "latitude": 44.71871
     },
     {
       "id": "_8",
       "label": "Ресник /Палих Бораца/",
-      "longitude": 20.448494,
-      "latitude": 44.717462
+      "longitude": 20.44851,
+      "latitude": 44.717438
     },
     {
       "id": "_9",
       "label": "Ресник /Излаз/",
-      "longitude": 20.447958,
-      "latitude": 44.719569
+      "longitude": 20.447993,
+      "latitude": 44.719581
     },
     {
       "id": "_10",
       "label": "Споменик",
-      "longitude": 20.445913,
-      "latitude": 44.722859
+      "longitude": 20.445951,
+      "latitude": 44.722854
     },
     {
       "id": "_11",
       "label": "Испод тунела",
-      "longitude": 20.442585,
-      "latitude": 44.724519
+      "longitude": 20.442622,
+      "latitude": 44.724516
     },
     {
       "id": "_12",
       "label": "Кијево",
-      "longitude": 20.438247,
-      "latitude": 44.725349
+      "longitude": 20.438425,
+      "latitude": 44.725452
     },
     {
       "id": "_13",
       "label": "Депонија",
-      "longitude": 20.435134,
-      "latitude": 44.728324
+      "longitude": 20.434916,
+      "latitude": 44.729034
     },
     {
       "id": "_14",
       "label": "Кнежевац",
-      "longitude": 20.431604,
-      "latitude": 44.734658
+      "longitude": 20.431639,
+      "latitude": 44.734622
     },
     {
       "id": "_15",
       "label": "Ослобођења",
-      "longitude": 20.437395,
-      "latitude": 44.738616
+      "longitude": 20.437452,
+      "latitude": 44.738609
     },
     {
       "id": "_16",
       "label": "Железничка Станица Раковица",
-      "longitude": 20.444167,
-      "latitude": 44.747314
+      "longitude": 20.444217,
+      "latitude": 44.747317
     },
     {
       "id": "_17",
       "label": "Миљаковац /Пијаца/",
-      "longitude": 20.449406,
-      "latitude": 44.750796
+      "longitude": 20.449546,
+      "latitude": 44.750791
     },
     {
       "id": "_18",
@@ -239,20 +239,20 @@
     {
       "id": "_19",
       "label": "Станка Пауновића",
-      "longitude": 20.452402,
-      "latitude": 44.74845
+      "longitude": 20.452276,
+      "latitude": 44.748464
     },
     {
       "id": "_20",
       "label": "Миљаковац 1",
-      "longitude": 20.449902,
-      "latitude": 44.748244
+      "longitude": 20.449829,
+      "latitude": 44.748294
     },
     {
       "id": "_21",
       "label": "Миљаковац 1",
-      "longitude": 20.449961,
-      "latitude": 44.748109
+      "longitude": 20.449918,
+      "latitude": 44.748084
     }
   ]
 }

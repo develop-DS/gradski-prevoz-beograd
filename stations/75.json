@@ -3,116 +3,116 @@
     {
       "id": "_1",
       "label": "Зелени венац",
-      "longitude": 20.456704,
-      "latitude": 44.814052
+      "longitude": 20.456957,
+      "latitude": 44.814023
     },
     {
       "id": "_2",
       "label": "Бранков мост",
-      "longitude": 20.452286,
-      "latitude": 44.815386
+      "longitude": 20.452213,
+      "latitude": 44.815368
     },
     {
       "id": "_3",
       "label": "Шест Каплара",
-      "longitude": 20.433538,
-      "latitude": 44.815291
+      "longitude": 20.433531,
+      "latitude": 44.81528
     },
     {
       "id": "_4",
       "label": "Палата Србија",
-      "longitude": 20.429748,
-      "latitude": 44.816931
+      "longitude": 20.429702,
+      "latitude": 44.816954
     },
     {
       "id": "_5",
       "label": "Шпанских Бораца",
-      "longitude": 20.423498,
-      "latitude": 44.81972
+      "longitude": 20.423451,
+      "latitude": 44.819767
     },
     {
       "id": "_6",
       "label": "Блок 30",
-      "longitude": 20.416712,
-      "latitude": 44.822821
+      "longitude": 20.416628,
+      "latitude": 44.822841
     },
     {
       "id": "_7",
       "label": "Улаз у Париске Комуне",
-      "longitude": 20.412069,
-      "latitude": 44.824849
+      "longitude": 20.412174,
+      "latitude": 44.824819
     },
     {
       "id": "_8",
       "label": "Фонтана",
-      "longitude": 20.407603,
-      "latitude": 44.826679
+      "longitude": 20.407634,
+      "latitude": 44.826675
     },
     {
       "id": "_9",
       "label": "Студентска",
-      "longitude": 20.402445,
-      "latitude": 44.826272
+      "longitude": 20.402402,
+      "latitude": 44.826224
     },
     {
       "id": "_10",
       "label": "Студентски Град",
-      "longitude": 20.396888,
-      "latitude": 44.826822
+      "longitude": 20.396761,
+      "latitude": 44.826849
     },
     {
       "id": "_11",
       "label": "СЦ 11. Април",
-      "longitude": 20.392916,
-      "latitude": 44.826457
+      "longitude": 20.392948,
+      "latitude": 44.826456
     },
     {
       "id": "_12",
       "label": "Стојана Аралице",
-      "longitude": 20.388541,
-      "latitude": 44.822813
+      "longitude": 20.388553,
+      "latitude": 44.822795
     },
     {
       "id": "_13",
       "label": "Николе Добровића",
-      "longitude": 20.384668,
-      "latitude": 44.818864
+      "longitude": 20.384681,
+      "latitude": 44.818887
     },
     {
       "id": "_14",
       "label": "Др Хуга Клајна",
-      "longitude": 20.381288,
-      "latitude": 44.819872
+      "longitude": 20.381233,
+      "latitude": 44.819916
     },
     {
       "id": "_15",
       "label": "Пеђе Милосављевића",
-      "longitude": 20.377053,
-      "latitude": 44.818114
+      "longitude": 20.377241,
+      "latitude": 44.818302
     },
     {
       "id": "_16",
       "label": "Љубинке Бобић",
-      "longitude": 20.373633,
-      "latitude": 44.814585
+      "longitude": 20.373596,
+      "latitude": 44.814532
     },
     {
       "id": "_17",
       "label": "Марка Ристића",
-      "longitude": 20.370551,
-      "latitude": 44.812178
+      "longitude": 20.370513,
+      "latitude": 44.812145
     },
     {
       "id": "_18",
       "label": "Милана Вујаклије",
-      "longitude": 20.367598,
-      "latitude": 44.810155
+      "longitude": 20.367604,
+      "latitude": 44.810142
     },
     {
       "id": "_19",
       "label": "Магеланова",
-      "longitude": 20.364685,
-      "latitude": 44.808488
+      "longitude": 20.364791,
+      "latitude": 44.808505
     },
     {
       "id": "_20",
@@ -125,68 +125,68 @@
     {
       "id": "_1",
       "label": "Бежанијска Коса",
-      "longitude": 20.362915,
-      "latitude": 44.807938
+      "longitude": 20.362961,
+      "latitude": 44.807929
     },
     {
       "id": "_2",
       "label": "Магеланова",
-      "longitude": 20.365541,
-      "latitude": 44.808794
+      "longitude": 20.365487,
+      "latitude": 44.808696
     },
     {
       "id": "_3",
       "label": "Милана Вујаклије",
-      "longitude": 20.3684,
-      "latitude": 44.810505
+      "longitude": 20.368345,
+      "latitude": 44.810452
     },
     {
       "id": "_4",
       "label": "Марка Ристића",
-      "longitude": 20.371273,
-      "latitude": 44.812503
+      "longitude": 20.371318,
+      "latitude": 44.8125
     },
     {
       "id": "_5",
       "label": "Љубинке Бобић",
-      "longitude": 20.37458,
-      "latitude": 44.815265
+      "longitude": 20.374658,
+      "latitude": 44.81527
     },
     {
       "id": "_6",
       "label": "Пеђе Милосављевића",
-      "longitude": 20.376906,
-      "latitude": 44.817753
+      "longitude": 20.377003,
+      "latitude": 44.817809
     },
     {
       "id": "_7",
       "label": "Др Хуга Клајна",
-      "longitude": 20.379526,
-      "latitude": 44.820017
+      "longitude": 20.379572,
+      "latitude": 44.820023
     },
     {
       "id": "_8",
       "label": "Марка Челебоновића",
-      "longitude": 20.382664,
-      "latitude": 44.819253
+      "longitude": 20.382865,
+      "latitude": 44.819195
     },
     {
       "id": "_9",
       "label": "Николе Добровића",
-      "longitude": 20.385818,
-      "latitude": 44.818889
+      "longitude": 20.385959,
+      "latitude": 44.81904
     },
     {
       "id": "_10",
       "label": "Стојана Аралице",
-      "longitude": 20.388192,
-      "latitude": 44.822066
+      "longitude": 20.388207,
+      "latitude": 44.822023
     },
     {
       "id": "_11",
       "label": "СЦ 11. Април",
-      "longitude": 20.393868,
-      "latitude": 44.827034
+      "longitude": 20.393915,
+      "latitude": 44.827041
     },
     {
       "id": "_12",
@@ -197,14 +197,14 @@
     {
       "id": "_13",
       "label": "Студентска",
-      "longitude": 20.403269,
-      "latitude": 44.826964
+      "longitude": 20.403212,
+      "latitude": 44.826838
     },
     {
       "id": "_14",
       "label": "Фонтана",
-      "longitude": 20.409438,
-      "latitude": 44.825654
+      "longitude": 20.40947,
+      "latitude": 44.825671
     },
     {
       "id": "_15",
@@ -215,38 +215,38 @@
     {
       "id": "_16",
       "label": "Блок 30",
-      "longitude": 20.418305,
-      "latitude": 44.821759
+      "longitude": 20.418549,
+      "latitude": 44.821665
     },
     {
       "id": "_17",
       "label": "Шпанских Бораца",
-      "longitude": 20.42308,
-      "latitude": 44.819617
+      "longitude": 20.423156,
+      "latitude": 44.819593
     },
     {
       "id": "_18",
       "label": "Палата Србија",
-      "longitude": 20.428643,
-      "latitude": 44.817131
+      "longitude": 20.428727,
+      "latitude": 44.817077
     },
     {
       "id": "_19",
       "label": "Шест Каплара",
-      "longitude": 20.433229,
-      "latitude": 44.815093
+      "longitude": 20.43321,
+      "latitude": 44.815106
     },
     {
       "id": "_20",
       "label": "Бранков мост",
-      "longitude": 20.452112,
-      "latitude": 44.81492
+      "longitude": 20.452631,
+      "latitude": 44.814962
     },
     {
       "id": "_21",
       "label": "Зелени венац",
-      "longitude": 20.456704,
-      "latitude": 44.814052
+      "longitude": 20.456957,
+      "latitude": 44.814023
     }
   ]
 }

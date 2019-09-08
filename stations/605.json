@@ -3,26 +3,26 @@
     {
       "id": "_1",
       "label": "Блок 45",
-      "longitude": 20.375184,
-      "latitude": 44.792985
+      "longitude": 20.375226,
+      "latitude": 44.792987
     },
     {
       "id": "_2",
       "label": "Др Ивана Рибара 1",
-      "longitude": 20.372745,
-      "latitude": 44.796099
+      "longitude": 20.372973,
+      "latitude": 44.795844
     },
     {
       "id": "_3",
       "label": "Др Ивана Рибара",
-      "longitude": 20.370361,
-      "latitude": 44.799241
+      "longitude": 20.37037,
+      "latitude": 44.799263
     },
     {
       "id": "_4",
       "label": "Блок 61",
-      "longitude": 20.368422,
-      "latitude": 44.801549
+      "longitude": 20.36842,
+      "latitude": 44.801578
     },
     {
       "id": "_5",
@@ -33,8 +33,8 @@
     {
       "id": "_6",
       "label": "МЗ Ледине",
-      "longitude": 20.350341,
-      "latitude": 44.798144
+      "longitude": 20.350332,
+      "latitude": 44.798135
     },
     {
       "id": "_7",
@@ -51,8 +51,8 @@
     {
       "id": "_9",
       "label": "МЗ Нови Сурчин",
-      "longitude": 20.32413,
-      "latitude": 44.794594
+      "longitude": 20.324128,
+      "latitude": 44.794587
     },
     {
       "id": "_10",
@@ -69,14 +69,14 @@
     {
       "id": "_12",
       "label": "Сурчин Насеље /Виноградска/",
-      "longitude": 20.299048,
-      "latitude": 44.792809
+      "longitude": 20.299104,
+      "latitude": 44.792805
     },
     {
       "id": "_13",
       "label": "Сурчин Насеље /Улаз/",
-      "longitude": 20.29377,
-      "latitude": 44.791426
+      "longitude": 20.293811,
+      "latitude": 44.791433
     },
     {
       "id": "_14",
@@ -87,32 +87,32 @@
     {
       "id": "_15",
       "label": "Сурчин /Драгомира Момчиловића/",
-      "longitude": 20.279925,
-      "latitude": 44.789343
+      "longitude": 20.278303,
+      "latitude": 44.789165
     },
     {
       "id": "_16",
       "label": "Сурчин /Центар/",
-      "longitude": 20.26962,
+      "longitude": 20.269677,
       "latitude": 44.790965
     },
     {
       "id": "_17",
       "label": "Сурчин /Партизанска/",
-      "longitude": 20.261833,
-      "latitude": 44.789473
+      "longitude": 20.261782,
+      "latitude": 44.789434
     },
     {
       "id": "_18",
       "label": "Сурчин /Млин/",
-      "longitude": 20.256056,
-      "latitude": 44.78719
+      "longitude": 20.256119,
+      "latitude": 44.787255
     },
     {
       "id": "_19",
       "label": "Сурчин /Браће Николић/",
-      "longitude": 20.253907,
-      "latitude": 44.783457
+      "longitude": 20.253929,
+      "latitude": 44.783456
     },
     {
       "id": "_20",
@@ -123,44 +123,44 @@
     {
       "id": "_21",
       "label": "Пут за Јаково",
-      "longitude": 20.240327,
-      "latitude": 44.776118
+      "longitude": 20.240361,
+      "latitude": 44.776113
     },
     {
       "id": "_22",
       "label": "Сурчин /Силоси/",
-      "longitude": 20.242878,
-      "latitude": 44.770339
+      "longitude": 20.243018,
+      "latitude": 44.770211
     },
     {
       "id": "_23",
       "label": "Јаково /Сервиси/",
-      "longitude": 20.252038,
+      "longitude": 20.252065,
       "latitude": 44.7618
     },
     {
       "id": "_24",
       "label": "Јаково /Сремска/",
-      "longitude": 20.254736,
-      "latitude": 44.759783
+      "longitude": 20.254768,
+      "latitude": 44.759785
     },
     {
       "id": "_25",
       "label": "Јаково /Сестара Крстоношић/",
-      "longitude": 20.258204,
-      "latitude": 44.756073
+      "longitude": 20.258255,
+      "latitude": 44.756058
     },
     {
       "id": "_26",
       "label": "МЗ Јаково",
-      "longitude": 20.2598,
-      "latitude": 44.753989
+      "longitude": 20.259745,
+      "latitude": 44.753965
     },
     {
       "id": "_27",
       "label": "Јаково /Приливак/",
-      "longitude": 20.256582,
-      "latitude": 44.751069
+      "longitude": 20.256603,
+      "latitude": 44.751121
     },
     {
       "id": "_28",
@@ -171,74 +171,74 @@
     {
       "id": "_29",
       "label": "Стовариште",
-      "longitude": 20.252314,
-      "latitude": 44.739381
+      "longitude": 20.252274,
+      "latitude": 44.739396
     },
     {
       "id": "_30",
       "label": "Бољевци /Запис/",
-      "longitude": 20.246405,
-      "latitude": 44.733164
+      "longitude": 20.246467,
+      "latitude": 44.733168
     },
     {
       "id": "_31",
       "label": "Бољевци /Шест Топола/",
-      "longitude": 20.241154,
-      "latitude": 44.72757
+      "longitude": 20.241064,
+      "latitude": 44.727448
     },
     {
       "id": "_32",
       "label": "Словачко Гробље",
-      "longitude": 20.236655,
-      "latitude": 44.722855
+      "longitude": 20.236701,
+      "latitude": 44.722849
     },
     {
       "id": "_33",
       "label": "Бољевци /Рибарска/",
-      "longitude": 20.232528,
-      "latitude": 44.721487
+      "longitude": 20.232553,
+      "latitude": 44.721475
     },
     {
       "id": "_34",
       "label": "Бољевци /Реље Опарушића/",
-      "longitude": 20.223389,
-      "latitude": 44.721769
+      "longitude": 20.223451,
+      "latitude": 44.72176
     },
     {
       "id": "_35",
       "label": "Бољевци /Центар/",
-      "longitude": 20.216896,
-      "latitude": 44.722533
+      "longitude": 20.2169,
+      "latitude": 44.722522
     },
     {
       "id": "_36",
       "label": "Бољевци /Излаз/",
-      "longitude": 20.208766,
-      "latitude": 44.724109
+      "longitude": 20.208773,
+      "latitude": 44.724096
     },
     {
       "id": "_37",
       "label": "Друга Нова",
-      "longitude": 20.198364,
-      "latitude": 44.731842
+      "longitude": 20.198399,
+      "latitude": 44.731818
     },
     {
       "id": "_38",
       "label": "Живача Рибњак",
-      "longitude": 20.193839,
-      "latitude": 44.733734
+      "longitude": 20.193877,
+      "latitude": 44.733712
     },
     {
       "id": "_39",
       "label": "Викенд Насеље",
-      "longitude": 20.185077,
-      "latitude": 44.736788
+      "longitude": 20.185141,
+      "latitude": 44.736781
     },
     {
       "id": "_40",
       "label": "Живача /Излаз/",
-      "longitude": 20.169568,
-      "latitude": 44.732456
+      "longitude": 20.169541,
+      "latitude": 44.732408
     },
     {
       "id": "_41",
@@ -255,28 +255,28 @@
     {
       "id": "_43",
       "label": "Прогар /Центар/",
-      "longitude": 20.161028,
+      "longitude": 20.161045,
       "latitude": 44.71493
     },
     {
       "id": "_44",
       "label": "Прогар /12.Августа/",
-      "longitude": 20.155865,
-      "latitude": 44.716432
+      "longitude": 20.155842,
+      "latitude": 44.716436
     },
     {
       "id": "_45",
       "label": "Прогар",
-      "longitude": 20.149607,
-      "latitude": 44.718171
+      "longitude": 20.149584,
+      "latitude": 44.718178
     }
   ],
   "direction_b": [
     {
       "id": "_1",
       "label": "Прогар",
-      "longitude": 20.149607,
-      "latitude": 44.718171
+      "longitude": 20.149584,
+      "latitude": 44.718178
     },
     {
       "id": "_2",
@@ -299,8 +299,8 @@
     {
       "id": "_5",
       "label": "Бојчинска Шума",
-      "longitude": 20.163538,
-      "latitude": 44.725302
+      "longitude": 20.16352,
+      "latitude": 44.725278
     },
     {
       "id": "_6",
@@ -311,56 +311,56 @@
     {
       "id": "_7",
       "label": "Викенд Насеље",
-      "longitude": 20.184331,
-      "latitude": 44.736735
+      "longitude": 20.184429,
+      "latitude": 44.736738
     },
     {
       "id": "_8",
       "label": "Живача Рибњак",
-      "longitude": 20.193923,
-      "latitude": 44.733498
+      "longitude": 20.193933,
+      "latitude": 44.733494
     },
     {
       "id": "_9",
       "label": "Друга Нова",
-      "longitude": 20.198863,
-      "latitude": 44.731507
+      "longitude": 20.198918,
+      "latitude": 44.7315
     },
     {
       "id": "_10",
       "label": "Бољевци /Излаз/",
-      "longitude": 20.208471,
-      "latitude": 44.724079
+      "longitude": 20.208594,
+      "latitude": 44.724043
     },
     {
       "id": "_11",
       "label": "Бољевци /Центар/",
-      "longitude": 20.21619,
-      "latitude": 44.722508
+      "longitude": 20.216048,
+      "latitude": 44.722482
     },
     {
       "id": "_12",
       "label": "Бољевци /Реље Опарушића/",
-      "longitude": 20.222925,
-      "latitude": 44.72174
+      "longitude": 20.223612,
+      "latitude": 44.721655
     },
     {
       "id": "_13",
       "label": "Бољевци /Рибарска/",
-      "longitude": 20.23242,
-      "latitude": 44.721378
+      "longitude": 20.232432,
+      "latitude": 44.721354
     },
     {
       "id": "_14",
       "label": "Словачко Гробље",
-      "longitude": 20.237138,
-      "latitude": 44.723137
+      "longitude": 20.237144,
+      "latitude": 44.723134
     },
     {
       "id": "_15",
       "label": "Бољевци /Шест Топола/",
-      "longitude": 20.241655,
-      "latitude": 44.727898
+      "longitude": 20.241693,
+      "latitude": 44.727954
     },
     {
       "id": "_16",
@@ -371,14 +371,14 @@
     {
       "id": "_17",
       "label": "Стовариште",
-      "longitude": 20.25203,
-      "latitude": 44.738882
+      "longitude": 20.252022,
+      "latitude": 44.738885
     },
     {
       "id": "_18",
       "label": "Јаково Челик",
-      "longitude": 20.253897,
-      "latitude": 44.74559
+      "longitude": 20.253906,
+      "latitude": 44.745641
     },
     {
       "id": "_19",
@@ -389,116 +389,116 @@
     {
       "id": "_20",
       "label": "МЗ Јаково",
-      "longitude": 20.259999,
-      "latitude": 44.754421
+      "longitude": 20.260004,
+      "latitude": 44.754396
     },
     {
       "id": "_21",
       "label": "Јаково /Сестара Крстоношић/",
-      "longitude": 20.257708,
-      "latitude": 44.756785
+      "longitude": 20.257743,
+      "latitude": 44.756773
     },
     {
       "id": "_22",
       "label": "Јаково /Сремска/",
-      "longitude": 20.255214,
-      "latitude": 44.759562
+      "longitude": 20.255249,
+      "latitude": 44.759544
     },
     {
       "id": "_23",
       "label": "Јаково /Сервиси/",
-      "longitude": 20.252416,
-      "latitude": 44.761653
+      "longitude": 20.252303,
+      "latitude": 44.76174
     },
     {
       "id": "_24",
       "label": "Сурчин /Силоси/",
-      "longitude": 20.243291,
-      "latitude": 44.769984
+      "longitude": 20.243244,
+      "latitude": 44.770047
     },
     {
       "id": "_25",
       "label": "Пут за Јаково",
-      "longitude": 20.241052,
-      "latitude": 44.7763
+      "longitude": 20.241081,
+      "latitude": 44.776291
     },
     {
       "id": "_26",
       "label": "Сурчин /Римски Канал/",
-      "longitude": 20.250109,
-      "latitude": 44.781051
+      "longitude": 20.250146,
+      "latitude": 44.781052
     },
     {
       "id": "_27",
       "label": "Пут за СРЦ",
-      "longitude": 20.253202,
-      "latitude": 44.781877
+      "longitude": 20.253183,
+      "latitude": 44.781888
     },
     {
       "id": "_28",
       "label": "Сурчин /Браће Николић/",
-      "longitude": 20.254237,
-      "latitude": 44.783786
+      "longitude": 20.254282,
+      "latitude": 44.783804
     },
     {
       "id": "_29",
       "label": "Сурчин /Млин/",
-      "longitude": 20.256281,
-      "latitude": 44.787284
+      "longitude": 20.256218,
+      "latitude": 44.787163
     },
     {
       "id": "_30",
       "label": "Сурчин /Партизанска/",
-      "longitude": 20.262136,
-      "latitude": 44.789416
+      "longitude": 20.262169,
+      "latitude": 44.789417
     },
     {
       "id": "_31",
       "label": "Сурчин /Центар/",
-      "longitude": 20.270172,
-      "latitude": 44.790685
+      "longitude": 20.270199,
+      "latitude": 44.790644
     },
     {
       "id": "_32",
       "label": "Сурчин /Драгомира Момчиловића/",
-      "longitude": 20.279655,
-      "latitude": 44.789186
+      "longitude": 20.279643,
+      "latitude": 44.789217
     },
     {
       "id": "_33",
       "label": "Сурчин /Ритска/",
-      "longitude": 20.287473,
-      "latitude": 44.789598
+      "longitude": 20.287562,
+      "latitude": 44.789617
     },
     {
       "id": "_34",
       "label": "Сурчин Насеље /Улаз/",
-      "longitude": 20.294344,
-      "latitude": 44.791466
+      "longitude": 20.294181,
+      "latitude": 44.791416
     },
     {
       "id": "_35",
       "label": "Сурчин Насеље /Виноградска/",
-      "longitude": 20.299057,
-      "latitude": 44.792724
+      "longitude": 20.299565,
+      "latitude": 44.792788
     },
     {
       "id": "_36",
       "label": "Сурчин /Силоси/",
-      "longitude": 20.305358,
-      "latitude": 44.793051
+      "longitude": 20.305846,
+      "latitude": 44.793177
     },
     {
       "id": "_37",
       "label": "Сурчин /Канал Галовица/",
-      "longitude": 20.316519,
-      "latitude": 44.794598
+      "longitude": 20.316517,
+      "latitude": 44.794617
     },
     {
       "id": "_38",
       "label": "МЗ Нови Сурчин",
-      "longitude": 20.323299,
-      "latitude": 44.794529
+      "longitude": 20.323302,
+      "latitude": 44.79452
     },
     {
       "id": "_39",
@@ -515,8 +515,8 @@
     {
       "id": "_41",
       "label": "МЗ Ледине",
-      "longitude": 20.350561,
-      "latitude": 44.798112
+      "longitude": 20.350574,
+      "latitude": 44.7981
     },
     {
       "id": "_42",
@@ -527,32 +527,32 @@
     {
       "id": "_43",
       "label": "Блок 61",
-      "longitude": 20.366458,
-      "latitude": 44.803165
+      "longitude": 20.366515,
+      "latitude": 44.803176
     },
     {
       "id": "_44",
       "label": "Насеље Др Ивана Рибара",
-      "longitude": 20.369468,
-      "latitude": 44.79981
+      "longitude": 20.369503,
+      "latitude": 44.799806
     },
     {
       "id": "_45",
       "label": "Др Ивана Рибара 1",
-      "longitude": 20.371898,
-      "latitude": 44.796777
+      "longitude": 20.371992,
+      "latitude": 44.796736
     },
     {
       "id": "_46",
       "label": "Блок 45",
-      "longitude": 20.374795,
-      "latitude": 44.793115
+      "longitude": 20.374888,
+      "latitude": 44.793072
     },
     {
       "id": "_47",
       "label": "Блок 45",
-      "longitude": 20.375184,
-      "latitude": 44.792985
+      "longitude": 20.375226,
+      "latitude": 44.792987
     }
   ]
 }

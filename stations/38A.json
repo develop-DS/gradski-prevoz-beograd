@@ -3,136 +3,136 @@
     {
       "id": "_1",
       "label": "Погон Космај",
-      "longitude": 20.517254,
+      "longitude": 20.51729,
       "latitude": 44.772226
     },
     {
       "id": "_2",
       "label": "СП Ласта",
-      "longitude": 20.518314,
-      "latitude": 44.771805
+      "longitude": 20.518389,
+      "latitude": 44.771802
     },
     {
       "id": "_3",
       "label": "Владимира Томановића",
-      "longitude": 20.50209,
-      "latitude": 44.781799
+      "longitude": 20.5021,
+      "latitude": 44.781843
     },
     {
       "id": "_4",
       "label": "Шумице",
-      "longitude": 20.500032,
-      "latitude": 44.783659
+      "longitude": 20.500191,
+      "latitude": 44.783646
     },
     {
       "id": "_5",
       "label": "Хотел Србија",
-      "longitude": 20.493842,
-      "latitude": 44.78416
+      "longitude": 20.493834,
+      "latitude": 44.784184
     },
     {
       "id": "_6",
       "label": "Грчића Миленка",
-      "longitude": 20.486495,
-      "latitude": 44.784386
+      "longitude": 20.486505,
+      "latitude": 44.784398
     },
     {
       "id": "_7",
       "label": "Душановац /Пошта/",
-      "longitude": 20.48134,
-      "latitude": 44.784809
+      "longitude": 20.481333,
+      "latitude": 44.784836
     },
     {
       "id": "_8",
       "label": "Дом Здравља Вождовац",
-      "longitude": 20.473918,
-      "latitude": 44.78763
+      "longitude": 20.473891,
+      "latitude": 44.787634
     },
     {
       "id": "_9",
       "label": "Франше Д'Епереа",
-      "longitude": 20.468232,
-      "latitude": 44.790862
+      "longitude": 20.468254,
+      "latitude": 44.790876
     },
     {
       "id": "_10",
       "label": "Делиградска",
-      "longitude": 20.457594,
-      "latitude": 44.795771
+      "longitude": 20.457582,
+      "latitude": 44.795793
     },
     {
       "id": "_11",
       "label": "Мостар",
-      "longitude": 20.449237,
-      "latitude": 44.798754
+      "longitude": 20.44927,
+      "latitude": 44.798762
     },
     {
       "id": "_12",
       "label": "Железничка станица Београд Центар",
-      "longitude": 20.453448,
-      "latitude": 44.792888
+      "longitude": 20.453604,
+      "latitude": 44.792783
     },
     {
       "id": "_13",
       "label": "Гучевска",
-      "longitude": 20.458013,
-      "latitude": 44.792537
+      "longitude": 20.45798,
+      "latitude": 44.792471
     },
     {
       "id": "_14",
       "label": "Кнеза Алекстандра Карађорђевића булевар",
-      "longitude": 20.45609,
-      "latitude": 44.790063
+      "longitude": 20.456129,
+      "latitude": 44.790091
     },
     {
       "id": "_15",
       "label": "Стадион Партизан",
-      "longitude": 20.457399,
-      "latitude": 44.786338
+      "longitude": 20.457395,
+      "latitude": 44.786356
     },
     {
       "id": "_16",
       "label": "Педагошка академија",
-      "longitude": 20.457924,
-      "latitude": 44.781816
+      "longitude": 20.457929,
+      "latitude": 44.781761
     },
     {
       "id": "_17",
       "label": "4 Београдска гимназија",
       "longitude": 20.454478,
-      "latitude": 44.779516
+      "latitude": 44.779529
     },
     {
       "id": "_18",
       "label": "Теодора Драјзера 2",
-      "longitude": 20.450422,
-      "latitude": 44.780413
+      "longitude": 20.450363,
+      "latitude": 44.780431
     },
     {
       "id": "_19",
       "label": "Теодора Драјзера",
-      "longitude": 20.447088,
-      "latitude": 44.780706
+      "longitude": 20.4471,
+      "latitude": 44.780734
     },
     {
       "id": "_20",
       "label": "Дом Гарде",
-      "longitude": 20.439683,
-      "latitude": 44.776215
+      "longitude": 20.43967,
+      "latitude": 44.776238
     },
     {
       "id": "_21",
       "label": "Железничка Станица Топчидер",
-      "longitude": 20.437397,
-      "latitude": 44.776955
+      "longitude": 20.437485,
+      "latitude": 44.776808
     }
   ],
   "direction_b": [
     {
       "id": "_1",
       "label": "Железничка Станица Топчидер",
-      "longitude": 20.437397,
-      "latitude": 44.776955
+      "longitude": 20.437485,
+      "latitude": 44.776808
     },
     {
       "id": "_2",
@@ -143,8 +143,8 @@
     {
       "id": "_3",
       "label": "Теодора Драјзера",
-      "longitude": 20.447351,
-      "latitude": 44.78059
+      "longitude": 20.447381,
+      "latitude": 44.780598
     },
     {
       "id": "_4",
@@ -155,79 +155,79 @@
     {
       "id": "_5",
       "label": "4 Београдска гимназија",
-      "longitude": 20.455328,
-      "latitude": 44.779114
+      "longitude": 20.455329,
+      "latitude": 44.779124
     },
     {
       "id": "_6",
       "label": "Педагошка академија",
-      "longitude": 20.457978,
-      "latitude": 44.782669
+      "longitude": 20.458016,
+      "latitude": 44.782698
     },
     {
       "id": "_7",
       "label": "Стадион Партизан",
-      "longitude": 20.457656,
-      "latitude": 44.785889
+      "longitude": 20.45764,
+      "latitude": 44.78595
     },
     {
       "id": "_8",
       "label": "Кнеза Алекстандра Карађорђевића булевар",
-      "longitude": 20.455997,
-      "latitude": 44.789861
+      "longitude": 20.455919,
+      "latitude": 44.7898
     },
     {
       "id": "_9",
       "label": "Гучевска",
-      "longitude": 20.458013,
-      "latitude": 44.792537
+      "longitude": 20.45798,
+      "latitude": 44.792471
     },
     {
       "id": "_10",
       "label": "Железничка станица Београд Центар",
-      "longitude": 20.4526,
-      "latitude": 44.793413
+      "longitude": 20.452828,
+      "latitude": 44.793324
     },
     {
       "id": "_11",
       "label": "Ортопедски завод",
-      "longitude": 20.448735,
-      "latitude": 44.795048
+      "longitude": 20.44875,
+      "latitude": 44.795071
     },
     {
       "id": "_12",
       "label": "Мостар",
-      "longitude": 20.448743,
-      "latitude": 44.79823
+      "longitude": 20.448834,
+      "latitude": 44.798229
     },
     {
       "id": "_13",
       "label": "Делиградска",
-      "longitude": 20.457356,
-      "latitude": 44.795314
+      "longitude": 20.457354,
+      "latitude": 44.795328
     },
     {
       "id": "_14",
       "label": "Франше Д'Епереа",
-      "longitude": 20.466416,
-      "latitude": 44.791513
+      "longitude": 20.466418,
+      "latitude": 44.791518
     },
     {
       "id": "_15",
       "label": "Топлице Милана",
-      "longitude": 20.498208,
-      "latitude": 44.78075
+      "longitude": 20.498253,
+      "latitude": 44.780739
     },
     {
       "id": "_16",
       "label": "Погон Космај",
-      "longitude": 20.517362,
-      "latitude": 44.772254
+      "longitude": 20.517407,
+      "latitude": 44.772262
     },
     {
       "id": "_17",
       "label": "Погон Космај",
-      "longitude": 20.517254,
+      "longitude": 20.51729,
       "latitude": 44.772226
     }
   ]

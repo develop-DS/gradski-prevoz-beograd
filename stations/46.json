@@ -3,62 +3,62 @@
     {
       "id": "_1",
       "label": "Савски трг",
-      "longitude": 20.455596,
-      "latitude": 44.807795
+      "longitude": 20.455627,
+      "latitude": 44.80782
     },
     {
       "id": "_2",
       "label": "Палата Правде",
-      "longitude": 20.452917,
-      "latitude": 44.804446
+      "longitude": 20.452901,
+      "latitude": 44.804428
     },
     {
       "id": "_3",
       "label": "Мостар",
-      "longitude": 20.448743,
-      "latitude": 44.79823
+      "longitude": 20.448834,
+      "latitude": 44.798229
     },
     {
       "id": "_4",
       "label": "Делиградска",
-      "longitude": 20.457356,
-      "latitude": 44.795314
+      "longitude": 20.457354,
+      "latitude": 44.795328
     },
     {
       "id": "_5",
       "label": "Франше Д'Епереа",
-      "longitude": 20.466416,
-      "latitude": 44.791513
+      "longitude": 20.466418,
+      "latitude": 44.791518
     },
     {
       "id": "_6",
       "label": "Михајла Гавриловића",
-      "longitude": 20.471443,
-      "latitude": 44.792105
+      "longitude": 20.471463,
+      "latitude": 44.792119
     },
     {
       "id": "_7",
       "label": "Максима Горког",
-      "longitude": 20.479063,
-      "latitude": 44.79344
+      "longitude": 20.478962,
+      "latitude": 44.79343
     },
     {
       "id": "_8",
       "label": "Ђердапска",
-      "longitude": 20.48487,
-      "latitude": 44.793175
+      "longitude": 20.48494,
+      "latitude": 44.79316
     },
     {
       "id": "_9",
       "label": "Грчића Миленка",
-      "longitude": 20.489145,
-      "latitude": 44.791623
+      "longitude": 20.489165,
+      "latitude": 44.791622
     },
     {
       "id": "_10",
       "label": "Бачванска",
-      "longitude": 20.493625,
-      "latitude": 44.79088
+      "longitude": 20.49365,
+      "latitude": 44.790881
     },
     {
       "id": "_11",
@@ -69,44 +69,44 @@
     {
       "id": "_12",
       "label": "Пијаца Звездара",
-      "longitude": 20.504874,
-      "latitude": 44.793051
+      "longitude": 20.504835,
+      "latitude": 44.793067
     },
     {
       "id": "_13",
       "label": "Др Велизара Косановића",
-      "longitude": 20.508996,
+      "longitude": 20.509005,
       "latitude": 44.79249
     },
     {
       "id": "_14",
       "label": "Мите Ружића",
-      "longitude": 20.514307,
-      "latitude": 44.791292
+      "longitude": 20.514354,
+      "latitude": 44.791308
     },
     {
       "id": "_15",
       "label": "Милана Ракића",
-      "longitude": 20.517503,
-      "latitude": 44.792158
+      "longitude": 20.517509,
+      "latitude": 44.792148
     },
     {
       "id": "_16",
       "label": "Душка Радовића",
-      "longitude": 20.520699,
-      "latitude": 44.791692
+      "longitude": 20.520739,
+      "latitude": 44.791684
     },
     {
       "id": "_17",
       "label": "Витезова Карађорђеве Звезде",
-      "longitude": 20.524457,
-      "latitude": 44.792655
+      "longitude": 20.524461,
+      "latitude": 44.792647
     },
     {
       "id": "_18",
       "label": "Селиште",
-      "longitude": 20.527516,
-      "latitude": 44.790264
+      "longitude": 20.527502,
+      "latitude": 44.790237
     },
     {
       "id": "_19",
@@ -117,8 +117,8 @@
     {
       "id": "_20",
       "label": "Миријевски Венац",
-      "longitude": 20.533601,
-      "latitude": 44.789429
+      "longitude": 20.533603,
+      "latitude": 44.789411
     },
     {
       "id": "_21",
@@ -129,40 +129,40 @@
     {
       "id": "_22",
       "label": "Миријево",
-      "longitude": 20.531661,
-      "latitude": 44.793657
+      "longitude": 20.53168,
+      "latitude": 44.793652
     }
   ],
   "direction_b": [
     {
       "id": "_1",
       "label": "Миријево",
-      "longitude": 20.531119,
-      "latitude": 44.793594
+      "longitude": 20.531139,
+      "latitude": 44.79358
     },
     {
       "id": "_2",
       "label": "Миријево 2",
-      "longitude": 20.532857,
-      "latitude": 44.79135
+      "longitude": 20.532871,
+      "latitude": 44.791346
     },
     {
       "id": "_3",
       "label": "Миријевски Венац",
-      "longitude": 20.533356,
-      "latitude": 44.789398
+      "longitude": 20.533378,
+      "latitude": 44.789421
     },
     {
       "id": "_4",
       "label": "Стојчино Брдо",
-      "longitude": 20.530175,
-      "latitude": 44.7894
+      "longitude": 20.530141,
+      "latitude": 44.789407
     },
     {
       "id": "_5",
       "label": "Селиште",
-      "longitude": 20.527637,
-      "latitude": 44.790556
+      "longitude": 20.527705,
+      "latitude": 44.790595
     },
     {
       "id": "_6",
@@ -173,110 +173,110 @@
     {
       "id": "_7",
       "label": "Душка Радовића",
-      "longitude": 20.52108,
-      "latitude": 44.791671
+      "longitude": 20.521125,
+      "latitude": 44.791666
     },
     {
       "id": "_8",
       "label": "Мите Ружића",
-      "longitude": 20.513479,
-      "latitude": 44.791039
+      "longitude": 20.513503,
+      "latitude": 44.791031
     },
     {
       "id": "_9",
       "label": "Др Велизара Косановића",
-      "longitude": 20.510855,
-      "latitude": 44.791947
+      "longitude": 20.510904,
+      "latitude": 44.791944
     },
     {
       "id": "_10",
       "label": "Пијаца Звездара",
-      "longitude": 20.504825,
-      "latitude": 44.793228
+      "longitude": 20.504859,
+      "latitude": 44.793244
     },
     {
       "id": "_11",
       "label": "Школа Војислав Илић",
-      "longitude": 20.496881,
-      "latitude": 44.791372
+      "longitude": 20.496914,
+      "latitude": 44.791356
     },
     {
       "id": "_12",
       "label": "Бачванска",
-      "longitude": 20.494381,
-      "latitude": 44.791025
+      "longitude": 20.494414,
+      "latitude": 44.791043
     },
     {
       "id": "_13",
       "label": "Грчића Миленка",
-      "longitude": 20.490941,
-      "latitude": 44.791443
+      "longitude": 20.490892,
+      "latitude": 44.791479
     },
     {
       "id": "_14",
       "label": "Ђердапска",
-      "longitude": 20.486804,
-      "latitude": 44.792901
+      "longitude": 20.486781,
+      "latitude": 44.792915
     },
     {
       "id": "_15",
       "label": "МПИ",
-      "longitude": 20.481209,
-      "latitude": 44.793643
+      "longitude": 20.48125,
+      "latitude": 44.793649
     },
     {
       "id": "_16",
       "label": "Максима Горког",
-      "longitude": 20.476673,
-      "latitude": 44.793299
+      "longitude": 20.47671,
+      "latitude": 44.793313
     },
     {
       "id": "_17",
       "label": "Михајла Гавриловића",
-      "longitude": 20.472156,
-      "latitude": 44.792511
+      "longitude": 20.472215,
+      "latitude": 44.792534
     },
     {
       "id": "_18",
       "label": "Франше Д'Епереа",
-      "longitude": 20.468232,
-      "latitude": 44.790862
+      "longitude": 20.468254,
+      "latitude": 44.790876
     },
     {
       "id": "_19",
       "label": "Делиградска",
-      "longitude": 20.457594,
-      "latitude": 44.795771
+      "longitude": 20.457582,
+      "latitude": 44.795793
     },
     {
       "id": "_20",
       "label": "Мостар",
-      "longitude": 20.449237,
-      "latitude": 44.798754
+      "longitude": 20.44927,
+      "latitude": 44.798762
     },
     {
       "id": "_21",
       "label": "Дурмиторска",
-      "longitude": 20.451415,
-      "latitude": 44.802039
+      "longitude": 20.451504,
+      "latitude": 44.80211
     },
     {
       "id": "_22",
       "label": "Палата Правде",
-      "longitude": 20.453787,
-      "latitude": 44.804951
+      "longitude": 20.453797,
+      "latitude": 44.804909
     },
     {
       "id": "_23",
       "label": "Савски трг",
-      "longitude": 20.456752,
-      "latitude": 44.808511
+      "longitude": 20.456784,
+      "latitude": 44.808538
     },
     {
       "id": "_24",
       "label": "Савски трг",
-      "longitude": 20.455596,
-      "latitude": 44.807795
+      "longitude": 20.455627,
+      "latitude": 44.80782
     }
   ]
 }

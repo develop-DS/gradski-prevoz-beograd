@@ -9,50 +9,50 @@
     {
       "id": "_2",
       "label": "Вазнесењска Црква",
-      "longitude": 20.461956,
-      "latitude": 44.808041
+      "longitude": 20.462042,
+      "latitude": 44.80796
     },
     {
       "id": "_3",
       "label": "Милоша Поцерца",
-      "longitude": 20.45602,
-      "latitude": 44.802401
+      "longitude": 20.455948,
+      "latitude": 44.802316
     },
     {
       "id": "_4",
       "label": "Мостар",
-      "longitude": 20.449237,
-      "latitude": 44.798754
+      "longitude": 20.44927,
+      "latitude": 44.798762
     },
     {
       "id": "_5",
       "label": "Сајам",
-      "longitude": 20.44171,
-      "latitude": 44.796529
+      "longitude": 20.441977,
+      "latitude": 44.796588
     },
     {
       "id": "_6",
       "label": "Чукарица",
-      "longitude": 20.414529,
-      "latitude": 44.786454
+      "longitude": 20.414505,
+      "latitude": 44.78645
     },
     {
       "id": "_7",
       "label": "Светолика Лазаревића Лазе",
-      "longitude": 20.412434,
-      "latitude": 44.783756
+      "longitude": 20.412414,
+      "latitude": 44.783754
     },
     {
       "id": "_8",
       "label": "Обалских Радника",
-      "longitude": 20.4094,
-      "latitude": 44.780672
+      "longitude": 20.409339,
+      "latitude": 44.780605
     },
     {
       "id": "_9",
       "label": "МЗ Чукаричка Падина",
-      "longitude": 20.407869,
-      "latitude": 44.776714
+      "longitude": 20.407847,
+      "latitude": 44.776686
     },
     {
       "id": "_10",
@@ -63,68 +63,68 @@
     {
       "id": "_11",
       "label": "Водоводска",
-      "longitude": 20.412737,
-      "latitude": 44.765494
+      "longitude": 20.412771,
+      "latitude": 44.765467
     },
     {
       "id": "_12",
       "label": "Јулино Брдо",
-      "longitude": 20.413987,
-      "latitude": 44.762579
+      "longitude": 20.414025,
+      "latitude": 44.762507
     },
     {
       "id": "_13",
       "label": "Жарково споменик",
-      "longitude": 20.415092,
-      "latitude": 44.758688
+      "longitude": 20.41512,
+      "latitude": 44.758555
     },
     {
       "id": "_14",
       "label": "Браће Вучковић",
-      "longitude": 20.413569,
-      "latitude": 44.753518
+      "longitude": 20.413622,
+      "latitude": 44.753536
     },
     {
       "id": "_15",
       "label": "Јабланичка",
-      "longitude": 20.411822,
-      "latitude": 44.74805
+      "longitude": 20.411809,
+      "latitude": 44.748051
     },
     {
       "id": "_16",
       "label": "Кнежевац",
-      "longitude": 20.419494,
-      "latitude": 44.733667
+      "longitude": 20.41951,
+      "latitude": 44.733646
     },
     {
       "id": "_17",
       "label": "Лабудово Брдо",
-      "longitude": 20.422079,
-      "latitude": 44.730445
+      "longitude": 20.422152,
+      "latitude": 44.730447
     },
     {
       "id": "_18",
       "label": "Сердар Јанка Вукотића",
-      "longitude": 20.425928,
-      "latitude": 44.727276
+      "longitude": 20.425932,
+      "latitude": 44.727286
     },
     {
       "id": "_19",
       "label": "11 Краишке Дивизије",
-      "longitude": 20.425966,
-      "latitude": 44.726213
+      "longitude": 20.425989,
+      "latitude": 44.726205
     },
     {
       "id": "_20",
       "label": "Генерала Згоњанина",
-      "longitude": 20.422388,
-      "latitude": 44.724711
+      "longitude": 20.422419,
+      "latitude": 44.724738
     },
     {
       "id": "_21",
       "label": "Милорада Драшковића",
-      "longitude": 20.42117,
-      "latitude": 44.721628
+      "longitude": 20.421157,
+      "latitude": 44.721626
     },
     {
       "id": "_22",
@@ -135,160 +135,160 @@
     {
       "id": "_23",
       "label": "Петлово Брдо",
-      "longitude": 20.428404,
-      "latitude": 44.718296
+      "longitude": 20.428494,
+      "latitude": 44.718281
     }
   ],
   "direction_b": [
     {
       "id": "_1",
       "label": "Петлово Брдо",
-      "longitude": 20.428659,
-      "latitude": 44.718479
+      "longitude": 20.428657,
+      "latitude": 44.718516
     },
     {
       "id": "_2",
       "label": "Расињска",
-      "longitude": 20.425097,
-      "latitude": 44.720277
+      "longitude": 20.425177,
+      "latitude": 44.720275
     },
     {
       "id": "_3",
       "label": "Милорада Драшковића",
-      "longitude": 20.421224,
-      "latitude": 44.722339
+      "longitude": 20.421251,
+      "latitude": 44.722325
     },
     {
       "id": "_4",
       "label": "Генерала Згоњанина",
-      "longitude": 20.423069,
-      "latitude": 44.72499
+      "longitude": 20.423219,
+      "latitude": 44.725073
     },
     {
       "id": "_5",
       "label": "11 Краишке Дивизије",
-      "longitude": 20.426194,
-      "latitude": 44.726104
+      "longitude": 20.426235,
+      "latitude": 44.7261
     },
     {
       "id": "_6",
       "label": "Сердар Јанка Вукотића",
-      "longitude": 20.425799,
-      "latitude": 44.72792
+      "longitude": 20.425843,
+      "latitude": 44.727943
     },
     {
       "id": "_7",
       "label": "Лабудово Брдо",
-      "longitude": 20.421637,
-      "latitude": 44.7306
+      "longitude": 20.421764,
+      "latitude": 44.730626
     },
     {
       "id": "_8",
       "label": "Кнежевац",
-      "longitude": 20.419394,
-      "latitude": 44.735159
+      "longitude": 20.419412,
+      "latitude": 44.735146
     },
     {
       "id": "_9",
       "label": "Јабланичка",
-      "longitude": 20.412214,
-      "latitude": 44.749591
+      "longitude": 20.412284,
+      "latitude": 44.749631
     },
     {
       "id": "_10",
       "label": "Браће Вучковић",
-      "longitude": 20.414609,
-      "latitude": 44.754524
+      "longitude": 20.414707,
+      "latitude": 44.75463
     },
     {
       "id": "_11",
       "label": "Жарково споменик",
-      "longitude": 20.415454,
-      "latitude": 44.759478
+      "longitude": 20.415492,
+      "latitude": 44.75952
     },
     {
       "id": "_12",
       "label": "Јулино Брдо",
-      "longitude": 20.413963,
-      "latitude": 44.763575
+      "longitude": 20.41394,
+      "latitude": 44.763668
     },
     {
       "id": "_13",
       "label": "Водоводска",
-      "longitude": 20.412992,
-      "latitude": 44.765626
+      "longitude": 20.413028,
+      "latitude": 44.765574
     },
     {
       "id": "_14",
       "label": "Ваљевска",
-      "longitude": 20.410202,
-      "latitude": 44.771142
+      "longitude": 20.410215,
+      "latitude": 44.771178
     },
     {
       "id": "_15",
       "label": "МЗ Чукаричка Падина",
-      "longitude": 20.408218,
-      "latitude": 44.777233
+      "longitude": 20.408281,
+      "latitude": 44.777311
     },
     {
       "id": "_16",
       "label": "Обалских Радника",
-      "longitude": 20.409831,
-      "latitude": 44.78125
+      "longitude": 20.409829,
+      "latitude": 44.781271
     },
     {
       "id": "_17",
       "label": "Светолика Лазаревића Лазе",
-      "longitude": 20.412726,
-      "latitude": 44.784243
+      "longitude": 20.412712,
+      "latitude": 44.784295
     },
     {
       "id": "_18",
       "label": "Чукарица",
-      "longitude": 20.41495,
-      "latitude": 44.786366
+      "longitude": 20.414985,
+      "latitude": 44.786371
     },
     {
       "id": "_19",
       "label": "Господарска Механа",
-      "longitude": 20.433393,
-      "latitude": 44.794424
+      "longitude": 20.433518,
+      "latitude": 44.794439
     },
     {
       "id": "_20",
       "label": "Руска",
-      "longitude": 20.437784,
-      "latitude": 44.795189
+      "longitude": 20.438101,
+      "latitude": 44.79525
     },
     {
       "id": "_21",
       "label": "Сајам",
-      "longitude": 20.441944,
-      "latitude": 44.796327
+      "longitude": 20.441902,
+      "latitude": 44.796305
     },
     {
       "id": "_22",
       "label": "Дринска",
-      "longitude": 20.451763,
-      "latitude": 44.800826
+      "longitude": 20.451825,
+      "latitude": 44.800848
     },
     {
       "id": "_23",
       "label": "Милоша Поцерца",
-      "longitude": 20.454923,
-      "latitude": 44.803468
+      "longitude": 20.454948,
+      "latitude": 44.803463
     },
     {
       "id": "_24",
       "label": "Немањина",
-      "longitude": 20.458329,
-      "latitude": 44.807818
+      "longitude": 20.458357,
+      "latitude": 44.807879
     },
     {
       "id": "_25",
       "label": "Каменичка",
-      "longitude": 20.456272,
-      "latitude": 44.811736
+      "longitude": 20.456267,
+      "latitude": 44.811776
     },
     {
       "id": "_26",

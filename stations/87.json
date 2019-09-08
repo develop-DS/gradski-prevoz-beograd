@@ -3,22 +3,22 @@
     {
       "id": "_1",
       "label": "Чукаричка Падина",
-      "longitude": 20.404825,
-      "latitude": 44.778126
+      "longitude": 20.404778,
+      "latitude": 44.778032
     }
   ],
   "direction_b": [
     {
       "id": "_1",
       "label": "Стевана Ђурђевића",
-      "longitude": 20.407534,
-      "latitude": 44.776439
+      "longitude": 20.407555,
+      "latitude": 44.776404
     },
     {
       "id": "_2",
       "label": "МЗ Чукаричка Падина",
-      "longitude": 20.407869,
-      "latitude": 44.776714
+      "longitude": 20.407847,
+      "latitude": 44.776686
     },
     {
       "id": "_3",
@@ -29,68 +29,68 @@
     {
       "id": "_4",
       "label": "Водоводска",
-      "longitude": 20.412737,
-      "latitude": 44.765494
+      "longitude": 20.412771,
+      "latitude": 44.765467
     },
     {
       "id": "_5",
       "label": "Требевићка",
-      "longitude": 20.414277,
-      "latitude": 44.771319
+      "longitude": 20.414341,
+      "latitude": 44.771477
     },
     {
       "id": "_6",
       "label": "Кијевска",
-      "longitude": 20.41377,
-      "latitude": 44.775855
+      "longitude": 20.413824,
+      "latitude": 44.775796
     },
     {
       "id": "_7",
       "label": "Дом здравља",
-      "longitude": 20.415811,
-      "latitude": 44.778985
+      "longitude": 20.415907,
+      "latitude": 44.77903
     },
     {
       "id": "_8",
       "label": "Школа Jосиф Панчић",
-      "longitude": 20.417595,
-      "latitude": 44.781329
+      "longitude": 20.41776,
+      "latitude": 44.78145
     },
     {
       "id": "_9",
       "label": "Кировљева",
-      "longitude": 20.417959,
-      "latitude": 44.784695
+      "longitude": 20.417994,
+      "latitude": 44.784723
     },
     {
       "id": "_10",
       "label": "Чукарица",
-      "longitude": 20.414529,
-      "latitude": 44.786454
+      "longitude": 20.414505,
+      "latitude": 44.78645
     },
     {
       "id": "_11",
       "label": "Светолика Лазаревића Лазе",
-      "longitude": 20.412434,
-      "latitude": 44.783756
+      "longitude": 20.412414,
+      "latitude": 44.783754
     },
     {
       "id": "_12",
       "label": "Обалских Радника",
-      "longitude": 20.4094,
-      "latitude": 44.780672
+      "longitude": 20.409339,
+      "latitude": 44.780605
     },
     {
       "id": "_13",
       "label": "Стругарска",
-      "longitude": 20.406788,
-      "latitude": 44.7773
+      "longitude": 20.406808,
+      "latitude": 44.777324
     },
     {
       "id": "_14",
       "label": "Чукаричка Падина",
-      "longitude": 20.404825,
-      "latitude": 44.778126
+      "longitude": 20.404778,
+      "latitude": 44.778032
     }
   ]
 }

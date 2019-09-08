@@ -3,92 +3,92 @@
     {
       "id": "_1",
       "label": "Блок 45",
-      "longitude": 20.375184,
-      "latitude": 44.792985
+      "longitude": 20.375226,
+      "latitude": 44.792987
     },
     {
       "id": "_2",
       "label": "Др Ивана Рибара 1",
-      "longitude": 20.372745,
-      "latitude": 44.796099
+      "longitude": 20.372973,
+      "latitude": 44.795844
     },
     {
       "id": "_3",
       "label": "Др Ивана Рибара",
-      "longitude": 20.372308,
-      "latitude": 44.798114
+      "longitude": 20.372374,
+      "latitude": 44.798135
     },
     {
       "id": "_4",
       "label": "ОШ Бранко Радичевић",
-      "longitude": 20.375658,
-      "latitude": 44.799603
+      "longitude": 20.375707,
+      "latitude": 44.799612
     },
     {
       "id": "_5",
       "label": "Нехруова",
-      "longitude": 20.379979,
-      "latitude": 44.801175
+      "longitude": 20.380032,
+      "latitude": 44.801184
     },
     {
       "id": "_6",
       "label": "Гандијева",
-      "longitude": 20.388817,
-      "latitude": 44.803348
+      "longitude": 20.38881,
+      "latitude": 44.803343
     },
     {
       "id": "_7",
       "label": "Блок 70",
-      "longitude": 20.393884,
-      "latitude": 44.804013
+      "longitude": 20.393923,
+      "latitude": 44.804027
     },
     {
       "id": "_8",
       "label": "Омладинских Бригада",
-      "longitude": 20.399476,
-      "latitude": 44.805611
+      "longitude": 20.399462,
+      "latitude": 44.805303
     },
     {
       "id": "_9",
       "label": "Техничка Школа Нови Београд",
-      "longitude": 20.399479,
-      "latitude": 44.808319
+      "longitude": 20.399493,
+      "latitude": 44.8083
     },
     {
       "id": "_10",
       "label": "Airport City",
-      "longitude": 20.402008,
-      "latitude": 44.811691
+      "longitude": 20.402169,
+      "latitude": 44.811769
     },
     {
       "id": "_11",
       "label": "Омладинских Бригада 1",
-      "longitude": 20.405592,
-      "latitude": 44.814423
+      "longitude": 20.405649,
+      "latitude": 44.814418
     },
     {
       "id": "_12",
       "label": "Уметности булевар",
-      "longitude": 20.409706,
-      "latitude": 44.81254
+      "longitude": 20.409735,
+      "latitude": 44.812541
     },
     {
       "id": "_13",
       "label": "Шпанских Бораца",
-      "longitude": 20.414255,
-      "latitude": 44.810435
+      "longitude": 20.414287,
+      "latitude": 44.810455
     },
     {
       "id": "_14",
       "label": "Железничка станица Нови Београд",
-      "longitude": 20.418458,
-      "latitude": 44.807189
+      "longitude": 20.418539,
+      "latitude": 44.807235
     },
     {
       "id": "_15",
       "label": "Блок 42",
-      "longitude": 20.418512,
-      "latitude": 44.803634
+      "longitude": 20.418545,
+      "latitude": 44.803626
     },
     {
       "id": "_16",
@@ -99,8 +99,8 @@
     {
       "id": "_17",
       "label": "Теодора Драјзера",
-      "longitude": 20.447351,
-      "latitude": 44.78059
+      "longitude": 20.447381,
+      "latitude": 44.780598
     },
     {
       "id": "_18",
@@ -111,98 +111,98 @@
     {
       "id": "_19",
       "label": "4 Београдска гимназија",
-      "longitude": 20.455328,
-      "latitude": 44.779114
+      "longitude": 20.455329,
+      "latitude": 44.779124
     },
     {
       "id": "_20",
       "label": "Драгише Мишовић болница",
-      "longitude": 20.458083,
-      "latitude": 44.777662
+      "longitude": 20.458095,
+      "latitude": 44.77771
     },
     {
       "id": "_21",
       "label": "Паје Адамова",
-      "longitude": 20.462581,
-      "latitude": 44.772754
+      "longitude": 20.46258,
+      "latitude": 44.772745
     },
     {
       "id": "_22",
       "label": "Бањица",
-      "longitude": 20.465998,
-      "latitude": 44.769389
+      "longitude": 20.465972,
+      "latitude": 44.769418
     },
     {
       "id": "_23",
       "label": "Војномедицинска академија",
-      "longitude": 20.470045,
-      "latitude": 44.765668
+      "longitude": 20.470091,
+      "latitude": 44.765664
     },
     {
       "id": "_24",
       "label": "Пливалиште Бањица",
-      "longitude": 20.472411,
-      "latitude": 44.763076
+      "longitude": 20.472412,
+      "latitude": 44.763107
     },
     {
       "id": "_25",
       "label": "Пет Солитера",
-      "longitude": 20.472953,
-      "latitude": 44.759369
+      "longitude": 20.47298,
+      "latitude": 44.759255
     },
     {
       "id": "_26",
       "label": "Рашка",
-      "longitude": 20.467712,
-      "latitude": 44.754768
+      "longitude": 20.467734,
+      "latitude": 44.754761
     },
     {
       "id": "_27",
       "label": "Пере Велимировића",
-      "longitude": 20.460102,
-      "latitude": 44.757166
+      "longitude": 20.460092,
+      "latitude": 44.757208
     },
     {
       "id": "_28",
       "label": "Српских Ударних Бригада",
-      "longitude": 20.456412,
-      "latitude": 44.754304
+      "longitude": 20.456413,
+      "latitude": 44.754325
     },
     {
       "id": "_29",
       "label": "Канарево Брдо",
-      "longitude": 20.455095,
-      "latitude": 44.752066
+      "longitude": 20.455084,
+      "latitude": 44.752032
     },
     {
       "id": "_30",
       "label": "Варешка",
-      "longitude": 20.455754,
-      "latitude": 44.749855
+      "longitude": 20.455731,
+      "latitude": 44.749852
     },
     {
       "id": "_31",
       "label": "Станка Пауновића",
-      "longitude": 20.452402,
-      "latitude": 44.74845
+      "longitude": 20.452276,
+      "latitude": 44.748464
     },
     {
       "id": "_32",
       "label": "Миљаковац 1",
-      "longitude": 20.449902,
-      "latitude": 44.748244
+      "longitude": 20.449829,
+      "latitude": 44.748294
     },
     {
       "id": "_33",
       "label": "ГО Раковица",
-      "longitude": 20.446225,
-      "latitude": 44.743747
+      "longitude": 20.446224,
+      "latitude": 44.743757
     },
     {
       "id": "_34",
       "label": "Мишка Крањца",
-      "longitude": 20.442091,
-      "latitude": 44.742986
+      "longitude": 20.442148,
+      "latitude": 44.742989
     },
     {
       "id": "_35",
@@ -213,14 +213,14 @@
     {
       "id": "_36",
       "label": "Кнежевац",
-      "longitude": 20.431448,
-      "latitude": 44.734687
+      "longitude": 20.431475,
+      "latitude": 44.73467
     },
     {
       "id": "_37",
       "label": "Депонија",
-      "longitude": 20.4348,
-      "latitude": 44.728838
+      "longitude": 20.434859,
+      "latitude": 44.728864
     },
     {
       "id": "_38",
@@ -237,310 +237,310 @@
     {
       "id": "_40",
       "label": "Ресник /Улаз/",
-      "longitude": 20.465697,
-      "latitude": 44.717199
+      "longitude": 20.465606,
+      "latitude": 44.717233
     },
     {
       "id": "_41",
       "label": "Ресник /Авалска/",
-      "longitude": 20.459547,
-      "latitude": 44.714371
+      "longitude": 20.45959,
+      "latitude": 44.714386
     },
     {
       "id": "_42",
       "label": "Едварда Грига /Улаз/",
       "longitude": 20.458742,
-      "latitude": 44.713215
+      "latitude": 44.713209
     },
     {
       "id": "_43",
       "label": "Здравствена станица Ресник",
-      "longitude": 20.461714,
-      "latitude": 44.71177
+      "longitude": 20.461749,
+      "latitude": 44.711764
     },
     {
       "id": "_44",
       "label": "Ресник /Едварда Грига/",
-      "longitude": 20.464273,
-      "latitude": 44.711471
+      "longitude": 20.464259,
+      "latitude": 44.711461
     }
   ],
   "direction_b": [
     {
       "id": "_1",
       "label": "Ресник /Едварда Грига/",
-      "longitude": 20.464273,
-      "latitude": 44.711471
+      "longitude": 20.464259,
+      "latitude": 44.711461
     },
     {
       "id": "_2",
       "label": "Здравствена станица Ресник",
       "longitude": 20.46125,
-      "latitude": 44.712031
+      "latitude": 44.712023
     },
     {
       "id": "_3",
       "label": "Едварда Грига /Улаз/",
       "longitude": 20.458758,
-      "latitude": 44.713331
+      "latitude": 44.713292
     },
     {
       "id": "_4",
       "label": "Ресник /Авалска/",
-      "longitude": 20.459493,
-      "latitude": 44.714169
+      "longitude": 20.45957,
+      "latitude": 44.714189
     },
     {
       "id": "_5",
       "label": "Ресник /Улаз/",
-      "longitude": 20.465448,
-      "latitude": 44.717447
+      "longitude": 20.464818,
+      "latitude": 44.717666
     },
     {
       "id": "_6",
       "label": "Железничка Станица Јајинци",
-      "longitude": 20.457055,
-      "latitude": 44.721552
+      "longitude": 20.457077,
+      "latitude": 44.721554
     },
     {
       "id": "_7",
       "label": "Кијево",
-      "longitude": 20.438247,
-      "latitude": 44.725349
+      "longitude": 20.438425,
+      "latitude": 44.725452
     },
     {
       "id": "_8",
       "label": "Депонија",
-      "longitude": 20.435134,
-      "latitude": 44.728324
+      "longitude": 20.434916,
+      "latitude": 44.729034
     },
     {
       "id": "_9",
       "label": "Кнежевац",
-      "longitude": 20.431604,
-      "latitude": 44.734658
+      "longitude": 20.431639,
+      "latitude": 44.734622
     },
     {
       "id": "_10",
       "label": "Славка Родића",
-      "longitude": 20.43423,
-      "latitude": 44.739052
+      "longitude": 20.434272,
+      "latitude": 44.739043
     },
     {
       "id": "_11",
       "label": "Ослобођења",
-      "longitude": 20.437395,
-      "latitude": 44.738616
+      "longitude": 20.437452,
+      "latitude": 44.738609
     },
     {
       "id": "_12",
       "label": "Мишка Крањца",
-      "longitude": 20.442649,
-      "latitude": 44.742837
+      "longitude": 20.442684,
+      "latitude": 44.742862
     },
     {
       "id": "_13",
       "label": "ГО Раковица",
-      "longitude": 20.44556,
-      "latitude": 44.743357
+      "longitude": 20.445579,
+      "latitude": 44.74334
     },
     {
       "id": "_14",
       "label": "Миљаковац 1",
-      "longitude": 20.449961,
-      "latitude": 44.748109
+      "longitude": 20.449918,
+      "latitude": 44.748084
     },
     {
       "id": "_15",
       "label": "Станка Пауновића",
-      "longitude": 20.453306,
-      "latitude": 44.748416
+      "longitude": 20.453423,
+      "latitude": 44.748411
     },
     {
       "id": "_16",
       "label": "Варешка",
-      "longitude": 20.455706,
-      "latitude": 44.748869
+      "longitude": 20.455738,
+      "latitude": 44.748897
     },
     {
       "id": "_17",
       "label": "Канарево Брдо",
-      "longitude": 20.455151,
-      "latitude": 44.752675
+      "longitude": 20.455298,
+      "latitude": 44.752728
     },
     {
       "id": "_18",
       "label": "Српских Ударних Бригада",
-      "longitude": 20.457104,
-      "latitude": 44.754807
+      "longitude": 20.457065,
+      "latitude": 44.754738
     },
     {
       "id": "_19",
       "label": "Пере Велимировића",
-      "longitude": 20.461073,
-      "latitude": 44.757124
+      "longitude": 20.461207,
+      "latitude": 44.757065
     },
     {
       "id": "_20",
       "label": "Рашка",
-      "longitude": 20.469646,
-      "latitude": 44.754435
+      "longitude": 20.469723,
+      "latitude": 44.754428
     },
     {
       "id": "_21",
       "label": "Пет Солитера",
-      "longitude": 20.473132,
-      "latitude": 44.760023
+      "longitude": 20.473212,
+      "latitude": 44.760063
     },
     {
       "id": "_22",
       "label": "Пливалиште Бањица",
-      "longitude": 20.471783,
-      "latitude": 44.763976
+      "longitude": 20.471852,
+      "latitude": 44.763972
     },
     {
       "id": "_23",
       "label": "Војномедицинска академија",
-      "longitude": 20.469487,
-      "latitude": 44.76654
+      "longitude": 20.469515,
+      "latitude": 44.766554
     },
     {
       "id": "_24",
       "label": "Бањица",
-      "longitude": 20.465738,
-      "latitude": 44.769939
+      "longitude": 20.465763,
+      "latitude": 44.769938
     },
     {
       "id": "_25",
       "label": "Паје Адамова",
-      "longitude": 20.462267,
-      "latitude": 44.773346
+      "longitude": 20.462307,
+      "latitude": 44.773349
     },
     {
       "id": "_26",
       "label": "Драгише Мишовић болница",
-      "longitude": 20.458482,
-      "latitude": 44.777658
+      "longitude": 20.458522,
+      "latitude": 44.777634
     },
     {
       "id": "_27",
       "label": "4 Београдска гимназија",
       "longitude": 20.454478,
-      "latitude": 44.779516
+      "latitude": 44.779529
     },
     {
       "id": "_28",
       "label": "Теодора Драјзера 2",
-      "longitude": 20.450422,
-      "latitude": 44.780413
+      "longitude": 20.450363,
+      "latitude": 44.780431
     },
     {
       "id": "_29",
       "label": "Теодора Драјзера",
-      "longitude": 20.447088,
-      "latitude": 44.780706
+      "longitude": 20.4471,
+      "latitude": 44.780734
     },
     {
       "id": "_30",
       "label": "Топчидерски Парк",
-      "longitude": 20.440916,
-      "latitude": 44.782223
+      "longitude": 20.440939,
+      "latitude": 44.782232
     },
     {
       "id": "_31",
       "label": "Блок 42",
-      "longitude": 20.417541,
-      "latitude": 44.80458
+      "longitude": 20.417536,
+      "latitude": 44.804585
     },
     {
       "id": "_32",
       "label": "Железничка станица Нови Београд",
-      "longitude": 20.419314,
-      "latitude": 44.807521
+      "longitude": 20.419297,
+      "latitude": 44.807524
     },
     {
       "id": "_33",
       "label": "Милутина Миланковића",
-      "longitude": 20.41896,
-      "latitude": 44.808709
+      "longitude": 20.419008,
+      "latitude": 44.808706
     },
     {
       "id": "_34",
       "label": "Шпанских Бораца",
-      "longitude": 20.414824,
-      "latitude": 44.810607
+      "longitude": 20.414734,
+      "latitude": 44.810677
     },
     {
       "id": "_35",
       "label": "Уметности булевар",
-      "longitude": 20.408277,
-      "latitude": 44.813602
+      "longitude": 20.408254,
+      "latitude": 44.813648
     },
     {
       "id": "_36",
       "label": "Омладинских Бригада 1",
-      "longitude": 20.404028,
-      "latitude": 44.81437
+      "longitude": 20.4041,
+      "latitude": 44.814392
     },
     {
       "id": "_37",
       "label": "Airport City",
-      "longitude": 20.401198,
-      "latitude": 44.811245
+      "longitude": 20.401228,
+      "latitude": 44.811205
     },
     {
       "id": "_38",
       "label": "Техничка Школа Нови Београд",
-      "longitude": 20.399053,
-      "latitude": 44.808174
+      "longitude": 20.399107,
+      "latitude": 44.808235
     },
     {
       "id": "_39",
       "label": "Омладинских Бригада",
-      "longitude": 20.398159,
+      "longitude": 20.39821,
       "latitude": 44.804669
     },
     {
       "id": "_40",
       "label": "Блок 70",
-      "longitude": 20.393669,
-      "latitude": 44.804374
+      "longitude": 20.393732,
+      "latitude": 44.80437
     },
     {
       "id": "_41",
       "label": "Гандијева",
-      "longitude": 20.386827,
-      "latitude": 44.803333
+      "longitude": 20.386797,
+      "latitude": 44.803319
     },
     {
       "id": "_42",
       "label": "Нехруова",
-      "longitude": 20.379741,
-      "latitude": 44.801502
+      "longitude": 20.379798,
+      "latitude": 44.8015
     },
     {
       "id": "_43",
       "label": "ОШ Бранко Радичевић",
-      "longitude": 20.37498,
-      "latitude": 44.799741
+      "longitude": 20.375015,
+      "latitude": 44.799742
     },
     {
       "id": "_44",
       "label": "Др Ивана Рибара 1",
-      "longitude": 20.371898,
-      "latitude": 44.796777
+      "longitude": 20.371992,
+      "latitude": 44.796736
     },
     {
       "id": "_45",
       "label": "Блок 45",
-      "longitude": 20.374795,
-      "latitude": 44.793115
+      "longitude": 20.374888,
+      "latitude": 44.793072
     },
     {
       "id": "_46",
       "label": "Блок 45",
-      "longitude": 20.375184,
-      "latitude": 44.792985
+      "longitude": 20.375226,
+      "latitude": 44.792987
     }
   ]
 }

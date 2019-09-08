@@ -3,38 +3,38 @@
     {
       "id": "_1",
       "label": "Шумице Терминус",
-      "longitude": 20.50073,
-      "latitude": 44.783998
+      "longitude": 20.500787,
+      "latitude": 44.783994
     },
     {
       "id": "_2",
       "label": "Шумице",
-      "longitude": 20.50133,
-      "latitude": 44.782945
+      "longitude": 20.50136,
+      "latitude": 44.782959
     },
     {
       "id": "_3",
       "label": "База Вождовац",
-      "longitude": 20.498124,
-      "latitude": 44.780357
+      "longitude": 20.498107,
+      "latitude": 44.780366
     },
     {
       "id": "_4",
       "label": "Погон Космај",
-      "longitude": 20.517837,
-      "latitude": 44.771782
+      "longitude": 20.517785,
+      "latitude": 44.771816
     },
     {
       "id": "_5",
       "label": "Милошев Кладенац",
-      "longitude": 20.517989,
-      "latitude": 44.767547
+      "longitude": 20.517966,
+      "latitude": 44.767524
     },
     {
       "id": "_6",
       "label": "Ристин Поток",
-      "longitude": 20.519834,
-      "latitude": 44.76596
+      "longitude": 20.51983,
+      "latitude": 44.765956
     },
     {
       "id": "_7",
@@ -45,14 +45,14 @@
     {
       "id": "_8",
       "label": "МЗ Велики Мокри Луг",
-      "longitude": 20.525183,
-      "latitude": 44.760305
+      "longitude": 20.525201,
+      "latitude": 44.760349
     },
     {
       "id": "_9",
       "label": "Византијска",
-      "longitude": 20.52546,
-      "latitude": 44.757956
+      "longitude": 20.525478,
+      "latitude": 44.757949
     },
     {
       "id": "_10",
@@ -71,20 +71,20 @@
     {
       "id": "_2",
       "label": "Византијска",
-      "longitude": 20.525586,
-      "latitude": 44.757909
+      "longitude": 20.525594,
+      "latitude": 44.757874
     },
     {
       "id": "_3",
       "label": "МЗ Велики Мокри Луг",
-      "longitude": 20.525376,
-      "latitude": 44.759979
+      "longitude": 20.525432,
+      "latitude": 44.759976
     },
     {
       "id": "_4",
       "label": "Вињаге",
-      "longitude": 20.524943,
-      "latitude": 44.763097
+      "longitude": 20.524983,
+      "latitude": 44.763092
     },
     {
       "id": "_5",
@@ -95,26 +95,26 @@
     {
       "id": "_6",
       "label": "Милошев Кладенац",
-      "longitude": 20.51811,
-      "latitude": 44.767576
+      "longitude": 20.518086,
+      "latitude": 44.767553
     },
     {
       "id": "_7",
       "label": "СП Ласта",
-      "longitude": 20.518314,
-      "latitude": 44.771805
+      "longitude": 20.518389,
+      "latitude": 44.771802
     },
     {
       "id": "_8",
       "label": "Владимира Томановића",
-      "longitude": 20.50209,
-      "latitude": 44.781799
+      "longitude": 20.5021,
+      "latitude": 44.781843
     },
     {
       "id": "_9",
       "label": "Шумице Терминус",
-      "longitude": 20.50073,
-      "latitude": 44.783998
+      "longitude": 20.500787,
+      "latitude": 44.783994
     }
   ]
 }

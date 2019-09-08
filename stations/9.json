@@ -3,128 +3,128 @@
     {
       "id": "_1",
       "label": "Бањица",
-      "longitude": 20.47795,
-      "latitude": 44.756975
+      "longitude": 20.478021,
+      "latitude": 44.757093
     },
     {
       "id": "_2",
       "label": "Врачарска",
-      "longitude": 20.481201,
-      "latitude": 44.757006
+      "longitude": 20.481204,
+      "latitude": 44.757021
     },
     {
       "id": "_3",
       "label": "Бебелова",
-      "longitude": 20.483523,
-      "latitude": 44.758821
+      "longitude": 20.483542,
+      "latitude": 44.758819
     },
     {
       "id": "_4",
       "label": "Вождовац",
-      "longitude": 20.484269,
-      "latitude": 44.761343
+      "longitude": 20.484282,
+      "latitude": 44.761298
     },
     {
       "id": "_5",
       "label": "Саобраћајни факултет",
-      "longitude": 20.48296,
-      "latitude": 44.764726
+      "longitude": 20.482919,
+      "latitude": 44.764689
     },
     {
       "id": "_6",
       "label": "Висока Школа Електротехнике",
-      "longitude": 20.479606,
-      "latitude": 44.768652
+      "longitude": 20.479599,
+      "latitude": 44.768643
     },
     {
       "id": "_7",
       "label": "Никшићка",
-      "longitude": 20.477912,
-      "latitude": 44.772024
+      "longitude": 20.477892,
+      "latitude": 44.772008
     },
     {
       "id": "_8",
       "label": "Витановачка",
-      "longitude": 20.47468,
-      "latitude": 44.77727
+      "longitude": 20.474691,
+      "latitude": 44.777267
     },
     {
       "id": "_9",
       "label": "Краља Владимира",
-      "longitude": 20.471963,
-      "latitude": 44.781608
+      "longitude": 20.471917,
+      "latitude": 44.781655
     },
     {
       "id": "_10",
       "label": "Боже Jанковића",
-      "longitude": 20.470488,
-      "latitude": 44.783575
+      "longitude": 20.470401,
+      "latitude": 44.783644
     },
     {
       "id": "_11",
       "label": "Трг Ослобођења",
-      "longitude": 20.466451,
-      "latitude": 44.787245
+      "longitude": 20.466401,
+      "latitude": 44.787304
     },
     {
       "id": "_12",
       "label": "Франше Д'Епереа",
-      "longitude": 20.466368,
-      "latitude": 44.792686
+      "longitude": 20.466409,
+      "latitude": 44.792663
     },
     {
       "id": "_13",
       "label": "Карађорђев парк",
-      "longitude": 20.465713,
-      "latitude": 44.798107
+      "longitude": 20.465719,
+      "latitude": 44.79816
     },
     {
       "id": "_14",
       "label": "Трг Славија /Булевар Ослобођења/",
-      "longitude": 20.466314,
-      "latitude": 44.801565
+      "longitude": 20.46636,
+      "latitude": 44.801732
     },
     {
       "id": "_15",
       "label": "Савски трг",
-      "longitude": 20.456626,
-      "latitude": 44.8086
+      "longitude": 20.456587,
+      "latitude": 44.808544
     },
     {
       "id": "_16",
       "label": "Економски факултет",
-      "longitude": 20.453689,
-      "latitude": 44.810756
+      "longitude": 20.453559,
+      "latitude": 44.810815
     },
     {
       "id": "_17",
       "label": "Старо Сајмиште",
-      "longitude": 20.440088,
-      "latitude": 44.81171
+      "longitude": 20.440112,
+      "latitude": 44.811695
     },
     {
       "id": "_18",
       "label": "Блок 21",
-      "longitude": 20.433503,
-      "latitude": 44.813772
+      "longitude": 20.433585,
+      "latitude": 44.813801
     },
     {
       "id": "_19",
       "label": "Сава центар",
-      "longitude": 20.429297,
-      "latitude": 44.809151
+      "longitude": 20.42941,
+      "latitude": 44.809189
     },
     {
       "id": "_20",
       "label": "Блок 23",
-      "longitude": 20.427141,
-      "latitude": 44.806736
+      "longitude": 20.427221,
+      "latitude": 44.806774
     },
     {
       "id": "_21",
       "label": "Милутина Миланковића",
-      "longitude": 20.422259,
-      "latitude": 44.807047
+      "longitude": 20.422264,
+      "latitude": 44.807059
     },
     {
       "id": "_22",
@@ -135,38 +135,38 @@
     {
       "id": "_23",
       "label": "Блок 42",
-      "longitude": 20.416479,
-      "latitude": 44.80394
+      "longitude": 20.4164,
+      "latitude": 44.803946
     },
     {
       "id": "_24",
       "label": "Насеље Белвил",
-      "longitude": 20.407896,
-      "latitude": 44.804326
+      "longitude": 20.407897,
+      "latitude": 44.804319
     },
     {
       "id": "_25",
       "label": "Агостина Нета",
-      "longitude": 20.402985,
+      "longitude": 20.402884,
       "latitude": 44.804545
     },
     {
       "id": "_26",
       "label": "Омладинских Бригада",
-      "longitude": 20.398492,
-      "latitude": 44.804543
+      "longitude": 20.398533,
+      "latitude": 44.804551
     },
     {
       "id": "_27",
       "label": "Блок 70",
-      "longitude": 20.393524,
-      "latitude": 44.804216
+      "longitude": 20.393498,
+      "latitude": 44.804214
     },
     {
       "id": "_28",
       "label": "Гандијева",
-      "longitude": 20.387221,
-      "latitude": 44.803272
+      "longitude": 20.387312,
+      "latitude": 44.80328
     },
     {
       "id": "_29",
@@ -177,70 +177,70 @@
     {
       "id": "_30",
       "label": "ОШ Бранко Радичевић",
-      "longitude": 20.375739,
-      "latitude": 44.799873
+      "longitude": 20.375647,
+      "latitude": 44.799843
     },
     {
       "id": "_31",
       "label": "Др Ивана Рибара",
-      "longitude": 20.371292,
-      "latitude": 44.797345
+      "longitude": 20.371298,
+      "latitude": 44.797378
     },
     {
       "id": "_32",
       "label": "Блок 45",
-      "longitude": 20.37392,
-      "latitude": 44.793967
+      "longitude": 20.373896,
+      "latitude": 44.794072
     }
   ],
   "direction_b": [
     {
       "id": "_1",
       "label": "Блок 45",
-      "longitude": 20.374518,
+      "longitude": 20.374544,
       "latitude": 44.793445
     },
     {
       "id": "_2",
       "label": "Др Ивана Рибара",
-      "longitude": 20.371935,
-      "latitude": 44.798099
+      "longitude": 20.372009,
+      "latitude": 44.798112
     },
     {
       "id": "_3",
       "label": "ОШ Бранко Радичевић",
-      "longitude": 20.376868,
-      "latitude": 44.800234
+      "longitude": 20.376959,
+      "latitude": 44.800255
     },
     {
       "id": "_4",
       "label": "Нехруова",
-      "longitude": 20.381685,
-      "latitude": 44.801839
+      "longitude": 20.381795,
+      "latitude": 44.801864
     },
     {
       "id": "_5",
       "label": "Гандијева",
-      "longitude": 20.388756,
-      "latitude": 44.803475
+      "longitude": 20.388856,
+      "latitude": 44.803487
     },
     {
       "id": "_6",
       "label": "Блок 70",
-      "longitude": 20.393771,
-      "latitude": 44.804153
+      "longitude": 20.39383,
+      "latitude": 44.804155
     },
     {
       "id": "_7",
       "label": "Омладинских Бригада",
-      "longitude": 20.400115,
-      "latitude": 44.80448
+      "longitude": 20.400184,
+      "latitude": 44.804482
     },
     {
       "id": "_8",
       "label": "Агостина Нета",
-      "longitude": 20.404572,
-      "latitude": 44.804383
+      "longitude": 20.404657,
+      "latitude": 44.804372
     },
     {
       "id": "_9",
@@ -251,8 +251,8 @@
     {
       "id": "_10",
       "label": "Блок 42",
-      "longitude": 20.41731,
-      "latitude": 44.804433
+      "longitude": 20.417359,
+      "latitude": 44.804577
     },
     {
       "id": "_11",
@@ -263,20 +263,20 @@
     {
       "id": "_12",
       "label": "Милутина Миланковића",
-      "longitude": 20.422433,
-      "latitude": 44.806855
+      "longitude": 20.422451,
+      "latitude": 44.806869
     },
     {
       "id": "_13",
       "label": "Блок 23",
-      "longitude": 20.427613,
-      "latitude": 44.806726
+      "longitude": 20.427662,
+      "latitude": 44.806765
     },
     {
       "id": "_14",
       "label": "Сава центар",
-      "longitude": 20.43055,
-      "latitude": 44.809988
+      "longitude": 20.430634,
+      "latitude": 44.810049
     },
     {
       "id": "_15",
@@ -287,56 +287,56 @@
     {
       "id": "_16",
       "label": "Старо Сајмиште",
-      "longitude": 20.4389,
-      "latitude": 44.811894
+      "longitude": 20.438931,
+      "latitude": 44.811893
     },
     {
       "id": "_17",
       "label": "Економски факултет",
-      "longitude": 20.454073,
-      "latitude": 44.810777
+      "longitude": 20.454007,
+      "latitude": 44.810798
     },
     {
       "id": "_18",
       "label": "Савски трг",
-      "longitude": 20.456414,
-      "latitude": 44.808532
+      "longitude": 20.456475,
+      "latitude": 44.80861
     },
     {
       "id": "_19",
       "label": "Трг Славија /Булевар Ослобођења/",
-      "longitude": 20.466065,
-      "latitude": 44.801477
+      "longitude": 20.466047,
+      "latitude": 44.801404
     },
     {
       "id": "_20",
       "label": "Карађорђев парк",
-      "longitude": 20.465196,
-      "latitude": 44.797029
+      "longitude": 20.465237,
+      "latitude": 44.797099
     },
     {
       "id": "_21",
       "label": "Франше Д'Епереа",
-      "longitude": 20.466226,
-      "latitude": 44.792661
+      "longitude": 20.466279,
+      "latitude": 44.792631
     },
     {
       "id": "_22",
       "label": "Звечанска",
-      "longitude": 20.4657,
-      "latitude": 44.78861
+      "longitude": 20.46574,
+      "latitude": 44.788686
     },
     {
       "id": "_23",
       "label": "Трг Ослобођења",
-      "longitude": 20.4667,
-      "latitude": 44.786676
+      "longitude": 20.466707,
+      "latitude": 44.786689
     },
     {
       "id": "_24",
       "label": "Боже Jанковића",
-      "longitude": 20.469798,
-      "latitude": 44.783914
+      "longitude": 20.469806,
+      "latitude": 44.783915
     },
     {
       "id": "_25",
@@ -353,14 +353,14 @@
     {
       "id": "_27",
       "label": "Петровачка",
-      "longitude": 20.475774,
-      "latitude": 44.774648
+      "longitude": 20.475769,
+      "latitude": 44.774644
     },
     {
       "id": "_28",
       "label": "Никшићка",
-      "longitude": 20.477765,
-      "latitude": 44.771554
+      "longitude": 20.477828,
+      "latitude": 44.771493
     },
     {
       "id": "_29",
@@ -371,32 +371,32 @@
     {
       "id": "_30",
       "label": "Саобраћајни факултет",
-      "longitude": 20.482461,
-      "latitude": 44.76505
+      "longitude": 20.482503,
+      "latitude": 44.765034
     },
     {
       "id": "_31",
       "label": "Вождовац",
-      "longitude": 20.484052,
-      "latitude": 44.761198
+      "longitude": 20.484091,
+      "latitude": 44.761266
     },
     {
       "id": "_32",
       "label": "Бебелова",
-      "longitude": 20.483341,
-      "latitude": 44.758779
+      "longitude": 20.483378,
+      "latitude": 44.75877
     },
     {
       "id": "_33",
       "label": "Врачарска",
-      "longitude": 20.481201,
-      "latitude": 44.757109
+      "longitude": 20.481185,
+      "latitude": 44.757078
     },
     {
       "id": "_34",
       "label": "Бањица",
-      "longitude": 20.47795,
-      "latitude": 44.756975
+      "longitude": 20.478021,
+      "latitude": 44.757093
     }
   ]
 }

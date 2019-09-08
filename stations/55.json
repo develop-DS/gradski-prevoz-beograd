@@ -3,122 +3,122 @@
     {
       "id": "_1",
       "label": "Звездара",
-      "longitude": 20.503747,
-      "latitude": 44.792766
+      "longitude": 20.503746,
+      "latitude": 44.792798
     },
     {
       "id": "_2",
       "label": "Школа Војислав Илић",
-      "longitude": 20.496881,
-      "latitude": 44.791372
+      "longitude": 20.496914,
+      "latitude": 44.791356
     },
     {
       "id": "_3",
       "label": "Бачванска",
-      "longitude": 20.494381,
-      "latitude": 44.791025
+      "longitude": 20.494414,
+      "latitude": 44.791043
     },
     {
       "id": "_4",
       "label": "Грчића Миленка",
-      "longitude": 20.490941,
-      "latitude": 44.791443
+      "longitude": 20.490892,
+      "latitude": 44.791479
     },
     {
       "id": "_5",
       "label": "Ђердапска",
-      "longitude": 20.486804,
-      "latitude": 44.792901
+      "longitude": 20.486781,
+      "latitude": 44.792915
     },
     {
       "id": "_6",
       "label": "МПИ",
-      "longitude": 20.481209,
-      "latitude": 44.793643
+      "longitude": 20.48125,
+      "latitude": 44.793649
     },
     {
       "id": "_7",
       "label": "Максима Горког",
-      "longitude": 20.476673,
-      "latitude": 44.793299
+      "longitude": 20.47671,
+      "latitude": 44.793313
     },
     {
       "id": "_8",
       "label": "Михајла Гавриловића",
-      "longitude": 20.472156,
-      "latitude": 44.792511
+      "longitude": 20.472215,
+      "latitude": 44.792534
     },
     {
       "id": "_9",
       "label": "Франше Д'Епереа",
-      "longitude": 20.468232,
-      "latitude": 44.790862
+      "longitude": 20.468254,
+      "latitude": 44.790876
     },
     {
       "id": "_10",
       "label": "Делиградска",
-      "longitude": 20.457594,
-      "latitude": 44.795771
+      "longitude": 20.457582,
+      "latitude": 44.795793
     },
     {
       "id": "_11",
       "label": "Мостар",
-      "longitude": 20.449237,
-      "latitude": 44.798754
+      "longitude": 20.44927,
+      "latitude": 44.798762
     },
     {
       "id": "_12",
       "label": "Сајам",
-      "longitude": 20.44171,
-      "latitude": 44.796529
+      "longitude": 20.441977,
+      "latitude": 44.796588
     },
     {
       "id": "_13",
       "label": "Чукарица",
-      "longitude": 20.414529,
-      "latitude": 44.786454
+      "longitude": 20.414505,
+      "latitude": 44.78645
     },
     {
       "id": "_14",
       "label": "Светолика Лазаревића Лазе",
-      "longitude": 20.412434,
-      "latitude": 44.783756
+      "longitude": 20.412414,
+      "latitude": 44.783754
     },
     {
       "id": "_15",
       "label": "Обалских Радника",
-      "longitude": 20.4094,
-      "latitude": 44.780672
+      "longitude": 20.409339,
+      "latitude": 44.780605
     },
     {
       "id": "_16",
       "label": "МЗ Чукаричка Падина",
-      "longitude": 20.407869,
-      "latitude": 44.776714
+      "longitude": 20.407847,
+      "latitude": 44.776686
     },
     {
       "id": "_17",
       "label": "Инос",
-      "longitude": 20.407445,
-      "latitude": 44.769242
+      "longitude": 20.407456,
+      "latitude": 44.769241
     },
     {
       "id": "_18",
       "label": "Контактор",
-      "longitude": 20.406555,
-      "latitude": 44.767027
+      "longitude": 20.406568,
+      "latitude": 44.767031
     },
     {
       "id": "_19",
       "label": "Атекс",
-      "longitude": 20.404556,
-      "latitude": 44.762489
+      "longitude": 20.404595,
+      "latitude": 44.762503
     },
     {
       "id": "_20",
       "label": "Беле Воде",
-      "longitude": 20.403642,
-      "latitude": 44.755067
+      "longitude": 20.403683,
+      "latitude": 44.755063
     },
     {
       "id": "_21",
@@ -135,19 +135,19 @@
     {
       "id": "_23",
       "label": "Савска Тераса",
-      "longitude": 20.392089,
-      "latitude": 44.743491
+      "longitude": 20.392132,
+      "latitude": 44.743495
     },
     {
       "id": "_24",
       "label": "Пут за ЖТП",
-      "longitude": 20.389375,
+      "longitude": 20.389411,
       "latitude": 44.740906
     },
     {
       "id": "_25",
       "label": "Ранжирна Станица",
-      "longitude": 20.385679,
+      "longitude": 20.385687,
       "latitude": 44.73797
     },
     {
@@ -159,14 +159,14 @@
     {
       "id": "_27",
       "label": "Златановићи",
-      "longitude": 20.376511,
-      "latitude": 44.734317
+      "longitude": 20.376478,
+      "latitude": 44.734325
     },
     {
       "id": "_28",
       "label": "Браће Митровића",
-      "longitude": 20.369843,
-      "latitude": 44.73206
+      "longitude": 20.369879,
+      "latitude": 44.732071
     },
     {
       "id": "_29",
@@ -177,8 +177,8 @@
     {
       "id": "_30",
       "label": "Милорада Ћирића",
-      "longitude": 20.370455,
-      "latitude": 44.725944
+      "longitude": 20.370557,
+      "latitude": 44.725899
     },
     {
       "id": "_31",
@@ -189,20 +189,20 @@
     {
       "id": "_32",
       "label": "Црква",
-      "longitude": 20.376436,
-      "latitude": 44.722257
+      "longitude": 20.37644,
+      "latitude": 44.722264
     },
     {
       "id": "_33",
       "label": "Градине",
-      "longitude": 20.379378,
-      "latitude": 44.71969
+      "longitude": 20.379389,
+      "latitude": 44.719692
     },
     {
       "id": "_34",
       "label": "Трафостаница",
-      "longitude": 20.381125,
-      "latitude": 44.718552
+      "longitude": 20.381157,
+      "latitude": 44.718544
     },
     {
       "id": "_35",
@@ -227,194 +227,194 @@
     {
       "id": "_3",
       "label": "Градине",
-      "longitude": 20.379116,
+      "longitude": 20.37912,
       "latitude": 44.720092
     },
     {
       "id": "_4",
       "label": "Црква",
-      "longitude": 20.375656,
+      "longitude": 20.375657,
       "latitude": 44.722859
     },
     {
       "id": "_5",
       "label": "МЗ Железник",
-      "longitude": 20.372928,
-      "latitude": 44.724264
+      "longitude": 20.372934,
+      "latitude": 44.724279
     },
     {
       "id": "_6",
       "label": "Свете Милутиновића",
-      "longitude": 20.37208,
-      "latitude": 44.725213
+      "longitude": 20.372045,
+      "latitude": 44.725235
     },
     {
       "id": "_7",
       "label": "Иво Лола Рибар",
-      "longitude": 20.36814,
-      "latitude": 44.727543
+      "longitude": 20.368155,
+      "latitude": 44.727538
     },
     {
       "id": "_8",
       "label": "Браће Митровића",
-      "longitude": 20.370659,
-      "latitude": 44.732317
+      "longitude": 20.370707,
+      "latitude": 44.732323
     },
     {
       "id": "_9",
       "label": "Златановићи",
-      "longitude": 20.376098,
-      "latitude": 44.734195
+      "longitude": 20.376104,
+      "latitude": 44.734173
     },
     {
       "id": "_10",
       "label": "Железник Улаз",
-      "longitude": 20.380985,
-      "latitude": 44.735533
+      "longitude": 20.380994,
+      "latitude": 44.735511
     },
     {
       "id": "_11",
       "label": "Ранжирна Станица",
-      "longitude": 20.385188,
-      "latitude": 44.737501
+      "longitude": 20.38529,
+      "latitude": 44.737505
     },
     {
       "id": "_12",
       "label": "Пут за ЖТП",
-      "longitude": 20.390789,
-      "latitude": 44.741797
+      "longitude": 20.390834,
+      "latitude": 44.741808
     },
     {
       "id": "_13",
       "label": "Савска Тераса",
-      "longitude": 20.393227,
-      "latitude": 44.744165
+      "longitude": 20.393283,
+      "latitude": 44.744158
     },
     {
       "id": "_14",
       "label": "Рупчине",
-      "longitude": 20.396885,
-      "latitude": 44.746631
+      "longitude": 20.397009,
+      "latitude": 44.746629
     },
     {
       "id": "_15",
       "label": "Железнички Тунел",
-      "longitude": 20.400605,
-      "latitude": 44.749634
+      "longitude": 20.400512,
+      "latitude": 44.749454
     },
     {
       "id": "_16",
       "label": "Беле Воде",
-      "longitude": 20.40376,
-      "latitude": 44.755259
+      "longitude": 20.403834,
+      "latitude": 44.755207
     },
     {
       "id": "_17",
       "label": "Атекс",
-      "longitude": 20.405275,
-      "latitude": 44.763693
+      "longitude": 20.405305,
+      "latitude": 44.763706
     },
     {
       "id": "_18",
       "label": "Контактор",
-      "longitude": 20.40645,
-      "latitude": 44.766423
+      "longitude": 20.40652,
+      "latitude": 44.766451
     },
     {
       "id": "_19",
       "label": "Инос",
-      "longitude": 20.40785,
-      "latitude": 44.769826
+      "longitude": 20.407879,
+      "latitude": 44.769829
     },
     {
       "id": "_20",
       "label": "МЗ Чукаричка Падина",
-      "longitude": 20.408218,
-      "latitude": 44.777233
+      "longitude": 20.408281,
+      "latitude": 44.777311
     },
     {
       "id": "_21",
       "label": "Обалских Радника",
-      "longitude": 20.409831,
-      "latitude": 44.78125
+      "longitude": 20.409829,
+      "latitude": 44.781271
     },
     {
       "id": "_22",
       "label": "Светолика Лазаревића Лазе",
-      "longitude": 20.412726,
-      "latitude": 44.784243
+      "longitude": 20.412712,
+      "latitude": 44.784295
     },
     {
       "id": "_23",
       "label": "Чукарица",
-      "longitude": 20.41495,
-      "latitude": 44.786366
+      "longitude": 20.414985,
+      "latitude": 44.786371
     },
     {
       "id": "_24",
       "label": "Господарска Механа",
-      "longitude": 20.433393,
-      "latitude": 44.794424
+      "longitude": 20.433518,
+      "latitude": 44.794439
     },
     {
       "id": "_25",
       "label": "Руска",
-      "longitude": 20.437784,
-      "latitude": 44.795189
+      "longitude": 20.438101,
+      "latitude": 44.79525
     },
     {
       "id": "_26",
       "label": "Сајам",
-      "longitude": 20.441944,
-      "latitude": 44.796327
+      "longitude": 20.441902,
+      "latitude": 44.796305
     },
     {
       "id": "_27",
       "label": "Мостар",
-      "longitude": 20.448743,
-      "latitude": 44.79823
+      "longitude": 20.448834,
+      "latitude": 44.798229
     },
     {
       "id": "_28",
       "label": "Делиградска",
-      "longitude": 20.457356,
-      "latitude": 44.795314
+      "longitude": 20.457354,
+      "latitude": 44.795328
     },
     {
       "id": "_29",
       "label": "Франше Д'Епереа",
-      "longitude": 20.466416,
-      "latitude": 44.791513
+      "longitude": 20.466418,
+      "latitude": 44.791518
     },
     {
       "id": "_30",
       "label": "Михајла Гавриловића",
-      "longitude": 20.471443,
-      "latitude": 44.792105
+      "longitude": 20.471463,
+      "latitude": 44.792119
     },
     {
       "id": "_31",
       "label": "Максима Горког",
-      "longitude": 20.479063,
-      "latitude": 44.79344
+      "longitude": 20.478962,
+      "latitude": 44.79343
     },
     {
       "id": "_32",
       "label": "Ђердапска",
-      "longitude": 20.48487,
-      "latitude": 44.793175
+      "longitude": 20.48494,
+      "latitude": 44.79316
     },
     {
       "id": "_33",
       "label": "Грчића Миленка",
-      "longitude": 20.489145,
-      "latitude": 44.791623
+      "longitude": 20.489165,
+      "latitude": 44.791622
     },
     {
       "id": "_34",
       "label": "Бачванска",
-      "longitude": 20.493625,
-      "latitude": 44.79088
+      "longitude": 20.49365,
+      "latitude": 44.790881
     },
     {
       "id": "_35",
@@ -425,8 +425,8 @@
     {
       "id": "_36",
       "label": "Звездара",
-      "longitude": 20.503747,
-      "latitude": 44.792766
+      "longitude": 20.503746,
+      "latitude": 44.792798
     }
   ]
 }

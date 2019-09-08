@@ -3,268 +3,268 @@
     {
       "id": "_1",
       "label": "Републике трг",
-      "longitude": 20.461814,
-      "latitude": 44.816643
+      "longitude": 20.461632,
+      "latitude": 44.816664
     },
     {
       "id": "_2",
       "label": "Џорџа Вашингтона",
-      "longitude": 20.469852,
-      "latitude": 44.816762
+      "longitude": 20.469867,
+      "latitude": 44.816793
     },
     {
       "id": "_3",
       "label": "Цвијићева",
-      "longitude": 20.47747,
-      "latitude": 44.817106
+      "longitude": 20.477542,
+      "latitude": 44.817127
     },
     {
       "id": "_4",
       "label": "Центар за Културу Влада Дивљан",
-      "longitude": 20.483124,
-      "latitude": 44.817372
+      "longitude": 20.483095,
+      "latitude": 44.817383
     },
     {
       "id": "_5",
       "label": "Панчевачки мост",
-      "longitude": 20.48829,
-      "latitude": 44.817834
+      "longitude": 20.488276,
+      "latitude": 44.81785
     },
     {
       "id": "_6",
       "label": "МЗ Крњача",
-      "longitude": 20.494067,
-      "latitude": 44.837738
+      "longitude": 20.494105,
+      "latitude": 44.837744
     },
     {
       "id": "_7",
       "label": "Блок Бранко Момиров",
-      "longitude": 20.490964,
-      "latitude": 44.841367
+      "longitude": 20.491051,
+      "latitude": 44.841315
     },
     {
       "id": "_8",
       "label": "Партизански Блок",
-      "longitude": 20.48829,
-      "latitude": 44.846338
+      "longitude": 20.488307,
+      "latitude": 44.84637
     },
     {
       "id": "_9",
       "label": "Блок Сутјеска",
-      "longitude": 20.486428,
-      "latitude": 44.849396
+      "longitude": 20.486444,
+      "latitude": 44.849427
     },
     {
       "id": "_10",
       "label": "Пиротско Насеље",
-      "longitude": 20.48369,
-      "latitude": 44.85353
+      "longitude": 20.483699,
+      "latitude": 44.853545
     },
     {
       "id": "_11",
       "label": "Пакрачка",
-      "longitude": 20.480364,
-      "latitude": 44.858458
+      "longitude": 20.480411,
+      "latitude": 44.85847
     },
     {
       "id": "_12",
       "label": "Себеш Суви",
-      "longitude": 20.478172,
-      "latitude": 44.861744
+      "longitude": 20.478215,
+      "latitude": 44.861742
     },
     {
       "id": "_13",
       "label": "Себешка Река",
-      "longitude": 20.473741,
-      "latitude": 44.868346
+      "longitude": 20.473805,
+      "latitude": 44.868343
     },
     {
       "id": "_14",
       "label": "Себеш Мокри",
-      "longitude": 20.470378,
-      "latitude": 44.873406
+      "longitude": 20.470407,
+      "latitude": 44.873404
     },
     {
       "id": "_15",
       "label": "Борча Раскршће",
-      "longitude": 20.467594,
-      "latitude": 44.877516
+      "longitude": 20.467627,
+      "latitude": 44.877582
     },
     {
       "id": "_16",
       "label": "Косовопољска",
-      "longitude": 20.463443,
-      "latitude": 44.883697
+      "longitude": 20.46341,
+      "latitude": 44.883767
     },
     {
       "id": "_17",
       "label": "Зрењанински Пут",
-      "longitude": 20.45975,
-      "latitude": 44.887225
+      "longitude": 20.459859,
+      "latitude": 44.887221
     },
     {
       "id": "_18",
       "label": "Дринске Дивизије",
-      "longitude": 20.457978,
-      "latitude": 44.885564
+      "longitude": 20.458022,
+      "latitude": 44.885571
     },
     {
       "id": "_19",
       "label": "Саве Мркаља",
-      "longitude": 20.454832,
-      "latitude": 44.882676
+      "longitude": 20.454907,
+      "latitude": 44.882725
     },
     {
       "id": "_20",
       "label": "Комбинатова",
-      "longitude": 20.452058,
-      "latitude": 44.880064
+      "longitude": 20.452111,
+      "latitude": 44.880093
     },
     {
       "id": "_21",
       "label": "Беле Бартока",
-      "longitude": 20.45153,
+      "longitude": 20.451539,
       "latitude": 44.877187
     },
     {
       "id": "_22",
       "label": "Борча 3",
-      "longitude": 20.448276,
-      "latitude": 44.874663
+      "longitude": 20.448304,
+      "latitude": 44.874704
     }
   ],
   "direction_b": [
     {
       "id": "_1",
       "label": "Борча 3",
-      "longitude": 20.448276,
-      "latitude": 44.874663
+      "longitude": 20.448304,
+      "latitude": 44.874704
     },
     {
       "id": "_2",
       "label": "Беле Бартока",
-      "longitude": 20.451806,
-      "latitude": 44.877672
+      "longitude": 20.451826,
+      "latitude": 44.877627
     },
     {
       "id": "_3",
       "label": "Комбинатова",
-      "longitude": 20.452847,
-      "latitude": 44.88063
+      "longitude": 20.452808,
+      "latitude": 44.880576
     },
     {
       "id": "_4",
       "label": "Саве Мркаља",
-      "longitude": 20.454798,
-      "latitude": 44.882495
+      "longitude": 20.454772,
+      "latitude": 44.882439
     },
     {
       "id": "_5",
       "label": "Дринске Дивизије",
-      "longitude": 20.457586,
-      "latitude": 44.885003
+      "longitude": 20.457599,
+      "latitude": 44.885009
     },
     {
       "id": "_6",
       "label": "Братства и Јединства",
-      "longitude": 20.460955,
-      "latitude": 44.886955
+      "longitude": 20.460969,
+      "latitude": 44.886993
     },
     {
       "id": "_7",
       "label": "Косовопољска",
-      "longitude": 20.464068,
-      "latitude": 44.882341
+      "longitude": 20.464099,
+      "latitude": 44.882347
     },
     {
       "id": "_8",
       "label": "Борча Раскршће",
-      "longitude": 20.467516,
-      "latitude": 44.877193
+      "longitude": 20.467531,
+      "latitude": 44.877219
     },
     {
       "id": "_9",
       "label": "Себеш Мокри",
-      "longitude": 20.470536,
+      "longitude": 20.470556,
       "latitude": 44.872697
     },
     {
       "id": "_10",
       "label": "Себешка Река",
-      "longitude": 20.473572,
-      "latitude": 44.868109
+      "longitude": 20.473635,
+      "latitude": 44.868102
     },
     {
       "id": "_11",
       "label": "Себеш Суви",
-      "longitude": 20.478553,
-      "latitude": 44.860633
+      "longitude": 20.478635,
+      "latitude": 44.860618
     },
     {
       "id": "_12",
       "label": "Пакрачка",
-      "longitude": 20.480728,
-      "latitude": 44.857428
+      "longitude": 20.480785,
+      "latitude": 44.857411
     },
     {
       "id": "_13",
       "label": "Пиротско Насеље",
-      "longitude": 20.484068,
-      "latitude": 44.852463
+      "longitude": 20.484112,
+      "latitude": 44.852438
     },
     {
       "id": "_14",
       "label": "Блок Сутјеска",
-      "longitude": 20.486664,
-      "latitude": 44.848491
+      "longitude": 20.486769,
+      "latitude": 44.848453
     },
     {
       "id": "_15",
       "label": "Партизански Блок",
-      "longitude": 20.488102,
-      "latitude": 44.846078
+      "longitude": 20.488131,
+      "latitude": 44.846097
     },
     {
       "id": "_16",
       "label": "Блок Бранко Момиров",
-      "longitude": 20.490768,
-      "latitude": 44.841086
+      "longitude": 20.490776,
+      "latitude": 44.841187
     },
     {
       "id": "_17",
       "label": "Панчевачки мост",
-      "longitude": 20.488037,
-      "latitude": 44.818103
+      "longitude": 20.488213,
+      "latitude": 44.81811
     },
     {
       "id": "_18",
       "label": "Центар за Културу Влада Дивљан",
-      "longitude": 20.484602,
-      "latitude": 44.817696
+      "longitude": 20.484569,
+      "latitude": 44.817701
     },
     {
       "id": "_19",
       "label": "Jована Авакумовића",
-      "longitude": 20.479505,
-      "latitude": 44.817357
+      "longitude": 20.479492,
+      "latitude": 44.817376
     },
     {
       "id": "_20",
       "label": "Цвијићева",
-      "longitude": 20.475976,
-      "latitude": 44.817205
+      "longitude": 20.475941,
+      "latitude": 44.817221
     },
     {
       "id": "_21",
       "label": "Џорџа Вашингтона",
-      "longitude": 20.470002,
-      "latitude": 44.816959
+      "longitude": 20.469985,
+      "latitude": 44.816963
     },
     {
       "id": "_22",
       "label": "Републике трг",
-      "longitude": 20.461814,
-      "latitude": 44.816643
+      "longitude": 20.461632,
+      "latitude": 44.816664
     }
   ]
 }

@@ -3,55 +3,55 @@
     {
       "id": "_1",
       "label": "Медаковић 3 ",
-      "longitude": 20.508095,
-      "latitude": 44.77225
+      "longitude": 20.508237,
+      "latitude": 44.772234
     },
     {
       "id": "_2",
       "label": "Војислава Илића",
-      "longitude": 20.504297,
-      "latitude": 44.771908
+      "longitude": 20.50431,
+      "latitude": 44.771913
     },
     {
       "id": "_3",
       "label": "Заплањска",
-      "longitude": 20.500553,
-      "latitude": 44.76888
+      "longitude": 20.500575,
+      "latitude": 44.768899
     },
     {
       "id": "_4",
       "label": "Насеље Браће Јерковић",
-      "longitude": 20.499777,
+      "longitude": 20.499788,
       "latitude": 44.765096
     },
     {
       "id": "_5",
       "label": "Војводе Влаховића",
-      "longitude": 20.50205,
-      "latitude": 44.762153
+      "longitude": 20.502011,
+      "latitude": 44.762174
     },
     {
       "id": "_6",
       "label": "Војводе Влаховића 1",
-      "longitude": 20.506242,
+      "longitude": 20.506256,
       "latitude": 44.761354
     },
     {
       "id": "_7",
       "label": "Браће Јерковић 2 /Падина/",
-      "longitude": 20.507591,
-      "latitude": 44.762318
+      "longitude": 20.507584,
+      "latitude": 44.762333
     },
     {
       "id": "_8",
       "label": "Војводе Влаховића 2",
-      "longitude": 20.508215,
+      "longitude": 20.50823,
       "latitude": 44.76237
     },
     {
       "id": "_9",
       "label": "Vојводе Влаховића /Терминус/ ",
-      "longitude": 20.508106,
+      "longitude": 20.508135,
       "latitude": 44.760592
     }
   ],
@@ -59,26 +59,26 @@
     {
       "id": "_1",
       "label": "Vојводе Влаховића /Терминус/ ",
-      "longitude": 20.508106,
+      "longitude": 20.508135,
       "latitude": 44.760592
     },
     {
       "id": "_2",
       "label": "Војводе Влаховића 3",
-      "longitude": 20.507296,
-      "latitude": 44.761171
+      "longitude": 20.507308,
+      "latitude": 44.761173
     },
     {
       "id": "_3",
       "label": "Војводе Влаховића 4",
-      "longitude": 20.506986,
-      "latitude": 44.762041
+      "longitude": 20.506993,
+      "latitude": 44.762038
     },
     {
       "id": "_4",
       "label": "Војводе Влаховића 1",
-      "longitude": 20.50574,
-      "latitude": 44.76159
+      "longitude": 20.5058,
+      "latitude": 44.761607
     },
     {
       "id": "_5",
@@ -95,20 +95,20 @@
     {
       "id": "_7",
       "label": "Заплањска",
-      "longitude": 20.500687,
-      "latitude": 44.768421
+      "longitude": 20.500718,
+      "latitude": 44.76845
     },
     {
       "id": "_8",
       "label": "Војислава Илића",
-      "longitude": 20.504123,
-      "latitude": 44.771635
+      "longitude": 20.504159,
+      "latitude": 44.771634
     },
     {
       "id": "_9",
       "label": "Медаковић 3 ",
-      "longitude": 20.508095,
-      "latitude": 44.77225
+      "longitude": 20.508237,
+      "latitude": 44.772234
     }
   ]
 }

@@ -3,50 +3,50 @@
     {
       "id": "_1",
       "label": "Славија /Бирчанинова/",
-      "longitude": 20.465362,
-      "latitude": 44.800531
+      "longitude": 20.465466,
+      "latitude": 44.800629
     },
     {
       "id": "_2",
       "label": "Карађорђев парк",
-      "longitude": 20.465196,
-      "latitude": 44.797029
+      "longitude": 20.465237,
+      "latitude": 44.797099
     },
     {
       "id": "_3",
       "label": "Франше Д'Епереа",
-      "longitude": 20.466411,
-      "latitude": 44.792716
+      "longitude": 20.466405,
+      "latitude": 44.792679
     },
     {
       "id": "_4",
       "label": "Трг Ослобођења",
-      "longitude": 20.465748,
-      "latitude": 44.785268
+      "longitude": 20.465787,
+      "latitude": 44.785114
     },
     {
       "id": "_5",
       "label": "Вељка Лукића Курјака",
-      "longitude": 20.468471,
-      "latitude": 44.779442
+      "longitude": 20.468513,
+      "latitude": 44.779431
     },
     {
       "id": "_6",
       "label": "Атлетска дворана",
-      "longitude": 20.472578,
-      "latitude": 44.776378
+      "longitude": 20.472602,
+      "latitude": 44.776345
     },
     {
       "id": "_7",
       "label": "Факултет Политичких Наука",
-      "longitude": 20.473634,
-      "latitude": 44.77349
+      "longitude": 20.473683,
+      "latitude": 44.773502
     },
     {
       "id": "_8",
       "label": "Факултет Организационих Наука",
-      "longitude": 20.475866,
-      "latitude": 44.770555
+      "longitude": 20.475934,
+      "latitude": 44.770476
     },
     {
       "id": "_9",
@@ -63,74 +63,74 @@
     {
       "id": "_11",
       "label": "Трошарина",
-      "longitude": 20.479154,
-      "latitude": 44.762439
+      "longitude": 20.479212,
+      "latitude": 44.762418
     },
     {
       "id": "_12",
       "label": "Паунова",
-      "longitude": 20.475557,
-      "latitude": 44.761046
+      "longitude": 20.475683,
+      "latitude": 44.761044
     },
     {
       "id": "_13",
       "label": "Пет Солитера",
-      "longitude": 20.472953,
-      "latitude": 44.759369
+      "longitude": 20.47298,
+      "latitude": 44.759255
     },
     {
       "id": "_14",
       "label": "Рашка",
-      "longitude": 20.467712,
-      "latitude": 44.754768
+      "longitude": 20.467734,
+      "latitude": 44.754761
     },
     {
       "id": "_15",
       "label": "Пере Велимировића",
-      "longitude": 20.460102,
-      "latitude": 44.757166
+      "longitude": 20.460092,
+      "latitude": 44.757208
     },
     {
       "id": "_16",
       "label": "Српских Ударних Бригада",
-      "longitude": 20.456412,
-      "latitude": 44.754304
+      "longitude": 20.456413,
+      "latitude": 44.754325
     },
     {
       "id": "_17",
       "label": "Канарево Брдо",
-      "longitude": 20.455095,
-      "latitude": 44.752066
+      "longitude": 20.455084,
+      "latitude": 44.752032
     },
     {
       "id": "_18",
       "label": "Варешка",
-      "longitude": 20.455754,
-      "latitude": 44.749855
+      "longitude": 20.455731,
+      "latitude": 44.749852
     },
     {
       "id": "_19",
       "label": "Станка Пауновића",
-      "longitude": 20.452402,
-      "latitude": 44.74845
+      "longitude": 20.452276,
+      "latitude": 44.748464
     },
     {
       "id": "_20",
       "label": "Миљаковац 1",
-      "longitude": 20.449902,
-      "latitude": 44.748244
+      "longitude": 20.449829,
+      "latitude": 44.748294
     },
     {
       "id": "_21",
       "label": "ГО Раковица",
-      "longitude": 20.446225,
-      "latitude": 44.743747
+      "longitude": 20.446224,
+      "latitude": 44.743757
     },
     {
       "id": "_22",
       "label": "Мишка Крањца",
-      "longitude": 20.442091,
-      "latitude": 44.742986
+      "longitude": 20.442148,
+      "latitude": 44.742989
     },
     {
       "id": "_23",
@@ -141,20 +141,20 @@
     {
       "id": "_24",
       "label": "Сервис ДМБ",
-      "longitude": 20.444808,
-      "latitude": 44.73589
+      "longitude": 20.444839,
+      "latitude": 44.735893
     },
     {
       "id": "_25",
       "label": "Манастир Раковица",
-      "longitude": 20.446892,
-      "latitude": 44.732299
+      "longitude": 20.446908,
+      "latitude": 44.732276
     },
     {
       "id": "_26",
       "label": "Јосипа Теларевића",
-      "longitude": 20.447389,
-      "latitude": 44.728066
+      "longitude": 20.44739,
+      "latitude": 44.728093
     },
     {
       "id": "_27",
@@ -171,214 +171,214 @@
     {
       "id": "_29",
       "label": "Ресник /Улаз/",
-      "longitude": 20.465697,
-      "latitude": 44.717199
+      "longitude": 20.465606,
+      "latitude": 44.717233
     },
     {
       "id": "_30",
       "label": "Ресник /Авалска/",
-      "longitude": 20.459547,
-      "latitude": 44.714371
+      "longitude": 20.45959,
+      "latitude": 44.714386
     },
     {
       "id": "_31",
       "label": "Ресник /Каменац/",
-      "longitude": 20.456304,
-      "latitude": 44.712519
+      "longitude": 20.456339,
+      "latitude": 44.71253
     },
     {
       "id": "_32",
       "label": "Ресник /Милорада Јанковића Доце/",
-      "longitude": 20.452659,
-      "latitude": 44.710614
+      "longitude": 20.452673,
+      "latitude": 44.710599
     },
     {
       "id": "_33",
       "label": "Ресник /Александра Војиновића/",
-      "longitude": 20.451307,
-      "latitude": 44.706913
+      "longitude": 20.451309,
+      "latitude": 44.706904
     },
     {
       "id": "_34",
       "label": "Железничка Станица Ресник",
-      "longitude": 20.449607,
-      "latitude": 44.704582
+      "longitude": 20.449657,
+      "latitude": 44.704584
     }
   ],
   "direction_b": [
     {
       "id": "_1",
       "label": "Железничка Станица Ресник",
-      "longitude": 20.449607,
-      "latitude": 44.704582
+      "longitude": 20.449657,
+      "latitude": 44.704584
     },
     {
       "id": "_2",
       "label": "Ресник /Александра Војиновића/",
-      "longitude": 20.45105,
-      "latitude": 44.706561
+      "longitude": 20.45109,
+      "latitude": 44.706559
     },
     {
       "id": "_3",
       "label": "Ресник /Милорада Јанковића Доце/",
-      "longitude": 20.452828,
-      "latitude": 44.710589
+      "longitude": 20.452941,
+      "latitude": 44.710584
     },
     {
       "id": "_4",
       "label": "Ресник /Каменац/",
-      "longitude": 20.456664,
-      "latitude": 44.712586
+      "longitude": 20.456806,
+      "latitude": 44.712639
     },
     {
       "id": "_5",
       "label": "Ресник /Авалска/",
-      "longitude": 20.459493,
-      "latitude": 44.714169
+      "longitude": 20.45957,
+      "latitude": 44.714189
     },
     {
       "id": "_6",
       "label": "Ресник /Улаз/",
-      "longitude": 20.465448,
-      "latitude": 44.717447
+      "longitude": 20.464818,
+      "latitude": 44.717666
     },
     {
       "id": "_7",
       "label": "Железничка Станица Јајинци",
-      "longitude": 20.457055,
-      "latitude": 44.721552
+      "longitude": 20.457077,
+      "latitude": 44.721554
     },
     {
       "id": "_8",
       "label": "Тунел Стражевица",
-      "longitude": 20.4508,
-      "latitude": 44.724697
+      "longitude": 20.450811,
+      "latitude": 44.724643
     },
     {
       "id": "_9",
       "label": "Јосипа Теларевића",
-      "longitude": 20.448561,
-      "latitude": 44.726932
+      "longitude": 20.448589,
+      "latitude": 44.726959
     },
     {
       "id": "_10",
       "label": "Манастир Раковица",
-      "longitude": 20.447432,
-      "latitude": 44.731249
+      "longitude": 20.447407,
+      "latitude": 44.731308
     },
     {
       "id": "_11",
       "label": "Сервис ДМБ",
-      "longitude": 20.445122,
-      "latitude": 44.736025
+      "longitude": 20.445108,
+      "latitude": 44.736037
     },
     {
       "id": "_12",
       "label": "Ослобођења",
-      "longitude": 20.439074,
-      "latitude": 44.738037
+      "longitude": 20.439095,
+      "latitude": 44.738052
     },
     {
       "id": "_13",
       "label": "Мишка Крањца",
-      "longitude": 20.442649,
-      "latitude": 44.742837
+      "longitude": 20.442684,
+      "latitude": 44.742862
     },
     {
       "id": "_14",
       "label": "ГО Раковица",
-      "longitude": 20.44556,
-      "latitude": 44.743357
+      "longitude": 20.445579,
+      "latitude": 44.74334
     },
     {
       "id": "_15",
       "label": "Миљаковац 1",
-      "longitude": 20.449961,
-      "latitude": 44.748109
+      "longitude": 20.449918,
+      "latitude": 44.748084
     },
     {
       "id": "_16",
       "label": "Станка Пауновића",
-      "longitude": 20.453306,
-      "latitude": 44.748416
+      "longitude": 20.453423,
+      "latitude": 44.748411
     },
     {
       "id": "_17",
       "label": "Варешка",
-      "longitude": 20.455706,
-      "latitude": 44.748869
+      "longitude": 20.455738,
+      "latitude": 44.748897
     },
     {
       "id": "_18",
       "label": "Канарево Брдо",
-      "longitude": 20.455151,
-      "latitude": 44.752675
+      "longitude": 20.455298,
+      "latitude": 44.752728
     },
     {
       "id": "_19",
       "label": "Српских Ударних Бригада",
-      "longitude": 20.457104,
-      "latitude": 44.754807
+      "longitude": 20.457065,
+      "latitude": 44.754738
     },
     {
       "id": "_20",
       "label": "Пере Велимировића",
-      "longitude": 20.461073,
-      "latitude": 44.757124
+      "longitude": 20.461207,
+      "latitude": 44.757065
     },
     {
       "id": "_21",
       "label": "Рашка",
-      "longitude": 20.469646,
-      "latitude": 44.754435
+      "longitude": 20.469723,
+      "latitude": 44.754428
     },
     {
       "id": "_22",
       "label": "Пет Солитера",
-      "longitude": 20.473132,
-      "latitude": 44.760023
+      "longitude": 20.473212,
+      "latitude": 44.760063
     },
     {
       "id": "_23",
       "label": "Паунова",
-      "longitude": 20.476732,
-      "latitude": 44.760882
+      "longitude": 20.476934,
+      "latitude": 44.760861
     },
     {
       "id": "_24",
       "label": "Трошарина",
-      "longitude": 20.479728,
-      "latitude": 44.762224
+      "longitude": 20.479727,
+      "latitude": 44.762243
     },
     {
       "id": "_25",
       "label": "Мосорска",
-      "longitude": 20.478135,
-      "latitude": 44.765549
+      "longitude": 20.478168,
+      "latitude": 44.76558
     },
     {
       "id": "_26",
       "label": "Капетана Завишића",
-      "longitude": 20.477083,
-      "latitude": 44.768416
+      "longitude": 20.477066,
+      "latitude": 44.768429
     },
     {
       "id": "_27",
       "label": "Факултет Организационих Наука",
-      "longitude": 20.475756,
-      "latitude": 44.771246
+      "longitude": 20.475686,
+      "latitude": 44.771365
     },
     {
       "id": "_28",
       "label": "Факултет Политичких Наука",
-      "longitude": 20.474008,
-      "latitude": 44.773571
+      "longitude": 20.474023,
+      "latitude": 44.77358
     },
     {
       "id": "_29",
       "label": "Атлетска дворана",
-      "longitude": 20.47173,
-      "latitude": 44.777542
+      "longitude": 20.47179,
+      "latitude": 44.777529
     },
     {
       "id": "_30",
@@ -389,32 +389,32 @@
     {
       "id": "_31",
       "label": "Трг Ослобођења",
-      "longitude": 20.466279,
-      "latitude": 44.788102
+      "longitude": 20.466297,
+      "latitude": 44.788087
     },
     {
       "id": "_32",
       "label": "Франше Д'Епереа",
-      "longitude": 20.466738,
-      "latitude": 44.792674
+      "longitude": 20.466713,
+      "latitude": 44.792784
     },
     {
       "id": "_33",
       "label": "Карађорђев парк",
-      "longitude": 20.465713,
-      "latitude": 44.798107
+      "longitude": 20.465719,
+      "latitude": 44.79816
     },
     {
       "id": "_34",
       "label": "Трг Славија /Булевар Ослобођења/",
-      "longitude": 20.466314,
-      "latitude": 44.801565
+      "longitude": 20.46636,
+      "latitude": 44.801732
     },
     {
       "id": "_35",
       "label": "Славија /Бирчанинова/",
-      "longitude": 20.465362,
-      "latitude": 44.800531
+      "longitude": 20.465466,
+      "latitude": 44.800629
     }
   ]
 }

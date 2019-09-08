@@ -3,50 +3,50 @@
     {
       "id": "_1",
       "label": "Блок 45",
-      "longitude": 20.374518,
+      "longitude": 20.374544,
       "latitude": 44.793445
     },
     {
       "id": "_2",
       "label": "Др Ивана Рибара",
-      "longitude": 20.371935,
-      "latitude": 44.798099
+      "longitude": 20.372009,
+      "latitude": 44.798112
     },
     {
       "id": "_3",
       "label": "ОШ Бранко Радичевић",
-      "longitude": 20.376868,
-      "latitude": 44.800234
+      "longitude": 20.376959,
+      "latitude": 44.800255
     },
     {
       "id": "_4",
       "label": "Нехруова",
-      "longitude": 20.381685,
-      "latitude": 44.801839
+      "longitude": 20.381795,
+      "latitude": 44.801864
     },
     {
       "id": "_5",
       "label": "Гандијева",
-      "longitude": 20.388756,
-      "latitude": 44.803475
+      "longitude": 20.388856,
+      "latitude": 44.803487
     },
     {
       "id": "_6",
       "label": "Блок 70",
-      "longitude": 20.393771,
-      "latitude": 44.804153
+      "longitude": 20.39383,
+      "latitude": 44.804155
     },
     {
       "id": "_7",
       "label": "Омладинских Бригада",
-      "longitude": 20.400115,
-      "latitude": 44.80448
+      "longitude": 20.400184,
+      "latitude": 44.804482
     },
     {
       "id": "_8",
       "label": "Агостина Нета",
-      "longitude": 20.404572,
-      "latitude": 44.804383
+      "longitude": 20.404657,
+      "latitude": 44.804372
     },
     {
       "id": "_9",
@@ -57,8 +57,8 @@
     {
       "id": "_10",
       "label": "Блок 42",
-      "longitude": 20.41731,
-      "latitude": 44.804433
+      "longitude": 20.417359,
+      "latitude": 44.804577
     },
     {
       "id": "_11",
@@ -69,20 +69,20 @@
     {
       "id": "_12",
       "label": "Милутина Миланковића",
-      "longitude": 20.422433,
-      "latitude": 44.806855
+      "longitude": 20.422451,
+      "latitude": 44.806869
     },
     {
       "id": "_13",
       "label": "Блок 23",
-      "longitude": 20.427613,
-      "latitude": 44.806726
+      "longitude": 20.427662,
+      "latitude": 44.806765
     },
     {
       "id": "_14",
       "label": "Сава центар",
-      "longitude": 20.43055,
-      "latitude": 44.809988
+      "longitude": 20.430634,
+      "latitude": 44.810049
     },
     {
       "id": "_15",
@@ -93,26 +93,26 @@
     {
       "id": "_16",
       "label": "Старо Сајмиште",
-      "longitude": 20.4389,
-      "latitude": 44.811894
+      "longitude": 20.438931,
+      "latitude": 44.811893
     },
     {
       "id": "_17",
       "label": "Економски факултет",
-      "longitude": 20.454073,
-      "latitude": 44.810777
+      "longitude": 20.454007,
+      "latitude": 44.810798
     },
     {
       "id": "_18",
       "label": "Савски трг",
-      "longitude": 20.455744,
-      "latitude": 44.807679
+      "longitude": 20.455827,
+      "latitude": 44.807829
     },
     {
       "id": "_19",
       "label": "Палата Правде",
-      "longitude": 20.453169,
-      "latitude": 44.804496
+      "longitude": 20.453038,
+      "latitude": 44.804371
     },
     {
       "id": "_20",
@@ -123,50 +123,50 @@
     {
       "id": "_21",
       "label": "Сајам",
-      "longitude": 20.441887,
-      "latitude": 44.796304
+      "longitude": 20.442646,
+      "latitude": 44.796512
     },
     {
       "id": "_22",
       "label": "Руска",
-      "longitude": 20.437558,
-      "latitude": 44.795149
+      "longitude": 20.437596,
+      "latitude": 44.795161
     },
     {
       "id": "_23",
       "label": "Господарска Механа",
-      "longitude": 20.43107,
-      "latitude": 44.793697
+      "longitude": 20.431207,
+      "latitude": 44.793751
     },
     {
       "id": "_24",
       "label": "Хиподром",
-      "longitude": 20.424059,
-      "latitude": 44.787769
+      "longitude": 20.424118,
+      "latitude": 44.78774
     },
     {
       "id": "_25",
       "label": "Кнеза Вишеслава",
-      "longitude": 20.421124,
-      "latitude": 44.783067
+      "longitude": 20.421204,
+      "latitude": 44.783099
     },
     {
       "id": "_26",
       "label": "Школа Jосиф Панчић",
-      "longitude": 20.417302,
-      "latitude": 44.781171
+      "longitude": 20.41738,
+      "latitude": 44.781286
     },
     {
       "id": "_27",
       "label": "Дом здравља",
       "longitude": 20.414599,
-      "latitude": 44.777818
+      "latitude": 44.777834
     },
     {
       "id": "_28",
       "label": "Кијевска",
-      "longitude": 20.413593,
-      "latitude": 44.775485
+      "longitude": 20.41357,
+      "latitude": 44.775426
     },
     {
       "id": "_29",
@@ -177,70 +177,70 @@
     {
       "id": "_30",
       "label": "Баново Брдо (Трам)",
-      "longitude": 20.413735,
-      "latitude": 44.768082
+      "longitude": 20.413749,
+      "latitude": 44.768099
     }
   ],
   "direction_b": [
     {
       "id": "_1",
       "label": "Баново Брдо (Трам)",
-      "longitude": 20.413735,
-      "latitude": 44.768082
+      "longitude": 20.413749,
+      "latitude": 44.768099
     },
     {
       "id": "_2",
       "label": "Требевићка",
-      "longitude": 20.414277,
-      "latitude": 44.771319
+      "longitude": 20.414341,
+      "latitude": 44.771477
     },
     {
       "id": "_3",
       "label": "Кијевска",
-      "longitude": 20.41377,
-      "latitude": 44.775855
+      "longitude": 20.413824,
+      "latitude": 44.775796
     },
     {
       "id": "_4",
       "label": "Дом здравља",
-      "longitude": 20.415811,
-      "latitude": 44.778985
+      "longitude": 20.415907,
+      "latitude": 44.77903
     },
     {
       "id": "_5",
       "label": "Школа Jосиф Панчић",
-      "longitude": 20.417595,
-      "latitude": 44.781329
+      "longitude": 20.41776,
+      "latitude": 44.78145
     },
     {
       "id": "_6",
       "label": "Кнеза Вишеслава",
-      "longitude": 20.422535,
-      "latitude": 44.783394
+      "longitude": 20.422635,
+      "latitude": 44.783411
     },
     {
       "id": "_7",
       "label": "Хиподром",
-      "longitude": 20.424415,
-      "latitude": 44.787864
+      "longitude": 20.424448,
+      "latitude": 44.787835
     },
     {
       "id": "_8",
       "label": "Господарска Механа",
-      "longitude": 20.431196,
-      "latitude": 44.793657
+      "longitude": 20.431258,
+      "latitude": 44.793663
     },
     {
       "id": "_9",
       "label": "Руска",
-      "longitude": 20.437687,
-      "latitude": 44.795086
+      "longitude": 20.437678,
+      "latitude": 44.795049
     },
     {
       "id": "_10",
       "label": "Сајам",
-      "longitude": 20.442048,
-      "latitude": 44.796238
+      "longitude": 20.442778,
+      "latitude": 44.796434
     },
     {
       "id": "_11",
@@ -251,50 +251,50 @@
     {
       "id": "_12",
       "label": "Палата Правде",
-      "longitude": 20.4533,
+      "longitude": 20.453302,
       "latitude": 44.804555
     },
     {
       "id": "_13",
       "label": "Савски трг",
-      "longitude": 20.456626,
-      "latitude": 44.8086
+      "longitude": 20.456587,
+      "latitude": 44.808544
     },
     {
       "id": "_14",
       "label": "Економски факултет",
-      "longitude": 20.453689,
-      "latitude": 44.810756
+      "longitude": 20.453559,
+      "latitude": 44.810815
     },
     {
       "id": "_15",
       "label": "Старо Сајмиште",
-      "longitude": 20.440088,
-      "latitude": 44.81171
+      "longitude": 20.440112,
+      "latitude": 44.811695
     },
     {
       "id": "_16",
       "label": "Блок 21",
-      "longitude": 20.433503,
-      "latitude": 44.813772
+      "longitude": 20.433585,
+      "latitude": 44.813801
     },
     {
       "id": "_17",
       "label": "Сава центар",
-      "longitude": 20.429297,
-      "latitude": 44.809151
+      "longitude": 20.42941,
+      "latitude": 44.809189
     },
     {
       "id": "_18",
       "label": "Блок 23",
-      "longitude": 20.427141,
-      "latitude": 44.806736
+      "longitude": 20.427221,
+      "latitude": 44.806774
     },
     {
       "id": "_19",
       "label": "Милутина Миланковића",
-      "longitude": 20.422259,
-      "latitude": 44.807047
+      "longitude": 20.422264,
+      "latitude": 44.807059
     },
     {
       "id": "_20",
@@ -305,38 +305,38 @@
     {
       "id": "_21",
       "label": "Блок 42",
-      "longitude": 20.416479,
-      "latitude": 44.80394
+      "longitude": 20.4164,
+      "latitude": 44.803946
     },
     {
       "id": "_22",
       "label": "Насеље Белвил",
-      "longitude": 20.407896,
-      "latitude": 44.804326
+      "longitude": 20.407897,
+      "latitude": 44.804319
     },
     {
       "id": "_23",
       "label": "Агостина Нета",
-      "longitude": 20.402985,
+      "longitude": 20.402884,
       "latitude": 44.804545
     },
     {
       "id": "_24",
       "label": "Омладинских Бригада",
-      "longitude": 20.398492,
-      "latitude": 44.804543
+      "longitude": 20.398533,
+      "latitude": 44.804551
     },
     {
       "id": "_25",
       "label": "Блок 70",
-      "longitude": 20.393524,
-      "latitude": 44.804216
+      "longitude": 20.393498,
+      "latitude": 44.804214
     },
     {
       "id": "_26",
       "label": "Гандијева",
-      "longitude": 20.387221,
-      "latitude": 44.803272
+      "longitude": 20.387312,
+      "latitude": 44.80328
     },
     {
       "id": "_27",
@@ -347,25 +347,25 @@
     {
       "id": "_28",
       "label": "ОШ Бранко Радичевић",
-      "longitude": 20.375739,
-      "latitude": 44.799873
+      "longitude": 20.375647,
+      "latitude": 44.799843
     },
     {
       "id": "_29",
       "label": "Др Ивана Рибара",
-      "longitude": 20.371292,
-      "latitude": 44.797345
+      "longitude": 20.371298,
+      "latitude": 44.797378
     },
     {
       "id": "_30",
       "label": "Блок 45",
-      "longitude": 20.37392,
-      "latitude": 44.793967
+      "longitude": 20.373896,
+      "latitude": 44.794072
     },
     {
       "id": "_31",
       "label": "Блок 45",
-      "longitude": 20.374518,
+      "longitude": 20.374544,
       "latitude": 44.793445
     }
   ]

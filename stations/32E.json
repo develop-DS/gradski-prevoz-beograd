@@ -3,80 +3,80 @@
     {
       "id": "_1",
       "label": "Републике трг",
-      "longitude": 20.461814,
-      "latitude": 44.816643
+      "longitude": 20.461632,
+      "latitude": 44.816664
     },
     {
       "id": "_2",
       "label": "Џорџа Вашингтона",
-      "longitude": 20.469852,
-      "latitude": 44.816762
+      "longitude": 20.469867,
+      "latitude": 44.816793
     },
     {
       "id": "_3",
       "label": "Цвијићева",
-      "longitude": 20.47747,
-      "latitude": 44.817106
+      "longitude": 20.477542,
+      "latitude": 44.817127
     },
     {
       "id": "_4",
       "label": "Центар за Културу Влада Дивљан",
-      "longitude": 20.483124,
-      "latitude": 44.817372
+      "longitude": 20.483095,
+      "latitude": 44.817383
     },
     {
       "id": "_5",
       "label": "Панчевачки мост",
-      "longitude": 20.48829,
-      "latitude": 44.817834
+      "longitude": 20.488276,
+      "latitude": 44.81785
     },
     {
       "id": "_6",
       "label": "Вука Врчевића",
-      "longitude": 20.495446,
-      "latitude": 44.817608
+      "longitude": 20.495489,
+      "latitude": 44.817647
     },
     {
       "id": "_7",
       "label": "Војводе Мицка Крстића",
-      "longitude": 20.502723,
-      "latitude": 44.817576
+      "longitude": 20.502792,
+      "latitude": 44.81758
     },
     {
       "id": "_8",
       "label": "Диљска",
-      "longitude": 20.510724,
-      "latitude": 44.817363
+      "longitude": 20.510768,
+      "latitude": 44.817341
     },
     {
       "id": "_9",
       "label": "Пут за Аду Хују",
-      "longitude": 20.51421,
-      "latitude": 44.817418
+      "longitude": 20.51428,
+      "latitude": 44.81741
     },
     {
       "id": "_10",
       "label": "Миријевски булевар",
-      "longitude": 20.519572,
-      "latitude": 44.81742
+      "longitude": 20.519635,
+      "latitude": 44.817408
     },
     {
       "id": "_11",
       "label": "Роспи Ћуприја",
-      "longitude": 20.523625,
-      "latitude": 44.818057
+      "longitude": 20.523596,
+      "latitude": 44.818061
     },
     {
       "id": "_12",
       "label": "Марина",
-      "longitude": 20.526423,
-      "latitude": 44.818752
+      "longitude": 20.526453,
+      "latitude": 44.818749
     },
     {
       "id": "_13",
       "label": "ФК Бања",
-      "longitude": 20.531363,
-      "latitude": 44.819872
+      "longitude": 20.531412,
+      "latitude": 44.819901
     },
     {
       "id": "_14",
@@ -87,130 +87,130 @@
     {
       "id": "_15",
       "label": "Деспотовачка",
-      "longitude": 20.541306,
-      "latitude": 44.824558
+      "longitude": 20.541345,
+      "latitude": 44.824556
     },
     {
       "id": "_16",
       "label": "Ловачка",
-      "longitude": 20.543903,
-      "latitude": 44.82712
+      "longitude": 20.543972,
+      "latitude": 44.827134
     },
     {
       "id": "_17",
       "label": "Вишњица",
-      "longitude": 20.548205,
-      "latitude": 44.830742
+      "longitude": 20.548182,
+      "latitude": 44.830766
     }
   ],
   "direction_b": [
     {
       "id": "_1",
       "label": "Вишњица",
-      "longitude": 20.547529,
-      "latitude": 44.830549
+      "longitude": 20.547602,
+      "latitude": 44.830511
     },
     {
       "id": "_2",
       "label": "Ловачка",
-      "longitude": 20.544117,
-      "latitude": 44.827579
+      "longitude": 20.544204,
+      "latitude": 44.827615
     },
     {
       "id": "_3",
       "label": "Деспотовачка",
-      "longitude": 20.541126,
-      "latitude": 44.824337
+      "longitude": 20.541156,
+      "latitude": 44.824288
     },
     {
       "id": "_4",
       "label": "Вишњичка Бања",
-      "longitude": 20.537248,
-      "latitude": 44.821927
+      "longitude": 20.537292,
+      "latitude": 44.821928
     },
     {
       "id": "_5",
       "label": "ФК Бања",
-      "longitude": 20.53091,
-      "latitude": 44.819885
+      "longitude": 20.530911,
+      "latitude": 44.819874
     },
     {
       "id": "_6",
       "label": "Марина",
-      "longitude": 20.526844,
-      "latitude": 44.818909
+      "longitude": 20.526889,
+      "latitude": 44.818901
     },
     {
       "id": "_7",
       "label": "Роспи Ћуприја",
-      "longitude": 20.521855,
-      "latitude": 44.818011
+      "longitude": 20.521879,
+      "latitude": 44.817996
     },
     {
       "id": "_8",
       "label": "Миријевски булевар",
-      "longitude": 20.519438,
+      "longitude": 20.519454,
       "latitude": 44.817722
     },
     {
       "id": "_9",
       "label": "Пут за Аду Хују",
-      "longitude": 20.5141,
-      "latitude": 44.81765
+      "longitude": 20.514094,
+      "latitude": 44.817643
     },
     {
       "id": "_10",
       "label": "Диљска",
-      "longitude": 20.509651,
-      "latitude": 44.817677
+      "longitude": 20.509684,
+      "latitude": 44.817686
     },
     {
       "id": "_11",
       "label": "Војводе Мицка Крстића",
-      "longitude": 20.502926,
-      "latitude": 44.817854
+      "longitude": 20.502955,
+      "latitude": 44.817856
     },
     {
       "id": "_12",
       "label": "Вука Врчевића",
-      "longitude": 20.496706,
-      "latitude": 44.817951
+      "longitude": 20.496788,
+      "latitude": 44.817933
     },
     {
       "id": "_13",
       "label": "Панчевачки мост",
-      "longitude": 20.488037,
-      "latitude": 44.818103
+      "longitude": 20.488213,
+      "latitude": 44.81811
     },
     {
       "id": "_14",
       "label": "Центар за Културу Влада Дивљан",
-      "longitude": 20.484602,
-      "latitude": 44.817696
+      "longitude": 20.484569,
+      "latitude": 44.817701
     },
     {
       "id": "_15",
       "label": "Jована Авакумовића",
-      "longitude": 20.479505,
-      "latitude": 44.817357
+      "longitude": 20.479492,
+      "latitude": 44.817376
     },
     {
       "id": "_16",
       "label": "Цвијићева",
-      "longitude": 20.475976,
-      "latitude": 44.817205
+      "longitude": 20.475941,
+      "latitude": 44.817221
     },
     {
       "id": "_17",
       "label": "Џорџа Вашингтона",
-      "longitude": 20.470002,
-      "latitude": 44.816959
+      "longitude": 20.469985,
+      "latitude": 44.816963
     },
     {
       "id": "_18",
       "label": "Републике трг",
-      "longitude": 20.461814,
-      "latitude": 44.816643
+      "longitude": 20.461632,
+      "latitude": 44.816664
     }
   ]
 }

@@ -1,10 +1,52 @@
 [
     {
+        "date": "05.09.2019",
+        "title": "Izmena na liniji broj 57 zbog radova u ulici Kneza Višeslava (od 07.09.2019)",
+        "sections": [
+            {
+                "text": "Zbog radova na redovnom održavanju kolovoza u ulici Kneza Višeslava, (potpuno zatvaranje kolovoza), na delu od ulice Petra Martinovića do ulice Požeške, koje će izvoditi JKP „Beograd put“, od subote 07.09.2019. do 15.10.2019., menja se režim rada linije JGP-a, na sledeći način:"
+            },
+            {
+                "text": "• Vozila sa linije 57, u oba smera, će saobraćati ulicama: Požeška – Blagoja Parovića – Žarkovačka i dalje redovnom trasom"
+            },
+            {
+                "text": "Privremeno se ukidaju stajališta za liniju 57:"
+            },
+            {
+                "text": "• „Kijevska“\n• „Dom zdravlja“\n• Škola „Josif Pančić“\n• „Kneza Višeslava“\n• Naselje „Golf“\n• „Petra Martinovića“\n• „Žarkovačka“\n• „Kraljice Katarine“"
+            },
+            {
+                "text": "Na izmenjenom delu trase vozila će koristiti postojeća stajališta JGP-a."
+            }
+        ]
+    },
+    {
+        "date": "05.09.2019",
+        "title": "Izmene na linijama broj: 37, 50, 52, 89 zbog radova u ulici Ace Joksimovića (od 07.09.2019)",
+        "sections": [
+            {
+                "text": "Zbog radova na redovnom održavanju kolovoza u ulici Ace Joksimovića, (potpuno zatvaranje kolovoza), na delu od ulice Trgovačke do ulice Spasovdanske, koje će izvoditi JKP „Beograd put“, od subote 07.09.2019. od 00:00 časova do 09.09.2019. do 04:00 časa, menja se režim rada linije JGP-a, na sledeći način:"
+            },
+            {
+                "text": "• Vozila sa linija 37, 50, u oba smera, će saobraćati ulicama: Ratka Mitrovića – Đorđa Ognjanovića – Požeška i dalje redovnim trasama\n• Vozila sa linije 52, u oba smera, će saobraćati ulicama: Vinogradski venac – Jablanička – Trgovačka i dalje redovnom trasom\n• Vozila sa linije 89 u oba smera, će saobraćati ulicama: Ratka Mitrovića – Đorđa Ognjanovića – Endija Vorhola i dalje redovnom trasom"
+            },
+            {
+                "text": "Privremeno se ukidaju stajališta:"
+            },
+            {
+                "text": "• „Julino brdo“, u oba smera, za linije 37, 50, 89\n• „Žarkovo“, u oba smera za linije 37, 50, odnosno u smeru ka Novom Beogradu za\nliniju 89\n• „Ace Joksimovića“, u oba smera, za linije 37, 50, 52\n• „Ratka Mitrovića“, „Šavnička“, „Ljubice Ivošević“, „Kosmajska“ i „Bitoljska“, u oba\nsmera za liniju 52\n• „Dom zdravlja“, u oba smera, za liniju 89"
+            },
+            {
+                "text": "Na izmenjenom delu trase vozila će koristiti postojeća stajališta JGP-a."
+            }
+        ]
+    },
+    {
         "date": "04.09.2019",
         "title": "Izmene na linijama broj: 67, 71, 94, EKO 1 za vreme održavanja auto trke pod nazivom „Nagrada Beograda 2019“ (od 06.09.2019)",
         "sections": [
             {
-                "text": "Zbog održavanje auto trke pod nazivom „Nagrada Beograda 2019“, u Bulevaru Milutina Milankovića na delu od ulice Omladinskih brigada do ulice Antifašističke borbe (bez raskrsnica), u periodu od petka 06.09.2019. od 12:00 časova do 08.09.2019. do 24:00 časa, menja se režim rada linije JGP-a, na sledeći način:"
+                "text": "Zbog održavanje auto trke pod nazivom „Nagrada Beograda 2019“, u Bulevaru Milutina Milankovića na delu od ulice Omladinskih brigada do ulice Antifašističke borbe (bez raskrsnica), u periodu od petka 06.09.2019. od 12:00 časova do 09.09.2019. do 24:00 časa, menja se režim rada linije JGP-a, na sledeći način:"
             },
             {
                 "text": "• Vozila sa linije 67, u oba smera, će saobraćati: Antifašističke borbe – Bulevar Arsenija Čarnojevića – Omladinskih brigada i dalje redovnom trasom\n• Vozila sa linije 71, u oba smera, će saobraćati: Bulevar umetnosti – Bulevar Zorana Đinđića – Omladinskih brigada – Bulevar Milutina Milankovića i dalje redovnom trasom\n• Vozila sa linije 94, u oba smera, će saobraćati: Antifašističke borbe – Bulevar Arsenija Čarnojevića – Omladinskih brigada i dalje redovnom trasom\n• Vozila sa linije EKO 1, će saobraćati: u smeru ka naselju Belvil: Antifašističke borbe – Jurija Gagarina – Marka Hristića – Bulevar Crvene armije – NASELJE BELVIL; u smeru ka Vukovom spomeniku: Đorđa Stanojevića – Bulevar Crvene armije – Jurija Gagarina – Antifašističke borbe i dalje redovnom trasom"
@@ -14,18 +56,6 @@
             },
             {
                 "text": "• „Blok 24“ u oba smera, za liniju 67\n• „Milutina Milankovića“ u smeru ka Novom Beogradu za linije 67, 94, EKO 1\n• „Španskih boraca “ u oba smera za linije 67, 94, odnosno u smeru ka Vukovom\nspomeniku za liniju EKO 1\n• „Bulevar umetnosti“, u oba smera, za linije 67, 71, 94, odnosno u smeru ka Vukovom spomeniku za liniju EKO 1\n• „Omladinskih brigada 1“ u smeru ka Zelenom vencu, za linije 67, 71, 94, EKO 1\n• „Blok 29“ i „Fakultet dramskih umetnosti“, u oba smera za liniju 71\n• „Blok 28“ u smeru ka Zelenom vencu, za liniju 71\n• „Airport City“ u smeru ka Vukovom spomeniku, za liniju EKO 1"
-            }
-        ]
-    },
-    {
-        "date": "03.09.2019",
-        "title": "Privremeno se ukida linija 506 zbog radova u ulici Aleksandra Vojinovića (od 04.09.2019)",
-        "sections": [
-            {
-                "text": "Zbog radova na izgradnji vodovodne i kanalizacione mreže u ulici Aleksandra Vojinovića u Resniku, (potpuno zatvaranje u smeru prema pružnom prelazu), koje će izvoditi preduzeće „Infrastruktura železnica Srbije“ a.d. Beorad, u periodu od srede 04.09.2019. do 07.09.2019., doći će do promene režima rada linija JGP-a:"
-            },
-            {
-                "text": "• Privremeno se ukida linija broj 506 (Resnik/Edvarda Griga/ – Resnik /Patin majdan/)"
             }
         ]
     },

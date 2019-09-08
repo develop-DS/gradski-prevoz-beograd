@@ -3,32 +3,32 @@
     {
       "id": "_1",
       "label": "Церак Виногради",
-      "longitude": 20.418681,
-      "latitude": 44.74367
+      "longitude": 20.418702,
+      "latitude": 44.74366
     },
     {
       "id": "_2",
       "label": "Пилота Михајла Петровића",
-      "longitude": 20.424493,
-      "latitude": 44.742836
+      "longitude": 20.424512,
+      "latitude": 44.742814
     },
     {
       "id": "_3",
       "label": "МЗ Видиковац",
       "longitude": 20.42261,
-      "latitude": 44.740176
+      "latitude": 44.740185
     },
     {
       "id": "_4",
       "label": "Видиковачки Венац",
-      "longitude": 20.420062,
-      "latitude": 44.738503
+      "longitude": 20.420066,
+      "latitude": 44.738532
     },
     {
       "id": "_5",
       "label": "Топлана",
-      "longitude": 20.420558,
-      "latitude": 44.734031
+      "longitude": 20.420595,
+      "latitude": 44.73409
     },
     {
       "id": "_6",
@@ -39,110 +39,110 @@
     {
       "id": "_7",
       "label": "Насеље Петлово Брдо",
-      "longitude": 20.417646,
-      "latitude": 44.723597
+      "longitude": 20.417752,
+      "latitude": 44.723573
     },
     {
       "id": "_8",
       "label": "Требеж",
-      "longitude": 20.431183,
-      "latitude": 44.648574
+      "longitude": 20.431195,
+      "latitude": 44.648588
     },
     {
       "id": "_9",
       "label": "Липовачки Пут 6 део",
-      "longitude": 20.436751,
-      "latitude": 44.646737
+      "longitude": 20.436759,
+      "latitude": 44.646746
     },
     {
       "id": "_10",
       "label": "Липовачки Пут 5 део",
-      "longitude": 20.446458,
-      "latitude": 44.644481
+      "longitude": 20.446461,
+      "latitude": 44.64447
     },
     {
       "id": "_11",
       "label": "Липовачки Пут 4 део",
-      "longitude": 20.453456,
+      "longitude": 20.453472,
       "latitude": 44.643865
     },
     {
       "id": "_12",
       "label": "Дрењак",
-      "longitude": 20.457047,
-      "latitude": 44.638185
+      "longitude": 20.45713,
+      "latitude": 44.638221
     },
     {
       "id": "_13",
       "label": "Тимочки пут",
-      "longitude": 20.46173,
-      "latitude": 44.634803
+      "longitude": 20.461749,
+      "latitude": 44.634812
     },
     {
       "id": "_14",
       "label": "Липовачки Пут",
-      "longitude": 20.466389,
-      "latitude": 44.629955
+      "longitude": 20.466454,
+      "latitude": 44.629983
     },
     {
       "id": "_15",
       "label": "Драженовац",
-      "longitude": 20.469096,
-      "latitude": 44.622861
+      "longitude": 20.469125,
+      "latitude": 44.62288
     },
     {
       "id": "_16",
       "label": "Драженовац 3",
-      "longitude": 20.475986,
-      "latitude": 44.621481
+      "longitude": 20.476009,
+      "latitude": 44.621492
     },
     {
       "id": "_17",
       "label": "Драженовац 2",
-      "longitude": 20.482367,
-      "latitude": 44.6168
+      "longitude": 20.482389,
+      "latitude": 44.616846
     },
     {
       "id": "_18",
       "label": "Драженовац 1",
-      "longitude": 20.494137,
-      "latitude": 44.615219
+      "longitude": 20.494142,
+      "latitude": 44.615238
     },
     {
       "id": "_19",
       "label": "Рипањ /Брђани/",
-      "longitude": 20.501607,
-      "latitude": 44.616666
+      "longitude": 20.501693,
+      "latitude": 44.616658
     },
     {
       "id": "_20",
       "label": "Пут за Лукиће",
-      "longitude": 20.506327,
-      "latitude": 44.616884
+      "longitude": 20.506373,
+      "latitude": 44.616872
     },
     {
       "id": "_21",
       "label": "Брђани /Школа/",
-      "longitude": 20.512126,
-      "latitude": 44.619769
+      "longitude": 20.512165,
+      "latitude": 44.619754
     },
     {
       "id": "_22",
       "label": "Пут за Брест",
-      "longitude": 20.519138,
-      "latitude": 44.621323
+      "longitude": 20.519329,
+      "latitude": 44.621406
     },
     {
       "id": "_23",
       "label": "Пут за Жути Брег",
-      "longitude": 20.521254,
-      "latitude": 44.624308
+      "longitude": 20.52132,
+      "latitude": 44.624288
     },
     {
       "id": "_24",
       "label": "Брђани /Симићи/",
-      "longitude": 20.521026,
-      "latitude": 44.631331
+      "longitude": 20.521085,
+      "latitude": 44.631316
     },
     {
       "id": "_25",
@@ -165,28 +165,28 @@
     {
       "id": "_28",
       "label": "Рипањ /Гробље/",
-      "longitude": 20.52189,
-      "latitude": 44.648147
+      "longitude": 20.521868,
+      "latitude": 44.64815
     }
   ],
   "direction_b": [
     {
       "id": "_1",
       "label": "Рипањ /Гробље/",
-      "longitude": 20.52189,
-      "latitude": 44.648147
+      "longitude": 20.521868,
+      "latitude": 44.64815
     },
     {
       "id": "_2",
       "label": "Пут за Несторовиће",
-      "longitude": 20.522222,
-      "latitude": 44.645235
+      "longitude": 20.522216,
+      "latitude": 44.645233
     },
     {
       "id": "_3",
       "label": "Пут за Калајџиће",
-      "longitude": 20.521951,
-      "latitude": 44.642397
+      "longitude": 20.521945,
+      "latitude": 44.6424
     },
     {
       "id": "_4",
@@ -197,8 +197,8 @@
     {
       "id": "_5",
       "label": "Брђани /Симићи/",
-      "longitude": 20.520889,
-      "latitude": 44.631467
+      "longitude": 20.520915,
+      "latitude": 44.631466
     },
     {
       "id": "_6",
@@ -209,56 +209,56 @@
     {
       "id": "_7",
       "label": "Пут за Брест",
-      "longitude": 20.519226,
-      "latitude": 44.621491
+      "longitude": 20.519244,
+      "latitude": 44.621477
     },
     {
       "id": "_8",
       "label": "Брђани /Школа/",
-      "longitude": 20.511654,
-      "latitude": 44.61982
+      "longitude": 20.51176,
+      "latitude": 44.619805
     },
     {
       "id": "_9",
       "label": "Пут за Лукиће",
-      "longitude": 20.506735,
-      "latitude": 44.617268
+      "longitude": 20.506778,
+      "latitude": 44.617259
     },
     {
       "id": "_10",
       "label": "Рипањ /Брђани/",
-      "longitude": 20.501269,
-      "latitude": 44.616718
+      "longitude": 20.501254,
+      "latitude": 44.616661
     },
     {
       "id": "_11",
       "label": "Драженовац 1",
-      "longitude": 20.495749,
-      "latitude": 44.615221
+      "longitude": 20.495832,
+      "latitude": 44.615202
     },
     {
       "id": "_12",
       "label": "Драженовац 2",
-      "longitude": 20.482134,
-      "latitude": 44.616954
+      "longitude": 20.482139,
+      "latitude": 44.61696
     },
     {
       "id": "_13",
       "label": "Драженовац 3",
-      "longitude": 20.476592,
-      "latitude": 44.621332
+      "longitude": 20.476705,
+      "latitude": 44.621286
     },
     {
       "id": "_14",
       "label": "Драженовац /Брђанска/",
-      "longitude": 20.468908,
-      "latitude": 44.623665
+      "longitude": 20.468952,
+      "latitude": 44.623672
     },
     {
       "id": "_15",
       "label": "Липовачки Пут",
-      "longitude": 20.466408,
-      "latitude": 44.630199
+      "longitude": 20.466375,
+      "latitude": 44.630261
     },
     {
       "id": "_16",
@@ -275,74 +275,74 @@
     {
       "id": "_18",
       "label": "Липовачки Пут 4 део",
-      "longitude": 20.453418,
-      "latitude": 44.644319
+      "longitude": 20.453438,
+      "latitude": 44.644307
     },
     {
       "id": "_19",
       "label": "Липовачки Пут 5 део",
-      "longitude": 20.445114,
-      "latitude": 44.644418
+      "longitude": 20.445305,
+      "latitude": 44.644424
     },
     {
       "id": "_20",
       "label": "Липовачки Пут 6 део",
-      "longitude": 20.436413,
-      "latitude": 44.646966
+      "longitude": 20.436449,
+      "latitude": 44.646961
     },
     {
       "id": "_21",
       "label": "Требеж",
-      "longitude": 20.430571,
-      "latitude": 44.648971
+      "longitude": 20.430577,
+      "latitude": 44.648992
     },
     {
       "id": "_22",
       "label": "Насеље Петлово Брдо",
-      "longitude": 20.417077,
+      "longitude": 20.417094,
       "latitude": 44.721805
     },
     {
       "id": "_23",
       "label": "Лабудово Брдо",
-      "longitude": 20.421309,
-      "latitude": 44.730829
+      "longitude": 20.421303,
+      "latitude": 44.730862
     },
     {
       "id": "_24",
       "label": "Топлана",
-      "longitude": 20.420591,
-      "latitude": 44.734574
+      "longitude": 20.420636,
+      "latitude": 44.734497
     },
     {
       "id": "_25",
       "label": "Видиковачки Венац",
-      "longitude": 20.420926,
-      "latitude": 44.739025
+      "longitude": 20.420967,
+      "latitude": 44.739029
     },
     {
       "id": "_26",
       "label": "МЗ Видиковац",
-      "longitude": 20.42309,
-      "latitude": 44.740405
+      "longitude": 20.423165,
+      "latitude": 44.740449
     },
     {
       "id": "_27",
       "label": "Пилота Михајла Петровића",
-      "longitude": 20.424094,
-      "latitude": 44.74383
+      "longitude": 20.424106,
+      "latitude": 44.743859
     },
     {
       "id": "_28",
       "label": "Церак Виногради",
-      "longitude": 20.419153,
-      "latitude": 44.743672
+      "longitude": 20.41916,
+      "latitude": 44.743664
     },
     {
       "id": "_29",
       "label": "Церак Виногради",
-      "longitude": 20.418681,
-      "latitude": 44.74367
+      "longitude": 20.418702,
+      "latitude": 44.74366
     }
   ]
 }

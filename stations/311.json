@@ -3,86 +3,86 @@
     {
       "id": "_1",
       "label": "Устаничка",
-      "longitude": 20.517354,
-      "latitude": 44.784805
+      "longitude": 20.517384,
+      "latitude": 44.784813
     },
     {
       "id": "_2",
       "label": "Бајдина",
-      "longitude": 20.525803,
-      "latitude": 44.779366
+      "longitude": 20.525767,
+      "latitude": 44.779394
     },
     {
       "id": "_3",
       "label": "Миријевска",
-      "longitude": 20.529837,
-      "latitude": 44.777681
+      "longitude": 20.529854,
+      "latitude": 44.777704
     },
     {
       "id": "_4",
       "label": "ОШ Драгојло Дудић",
-      "longitude": 20.534638,
-      "latitude": 44.775339
+      "longitude": 20.534686,
+      "latitude": 44.775345
     },
     {
       "id": "_5",
       "label": "Нине Кирсанове",
-      "longitude": 20.547867,
-      "latitude": 44.776329
+      "longitude": 20.547837,
+      "latitude": 44.776352
     },
     {
       "id": "_6",
       "label": "Ново Насеље",
-      "longitude": 20.554025,
-      "latitude": 44.77244
+      "longitude": 20.554095,
+      "latitude": 44.772432
     },
     {
       "id": "_7",
       "label": "Пут за Калуђерицу",
-      "longitude": 20.560368,
-      "latitude": 44.767665
+      "longitude": 20.560379,
+      "latitude": 44.76769
     },
     {
       "id": "_8",
       "label": "Пут за Институт",
-      "longitude": 20.56433,
-      "latitude": 44.764495
+      "longitude": 20.564336,
+      "latitude": 44.764531
     },
     {
       "id": "_9",
       "label": "Филипа Кљајића",
-      "longitude": 20.566236,
-      "latitude": 44.762051
+      "longitude": 20.566266,
+      "latitude": 44.762054
     },
     {
       "id": "_10",
       "label": "Стара Калуђерица",
-      "longitude": 20.569477,
-      "latitude": 44.759334
+      "longitude": 20.569555,
+      "latitude": 44.759323
     },
     {
       "id": "_11",
       "label": "Чардак",
-      "longitude": 20.575888,
-      "latitude": 44.756464
+      "longitude": 20.575949,
+      "latitude": 44.756451
     },
     {
       "id": "_12",
       "label": "Хотел Радмиловац",
-      "longitude": 20.580815,
-      "latitude": 44.753676
+      "longitude": 20.580799,
+      "latitude": 44.753694
     },
     {
       "id": "_13",
       "label": "Петра Кочића",
-      "longitude": 20.58391,
-      "latitude": 44.750878
+      "longitude": 20.583959,
+      "latitude": 44.750835
     },
     {
       "id": "_14",
       "label": "Душана Петровића Шанета",
-      "longitude": 20.587783,
-      "latitude": 44.748382
+      "longitude": 20.587734,
+      "latitude": 44.748383
     },
     {
       "id": "_15",
@@ -105,52 +105,52 @@
     {
       "id": "_18",
       "label": "Миодрага Пешића",
-      "longitude": 20.587327,
-      "latitude": 44.738244
+      "longitude": 20.58735,
+      "latitude": 44.738229
     },
     {
       "id": "_19",
       "label": "ОШ Никола Тесла",
-      "longitude": 20.580853,
-      "latitude": 44.734327
+      "longitude": 20.580857,
+      "latitude": 44.734346
     },
     {
       "id": "_20",
       "label": "Лештане",
-      "longitude": 20.575399,
-      "latitude": 44.730485
+      "longitude": 20.575387,
+      "latitude": 44.730477
     },
     {
       "id": "_21",
       "label": "Лештане /Излаз/",
-      "longitude": 20.575751,
-      "latitude": 44.728056
+      "longitude": 20.575795,
+      "latitude": 44.728054
     },
     {
       "id": "_22",
       "label": "Кремење",
-      "longitude": 20.5786,
-      "latitude": 44.72231
+      "longitude": 20.578581,
+      "latitude": 44.722302
     },
     {
       "id": "_23",
       "label": "Лештане",
-      "longitude": 20.583036,
-      "latitude": 44.71952
+      "longitude": 20.583073,
+      "latitude": 44.719507
     }
   ],
   "direction_b": [
     {
       "id": "_1",
       "label": "Лештане",
-      "longitude": 20.583036,
-      "latitude": 44.71952
+      "longitude": 20.583073,
+      "latitude": 44.719507
     },
     {
       "id": "_2",
       "label": "Кремење",
-      "longitude": 20.578664,
-      "latitude": 44.722562
+      "longitude": 20.578659,
+      "latitude": 44.722542
     },
     {
       "id": "_3",
@@ -167,122 +167,122 @@
     {
       "id": "_5",
       "label": "ОШ Никола Тесла",
-      "longitude": 20.581164,
-      "latitude": 44.734308
+      "longitude": 20.581142,
+      "latitude": 44.734342
     },
     {
       "id": "_6",
       "label": "Миодрага Пешића",
-      "longitude": 20.588159,
-      "latitude": 44.738816
+      "longitude": 20.588498,
+      "latitude": 44.739076
     },
     {
       "id": "_7",
       "label": "Привредна зона",
-      "longitude": 20.591748,
-      "latitude": 44.741041
+      "longitude": 20.591252,
+      "latitude": 44.74074
     },
     {
       "id": "_8",
       "label": "Првомајска",
-      "longitude": 20.594272,
-      "latitude": 44.743003
+      "longitude": 20.594227,
+      "latitude": 44.743004
     },
     {
       "id": "_9",
       "label": "Винча /Млин/",
-      "longitude": 20.597219,
-      "latitude": 44.746095
+      "longitude": 20.597281,
+      "latitude": 44.746075
     },
     {
       "id": "_10",
       "label": "Душана Петровића Шанета",
-      "longitude": 20.586806,
-      "latitude": 44.748975
+      "longitude": 20.587041,
+      "latitude": 44.748767
     },
     {
       "id": "_11",
       "label": "Петра Кочића",
-      "longitude": 20.583688,
-      "latitude": 44.751248
+      "longitude": 20.583749,
+      "latitude": 44.751251
     },
     {
       "id": "_12",
       "label": "Хотел Радмиловац",
-      "longitude": 20.580724,
-      "latitude": 44.753966
+      "longitude": 20.5808,
+      "latitude": 44.753876
     },
     {
       "id": "_13",
       "label": "Чардак",
-      "longitude": 20.575606,
-      "latitude": 44.756801
+      "longitude": 20.575664,
+      "latitude": 44.756806
     },
     {
       "id": "_14",
       "label": "Стара Калуђерица",
-      "longitude": 20.568699,
-      "latitude": 44.760011
+      "longitude": 20.568655,
+      "latitude": 44.759998
     },
     {
       "id": "_15",
       "label": "Филипа Кљајића",
-      "longitude": 20.565838,
-      "latitude": 44.762822
+      "longitude": 20.565945,
+      "latitude": 44.762791
     },
     {
       "id": "_16",
       "label": "Пут за Институт",
-      "longitude": 20.564201,
-      "latitude": 44.764927
+      "longitude": 20.564262,
+      "latitude": 44.764928
     },
     {
       "id": "_17",
       "label": "Пут за Калуђерицу",
-      "longitude": 20.560472,
-      "latitude": 44.767869
+      "longitude": 20.560508,
+      "latitude": 44.767865
     },
     {
       "id": "_18",
       "label": "Ново Насеље",
-      "longitude": 20.5534,
-      "latitude": 44.772995
+      "longitude": 20.553489,
+      "latitude": 44.773034
     },
     {
       "id": "_19",
       "label": "Нине Кирсанове",
-      "longitude": 20.548206,
-      "latitude": 44.776334
+      "longitude": 20.548267,
+      "latitude": 44.776339
     },
     {
       "id": "_20",
       "label": "ОШ Драгојло Дудић",
-      "longitude": 20.533581,
-      "latitude": 44.776191
+      "longitude": 20.533626,
+      "latitude": 44.77618
     },
     {
       "id": "_21",
       "label": "Миријевска",
-      "longitude": 20.529051,
-      "latitude": 44.778123
+      "longitude": 20.529104,
+      "latitude": 44.778136
     },
     {
       "id": "_22",
       "label": "Бајдина",
-      "longitude": 20.523534,
-      "latitude": 44.781077
+      "longitude": 20.523552,
+      "latitude": 44.781097
     },
     {
       "id": "_23",
       "label": "Устаничка",
-      "longitude": 20.517338,
-      "latitude": 44.784727
+      "longitude": 20.517387,
+      "latitude": 44.784693
     },
     {
       "id": "_24",
       "label": "Устаничка",
-      "longitude": 20.517354,
-      "latitude": 44.784805
+      "longitude": 20.517384,
+      "latitude": 44.784813
     }
   ]
 }

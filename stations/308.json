@@ -3,92 +3,92 @@
     {
       "id": "_1",
       "label": "Шумице Терминус",
-      "longitude": 20.50073,
-      "latitude": 44.783998
+      "longitude": 20.500787,
+      "latitude": 44.783994
     },
     {
       "id": "_2",
       "label": "Шумице",
-      "longitude": 20.502264,
+      "longitude": 20.502268,
       "latitude": 44.783154
     },
     {
       "id": "_3",
       "label": "Петрињска",
-      "longitude": 20.507095,
-      "latitude": 44.782578
+      "longitude": 20.50716,
+      "latitude": 44.782581
     },
     {
       "id": "_4",
       "label": "Коњарник",
-      "longitude": 20.511129,
-      "latitude": 44.78209
+      "longitude": 20.511114,
+      "latitude": 44.782083
     },
     {
       "id": "_5",
       "label": "Краља Александра булевар",
-      "longitude": 20.517341,
-      "latitude": 44.783743
+      "longitude": 20.517401,
+      "latitude": 44.783742
     },
     {
       "id": "_6",
       "label": "Првомајска",
-      "longitude": 20.522073,
-      "latitude": 44.782735
+      "longitude": 20.52215,
+      "latitude": 44.782775
     },
     {
       "id": "_7",
       "label": "Бајдина",
-      "longitude": 20.525803,
-      "latitude": 44.779366
+      "longitude": 20.525767,
+      "latitude": 44.779394
     },
     {
       "id": "_8",
       "label": "Миријевска",
-      "longitude": 20.529837,
-      "latitude": 44.777681
+      "longitude": 20.529854,
+      "latitude": 44.777704
     },
     {
       "id": "_9",
       "label": "ОШ Драгојло Дудић",
-      "longitude": 20.534638,
-      "latitude": 44.775339
+      "longitude": 20.534686,
+      "latitude": 44.775345
     },
     {
       "id": "_10",
       "label": "Народног Фронта",
-      "longitude": 20.535534,
-      "latitude": 44.771138
+      "longitude": 20.535555,
+      "latitude": 44.771114
     },
     {
       "id": "_11",
       "label": "Жикина /Прилаз/",
-      "longitude": 20.533447,
-      "latitude": 44.766896
+      "longitude": 20.533705,
+      "latitude": 44.767258
     },
     {
       "id": "_12",
       "label": "Насеље Кленак",
-      "longitude": 20.532782,
-      "latitude": 44.763895
+      "longitude": 20.532832,
+      "latitude": 44.763902
     },
     {
       "id": "_13",
       "label": "Липовачка",
-      "longitude": 20.530707,
-      "latitude": 44.761469
+      "longitude": 20.530766,
+      "latitude": 44.761474
     },
     {
       "id": "_14",
       "label": "МЗ Велики Мокри Луг",
-      "longitude": 20.525183,
-      "latitude": 44.760305
+      "longitude": 20.525201,
+      "latitude": 44.760349
     },
     {
       "id": "_15",
       "label": "Византијска",
-      "longitude": 20.52546,
-      "latitude": 44.757956
+      "longitude": 20.525478,
+      "latitude": 44.757949
     },
     {
       "id": "_16",
@@ -107,80 +107,80 @@
     {
       "id": "_2",
       "label": "Византијска",
-      "longitude": 20.525586,
-      "latitude": 44.757909
+      "longitude": 20.525594,
+      "latitude": 44.757874
     },
     {
       "id": "_3",
       "label": "МЗ Велики Мокри Луг",
-      "longitude": 20.525376,
-      "latitude": 44.759979
+      "longitude": 20.525432,
+      "latitude": 44.759976
     },
     {
       "id": "_4",
       "label": "Липовачка",
-      "longitude": 20.53065,
-      "latitude": 44.761302
+      "longitude": 20.530726,
+      "latitude": 44.761317
     },
     {
       "id": "_5",
       "label": "Насеље Кленак",
-      "longitude": 20.533058,
-      "latitude": 44.764224
+      "longitude": 20.53308,
+      "latitude": 44.764204
     },
     {
       "id": "_6",
       "label": "Жикина /Прилаз/",
-      "longitude": 20.533866,
-      "latitude": 44.76737
+      "longitude": 20.533867,
+      "latitude": 44.767335
     },
     {
       "id": "_7",
       "label": "Народног Фронта",
-      "longitude": 20.535692,
-      "latitude": 44.771407
+      "longitude": 20.535722,
+      "latitude": 44.77134
     },
     {
       "id": "_8",
       "label": "ОШ Драгојло Дудић",
-      "longitude": 20.533581,
-      "latitude": 44.776191
+      "longitude": 20.533626,
+      "latitude": 44.77618
     },
     {
       "id": "_9",
       "label": "Миријевска",
-      "longitude": 20.529051,
-      "latitude": 44.778123
+      "longitude": 20.529104,
+      "latitude": 44.778136
     },
     {
       "id": "_10",
       "label": "Бајдина",
-      "longitude": 20.523534,
-      "latitude": 44.781077
+      "longitude": 20.523552,
+      "latitude": 44.781097
     },
     {
       "id": "_11",
       "label": "Краља Александра булевар",
-      "longitude": 20.51763,
-      "latitude": 44.784005
+      "longitude": 20.517587,
+      "latitude": 44.783995
     },
     {
       "id": "_12",
       "label": "Коњарник",
-      "longitude": 20.510957,
-      "latitude": 44.782307
+      "longitude": 20.510946,
+      "latitude": 44.782343
     },
     {
       "id": "_13",
       "label": "Петрињска",
-      "longitude": 20.505786,
-      "latitude": 44.782968
+      "longitude": 20.505783,
+      "latitude": 44.782979
     },
     {
       "id": "_14",
       "label": "Шумице Терминус",
-      "longitude": 20.50073,
-      "latitude": 44.783998
+      "longitude": 20.500787,
+      "latitude": 44.783994
     }
   ]
 }

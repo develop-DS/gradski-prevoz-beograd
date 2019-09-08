@@ -3,190 +3,190 @@
     {
       "id": "_1",
       "label": "Зелени венац",
-      "longitude": 20.456704,
-      "latitude": 44.814052
+      "longitude": 20.456957,
+      "latitude": 44.814023
     },
     {
       "id": "_2",
       "label": "Бранков мост",
-      "longitude": 20.452286,
-      "latitude": 44.815386
+      "longitude": 20.452213,
+      "latitude": 44.815368
     },
     {
       "id": "_3",
       "label": "Ушће",
-      "longitude": 20.439342,
-      "latitude": 44.815116
+      "longitude": 20.439286,
+      "latitude": 44.815093
     },
     {
       "id": "_4",
       "label": "Палата Србија",
-      "longitude": 20.430193,
-      "latitude": 44.821002
+      "longitude": 20.430198,
+      "latitude": 44.821013
     },
     {
       "id": "_5",
       "label": "Хотел Југославија",
-      "longitude": 20.419582,
-      "latitude": 44.829087
+      "longitude": 20.419578,
+      "latitude": 44.829166
     },
     {
       "id": "_6",
       "label": "Џона Кенедија",
-      "longitude": 20.41826,
-      "latitude": 44.835262
+      "longitude": 20.418296,
+      "latitude": 44.835283
     },
     {
       "id": "_7",
       "label": "Карађорђев трг",
-      "longitude": 20.416841,
-      "latitude": 44.837953
+      "longitude": 20.416849,
+      "latitude": 44.838016
     },
     {
       "id": "_8",
       "label": "Земун /пошта/",
-      "longitude": 20.413413,
-      "latitude": 44.842187
+      "longitude": 20.413464,
+      "latitude": 44.842112
     },
     {
       "id": "_9",
       "label": "Бранка Радичевића трг",
-      "longitude": 20.409701,
-      "latitude": 44.845952
+      "longitude": 20.409721,
+      "latitude": 44.845945
     },
     {
       "id": "_10",
       "label": "Наде Димић",
-      "longitude": 20.402786,
-      "latitude": 44.849187
+      "longitude": 20.403032,
+      "latitude": 44.849098
     },
     {
       "id": "_11",
       "label": "Дунавска",
-      "longitude": 20.397856,
-      "latitude": 44.851003
+      "longitude": 20.397903,
+      "latitude": 44.850993
     },
     {
       "id": "_12",
       "label": "Тршћанска",
-      "longitude": 20.390582,
-      "latitude": 44.853754
+      "longitude": 20.39062,
+      "latitude": 44.853758
     },
     {
       "id": "_13",
       "label": "Филипа Вишњића",
-      "longitude": 20.386784,
-      "latitude": 44.855219
+      "longitude": 20.386725,
+      "latitude": 44.855268
     },
     {
       "id": "_14",
       "label": "Руска",
-      "longitude": 20.380977,
-      "latitude": 44.857808
+      "longitude": 20.381055,
+      "latitude": 44.857789
     },
     {
       "id": "_15",
       "label": "Земун /Горњи град/ ",
-      "longitude": 20.378212,
-      "latitude": 44.859031
+      "longitude": 20.378181,
+      "latitude": 44.859074
     },
     {
       "id": "_16",
       "label": "Галеника",
-      "longitude": 20.367971,
-      "latitude": 44.862333
+      "longitude": 20.368014,
+      "latitude": 44.862348
     },
     {
       "id": "_17",
       "label": "Галеника /Капија/",
-      "longitude": 20.365691,
-      "latitude": 44.859615
+      "longitude": 20.365722,
+      "latitude": 44.859605
     },
     {
       "id": "_18",
       "label": "Михајла Вукше",
-      "longitude": 20.368357,
-      "latitude": 44.8581
+      "longitude": 20.368381,
+      "latitude": 44.858093
     },
     {
       "id": "_19",
       "label": "Нова Галеника",
-      "longitude": 20.370052,
-      "latitude": 44.85717
+      "longitude": 20.370018,
+      "latitude": 44.857139
     }
   ],
   "direction_b": [
     {
       "id": "_1",
       "label": "Нова Галеника",
-      "longitude": 20.370052,
-      "latitude": 44.85717
+      "longitude": 20.370018,
+      "latitude": 44.857139
     },
     {
       "id": "_2",
       "label": "Михајла Вукше",
-      "longitude": 20.367727,
-      "latitude": 44.858457
+      "longitude": 20.367775,
+      "latitude": 44.858463
     },
     {
       "id": "_3",
       "label": "Галеника",
-      "longitude": 20.367574,
-      "latitude": 44.861676
+      "longitude": 20.36767,
+      "latitude": 44.861692
     },
     {
       "id": "_4",
       "label": "Земун /Горњи град/ ",
-      "longitude": 20.37815,
-      "latitude": 44.85889
+      "longitude": 20.378161,
+      "latitude": 44.858899
     },
     {
       "id": "_5",
       "label": "Руска",
-      "longitude": 20.38172,
-      "latitude": 44.857304
+      "longitude": 20.381617,
+      "latitude": 44.857375
     },
     {
       "id": "_6",
       "label": "Филипа Вишњића",
-      "longitude": 20.387565,
-      "latitude": 44.854709
+      "longitude": 20.38765,
+      "latitude": 44.854691
     },
     {
       "id": "_7",
       "label": "Тршћанска",
-      "longitude": 20.391693,
-      "latitude": 44.853165
+      "longitude": 20.391707,
+      "latitude": 44.853192
     },
     {
       "id": "_8",
       "label": "Дунавска",
-      "longitude": 20.396757,
-      "latitude": 44.851288
+      "longitude": 20.396803,
+      "latitude": 44.85126
     },
     {
       "id": "_9",
       "label": "Наде Димић",
-      "longitude": 20.402336,
-      "latitude": 44.849214
+      "longitude": 20.402386,
+      "latitude": 44.849203
     },
     {
       "id": "_10",
       "label": "Бранка Радичевића трг",
-      "longitude": 20.408467,
-      "latitude": 44.846397
+      "longitude": 20.408472,
+      "latitude": 44.84641
     },
     {
       "id": "_11",
       "label": "РК Београд",
-      "longitude": 20.411983,
-      "latitude": 44.843533
+      "longitude": 20.412037,
+      "latitude": 44.843542
     },
     {
       "id": "_12",
       "label": "Земун /пошта/",
-      "longitude": 20.414234,
-      "latitude": 44.840793
+      "longitude": 20.414255,
+      "latitude": 44.840803
     },
     {
       "id": "_13",
@@ -203,32 +203,32 @@
     {
       "id": "_15",
       "label": "Хотел Југославија",
-      "longitude": 20.419617,
-      "latitude": 44.827233
+      "longitude": 20.419637,
+      "latitude": 44.827156
     },
     {
       "id": "_16",
       "label": "Палата Србија",
-      "longitude": 20.431116,
-      "latitude": 44.820311
+      "longitude": 20.431204,
+      "latitude": 44.820322
     },
     {
       "id": "_17",
       "label": "Ушће",
-      "longitude": 20.438977,
-      "latitude": 44.815146
+      "longitude": 20.439017,
+      "latitude": 44.814935
     },
     {
       "id": "_18",
       "label": "Бранков мост",
-      "longitude": 20.452112,
-      "latitude": 44.81492
+      "longitude": 20.452631,
+      "latitude": 44.814962
     },
     {
       "id": "_19",
       "label": "Зелени венац",
-      "longitude": 20.456704,
-      "latitude": 44.814052
+      "longitude": 20.456957,
+      "latitude": 44.814023
     }
   ]
 }

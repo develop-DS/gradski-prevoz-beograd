@@ -3,14 +3,14 @@
     {
       "id": "_1",
       "label": "Барајево /АС/",
-      "longitude": 20.412844,
-      "latitude": 44.580992
+      "longitude": 20.412796,
+      "latitude": 44.580956
     },
     {
       "id": "_2",
       "label": "Барајево /Центар/",
       "longitude": 20.415639,
-      "latitude": 44.57805
+      "latitude": 44.578031
     },
     {
       "id": "_3",
@@ -21,8 +21,8 @@
     {
       "id": "_4",
       "label": "Караула",
-      "longitude": 20.428627,
-      "latitude": 44.588479
+      "longitude": 20.428635,
+      "latitude": 44.588471
     },
     {
       "id": "_5",
@@ -39,14 +39,14 @@
     {
       "id": "_7",
       "label": "Табориште",
-      "longitude": 20.431024,
-      "latitude": 44.601083
+      "longitude": 20.431019,
+      "latitude": 44.601077
     },
     {
       "id": "_8",
       "label": "Глумчево Брдо 2",
-      "longitude": 20.434012,
-      "latitude": 44.604799
+      "longitude": 20.434033,
+      "latitude": 44.604789
     },
     {
       "id": "_9",
@@ -57,8 +57,8 @@
     {
       "id": "_10",
       "label": "Стеванчевића Крај",
-      "longitude": 20.444535,
-      "latitude": 44.611513
+      "longitude": 20.44458,
+      "latitude": 44.611515
     },
     {
       "id": "_11",
@@ -69,16 +69,16 @@
     {
       "id": "_12",
       "label": "Глумчево Брдо",
-      "longitude": 20.454652,
-      "latitude": 44.615139
+      "longitude": 20.454727,
+      "latitude": 44.615068
     }
   ],
   "direction_b": [
     {
       "id": "_1",
       "label": "Глумчево Брдо",
-      "longitude": 20.454652,
-      "latitude": 44.615139
+      "longitude": 20.454727,
+      "latitude": 44.615068
     },
     {
       "id": "_2",
@@ -89,14 +89,14 @@
     {
       "id": "_3",
       "label": "Глумчево Брдо /Горчинац/",
-      "longitude": 20.466089,
+      "longitude": 20.466104,
       "latitude": 44.618142
     },
     {
       "id": "_4",
       "label": "Драженовац /Брђанска/",
-      "longitude": 20.468908,
-      "latitude": 44.623665
+      "longitude": 20.468952,
+      "latitude": 44.623672
     },
     {
       "id": "_5",
@@ -107,56 +107,56 @@
     {
       "id": "_6",
       "label": "Ненадовац 2",
-      "longitude": 20.45393,
-      "latitude": 44.622934
+      "longitude": 20.453935,
+      "latitude": 44.622922
     },
     {
       "id": "_7",
       "label": "Ненадовац 3",
-      "longitude": 20.450422,
-      "latitude": 44.621649
+      "longitude": 20.450438,
+      "latitude": 44.621617
     },
     {
       "id": "_8",
       "label": "Ненадовац 4",
-      "longitude": 20.443878,
-      "latitude": 44.620735
+      "longitude": 20.44392,
+      "latitude": 44.620721
     },
     {
       "id": "_9",
       "label": "Ненадовац 5",
-      "longitude": 20.437762,
-      "latitude": 44.615637
+      "longitude": 20.437809,
+      "latitude": 44.615633
     },
     {
       "id": "_10",
       "label": "Ненадовац 6",
-      "longitude": 20.434498,
-      "latitude": 44.612527
+      "longitude": 20.434565,
+      "latitude": 44.612489
     },
     {
       "id": "_11",
       "label": "Ненадовац",
-      "longitude": 20.430394,
-      "latitude": 44.60977
+      "longitude": 20.430451,
+      "latitude": 44.609675
     },
     {
       "id": "_12",
       "label": "Табориште",
       "longitude": 20.430552,
-      "latitude": 44.600901
+      "latitude": 44.60093
     },
     {
       "id": "_13",
       "label": "Миодрага Вуковића",
-      "longitude": 20.429504,
-      "latitude": 44.596988
+      "longitude": 20.429573,
+      "latitude": 44.597057
     },
     {
       "id": "_14",
       "label": "Среднjи Краj",
-      "longitude": 20.428691,
-      "latitude": 44.59143
+      "longitude": 20.428723,
+      "latitude": 44.591429
     },
     {
       "id": "_15",
@@ -173,14 +173,14 @@
     {
       "id": "_17",
       "label": "Барајево /Центар/",
-      "longitude": 20.415344,
-      "latitude": 44.578076
+      "longitude": 20.415382,
+      "latitude": 44.578077
     },
     {
       "id": "_18",
       "label": "Барајево /АС/",
-      "longitude": 20.412844,
-      "latitude": 44.580992
+      "longitude": 20.412796,
+      "latitude": 44.580956
     }
   ]
 }

@@ -3,14 +3,14 @@
     {
       "id": "_1",
       "label": "Баново Брдо (Предграђе)",
-      "longitude": 20.413775,
-      "latitude": 44.768269
+      "longitude": 20.413826,
+      "latitude": 44.768453
     },
     {
       "id": "_2",
       "label": "Јулино Брдо",
-      "longitude": 20.41083,
-      "latitude": 44.763173
+      "longitude": 20.410914,
+      "latitude": 44.763197
     },
     {
       "id": "_3",
@@ -21,8 +21,8 @@
     {
       "id": "_4",
       "label": "Беле Воде",
-      "longitude": 20.404311,
-      "latitude": 44.755598
+      "longitude": 20.404384,
+      "latitude": 44.755682
     },
     {
       "id": "_5",
@@ -39,19 +39,19 @@
     {
       "id": "_7",
       "label": "Савска Тераса",
-      "longitude": 20.392089,
-      "latitude": 44.743491
+      "longitude": 20.392132,
+      "latitude": 44.743495
     },
     {
       "id": "_8",
       "label": "Пут за ЖТП",
-      "longitude": 20.389375,
+      "longitude": 20.389411,
       "latitude": 44.740906
     },
     {
       "id": "_9",
       "label": "Ранжирна Станица",
-      "longitude": 20.385679,
+      "longitude": 20.385687,
       "latitude": 44.73797
     },
     {
@@ -63,14 +63,14 @@
     {
       "id": "_11",
       "label": "Златановићи",
-      "longitude": 20.376511,
-      "latitude": 44.734317
+      "longitude": 20.376478,
+      "latitude": 44.734325
     },
     {
       "id": "_12",
       "label": "Браће Митровића",
-      "longitude": 20.369843,
-      "latitude": 44.73206
+      "longitude": 20.369879,
+      "latitude": 44.732071
     },
     {
       "id": "_13",
@@ -81,8 +81,8 @@
     {
       "id": "_14",
       "label": "Свете Милутиновића",
-      "longitude": 20.369765,
-      "latitude": 44.726181
+      "longitude": 20.369802,
+      "latitude": 44.726212
     },
     {
       "id": "_15",
@@ -93,32 +93,32 @@
     {
       "id": "_16",
       "label": "Железничка Рампа",
-      "longitude": 20.367306,
-      "latitude": 44.720503
+      "longitude": 20.367413,
+      "latitude": 44.720355
     },
     {
       "id": "_17",
       "label": "Стевана Филиповића",
-      "longitude": 20.368084,
-      "latitude": 44.717117
+      "longitude": 20.368145,
+      "latitude": 44.716726
     },
     {
       "id": "_18",
       "label": "Жикице Јовановића",
-      "longitude": 20.368108,
-      "latitude": 44.7147
+      "longitude": 20.368152,
+      "latitude": 44.714751
     },
     {
       "id": "_19",
       "label": "Горица /Саре Бернар/",
-      "longitude": 20.378166,
-      "latitude": 44.697194
+      "longitude": 20.378314,
+      "latitude": 44.696683
     },
     {
       "id": "_20",
       "label": "Горица",
-      "longitude": 20.380478,
-      "latitude": 44.692288
+      "longitude": 20.380512,
+      "latitude": 44.692239
     },
     {
       "id": "_21",
@@ -143,128 +143,128 @@
     {
       "id": "_2",
       "label": "Сремчица /Улаз/",
-      "longitude": 20.381564,
-      "latitude": 44.688503
+      "longitude": 20.381586,
+      "latitude": 44.688584
     },
     {
       "id": "_3",
       "label": "Горица",
-      "longitude": 20.38039,
-      "latitude": 44.693156
+      "longitude": 20.380433,
+      "latitude": 44.693152
     },
     {
       "id": "_4",
       "label": "Горица /Саре Бернар/",
-      "longitude": 20.378241,
-      "latitude": 44.697257
+      "longitude": 20.378308,
+      "latitude": 44.697205
     },
     {
       "id": "_5",
       "label": "Жикице Јовановића",
-      "longitude": 20.36818,
-      "latitude": 44.714029
+      "longitude": 20.368202,
+      "latitude": 44.713891
     },
     {
       "id": "_6",
       "label": "Стевана Филиповића",
-      "longitude": 20.368237,
-      "latitude": 44.716779
+      "longitude": 20.368213,
+      "latitude": 44.717523
     },
     {
       "id": "_7",
       "label": "Железничка Рампа",
-      "longitude": 20.367282,
-      "latitude": 44.720719
+      "longitude": 20.367376,
+      "latitude": 44.720658
     },
     {
       "id": "_8",
       "label": "Нићифоровићева",
-      "longitude": 20.368754,
-      "latitude": 44.723008
+      "longitude": 20.369037,
+      "latitude": 44.723354
     },
     {
       "id": "_9",
       "label": "Свете Милутиновића",
-      "longitude": 20.369433,
-      "latitude": 44.726793
+      "longitude": 20.369493,
+      "latitude": 44.726799
     },
     {
       "id": "_10",
       "label": "Иво Лола Рибар",
-      "longitude": 20.36814,
-      "latitude": 44.727543
+      "longitude": 20.368155,
+      "latitude": 44.727538
     },
     {
       "id": "_11",
       "label": "Браће Митровића",
-      "longitude": 20.370659,
-      "latitude": 44.732317
+      "longitude": 20.370707,
+      "latitude": 44.732323
     },
     {
       "id": "_12",
       "label": "Златановићи",
-      "longitude": 20.376098,
-      "latitude": 44.734195
+      "longitude": 20.376104,
+      "latitude": 44.734173
     },
     {
       "id": "_13",
       "label": "Железник Улаз",
-      "longitude": 20.380985,
-      "latitude": 44.735533
+      "longitude": 20.380994,
+      "latitude": 44.735511
     },
     {
       "id": "_14",
       "label": "Ранжирна Станица",
-      "longitude": 20.385188,
-      "latitude": 44.737501
+      "longitude": 20.38529,
+      "latitude": 44.737505
     },
     {
       "id": "_15",
       "label": "Пут за ЖТП",
-      "longitude": 20.390789,
-      "latitude": 44.741797
+      "longitude": 20.390834,
+      "latitude": 44.741808
     },
     {
       "id": "_16",
       "label": "Савска Тераса",
-      "longitude": 20.393227,
-      "latitude": 44.744165
+      "longitude": 20.393283,
+      "latitude": 44.744158
     },
     {
       "id": "_17",
       "label": "Рупчине",
-      "longitude": 20.396885,
-      "latitude": 44.746631
+      "longitude": 20.397009,
+      "latitude": 44.746629
     },
     {
       "id": "_18",
       "label": "Железнички Тунел",
-      "longitude": 20.400605,
-      "latitude": 44.749634
+      "longitude": 20.400512,
+      "latitude": 44.749454
     },
     {
       "id": "_19",
       "label": "Беле Воде",
-      "longitude": 20.404433,
-      "latitude": 44.755642
+      "longitude": 20.404534,
+      "latitude": 44.755665
     },
     {
       "id": "_20",
       "label": "Илије Ђуричића",
-      "longitude": 20.40678,
-      "latitude": 44.759698
+      "longitude": 20.406768,
+      "latitude": 44.759643
     },
     {
       "id": "_21",
       "label": "Јулино Брдо",
-      "longitude": 20.411308,
-      "latitude": 44.76342
+      "longitude": 20.411407,
+      "latitude": 44.763423
     },
     {
       "id": "_22",
       "label": "Баново Брдо (Предграђе)",
-      "longitude": 20.413775,
-      "latitude": 44.768269
+      "longitude": 20.413826,
+      "latitude": 44.768453
     }
   ]
 }

@@ -3,8 +3,8 @@
     {
       "id": "_1",
       "label": "Падинска Скела",
-      "longitude": 20.424614,
-      "latitude": 44.945046
+      "longitude": 20.424607,
+      "latitude": 44.945009
     },
     {
       "id": "_2",
@@ -15,14 +15,14 @@
     {
       "id": "_3",
       "label": "Падинска Скела (Марије Илић Агапове)",
-      "longitude": 20.431931,
-      "latitude": 44.937743
+      "longitude": 20.43191,
+      "latitude": 44.937732
     },
     {
       "id": "_4",
       "label": "Насеље Товилиште",
-      "longitude": 20.435606,
-      "latitude": 44.93529
+      "longitude": 20.435555,
+      "latitude": 44.935288
     },
     {
       "id": "_5",
@@ -39,20 +39,20 @@
     {
       "id": "_7",
       "label": "Пут за Врбовски",
-      "longitude": 20.412265,
-      "latitude": 44.992563
+      "longitude": 20.412367,
+      "latitude": 44.992459
     },
     {
       "id": "_8",
       "label": "Сефкерин",
-      "longitude": 20.479752,
-      "latitude": 45.009005
+      "longitude": 20.479709,
+      "latitude": 45.009022
     },
     {
       "id": "_9",
       "label": "Опово-1",
-      "longitude": 20.438948,
-      "latitude": 45.044519
+      "longitude": 20.438932,
+      "latitude": 45.04451
     },
     {
       "id": "_10",
@@ -71,56 +71,56 @@
     {
       "id": "_2",
       "label": "Опово-1",
-      "longitude": 20.437556,
-      "latitude": 45.045145
+      "longitude": 20.437526,
+      "latitude": 45.045139
     },
     {
       "id": "_3",
       "label": "Сефкерин",
-      "longitude": 20.479226,
-      "latitude": 45.008625
+      "longitude": 20.479213,
+      "latitude": 45.008652
     },
     {
       "id": "_4",
       "label": "Пут за Врбовски",
-      "longitude": 20.412169,
-      "latitude": 44.991971
+      "longitude": 20.412187,
+      "latitude": 44.991935
     },
     {
       "id": "_5",
       "label": "Сефкерешки Канал",
-      "longitude": 20.417823,
-      "latitude": 44.973007
+      "longitude": 20.417852,
+      "latitude": 44.972971
     },
     {
       "id": "_6",
       "label": "КП Дом",
-      "longitude": 20.427119,
-      "latitude": 44.95472
+      "longitude": 20.427245,
+      "latitude": 44.954651
     },
     {
       "id": "_7",
       "label": "Насеље Товилиште",
-      "longitude": 20.436019,
-      "latitude": 44.935265
+      "longitude": 20.436092,
+      "latitude": 44.935211
     },
     {
       "id": "_8",
       "label": "Падинска Скела (Марије Илић Агапове)",
-      "longitude": 20.431979,
-      "latitude": 44.937853
+      "longitude": 20.432052,
+      "latitude": 44.93778
     },
     {
       "id": "_9",
       "label": "Падинска Скела (Ратомира Стојадиновића)",
-      "longitude": 20.428761,
-      "latitude": 44.941718
+      "longitude": 20.428812,
+      "latitude": 44.941679
     },
     {
       "id": "_10",
       "label": "Падинска Скела",
-      "longitude": 20.424614,
-      "latitude": 44.945046
+      "longitude": 20.424607,
+      "latitude": 44.945009
     }
   ]
 }

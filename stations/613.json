@@ -3,104 +3,104 @@
     {
       "id": "_1",
       "label": "Нови Београд /Павильони/",
-      "longitude": 20.404275,
-      "latitude": 44.830043
+      "longitude": 20.404296,
+      "latitude": 44.830109
     },
     {
       "id": "_2",
       "label": "Маршала Толбухина булевар",
-      "longitude": 20.411053,
-      "latitude": 44.829753
+      "longitude": 20.411088,
+      "latitude": 44.829865
     },
     {
       "id": "_3",
       "label": "Архив",
-      "longitude": 20.411997,
-      "latitude": 44.827033
+      "longitude": 20.412042,
+      "latitude": 44.827043
     },
     {
       "id": "_4",
       "label": "Улаз у Париске Комуне",
-      "longitude": 20.412069,
-      "latitude": 44.824849
+      "longitude": 20.412174,
+      "latitude": 44.824819
     },
     {
       "id": "_5",
       "label": "Фонтана",
-      "longitude": 20.408242,
-      "latitude": 44.82563
+      "longitude": 20.408282,
+      "latitude": 44.825628
     },
     {
       "id": "_6",
       "label": "Управа Царине",
-      "longitude": 20.40538,
-      "latitude": 44.822411
+      "longitude": 20.405401,
+      "latitude": 44.822441
     },
     {
       "id": "_7",
       "label": "Аутопут",
-      "longitude": 20.402301,
-      "latitude": 44.81902
+      "longitude": 20.402319,
+      "latitude": 44.819034
     },
     {
       "id": "_8",
       "label": "Народних Хероја",
-      "longitude": 20.399804,
-      "latitude": 44.817475
+      "longitude": 20.399829,
+      "latitude": 44.817504
     },
     {
       "id": "_9",
       "label": "Железничка Станица Тошин Бунар",
-      "longitude": 20.395053,
-      "latitude": 44.817222
+      "longitude": 20.395056,
+      "latitude": 44.817184
     },
     {
       "id": "_10",
       "label": "Генерала Недељковића",
-      "longitude": 20.389029,
-      "latitude": 44.816992
+      "longitude": 20.389061,
+      "latitude": 44.817015
     },
     {
       "id": "_11",
       "label": "Николе Добровића",
-      "longitude": 20.384668,
-      "latitude": 44.818864
+      "longitude": 20.384681,
+      "latitude": 44.818887
     },
     {
       "id": "_12",
       "label": "Др Хуга Клајна",
-      "longitude": 20.381288,
-      "latitude": 44.819872
+      "longitude": 20.381233,
+      "latitude": 44.819916
     },
     {
       "id": "_13",
       "label": "Пеђе Милосављевића",
-      "longitude": 20.377053,
-      "latitude": 44.818114
+      "longitude": 20.377241,
+      "latitude": 44.818302
     },
     {
       "id": "_14",
       "label": "Недељка Гвозденовића",
-      "longitude": 20.373156,
-      "latitude": 44.815091
+      "longitude": 20.373161,
+      "latitude": 44.815107
     },
     {
       "id": "_15",
       "label": "Бежанијска Коса /Гробље/",
-      "longitude": 20.37145,
-      "latitude": 44.817652
+      "longitude": 20.371437,
+      "latitude": 44.817471
     },
     {
       "id": "_16",
       "label": "Ново Бежанијско Гробље",
-      "longitude": 20.366869,
-      "latitude": 44.82222
+      "longitude": 20.366858,
+      "latitude": 44.82223
     },
     {
       "id": "_17",
       "label": "Кванташка Пијаца",
-      "longitude": 20.362467,
-      "latitude": 44.827235
+      "longitude": 20.362518,
+      "latitude": 44.827212
     },
     {
       "id": "_18",
@@ -111,38 +111,38 @@
     {
       "id": "_19",
       "label": "Шевино Полjе",
-      "longitude": 20.328744,
-      "latitude": 44.834339
+      "longitude": 20.328738,
+      "latitude": 44.834328
     },
     {
       "id": "_20",
       "label": "Милоша Црњанског",
-      "longitude": 20.321856,
-      "latitude": 44.831686
+      "longitude": 20.321863,
+      "latitude": 44.831677
     },
     {
       "id": "_21",
       "label": "Коста Абрашевића",
-      "longitude": 20.317063,
-      "latitude": 44.831538
+      "longitude": 20.317177,
+      "latitude": 44.831511
     },
     {
       "id": "_22",
       "label": "Немањина",
-      "longitude": 20.313367,
-      "latitude": 44.831423
+      "longitude": 20.313434,
+      "latitude": 44.831418
     },
     {
       "id": "_23",
       "label": "Косовке Девојке",
-      "longitude": 20.307946,
-      "latitude": 44.831264
+      "longitude": 20.30795,
+      "latitude": 44.831257
     },
     {
       "id": "_24",
       "label": "Светог Саве",
-      "longitude": 20.303689,
-      "latitude": 44.831146
+      "longitude": 20.303693,
+      "latitude": 44.831131
     },
     {
       "id": "_25",
@@ -167,20 +167,20 @@
     {
       "id": "_3",
       "label": "Милана Коњовића",
-      "longitude": 20.301624,
-      "latitude": 44.827666
+      "longitude": 20.301612,
+      "latitude": 44.827663
     },
     {
       "id": "_4",
       "label": "Василија Острошког",
-      "longitude": 20.30653,
-      "latitude": 44.824969
+      "longitude": 20.306519,
+      "latitude": 44.824992
     },
     {
       "id": "_5",
       "label": "Краља Петра Првог",
-      "longitude": 20.311376,
-      "latitude": 44.825677
+      "longitude": 20.311369,
+      "latitude": 44.825691
     },
     {
       "id": "_6",
@@ -197,8 +197,8 @@
     {
       "id": "_8",
       "label": "Немањина",
-      "longitude": 20.313823,
-      "latitude": 44.831352
+      "longitude": 20.31382,
+      "latitude": 44.831363
     },
     {
       "id": "_9",
@@ -209,8 +209,8 @@
     {
       "id": "_10",
       "label": "Милоша Црњанског",
-      "longitude": 20.322588,
-      "latitude": 44.831617
+      "longitude": 20.322631,
+      "latitude": 44.83161
     },
     {
       "id": "_11",
@@ -221,14 +221,14 @@
     {
       "id": "_12",
       "label": "Икарбус",
-      "longitude": 20.346588,
-      "latitude": 44.832854
+      "longitude": 20.346593,
+      "latitude": 44.832887
     },
     {
       "id": "_13",
       "label": "Кванташка Пијаца",
-      "longitude": 20.361759,
-      "latitude": 44.825766
+      "longitude": 20.361781,
+      "latitude": 44.825769
     },
     {
       "id": "_14",
@@ -239,110 +239,110 @@
     {
       "id": "_15",
       "label": "Бежанијска Коса /Гробље/",
-      "longitude": 20.371152,
-      "latitude": 44.817525
+      "longitude": 20.371125,
+      "latitude": 44.817474
     },
     {
       "id": "_16",
       "label": "Бежанијска Коса /Грчка/",
-      "longitude": 20.371031,
-      "latitude": 44.815639
+      "longitude": 20.371142,
+      "latitude": 44.815602
     },
     {
       "id": "_17",
       "label": "Љубинке Бобић",
-      "longitude": 20.37458,
-      "latitude": 44.815265
+      "longitude": 20.374658,
+      "latitude": 44.81527
     },
     {
       "id": "_18",
       "label": "Пеђе Милосављевића",
-      "longitude": 20.376906,
-      "latitude": 44.817753
+      "longitude": 20.377003,
+      "latitude": 44.817809
     },
     {
       "id": "_19",
       "label": "Др Хуга Клајна",
-      "longitude": 20.379526,
-      "latitude": 44.820017
+      "longitude": 20.379572,
+      "latitude": 44.820023
     },
     {
       "id": "_20",
       "label": "Марка Челебоновића",
-      "longitude": 20.382664,
-      "latitude": 44.819253
+      "longitude": 20.382865,
+      "latitude": 44.819195
     },
     {
       "id": "_21",
       "label": "Николе Добровића",
-      "longitude": 20.386148,
-      "latitude": 44.818042
+      "longitude": 20.386197,
+      "latitude": 44.818022
     },
     {
       "id": "_22",
       "label": "Генерала Недељковића",
-      "longitude": 20.388962,
-      "latitude": 44.81677
+      "longitude": 20.389008,
+      "latitude": 44.81676
     },
     {
       "id": "_23",
       "label": "Железничка Станица Тошин Бунар",
-      "longitude": 20.395281,
-      "latitude": 44.816813
+      "longitude": 20.395311,
+      "latitude": 44.816818
     },
     {
       "id": "_24",
       "label": "Блок 37",
-      "longitude": 20.401338,
-      "latitude": 44.817715
+      "longitude": 20.401377,
+      "latitude": 44.817686
     },
     {
       "id": "_25",
       "label": "Аутопут",
-      "longitude": 20.402993,
-      "latitude": 44.819583
+      "longitude": 20.403083,
+      "latitude": 44.819604
     },
     {
       "id": "_26",
       "label": "Управа Царине",
-      "longitude": 20.405023,
-      "latitude": 44.8218
+      "longitude": 20.405083,
+      "latitude": 44.821812
     },
     {
       "id": "_27",
       "label": "Зорана Ђинђића булевар",
-      "longitude": 20.406493,
-      "latitude": 44.823421
+      "longitude": 20.406528,
+      "latitude": 44.823412
     },
     {
       "id": "_28",
       "label": "Фонтана",
-      "longitude": 20.409438,
-      "latitude": 44.825654
+      "longitude": 20.40947,
+      "latitude": 44.825671
     },
     {
       "id": "_29",
       "label": "Архив",
-      "longitude": 20.412968,
-      "latitude": 44.825488
+      "longitude": 20.413009,
+      "latitude": 44.825508
     },
     {
       "id": "_30",
       "label": "Маршала Толбухина булевар",
-      "longitude": 20.411664,
-      "latitude": 44.829255
+      "longitude": 20.411675,
+      "latitude": 44.829221
     },
     {
       "id": "_31",
       "label": "Нови Београд /Павильони/",
-      "longitude": 20.404766,
-      "latitude": 44.830419
+      "longitude": 20.404759,
+      "latitude": 44.830423
     },
     {
       "id": "_32",
       "label": "Нови Београд /Павильони/",
-      "longitude": 20.404275,
-      "latitude": 44.830043
+      "longitude": 20.404296,
+      "latitude": 44.830109
     }
   ]
 }

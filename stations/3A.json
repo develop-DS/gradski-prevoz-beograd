@@ -3,26 +3,26 @@
     {
       "id": "_1",
       "label": "Железничка Станица Топчидер",
-      "longitude": 20.437397,
-      "latitude": 44.776955
+      "longitude": 20.437485,
+      "latitude": 44.776808
     },
     {
       "id": "_2",
       "label": "Топчидерска Окретница",
-      "longitude": 20.437659,
-      "latitude": 44.773534
+      "longitude": 20.437677,
+      "latitude": 44.773599
     },
     {
       "id": "_3",
       "label": "Патријарха Павла",
-      "longitude": 20.444851,
-      "latitude": 44.764624
+      "longitude": 20.444835,
+      "latitude": 44.764637
     },
     {
       "id": "_4",
       "label": "Расадник",
-      "longitude": 20.445267,
-      "latitude": 44.760674
+      "longitude": 20.44529,
+      "latitude": 44.760721
     },
     {
       "id": "_5",
@@ -33,20 +33,20 @@
     {
       "id": "_6",
       "label": "Варешка",
-      "longitude": 20.445777,
-      "latitude": 44.750414
+      "longitude": 20.445779,
+      "latitude": 44.750436
     },
     {
       "id": "_7",
       "label": "Железничка Станица Раковица",
-      "longitude": 20.443674,
-      "latitude": 44.746981
+      "longitude": 20.443699,
+      "latitude": 44.746984
     },
     {
       "id": "_8",
       "label": "Мишка Крањца",
-      "longitude": 20.441182,
-      "latitude": 44.743411
+      "longitude": 20.441164,
+      "latitude": 44.74342
     },
     {
       "id": "_9",
@@ -57,64 +57,64 @@
     {
       "id": "_10",
       "label": "Славка Родића",
-      "longitude": 20.434147,
-      "latitude": 44.739086
+      "longitude": 20.434151,
+      "latitude": 44.739081
     },
     {
       "id": "_11",
       "label": "Кнежевац",
-      "longitude": 20.43225,
-      "latitude": 44.734365
+      "longitude": 20.43224,
+      "latitude": 44.734358
     }
   ],
   "direction_b": [
     {
       "id": "_1",
       "label": "Кнежевац",
-      "longitude": 20.43225,
-      "latitude": 44.734365
+      "longitude": 20.43224,
+      "latitude": 44.734358
     },
     {
       "id": "_2",
       "label": "Кнежевац",
-      "longitude": 20.431604,
-      "latitude": 44.734658
+      "longitude": 20.431639,
+      "latitude": 44.734622
     },
     {
       "id": "_3",
       "label": "Славка Родића",
-      "longitude": 20.43423,
-      "latitude": 44.739052
+      "longitude": 20.434272,
+      "latitude": 44.739043
     },
     {
       "id": "_4",
       "label": "Ослобођења",
-      "longitude": 20.437395,
-      "latitude": 44.738616
+      "longitude": 20.437452,
+      "latitude": 44.738609
     },
     {
       "id": "_5",
       "label": "Мишка Крањца",
-      "longitude": 20.441292,
-      "latitude": 44.743413
+      "longitude": 20.441282,
+      "latitude": 44.743426
     },
     {
       "id": "_6",
       "label": "Железничка Станица Раковица",
-      "longitude": 20.444167,
-      "latitude": 44.747314
+      "longitude": 20.444217,
+      "latitude": 44.747317
     },
     {
       "id": "_7",
       "label": "Варешка",
-      "longitude": 20.446326,
-      "latitude": 44.750964
+      "longitude": 20.446293,
+      "latitude": 44.750839
     },
     {
       "id": "_8",
       "label": "Кошутњак",
-      "longitude": 20.446042,
-      "latitude": 44.75745
+      "longitude": 20.446043,
+      "latitude": 44.75746
     },
     {
       "id": "_9",
@@ -125,20 +125,20 @@
     {
       "id": "_10",
       "label": "Патријарха Павла",
-      "longitude": 20.44485,
-      "latitude": 44.764828
+      "longitude": 20.444815,
+      "latitude": 44.764852
     },
     {
       "id": "_11",
       "label": "Топчидерска Окретница",
-      "longitude": 20.437762,
-      "latitude": 44.77401
+      "longitude": 20.437781,
+      "latitude": 44.773973
     },
     {
       "id": "_12",
       "label": "Железничка Станица Топчидер",
-      "longitude": 20.437397,
-      "latitude": 44.776955
+      "longitude": 20.437485,
+      "latitude": 44.776808
     }
   ]
 }

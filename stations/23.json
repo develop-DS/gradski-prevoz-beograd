@@ -3,140 +3,140 @@
     {
       "id": "_1",
       "label": "Карабурма 2",
-      "longitude": 20.522053,
-      "latitude": 44.806861
+      "longitude": 20.521974,
+      "latitude": 44.806904
     },
     {
       "id": "_2",
       "label": "Салвадора Аљендеа",
-      "longitude": 20.522111,
-      "latitude": 44.810066
+      "longitude": 20.522173,
+      "latitude": 44.810067
     },
     {
       "id": "_3",
       "label": "Хусињских Рудара",
-      "longitude": 20.517866,
-      "latitude": 44.812988
+      "longitude": 20.51783,
+      "latitude": 44.812986
     },
     {
       "id": "_4",
       "label": "Стевана Христића",
-      "longitude": 20.514058,
-      "latitude": 44.81303
+      "longitude": 20.514009,
+      "latitude": 44.813069
     },
     {
       "id": "_5",
       "label": "Диљска",
-      "longitude": 20.510437,
-      "latitude": 44.813179
+      "longitude": 20.510446,
+      "latitude": 44.813194
     },
     {
       "id": "_6",
       "label": "Патриса Лумумбе",
       "longitude": 20.506355,
-      "latitude": 44.814743
+      "latitude": 44.814731
     },
     {
       "id": "_7",
       "label": "Вука Врчевића",
-      "longitude": 20.496706,
-      "latitude": 44.817951
+      "longitude": 20.496788,
+      "latitude": 44.817933
     },
     {
       "id": "_8",
       "label": "Панчевачки мост",
-      "longitude": 20.488037,
-      "latitude": 44.818103
+      "longitude": 20.488213,
+      "latitude": 44.81811
     },
     {
       "id": "_9",
       "label": "Центар за Културу Влада Дивљан",
-      "longitude": 20.484602,
-      "latitude": 44.817696
+      "longitude": 20.484569,
+      "latitude": 44.817701
     },
     {
       "id": "_10",
       "label": "Jована Авакумовића",
-      "longitude": 20.479505,
-      "latitude": 44.817357
+      "longitude": 20.479492,
+      "latitude": 44.817376
     },
     {
       "id": "_11",
       "label": "Цвијићева",
-      "longitude": 20.476182,
-      "latitude": 44.816027
+      "longitude": 20.476233,
+      "latitude": 44.816054
     },
     {
       "id": "_12",
       "label": "27. марта",
-      "longitude": 20.471384,
-      "latitude": 44.812965
+      "longitude": 20.471343,
+      "latitude": 44.812951
     },
     {
       "id": "_13",
       "label": "Главна пошта",
-      "longitude": 20.467285,
-      "latitude": 44.811129
+      "longitude": 20.467249,
+      "latitude": 44.811134
     },
     {
       "id": "_14",
       "label": "Адмирала Гепрата",
-      "longitude": 20.46143,
-      "latitude": 44.806857
+      "longitude": 20.461481,
+      "latitude": 44.806904
     },
     {
       "id": "_15",
       "label": "Милоша Поцерца",
-      "longitude": 20.45602,
-      "latitude": 44.802401
+      "longitude": 20.455948,
+      "latitude": 44.802316
     },
     {
       "id": "_16",
       "label": "Мостар",
-      "longitude": 20.449237,
-      "latitude": 44.798754
+      "longitude": 20.44927,
+      "latitude": 44.798762
     },
     {
       "id": "_17",
       "label": "Сајам",
-      "longitude": 20.44171,
-      "latitude": 44.796529
+      "longitude": 20.441977,
+      "latitude": 44.796588
     },
     {
       "id": "_18",
       "label": "Руска",
-      "longitude": 20.436035,
+      "longitude": 20.436034,
       "latitude": 44.795118
     },
     {
       "id": "_19",
       "label": "Ада Циганлија",
-      "longitude": 20.41937,
-      "latitude": 44.788677
+      "longitude": 20.419436,
+      "latitude": 44.788665
     },
     {
       "id": "_20",
       "label": "Кировљева",
-      "longitude": 20.417833,
-      "latitude": 44.783746
+      "longitude": 20.417798,
+      "latitude": 44.78374
     },
     {
       "id": "_21",
       "label": "Школа Jосиф Панчић",
-      "longitude": 20.417302,
-      "latitude": 44.781171
+      "longitude": 20.41738,
+      "latitude": 44.781286
     },
     {
       "id": "_22",
       "label": "Дом здравља",
       "longitude": 20.414599,
-      "latitude": 44.777818
+      "latitude": 44.777834
     },
     {
       "id": "_23",
       "label": "Кијевска",
-      "longitude": 20.413593,
-      "latitude": 44.775485
+      "longitude": 20.41357,
+      "latitude": 44.775426
     },
     {
       "id": "_24",
@@ -147,256 +147,256 @@
     {
       "id": "_25",
       "label": "Жарковачка",
-      "longitude": 20.419612,
-      "latitude": 44.768118
+      "longitude": 20.419596,
+      "latitude": 44.76815
     },
     {
       "id": "_26",
       "label": "СЦ Кошутњак",
-      "longitude": 20.427758,
-      "latitude": 44.764352
+      "longitude": 20.427928,
+      "latitude": 44.764296
     },
     {
       "id": "_27",
       "label": "Пионирски град",
-      "longitude": 20.432752,
-      "latitude": 44.759419
+      "longitude": 20.432766,
+      "latitude": 44.759434
     },
     {
       "id": "_28",
       "label": "Скојевска",
-      "longitude": 20.43482,
-      "latitude": 44.751779
+      "longitude": 20.434813,
+      "latitude": 44.751795
     },
     {
       "id": "_29",
       "label": "Милоја Закића",
-      "longitude": 20.433224,
-      "latitude": 44.750374
+      "longitude": 20.433216,
+      "latitude": 44.750388
     },
     {
       "id": "_30",
       "label": "Ратка Митровића",
-      "longitude": 20.430721,
-      "latitude": 44.748196
+      "longitude": 20.430914,
+      "latitude": 44.74836
     },
     {
       "id": "_31",
       "label": "Војно Медицински Центар",
-      "longitude": 20.428356,
-      "latitude": 44.746385
+      "longitude": 20.428365,
+      "latitude": 44.746349
     },
     {
       "id": "_32",
       "label": "Пилота Михајла Петровића",
-      "longitude": 20.424493,
-      "latitude": 44.742836
+      "longitude": 20.424512,
+      "latitude": 44.742814
     },
     {
       "id": "_33",
       "label": "МЗ Видиковац",
       "longitude": 20.42261,
-      "latitude": 44.740176
+      "latitude": 44.740185
     },
     {
       "id": "_34",
       "label": "Видиковачки Венац",
-      "longitude": 20.420062,
-      "latitude": 44.738503
+      "longitude": 20.420066,
+      "latitude": 44.738532
     },
     {
       "id": "_35",
       "label": "Топлана",
-      "longitude": 20.420558,
-      "latitude": 44.734031
+      "longitude": 20.420595,
+      "latitude": 44.73409
     },
     {
       "id": "_36",
       "label": "Видиковац",
-      "longitude": 20.420457,
-      "latitude": 44.73184
+      "longitude": 20.420455,
+      "latitude": 44.731819
     }
   ],
   "direction_b": [
     {
       "id": "_1",
       "label": "Видиковац",
-      "longitude": 20.420457,
-      "latitude": 44.73184
+      "longitude": 20.420455,
+      "latitude": 44.731819
     },
     {
       "id": "_2",
       "label": "Топлана",
-      "longitude": 20.420591,
-      "latitude": 44.734574
+      "longitude": 20.420636,
+      "latitude": 44.734497
     },
     {
       "id": "_3",
       "label": "Видиковачки Венац",
-      "longitude": 20.420926,
-      "latitude": 44.739025
+      "longitude": 20.420967,
+      "latitude": 44.739029
     },
     {
       "id": "_4",
       "label": "МЗ Видиковац",
-      "longitude": 20.42309,
-      "latitude": 44.740405
+      "longitude": 20.423165,
+      "latitude": 44.740449
     },
     {
       "id": "_5",
       "label": "Пилота Михајла Петровића",
-      "longitude": 20.425609,
-      "latitude": 44.744001
+      "longitude": 20.425691,
+      "latitude": 44.744027
     },
     {
       "id": "_6",
       "label": "Ратка Митровића",
-      "longitude": 20.430649,
-      "latitude": 44.747956
+      "longitude": 20.430699,
+      "latitude": 44.747967
     },
     {
       "id": "_7",
       "label": "Милоја Закића",
-      "longitude": 20.433028,
-      "latitude": 44.75005
+      "longitude": 20.433107,
+      "latitude": 44.750081
     },
     {
       "id": "_8",
       "label": "Скојевска",
-      "longitude": 20.43512,
-      "latitude": 44.751907
+      "longitude": 20.435171,
+      "latitude": 44.751905
     },
     {
       "id": "_9",
       "label": "Пионирски град",
-      "longitude": 20.432663,
-      "latitude": 44.759722
+      "longitude": 20.432754,
+      "latitude": 44.759696
     },
     {
       "id": "_10",
       "label": "СЦ Кошутњак",
-      "longitude": 20.428825,
-      "latitude": 44.763973
+      "longitude": 20.428786,
+      "latitude": 44.76401
     },
     {
       "id": "_11",
       "label": "Жарковачка",
-      "longitude": 20.420556,
-      "latitude": 44.76788
+      "longitude": 20.420513,
+      "latitude": 44.767913
     },
     {
       "id": "_12",
       "label": "Петра Лековића",
-      "longitude": 20.417021,
-      "latitude": 44.771527
+      "longitude": 20.417045,
+      "latitude": 44.771512
     },
     {
       "id": "_13",
       "label": "Кијевска",
-      "longitude": 20.41377,
-      "latitude": 44.775855
+      "longitude": 20.413824,
+      "latitude": 44.775796
     },
     {
       "id": "_14",
       "label": "Дом здравља",
-      "longitude": 20.415811,
-      "latitude": 44.778985
+      "longitude": 20.415907,
+      "latitude": 44.77903
     },
     {
       "id": "_15",
       "label": "Школа Jосиф Панчић",
-      "longitude": 20.417595,
-      "latitude": 44.781329
+      "longitude": 20.41776,
+      "latitude": 44.78145
     },
     {
       "id": "_16",
       "label": "Кировљева",
-      "longitude": 20.417959,
-      "latitude": 44.784695
+      "longitude": 20.417994,
+      "latitude": 44.784723
     },
     {
       "id": "_17",
       "label": "Ада Циганлија",
-      "longitude": 20.419837,
-      "latitude": 44.788416
+      "longitude": 20.419789,
+      "latitude": 44.7884
     },
     {
       "id": "_18",
       "label": "Господарска Механа",
-      "longitude": 20.433393,
-      "latitude": 44.794424
+      "longitude": 20.433518,
+      "latitude": 44.794439
     },
     {
       "id": "_19",
       "label": "Руска",
-      "longitude": 20.437784,
-      "latitude": 44.795189
+      "longitude": 20.438101,
+      "latitude": 44.79525
     },
     {
       "id": "_20",
       "label": "Сајам",
-      "longitude": 20.441944,
-      "latitude": 44.796327
+      "longitude": 20.441902,
+      "latitude": 44.796305
     },
     {
       "id": "_21",
       "label": "Мостар",
-      "longitude": 20.448743,
-      "latitude": 44.79823
+      "longitude": 20.448834,
+      "latitude": 44.798229
     },
     {
       "id": "_22",
       "label": "Вишеградска",
-      "longitude": 20.455589,
-      "latitude": 44.801673
+      "longitude": 20.455605,
+      "latitude": 44.801665
     },
     {
       "id": "_23",
       "label": "Бирчанинова",
-      "longitude": 20.459512,
-      "latitude": 44.804929
+      "longitude": 20.459485,
+      "latitude": 44.804943
     },
     {
       "id": "_24",
       "label": "Лондон",
-      "longitude": 20.462919,
-      "latitude": 44.807784
+      "longitude": 20.46289,
+      "latitude": 44.807787
     },
     {
       "id": "_25",
       "label": "Главна пошта",
-      "longitude": 20.468385,
-      "latitude": 44.811268
+      "longitude": 20.468349,
+      "latitude": 44.811278
     },
     {
       "id": "_26",
       "label": "27. марта",
-      "longitude": 20.472663,
-      "latitude": 44.81355
+      "longitude": 20.472653,
+      "latitude": 44.813551
     },
     {
       "id": "_27",
       "label": "Цвијићева",
-      "longitude": 20.47747,
-      "latitude": 44.817106
+      "longitude": 20.477542,
+      "latitude": 44.817127
     },
     {
       "id": "_28",
       "label": "Центар за Културу Влада Дивљан",
-      "longitude": 20.483124,
-      "latitude": 44.817372
+      "longitude": 20.483095,
+      "latitude": 44.817383
     },
     {
       "id": "_29",
       "label": "Панчевачки мост",
-      "longitude": 20.48829,
-      "latitude": 44.817834
+      "longitude": 20.488276,
+      "latitude": 44.81785
     },
     {
       "id": "_30",
       "label": "Вука Врчевића",
-      "longitude": 20.495446,
-      "latitude": 44.817608
+      "longitude": 20.495489,
+      "latitude": 44.817647
     },
     {
       "id": "_31",
@@ -406,39 +406,45 @@
     },
     {
       "id": "_32",
-      "label": "Диљска",
-      "longitude": 20.510724,
-      "latitude": 44.817363
+      "label": "Патриса Лумумбе",
+      "longitude": 20.506209,
+      "latitude": 44.81469
     },
     {
       "id": "_33",
-      "label": "Пут за Аду Хују",
-      "longitude": 20.51421,
-      "latitude": 44.817418
+      "label": "Диљска",
+      "longitude": 20.511015,
+      "latitude": 44.813062
     },
     {
       "id": "_34",
-      "label": "Миријевски булевар",
-      "longitude": 20.519572,
-      "latitude": 44.81742
+      "label": "Стевана Христића",
+      "longitude": 20.513481,
+      "latitude": 44.812955
     },
     {
       "id": "_35",
-      "label": "Погон Карабурма",
-      "longitude": 20.520723,
-      "latitude": 44.813456
+      "label": "Хусињских Рудара",
+      "longitude": 20.517976,
+      "latitude": 44.812727
     },
     {
       "id": "_36",
-      "label": "Карабурма 2",
-      "longitude": 20.521973,
-      "latitude": 44.807384
+      "label": "Салвадора Аљендеа",
+      "longitude": 20.521688,
+      "latitude": 44.810582
     },
     {
       "id": "_37",
       "label": "Карабурма 2",
-      "longitude": 20.522053,
-      "latitude": 44.806861
+      "longitude": 20.522,
+      "latitude": 44.807373
+    },
+    {
+      "id": "_38",
+      "label": "Карабурма 2",
+      "longitude": 20.521974,
+      "latitude": 44.806904
     }
   ]
 }

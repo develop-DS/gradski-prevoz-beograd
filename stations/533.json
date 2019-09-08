@@ -3,112 +3,112 @@
     {
       "id": "_1",
       "label": "Баново Брдо (Предграђе)",
-      "longitude": 20.413775,
-      "latitude": 44.768269
+      "longitude": 20.413826,
+      "latitude": 44.768453
     },
     {
       "id": "_2",
       "label": "Јулино Брдо",
-      "longitude": 20.413987,
-      "latitude": 44.762579
+      "longitude": 20.414025,
+      "latitude": 44.762507
     },
     {
       "id": "_3",
       "label": "Жарково споменик",
-      "longitude": 20.415092,
-      "latitude": 44.758688
+      "longitude": 20.41512,
+      "latitude": 44.758555
     },
     {
       "id": "_4",
       "label": "Браће Вучковић",
-      "longitude": 20.413569,
-      "latitude": 44.753518
+      "longitude": 20.413622,
+      "latitude": 44.753536
     },
     {
       "id": "_5",
       "label": "Јабланичка",
-      "longitude": 20.411822,
-      "latitude": 44.74805
+      "longitude": 20.411809,
+      "latitude": 44.748051
     },
     {
       "id": "_6",
       "label": "Кнежевац",
-      "longitude": 20.419494,
-      "latitude": 44.733667
+      "longitude": 20.41951,
+      "latitude": 44.733646
     },
     {
       "id": "_7",
       "label": "Насеље Петлово Брдо",
-      "longitude": 20.417646,
-      "latitude": 44.723597
+      "longitude": 20.417752,
+      "latitude": 44.723573
     },
     {
       "id": "_8",
       "label": "Орловача /Улаз/",
-      "longitude": 20.411847,
-      "latitude": 44.705442
+      "longitude": 20.411863,
+      "latitude": 44.705388
     },
     {
       "id": "_9",
       "label": "Орловача /Гробље/",
-      "longitude": 20.412555,
-      "latitude": 44.70937
+      "longitude": 20.412596,
+      "latitude": 44.709437
     }
   ],
   "direction_b": [
     {
       "id": "_1",
       "label": "Орловача /Гробље/",
-      "longitude": 20.4116,
-      "latitude": 44.709469
+      "longitude": 20.411648,
+      "latitude": 44.709473
     },
     {
       "id": "_2",
       "label": "Орловача /Излаз/",
-      "longitude": 20.411761,
-      "latitude": 44.705615
+      "longitude": 20.411793,
+      "latitude": 44.705603
     },
     {
       "id": "_3",
       "label": "Насеље Петлово Брдо",
-      "longitude": 20.417077,
+      "longitude": 20.417094,
       "latitude": 44.721805
     },
     {
       "id": "_4",
       "label": "Кнежевац",
-      "longitude": 20.419394,
-      "latitude": 44.735159
+      "longitude": 20.419412,
+      "latitude": 44.735146
     },
     {
       "id": "_5",
       "label": "Јабланичка",
-      "longitude": 20.412214,
-      "latitude": 44.749591
+      "longitude": 20.412284,
+      "latitude": 44.749631
     },
     {
       "id": "_6",
       "label": "Браће Вучковић",
-      "longitude": 20.414609,
-      "latitude": 44.754524
+      "longitude": 20.414707,
+      "latitude": 44.75463
     },
     {
       "id": "_7",
       "label": "Жарково споменик",
-      "longitude": 20.415454,
-      "latitude": 44.759478
+      "longitude": 20.415492,
+      "latitude": 44.75952
     },
     {
       "id": "_8",
       "label": "Јулино Брдо",
-      "longitude": 20.413963,
-      "latitude": 44.763575
+      "longitude": 20.41394,
+      "latitude": 44.763668
     },
     {
       "id": "_9",
       "label": "Баново Брдо (Предграђе)",
-      "longitude": 20.413775,
-      "latitude": 44.768269
+      "longitude": 20.413826,
+      "latitude": 44.768453
     }
   ]
 }

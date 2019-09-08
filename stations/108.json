@@ -3,80 +3,80 @@
     {
       "id": "_1",
       "label": "Омладински Стадион",
-      "longitude": 20.49003,
-      "latitude": 44.81534
+      "longitude": 20.490085,
+      "latitude": 44.815368
     },
     {
       "id": "_2",
       "label": "Блок Браће Марић",
-      "longitude": 20.500697,
-      "latitude": 44.840142
+      "longitude": 20.500748,
+      "latitude": 44.840133
     },
     {
       "id": "_3",
       "label": "Јанко Лисјак",
-      "longitude": 20.509425,
-      "latitude": 44.843936
+      "longitude": 20.509476,
+      "latitude": 44.843929
     },
     {
       "id": "_4",
       "label": "Прогрес",
-      "longitude": 20.51435,
-      "latitude": 44.846042
+      "longitude": 20.514414,
+      "latitude": 44.846033
     },
     {
       "id": "_5",
       "label": "Политика",
-      "longitude": 20.519046,
-      "latitude": 44.847559
+      "longitude": 20.519116,
+      "latitude": 44.847544
     },
     {
       "id": "_6",
       "label": "Хидротехника",
-      "longitude": 20.52764,
-      "latitude": 44.849841
+      "longitude": 20.527652,
+      "latitude": 44.849822
     },
     {
       "id": "_7",
       "label": "Рафинерија",
-      "longitude": 20.532031,
-      "latitude": 44.851013
+      "longitude": 20.53207,
+      "latitude": 44.850991
     },
     {
       "id": "_8",
       "label": "Балкан",
-      "longitude": 20.537269,
-      "latitude": 44.852414
+      "longitude": 20.537299,
+      "latitude": 44.852387
     },
     {
       "id": "_9",
       "label": "Радиостаница",
-      "longitude": 20.54434,
-      "latitude": 44.854286
+      "longitude": 20.54444,
+      "latitude": 44.854287
     },
     {
       "id": "_10",
       "label": "Насеље Илић",
-      "longitude": 20.554621,
-      "latitude": 44.857016
+      "longitude": 20.554706,
+      "latitude": 44.857023
     },
     {
       "id": "_11",
       "label": "Десети километар",
-      "longitude": 20.561951,
-      "latitude": 44.858967
+      "longitude": 20.562026,
+      "latitude": 44.858965
     },
     {
       "id": "_12",
       "label": "Сибница",
-      "longitude": 20.590291,
-      "latitude": 44.866446
+      "longitude": 20.590325,
+      "latitude": 44.866445
     },
     {
       "id": "_13",
       "label": "МЗ Рева /Мали Рај/",
-      "longitude": 20.59531,
-      "latitude": 44.867771
+      "longitude": 20.595362,
+      "latitude": 44.867767
     },
     {
       "id": "_14",
@@ -101,38 +101,38 @@
     {
       "id": "_2",
       "label": "Сибничка 4.Део",
-      "longitude": 20.605542,
-      "latitude": 44.869778
+      "longitude": 20.605557,
+      "latitude": 44.86979
     },
     {
       "id": "_3",
       "label": "МЗ Рева /Мали Рај/",
-      "longitude": 20.594749,
-      "latitude": 44.867804
+      "longitude": 20.594783,
+      "latitude": 44.86781
     },
     {
       "id": "_4",
       "label": "Сибница",
-      "longitude": 20.588516,
+      "longitude": 20.588529,
       "latitude": 44.866139
     },
     {
       "id": "_5",
       "label": "Десети километар",
-      "longitude": 20.560771,
-      "latitude": 44.858901
+      "longitude": 20.560732,
+      "latitude": 44.858894
     },
     {
       "id": "_6",
       "label": "Насеље Илић",
-      "longitude": 20.553446,
-      "latitude": 44.856958
+      "longitude": 20.553379,
+      "latitude": 44.856939
     },
     {
       "id": "_7",
       "label": "Радиостаница",
-      "longitude": 20.543186,
-      "latitude": 44.854234
+      "longitude": 20.543129,
+      "latitude": 44.854213
     },
     {
       "id": "_8",
@@ -149,44 +149,44 @@
     {
       "id": "_10",
       "label": "Хидротехника",
-      "longitude": 20.52653,
-      "latitude": 44.849786
+      "longitude": 20.526531,
+      "latitude": 44.849794
     },
     {
       "id": "_11",
       "label": "Политика",
-      "longitude": 20.517893,
-      "latitude": 44.847489
+      "longitude": 20.517849,
+      "latitude": 44.847463
     },
     {
       "id": "_12",
       "label": "Прогрес",
-      "longitude": 20.513079,
-      "latitude": 44.845806
+      "longitude": 20.513071,
+      "latitude": 44.845795
     },
     {
       "id": "_13",
       "label": "Јанко Лисјак",
-      "longitude": 20.508336,
-      "latitude": 44.843747
+      "longitude": 20.508373,
+      "latitude": 44.84375
     },
     {
       "id": "_14",
       "label": "Блок Браће Марић",
-      "longitude": 20.49956,
-      "latitude": 44.839912
+      "longitude": 20.499603,
+      "latitude": 44.839936
     },
     {
       "id": "_15",
       "label": "Омладински Стадион",
-      "longitude": 20.489658,
-      "latitude": 44.81534
+      "longitude": 20.489693,
+      "latitude": 44.815337
     },
     {
       "id": "_16",
       "label": "Омладински Стадион",
-      "longitude": 20.49003,
-      "latitude": 44.81534
+      "longitude": 20.490085,
+      "latitude": 44.815368
     }
   ]
 }

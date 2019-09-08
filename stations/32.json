@@ -3,80 +3,80 @@
     {
       "id": "_1",
       "label": "Вуков Споменик",
-      "longitude": 20.479513,
-      "latitude": 44.804819
+      "longitude": 20.47948,
+      "latitude": 44.804889
     },
     {
       "id": "_2",
       "label": "Далматинска",
-      "longitude": 20.480165,
-      "latitude": 44.806699
+      "longitude": 20.480195,
+      "latitude": 44.806702
     },
     {
       "id": "_3",
       "label": "Ново Гробље",
-      "longitude": 20.486624,
-      "latitude": 44.810779
+      "longitude": 20.4867,
+      "latitude": 44.810848
     },
     {
       "id": "_4",
       "label": "Ватрогасна Команда",
-      "longitude": 20.488874,
-      "latitude": 44.812684
+      "longitude": 20.488902,
+      "latitude": 44.812648
     },
     {
       "id": "_5",
       "label": "Омладински Стадион",
-      "longitude": 20.49113,
-      "latitude": 44.814596
+      "longitude": 20.491066,
+      "latitude": 44.814554
     },
     {
       "id": "_6",
       "label": "Вука Врчевића",
-      "longitude": 20.495446,
-      "latitude": 44.817608
+      "longitude": 20.495489,
+      "latitude": 44.817647
     },
     {
       "id": "_7",
       "label": "Војводе Мицка Крстића",
-      "longitude": 20.502723,
-      "latitude": 44.817576
+      "longitude": 20.502792,
+      "latitude": 44.81758
     },
     {
       "id": "_8",
       "label": "Диљска",
-      "longitude": 20.510724,
-      "latitude": 44.817363
+      "longitude": 20.510768,
+      "latitude": 44.817341
     },
     {
       "id": "_9",
       "label": "Пут за Аду Хују",
-      "longitude": 20.51421,
-      "latitude": 44.817418
+      "longitude": 20.51428,
+      "latitude": 44.81741
     },
     {
       "id": "_10",
       "label": "Миријевски булевар",
-      "longitude": 20.519572,
-      "latitude": 44.81742
+      "longitude": 20.519635,
+      "latitude": 44.817408
     },
     {
       "id": "_11",
       "label": "Роспи Ћуприја",
-      "longitude": 20.523625,
-      "latitude": 44.818057
+      "longitude": 20.523596,
+      "latitude": 44.818061
     },
     {
       "id": "_12",
       "label": "Марина",
-      "longitude": 20.526423,
-      "latitude": 44.818752
+      "longitude": 20.526453,
+      "latitude": 44.818749
     },
     {
       "id": "_13",
       "label": "ФК Бања",
-      "longitude": 20.531363,
-      "latitude": 44.819872
+      "longitude": 20.531412,
+      "latitude": 44.819901
     },
     {
       "id": "_14",
@@ -87,130 +87,130 @@
     {
       "id": "_15",
       "label": "Деспотовачка",
-      "longitude": 20.541306,
-      "latitude": 44.824558
+      "longitude": 20.541345,
+      "latitude": 44.824556
     },
     {
       "id": "_16",
       "label": "Ловачка",
-      "longitude": 20.543903,
-      "latitude": 44.82712
+      "longitude": 20.543972,
+      "latitude": 44.827134
     },
     {
       "id": "_17",
       "label": "Вишњица",
-      "longitude": 20.548205,
-      "latitude": 44.830742
+      "longitude": 20.548182,
+      "latitude": 44.830766
     }
   ],
   "direction_b": [
     {
       "id": "_1",
       "label": "Вишњица",
-      "longitude": 20.547529,
-      "latitude": 44.830549
+      "longitude": 20.547602,
+      "latitude": 44.830511
     },
     {
       "id": "_2",
       "label": "Ловачка",
-      "longitude": 20.544117,
-      "latitude": 44.827579
+      "longitude": 20.544204,
+      "latitude": 44.827615
     },
     {
       "id": "_3",
       "label": "Деспотовачка",
-      "longitude": 20.541126,
-      "latitude": 44.824337
+      "longitude": 20.541156,
+      "latitude": 44.824288
     },
     {
       "id": "_4",
       "label": "Вишњичка Бања",
-      "longitude": 20.537248,
-      "latitude": 44.821927
+      "longitude": 20.537292,
+      "latitude": 44.821928
     },
     {
       "id": "_5",
       "label": "ФК Бања",
-      "longitude": 20.53091,
-      "latitude": 44.819885
+      "longitude": 20.530911,
+      "latitude": 44.819874
     },
     {
       "id": "_6",
       "label": "Марина",
-      "longitude": 20.526844,
-      "latitude": 44.818909
+      "longitude": 20.526889,
+      "latitude": 44.818901
     },
     {
       "id": "_7",
       "label": "Роспи Ћуприја",
-      "longitude": 20.521855,
-      "latitude": 44.818011
+      "longitude": 20.521879,
+      "latitude": 44.817996
     },
     {
       "id": "_8",
       "label": "Миријевски булевар",
-      "longitude": 20.519438,
+      "longitude": 20.519454,
       "latitude": 44.817722
     },
     {
       "id": "_9",
       "label": "Пут за Аду Хују",
-      "longitude": 20.5141,
-      "latitude": 44.81765
+      "longitude": 20.514094,
+      "latitude": 44.817643
     },
     {
       "id": "_10",
       "label": "Диљска",
-      "longitude": 20.509651,
-      "latitude": 44.817677
+      "longitude": 20.509684,
+      "latitude": 44.817686
     },
     {
       "id": "_11",
       "label": "Војводе Мицка Крстића",
-      "longitude": 20.502926,
-      "latitude": 44.817854
+      "longitude": 20.502955,
+      "latitude": 44.817856
     },
     {
       "id": "_12",
       "label": "Вука Врчевића",
-      "longitude": 20.496706,
-      "latitude": 44.817951
+      "longitude": 20.496788,
+      "latitude": 44.817933
     },
     {
       "id": "_13",
       "label": "СУП Палилула",
-      "longitude": 20.493807,
-      "latitude": 44.817226
+      "longitude": 20.493847,
+      "latitude": 44.817223
     },
     {
       "id": "_14",
       "label": "Омладински Стадион",
-      "longitude": 20.490465,
-      "latitude": 44.814303
+      "longitude": 20.490454,
+      "latitude": 44.814262
     },
     {
       "id": "_15",
       "label": "Ватрогасна Команда",
-      "longitude": 20.488255,
-      "latitude": 44.812412
+      "longitude": 20.487953,
+      "latitude": 44.812082
     },
     {
       "id": "_16",
       "label": "Ново Гробље",
-      "longitude": 20.484875,
-      "latitude": 44.80994
+      "longitude": 20.484837,
+      "latitude": 44.809874
     },
     {
       "id": "_17",
       "label": "Далматинска",
-      "longitude": 20.480573,
-      "latitude": 44.807209
+      "longitude": 20.480474,
+      "latitude": 44.807116
     },
     {
       "id": "_18",
       "label": "Вуков Споменик",
-      "longitude": 20.479513,
-      "latitude": 44.804819
+      "longitude": 20.47948,
+      "latitude": 44.804889
     }
   ]
 }

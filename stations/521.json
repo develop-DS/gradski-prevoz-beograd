@@ -3,20 +3,20 @@
     {
       "id": "_1",
       "label": "Видиковац",
-      "longitude": 20.420457,
-      "latitude": 44.73184
+      "longitude": 20.420455,
+      "latitude": 44.731819
     },
     {
       "id": "_2",
       "label": "Насеље Петлово Брдо",
-      "longitude": 20.417646,
-      "latitude": 44.723597
+      "longitude": 20.417752,
+      "latitude": 44.723573
     },
     {
       "id": "_3",
       "label": "Насеље Виногради",
-      "longitude": 20.399946,
-      "latitude": 44.722588
+      "longitude": 20.399927,
+      "latitude": 44.722573
     },
     {
       "id": "_4",
@@ -27,32 +27,32 @@
     {
       "id": "_5",
       "label": "Авалска",
-      "longitude": 20.382611,
-      "latitude": 44.728744
+      "longitude": 20.382653,
+      "latitude": 44.728747
     },
     {
       "id": "_6",
       "label": "Железник Центар",
-      "longitude": 20.375776,
-      "latitude": 44.728648
+      "longitude": 20.375802,
+      "latitude": 44.72865
     },
     {
       "id": "_7",
       "label": "Радних Акција",
-      "longitude": 20.374808,
+      "longitude": 20.374793,
       "latitude": 44.730834
     },
     {
       "id": "_8",
       "label": "Златановићи",
-      "longitude": 20.376511,
-      "latitude": 44.734317
+      "longitude": 20.376478,
+      "latitude": 44.734325
     },
     {
       "id": "_9",
       "label": "Браће Митровића",
-      "longitude": 20.369843,
-      "latitude": 44.73206
+      "longitude": 20.369879,
+      "latitude": 44.732071
     },
     {
       "id": "_10",
@@ -63,8 +63,8 @@
     {
       "id": "_11",
       "label": "Свете Милутиновића",
-      "longitude": 20.369765,
-      "latitude": 44.726181
+      "longitude": 20.369802,
+      "latitude": 44.726212
     },
     {
       "id": "_12",
@@ -75,124 +75,124 @@
     {
       "id": "_13",
       "label": "Железничка Рампа",
-      "longitude": 20.367306,
-      "latitude": 44.720503
+      "longitude": 20.367413,
+      "latitude": 44.720355
     },
     {
       "id": "_14",
       "label": "Стевана Филиповића",
-      "longitude": 20.368084,
-      "latitude": 44.717117
+      "longitude": 20.368145,
+      "latitude": 44.716726
     },
     {
       "id": "_15",
       "label": "Жикице Јовановића",
-      "longitude": 20.368108,
-      "latitude": 44.7147
+      "longitude": 20.368152,
+      "latitude": 44.714751
     },
     {
       "id": "_16",
       "label": "Ђуре Јакшића",
-      "longitude": 20.373727,
-      "latitude": 44.714669
+      "longitude": 20.37369,
+      "latitude": 44.714675
     },
     {
       "id": "_17",
       "label": "Градине",
-      "longitude": 20.376126,
-      "latitude": 44.713799
+      "longitude": 20.376121,
+      "latitude": 44.713821
     },
     {
       "id": "_18",
       "label": "Железник /Тараиш/",
-      "longitude": 20.378598,
-      "latitude": 44.713064
+      "longitude": 20.378597,
+      "latitude": 44.71305
     }
   ],
   "direction_b": [
     {
       "id": "_1",
       "label": "Железник /Тараиш/",
-      "longitude": 20.378627,
-      "latitude": 44.713143
+      "longitude": 20.378618,
+      "latitude": 44.713121
     },
     {
       "id": "_2",
       "label": "Градине",
-      "longitude": 20.376089,
-      "latitude": 44.713923
+      "longitude": 20.376096,
+      "latitude": 44.713921
     },
     {
       "id": "_3",
       "label": "Ђуре Јакшића",
-      "longitude": 20.373404,
-      "latitude": 44.714837
+      "longitude": 20.373412,
+      "latitude": 44.71482
     },
     {
       "id": "_4",
       "label": "Жикице Јовановића",
-      "longitude": 20.368555,
-      "latitude": 44.714368
+      "longitude": 20.368584,
+      "latitude": 44.714361
     },
     {
       "id": "_5",
       "label": "Стевана Филиповића",
-      "longitude": 20.368237,
-      "latitude": 44.716779
+      "longitude": 20.368213,
+      "latitude": 44.717523
     },
     {
       "id": "_6",
       "label": "Железничка Рампа",
-      "longitude": 20.367282,
-      "latitude": 44.720719
+      "longitude": 20.367376,
+      "latitude": 44.720658
     },
     {
       "id": "_7",
       "label": "Нићифоровићева",
-      "longitude": 20.368754,
-      "latitude": 44.723008
+      "longitude": 20.369037,
+      "latitude": 44.723354
     },
     {
       "id": "_8",
       "label": "Свете Милутиновића",
-      "longitude": 20.369433,
-      "latitude": 44.726793
+      "longitude": 20.369493,
+      "latitude": 44.726799
     },
     {
       "id": "_9",
       "label": "Иво Лола Рибар",
-      "longitude": 20.36814,
-      "latitude": 44.727543
+      "longitude": 20.368155,
+      "latitude": 44.727538
     },
     {
       "id": "_10",
       "label": "Браће Митровића",
-      "longitude": 20.370659,
-      "latitude": 44.732317
+      "longitude": 20.370707,
+      "latitude": 44.732323
     },
     {
       "id": "_11",
       "label": "Златановићи",
-      "longitude": 20.376643,
-      "latitude": 44.734028
+      "longitude": 20.37664,
+      "latitude": 44.734035
     },
     {
       "id": "_12",
       "label": "Радних Акција 1",
-      "longitude": 20.375412,
-      "latitude": 44.731599
+      "longitude": 20.375423,
+      "latitude": 44.731583
     },
     {
       "id": "_13",
       "label": "Нови Железник",
       "longitude": 20.380025,
-      "latitude": 44.731759
+      "latitude": 44.731753
     },
     {
       "id": "_14",
       "label": "МЗ Нови Железник",
-      "longitude": 20.382849,
-      "latitude": 44.729306
+      "longitude": 20.382857,
+      "latitude": 44.729282
     },
     {
       "id": "_15",
@@ -203,26 +203,26 @@
     {
       "id": "_16",
       "label": "Ново Насеље",
-      "longitude": 20.390865,
-      "latitude": 44.726031
+      "longitude": 20.390916,
+      "latitude": 44.726055
     },
     {
       "id": "_17",
       "label": "Насеље Виногради",
-      "longitude": 20.399616,
-      "latitude": 44.722606
+      "longitude": 20.399543,
+      "latitude": 44.722629
     },
     {
       "id": "_18",
       "label": "Насеље Петлово Брдо",
-      "longitude": 20.417077,
+      "longitude": 20.417094,
       "latitude": 44.721805
     },
     {
       "id": "_19",
       "label": "Видиковац",
-      "longitude": 20.420457,
-      "latitude": 44.73184
+      "longitude": 20.420455,
+      "latitude": 44.731819
     }
   ]
 }

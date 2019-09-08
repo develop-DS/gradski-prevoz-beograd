@@ -3,62 +3,62 @@
     {
       "id": "_1",
       "label": "Омладински Стадион",
-      "longitude": 20.490626,
-      "latitude": 44.814821
+      "longitude": 20.490635,
+      "latitude": 44.814827
     },
     {
       "id": "_2",
       "label": "Ватрогасна Команда",
-      "longitude": 20.488255,
-      "latitude": 44.812412
+      "longitude": 20.487953,
+      "latitude": 44.812082
     },
     {
       "id": "_3",
       "label": "Ново Гробље",
-      "longitude": 20.484875,
-      "latitude": 44.80994
+      "longitude": 20.484837,
+      "latitude": 44.809874
     },
     {
       "id": "_4",
       "label": "Далматинска",
-      "longitude": 20.480573,
-      "latitude": 44.807209
+      "longitude": 20.480474,
+      "latitude": 44.807116
     },
     {
       "id": "_5",
       "label": "Вуков Споменик",
-      "longitude": 20.478009,
-      "latitude": 44.805605
+      "longitude": 20.478161,
+      "latitude": 44.805645
     },
     {
       "id": "_6",
       "label": "Правни факултет",
-      "longitude": 20.470925,
-      "latitude": 44.807531
+      "longitude": 20.470926,
+      "latitude": 44.807543
     },
     {
       "id": "_7",
       "label": "Ташмајдан",
-      "longitude": 20.466977,
-      "latitude": 44.808907
+      "longitude": 20.466968,
+      "latitude": 44.808912
     },
     {
       "id": "_8",
       "label": "РК Београђанка",
-      "longitude": 20.463812,
-      "latitude": 44.806211
+      "longitude": 20.463801,
+      "latitude": 44.806265
     },
     {
       "id": "_9",
       "label": "Савски трг",
-      "longitude": 20.455744,
-      "latitude": 44.807679
+      "longitude": 20.455827,
+      "latitude": 44.807829
     },
     {
       "id": "_10",
       "label": "Палата Правде",
-      "longitude": 20.453169,
-      "latitude": 44.804496
+      "longitude": 20.453038,
+      "latitude": 44.804371
     },
     {
       "id": "_11",
@@ -69,50 +69,50 @@
     {
       "id": "_12",
       "label": "Сајам",
-      "longitude": 20.441887,
-      "latitude": 44.796304
+      "longitude": 20.442646,
+      "latitude": 44.796512
     },
     {
       "id": "_13",
       "label": "Руска",
-      "longitude": 20.437558,
-      "latitude": 44.795149
+      "longitude": 20.437596,
+      "latitude": 44.795161
     },
     {
       "id": "_14",
       "label": "Господарска Механа",
-      "longitude": 20.43107,
-      "latitude": 44.793697
+      "longitude": 20.431207,
+      "latitude": 44.793751
     },
     {
       "id": "_15",
       "label": "Хиподром",
-      "longitude": 20.424059,
-      "latitude": 44.787769
+      "longitude": 20.424118,
+      "latitude": 44.78774
     },
     {
       "id": "_16",
       "label": "Кнеза Вишеслава",
-      "longitude": 20.421124,
-      "latitude": 44.783067
+      "longitude": 20.421204,
+      "latitude": 44.783099
     },
     {
       "id": "_17",
       "label": "Школа Jосиф Панчић",
-      "longitude": 20.417302,
-      "latitude": 44.781171
+      "longitude": 20.41738,
+      "latitude": 44.781286
     },
     {
       "id": "_18",
       "label": "Дом здравља",
       "longitude": 20.414599,
-      "latitude": 44.777818
+      "latitude": 44.777834
     },
     {
       "id": "_19",
       "label": "Кијевска",
-      "longitude": 20.413593,
-      "latitude": 44.775485
+      "longitude": 20.41357,
+      "latitude": 44.775426
     },
     {
       "id": "_20",
@@ -123,70 +123,70 @@
     {
       "id": "_21",
       "label": "Баново Брдо (Трам)",
-      "longitude": 20.413735,
-      "latitude": 44.768082
+      "longitude": 20.413749,
+      "latitude": 44.768099
     }
   ],
   "direction_b": [
     {
       "id": "_1",
       "label": "Баново Брдо (Трам)",
-      "longitude": 20.413735,
-      "latitude": 44.768082
+      "longitude": 20.413749,
+      "latitude": 44.768099
     },
     {
       "id": "_2",
       "label": "Требевићка",
-      "longitude": 20.414277,
-      "latitude": 44.771319
+      "longitude": 20.414341,
+      "latitude": 44.771477
     },
     {
       "id": "_3",
       "label": "Кијевска",
-      "longitude": 20.41377,
-      "latitude": 44.775855
+      "longitude": 20.413824,
+      "latitude": 44.775796
     },
     {
       "id": "_4",
       "label": "Дом здравља",
-      "longitude": 20.415811,
-      "latitude": 44.778985
+      "longitude": 20.415907,
+      "latitude": 44.77903
     },
     {
       "id": "_5",
       "label": "Школа Jосиф Панчић",
-      "longitude": 20.417595,
-      "latitude": 44.781329
+      "longitude": 20.41776,
+      "latitude": 44.78145
     },
     {
       "id": "_6",
       "label": "Кнеза Вишеслава",
-      "longitude": 20.422535,
-      "latitude": 44.783394
+      "longitude": 20.422635,
+      "latitude": 44.783411
     },
     {
       "id": "_7",
       "label": "Хиподром",
-      "longitude": 20.424415,
-      "latitude": 44.787864
+      "longitude": 20.424448,
+      "latitude": 44.787835
     },
     {
       "id": "_8",
       "label": "Господарска Механа",
-      "longitude": 20.431196,
-      "latitude": 44.793657
+      "longitude": 20.431258,
+      "latitude": 44.793663
     },
     {
       "id": "_9",
       "label": "Руска",
-      "longitude": 20.437687,
-      "latitude": 44.795086
+      "longitude": 20.437678,
+      "latitude": 44.795049
     },
     {
       "id": "_10",
       "label": "Сајам",
-      "longitude": 20.442048,
-      "latitude": 44.796238
+      "longitude": 20.442778,
+      "latitude": 44.796434
     },
     {
       "id": "_11",
@@ -197,62 +197,62 @@
     {
       "id": "_12",
       "label": "Палата Правде",
-      "longitude": 20.4533,
+      "longitude": 20.453302,
       "latitude": 44.804555
     },
     {
       "id": "_13",
       "label": "Савски трг",
-      "longitude": 20.455929,
-      "latitude": 44.807723
+      "longitude": 20.455942,
+      "latitude": 44.807733
     },
     {
       "id": "_14",
       "label": "РК Београђанка",
-      "longitude": 20.464091,
-      "latitude": 44.806307
+      "longitude": 20.464199,
+      "latitude": 44.806427
     },
     {
       "id": "_15",
       "label": "Ташмајдан",
-      "longitude": 20.467317,
-      "latitude": 44.809068
+      "longitude": 20.467379,
+      "latitude": 44.809109
     },
     {
       "id": "_16",
       "label": "Правни факултет",
-      "longitude": 20.472505,
-      "latitude": 44.806638
+      "longitude": 20.47258,
+      "latitude": 44.806622
     },
     {
       "id": "_17",
       "label": "Вуков Споменик",
-      "longitude": 20.478223,
-      "latitude": 44.805447
+      "longitude": 20.478154,
+      "latitude": 44.805407
     },
     {
       "id": "_18",
       "label": "Далматинска",
-      "longitude": 20.480165,
-      "latitude": 44.806699
+      "longitude": 20.480195,
+      "latitude": 44.806702
     },
     {
       "id": "_19",
       "label": "Ново Гробље",
-      "longitude": 20.486624,
-      "latitude": 44.810779
+      "longitude": 20.4867,
+      "latitude": 44.810848
     },
     {
       "id": "_20",
       "label": "Ватрогасна Команда",
-      "longitude": 20.488874,
-      "latitude": 44.812684
+      "longitude": 20.488902,
+      "latitude": 44.812648
     },
     {
       "id": "_21",
       "label": "Омладински Стадион",
-      "longitude": 20.490626,
-      "latitude": 44.814821
+      "longitude": 20.490635,
+      "latitude": 44.814827
     }
   ]
 }

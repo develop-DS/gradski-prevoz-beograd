@@ -3,100 +3,100 @@
     {
       "id": "_1",
       "label": "Савски трг",
-      "longitude": 20.455596,
-      "latitude": 44.807795
+      "longitude": 20.455627,
+      "latitude": 44.80782
     },
     {
       "id": "_2",
       "label": "Палата Правде",
-      "longitude": 20.452917,
-      "latitude": 44.804446
+      "longitude": 20.452901,
+      "latitude": 44.804428
     },
     {
       "id": "_3",
       "label": "Сајам",
-      "longitude": 20.44171,
-      "latitude": 44.796529
+      "longitude": 20.441977,
+      "latitude": 44.796588
     },
     {
       "id": "_4",
       "label": "Чукарица",
-      "longitude": 20.414529,
-      "latitude": 44.786454
+      "longitude": 20.414505,
+      "latitude": 44.78645
     },
     {
       "id": "_5",
       "label": "Железник Р",
-      "longitude": 20.358972,
-      "latitude": 44.74227
+      "longitude": 20.359007,
+      "latitude": 44.742278
     },
     {
       "id": "_6",
       "label": "Остружница 1",
-      "longitude": 20.321035,
-      "latitude": 44.733664
+      "longitude": 20.321097,
+      "latitude": 44.733654
     },
     {
       "id": "_7",
       "label": "Остружница 2",
-      "longitude": 20.314456,
-      "latitude": 44.723724
+      "longitude": 20.31452,
+      "latitude": 44.723713
     },
     {
       "id": "_8",
       "label": "Пећани",
-      "longitude": 20.316837,
-      "latitude": 44.69655
+      "longitude": 20.316867,
+      "latitude": 44.69657
     },
     {
       "id": "_9",
       "label": "Умка /Зеленгора/",
-      "longitude": 20.311559,
-      "latitude": 44.689647
+      "longitude": 20.311634,
+      "latitude": 44.689638
     },
     {
       "id": "_10",
       "label": "Умка /Центар/",
-      "longitude": 20.304212,
-      "latitude": 44.679826
+      "longitude": 20.304244,
+      "latitude": 44.679815
     },
     {
       "id": "_11",
       "label": "Руцка 1",
-      "longitude": 20.305765,
-      "latitude": 44.664453
+      "longitude": 20.305873,
+      "latitude": 44.664491
     },
     {
       "id": "_12",
       "label": "Руцка 2",
-      "longitude": 20.308193,
-      "latitude": 44.662205
+      "longitude": 20.308229,
+      "latitude": 44.66222
     },
     {
       "id": "_13",
       "label": "Руцка 3",
-      "longitude": 20.311022,
-      "latitude": 44.660145
+      "longitude": 20.311093,
+      "latitude": 44.66019
     },
     {
       "id": "_14",
       "label": "Руцка 4",
-      "longitude": 20.313305,
-      "latitude": 44.658359
+      "longitude": 20.313363,
+      "latitude": 44.658379
     },
     {
       "id": "_15",
       "label": "Руцка (Окретница)",
-      "longitude": 20.315051,
-      "latitude": 44.655989
+      "longitude": 20.315086,
+      "latitude": 44.656009
     }
   ],
   "direction_b": [
     {
       "id": "_1",
       "label": "Руцка (Окретница)",
-      "longitude": 20.315051,
-      "latitude": 44.655989
+      "longitude": 20.315086,
+      "latitude": 44.656009
     },
     {
       "id": "_2",
@@ -125,74 +125,74 @@
     {
       "id": "_6",
       "label": "Умка /Центар/",
-      "longitude": 20.305264,
-      "latitude": 44.681104
+      "longitude": 20.305341,
+      "latitude": 44.681084
     },
     {
       "id": "_7",
       "label": "Умка /Зеленгора/",
-      "longitude": 20.311988,
+      "longitude": 20.312023,
       "latitude": 44.689724
     },
     {
       "id": "_8",
       "label": "Пећани",
-      "longitude": 20.317615,
-      "latitude": 44.69769
+      "longitude": 20.3177,
+      "latitude": 44.697674
     },
     {
       "id": "_9",
       "label": "Остружница 2",
-      "longitude": 20.314659,
-      "latitude": 44.722505
+      "longitude": 20.314727,
+      "latitude": 44.722489
     },
     {
       "id": "_10",
       "label": "Остружница 1",
-      "longitude": 20.320877,
-      "latitude": 44.733286
+      "longitude": 20.320936,
+      "latitude": 44.733296
     },
     {
       "id": "_11",
       "label": "Железник Р",
-      "longitude": 20.361072,
-      "latitude": 44.742728
+      "longitude": 20.361192,
+      "latitude": 44.742738
     },
     {
       "id": "_12",
       "label": "Чукарица",
-      "longitude": 20.41495,
-      "latitude": 44.786366
+      "longitude": 20.414985,
+      "latitude": 44.786371
     },
     {
       "id": "_13",
       "label": "Сајам",
-      "longitude": 20.441944,
-      "latitude": 44.796327
+      "longitude": 20.441902,
+      "latitude": 44.796305
     },
     {
       "id": "_14",
       "label": "Дурмиторска",
-      "longitude": 20.451415,
-      "latitude": 44.802039
+      "longitude": 20.451504,
+      "latitude": 44.80211
     },
     {
       "id": "_15",
       "label": "Палата Правде",
-      "longitude": 20.453787,
-      "latitude": 44.804951
+      "longitude": 20.453797,
+      "latitude": 44.804909
     },
     {
       "id": "_16",
       "label": "Савски трг",
-      "longitude": 20.456752,
-      "latitude": 44.808511
+      "longitude": 20.456784,
+      "latitude": 44.808538
     },
     {
       "id": "_17",
       "label": "Савски трг",
-      "longitude": 20.455596,
-      "latitude": 44.807795
+      "longitude": 20.455627,
+      "latitude": 44.80782
     }
   ]
 }

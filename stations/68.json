@@ -3,160 +3,160 @@
     {
       "id": "_1",
       "label": "Зелени венац",
-      "longitude": 20.456704,
-      "latitude": 44.814052
+      "longitude": 20.456957,
+      "latitude": 44.814023
     },
     {
       "id": "_2",
       "label": "Бранков мост",
-      "longitude": 20.452286,
-      "latitude": 44.815386
+      "longitude": 20.452213,
+      "latitude": 44.815368
     },
     {
       "id": "_3",
       "label": "Блок 21",
-      "longitude": 20.433505,
-      "latitude": 44.813654
+      "longitude": 20.433557,
+      "latitude": 44.81366
     },
     {
       "id": "_4",
       "label": "Милентија Поповића",
-      "longitude": 20.429058,
-      "latitude": 44.812812
+      "longitude": 20.429114,
+      "latitude": 44.812832
     },
     {
       "id": "_5",
       "label": "Антифашистичке Борбе",
-      "longitude": 20.424697,
-      "latitude": 44.814842
+      "longitude": 20.424719,
+      "latitude": 44.814849
     },
     {
       "id": "_6",
       "label": "Београдска Арена",
-      "longitude": 20.420457,
-      "latitude": 44.816798
+      "longitude": 20.420471,
+      "latitude": 44.816811
     },
     {
       "id": "_7",
       "label": "Уметности булевар",
-      "longitude": 20.413531,
-      "latitude": 44.819963
+      "longitude": 20.413618,
+      "latitude": 44.81993
     },
     {
       "id": "_8",
       "label": "Зорана Ђинђића булевар",
-      "longitude": 20.409422,
-      "latitude": 44.820266
+      "longitude": 20.409494,
+      "latitude": 44.820368
     },
     {
       "id": "_9",
       "label": "Милутина Миланковића",
-      "longitude": 20.405643,
-      "latitude": 44.816147
+      "longitude": 20.405636,
+      "latitude": 44.816096
     },
     {
       "id": "_10",
       "label": "Airport City",
-      "longitude": 20.401198,
-      "latitude": 44.811245
+      "longitude": 20.401228,
+      "latitude": 44.811205
     },
     {
       "id": "_11",
       "label": "Техничка Школа Нови Београд",
-      "longitude": 20.399053,
-      "latitude": 44.808174
+      "longitude": 20.399107,
+      "latitude": 44.808235
     },
     {
       "id": "_12",
       "label": "Омладинских Бригада",
-      "longitude": 20.398159,
+      "longitude": 20.39821,
       "latitude": 44.804669
     },
     {
       "id": "_13",
       "label": "Блок 70",
-      "longitude": 20.393669,
-      "latitude": 44.804374
+      "longitude": 20.393732,
+      "latitude": 44.80437
     },
     {
       "id": "_14",
       "label": "Јурија Гагарина",
-      "longitude": 20.388635,
-      "latitude": 44.801561
+      "longitude": 20.388655,
+      "latitude": 44.80156
     },
     {
       "id": "_15",
       "label": "Блок 70",
-      "longitude": 20.389466,
-      "latitude": 44.798383
+      "longitude": 20.389505,
+      "latitude": 44.798387
     }
   ],
   "direction_b": [
     {
       "id": "_1",
       "label": "Блок 70",
-      "longitude": 20.389925,
-      "latitude": 44.79749
+      "longitude": 20.389957,
+      "latitude": 44.797483
     },
     {
       "id": "_2",
       "label": "Јурија Гагарина",
-      "longitude": 20.389029,
-      "latitude": 44.800922
+      "longitude": 20.389065,
+      "latitude": 44.800956
     },
     {
       "id": "_3",
       "label": "Гандијева",
-      "longitude": 20.388817,
-      "latitude": 44.803348
+      "longitude": 20.38881,
+      "latitude": 44.803343
     },
     {
       "id": "_4",
       "label": "Блок 70",
-      "longitude": 20.393884,
-      "latitude": 44.804013
+      "longitude": 20.393923,
+      "latitude": 44.804027
     },
     {
       "id": "_5",
       "label": "Омладинских Бригада",
-      "longitude": 20.399476,
-      "latitude": 44.805611
+      "longitude": 20.399462,
+      "latitude": 44.805303
     },
     {
       "id": "_6",
       "label": "Техничка Школа Нови Београд",
-      "longitude": 20.399479,
-      "latitude": 44.808319
+      "longitude": 20.399493,
+      "latitude": 44.8083
     },
     {
       "id": "_7",
       "label": "Airport City",
-      "longitude": 20.402008,
-      "latitude": 44.811691
+      "longitude": 20.402169,
+      "latitude": 44.811769
     },
     {
       "id": "_8",
       "label": "Милутина Миланковића",
-      "longitude": 20.406107,
-      "latitude": 44.816154
+      "longitude": 20.406143,
+      "latitude": 44.816157
     },
     {
       "id": "_9",
       "label": "Зорана Ђинђића булевар",
-      "longitude": 20.409674,
-      "latitude": 44.820064
+      "longitude": 20.409686,
+      "latitude": 44.82009
     },
     {
       "id": "_10",
       "label": "Уметности булевар",
-      "longitude": 20.415355,
-      "latitude": 44.818613
+      "longitude": 20.415443,
+      "latitude": 44.818618
     },
     {
       "id": "_11",
       "label": "Београдска Арена",
-      "longitude": 20.421588,
-      "latitude": 44.815751
+      "longitude": 20.421614,
+      "latitude": 44.815781
     },
     {
       "id": "_12",
@@ -167,26 +167,26 @@
     {
       "id": "_13",
       "label": "Милентија Поповића",
-      "longitude": 20.430445,
-      "latitude": 44.811727
+      "longitude": 20.430536,
+      "latitude": 44.811695
     },
     {
       "id": "_14",
       "label": "Блок 21",
-      "longitude": 20.43383,
-      "latitude": 44.813582
+      "longitude": 20.433838,
+      "latitude": 44.813579
     },
     {
       "id": "_15",
       "label": "Бранков мост",
-      "longitude": 20.452112,
-      "latitude": 44.81492
+      "longitude": 20.452631,
+      "latitude": 44.814962
     },
     {
       "id": "_16",
       "label": "Зелени венац",
-      "longitude": 20.456704,
-      "latitude": 44.814052
+      "longitude": 20.456957,
+      "latitude": 44.814023
     }
   ]
 }

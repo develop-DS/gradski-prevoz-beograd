@@ -3,44 +3,44 @@
     {
       "id": "_1",
       "label": "Нови Београд /Павильони/",
-      "longitude": 20.404275,
-      "latitude": 44.830043
+      "longitude": 20.404296,
+      "latitude": 44.830109
     },
     {
       "id": "_2",
       "label": "Маршала Толбухина булевар",
-      "longitude": 20.411053,
-      "latitude": 44.829753
+      "longitude": 20.411088,
+      "latitude": 44.829865
     },
     {
       "id": "_3",
       "label": "Архив",
-      "longitude": 20.411997,
-      "latitude": 44.827033
+      "longitude": 20.412042,
+      "latitude": 44.827043
     },
     {
       "id": "_4",
       "label": "ГО Нови Београд",
-      "longitude": 20.411814,
-      "latitude": 44.823004
+      "longitude": 20.41197,
+      "latitude": 44.823102
     },
     {
       "id": "_5",
       "label": "Зорана Ђинђића булевар",
-      "longitude": 20.409422,
-      "latitude": 44.820266
+      "longitude": 20.409494,
+      "latitude": 44.820368
     },
     {
       "id": "_6",
       "label": "Тошин Бунар",
-      "longitude": 20.400007,
-      "latitude": 44.821993
+      "longitude": 20.400103,
+      "latitude": 44.821976
     },
     {
       "id": "_7",
       "label": "Бежанијска Коса",
-      "longitude": 20.388887,
-      "latitude": 44.827004
+      "longitude": 20.388945,
+      "latitude": 44.827034
     },
     {
       "id": "_8",
@@ -57,98 +57,98 @@
     {
       "id": "_10",
       "label": "Икарбус",
-      "longitude": 20.347315,
+      "longitude": 20.347298,
       "latitude": 44.833877
     },
     {
       "id": "_11",
       "label": "Насеље Радиофар",
-      "longitude": 20.309933,
-      "latitude": 44.834482
+      "longitude": 20.309989,
+      "latitude": 44.834479
     },
     {
       "id": "_12",
       "label": "Пут за Соко Салаш",
-      "longitude": 20.286705,
-      "latitude": 44.833687
+      "longitude": 20.286726,
+      "latitude": 44.833695
     },
     {
       "id": "_13",
       "label": "Добановачка Петља",
-      "longitude": 20.208691,
-      "latitude": 44.848563
+      "longitude": 20.208738,
+      "latitude": 44.848544
     },
     {
       "id": "_14",
       "label": "Насеље Окрајак",
-      "longitude": 20.20606,
-      "latitude": 44.852849
+      "longitude": 20.206148,
+      "latitude": 44.852806
     },
     {
       "id": "_15",
       "label": "Партизанска 2",
-      "longitude": 20.204885,
-      "latitude": 44.860812
+      "longitude": 20.204944,
+      "latitude": 44.860755
     },
     {
       "id": "_16",
       "label": "Партизанска 1",
-      "longitude": 20.204134,
-      "latitude": 44.869914
+      "longitude": 20.204178,
+      "latitude": 44.869907
     },
     {
       "id": "_17",
       "label": "Угриновци /Улаз/",
-      "longitude": 20.199654,
-      "latitude": 44.871473
+      "longitude": 20.199795,
+      "latitude": 44.871428
     },
     {
       "id": "_18",
       "label": "Угриновци /Београдска/",
-      "longitude": 20.193016,
-      "latitude": 44.873594
+      "longitude": 20.19304,
+      "latitude": 44.873582
     },
     {
       "id": "_19",
       "label": "Угриновци /Центар/",
-      "longitude": 20.187359,
-      "latitude": 44.875657
+      "longitude": 20.187145,
+      "latitude": 44.875718
     },
     {
       "id": "_20",
       "label": "Ударне Десетине",
-      "longitude": 20.180047,
-      "latitude": 44.87828
+      "longitude": 20.180086,
+      "latitude": 44.878254
     },
     {
       "id": "_21",
       "label": "Угриновци /Излаз/",
-      "longitude": 20.168788,
-      "latitude": 44.879779
+      "longitude": 20.168797,
+      "latitude": 44.879755
     },
     {
       "id": "_22",
       "label": "Милшпед",
-      "longitude": 20.140855,
-      "latitude": 44.881072
+      "longitude": 20.140937,
+      "latitude": 44.881084
     },
     {
       "id": "_23",
       "label": "Јуб",
-      "longitude": 20.115296,
-      "latitude": 44.88003
+      "longitude": 20.115288,
+      "latitude": 44.880071
     },
     {
       "id": "_24",
       "label": "Атлантик",
       "longitude": 20.096118,
-      "latitude": 44.888042
+      "latitude": 44.888019
     },
     {
       "id": "_25",
       "label": "Хотел Европа",
-      "longitude": 20.090421,
-      "latitude": 44.882999
+      "longitude": 20.090431,
+      "latitude": 44.88308
     },
     {
       "id": "_26",
@@ -167,32 +167,32 @@
     {
       "id": "_2",
       "label": "Дечка",
-      "longitude": 20.097312,
-      "latitude": 44.873214
+      "longitude": 20.097296,
+      "latitude": 44.873197
     },
     {
       "id": "_3",
       "label": "Ново насеље",
-      "longitude": 20.114054,
-      "latitude": 44.875488
+      "longitude": 20.114038,
+      "latitude": 44.875477
     },
     {
       "id": "_4",
       "label": "Милшпед",
-      "longitude": 20.141062,
-      "latitude": 44.880958
+      "longitude": 20.14109,
+      "latitude": 44.880917
     },
     {
       "id": "_5",
       "label": "Угриновци /Излаз/",
-      "longitude": 20.169359,
-      "latitude": 44.879612
+      "longitude": 20.169136,
+      "latitude": 44.87959
     },
     {
       "id": "_6",
       "label": "Ударне Десетине",
-      "longitude": 20.17994,
-      "latitude": 44.878198
+      "longitude": 20.179956,
+      "latitude": 44.878187
     },
     {
       "id": "_7",
@@ -203,116 +203,116 @@
     {
       "id": "_8",
       "label": "Угриновци /Београдска/",
-      "longitude": 20.193668,
-      "latitude": 44.873275
+      "longitude": 20.193649,
+      "latitude": 44.873266
     },
     {
       "id": "_9",
       "label": "Угриновци /Улаз/",
-      "longitude": 20.200129,
-      "latitude": 44.871272
+      "longitude": 20.200198,
+      "latitude": 44.871225
     },
     {
       "id": "_10",
       "label": "Партизанска 1",
-      "longitude": 20.203978,
-      "latitude": 44.869479
+      "longitude": 20.204028,
+      "latitude": 44.869484
     },
     {
       "id": "_11",
       "label": "Партизанска 2",
-      "longitude": 20.204735,
-      "latitude": 44.86008
+      "longitude": 20.204785,
+      "latitude": 44.860095
     },
     {
       "id": "_12",
       "label": "Насеље Окрајак",
-      "longitude": 20.206006,
-      "latitude": 44.852558
+      "longitude": 20.206065,
+      "latitude": 44.852549
     },
     {
       "id": "_13",
       "label": "Добановачка Петља",
-      "longitude": 20.208272,
-      "latitude": 44.848845
+      "longitude": 20.208337,
+      "latitude": 44.848835
     },
     {
       "id": "_14",
       "label": "Пут за Соко Салаш",
-      "longitude": 20.284487,
-      "latitude": 44.833352
+      "longitude": 20.284552,
+      "latitude": 44.833343
     },
     {
       "id": "_15",
       "label": "Насеље Радиофар",
-      "longitude": 20.31176,
-      "latitude": 44.834214
+      "longitude": 20.311883,
+      "latitude": 44.8342
     },
     {
       "id": "_16",
       "label": "Икарбус",
-      "longitude": 20.348286,
-      "latitude": 44.833356
+      "longitude": 20.348368,
+      "latitude": 44.833355
     },
     {
       "id": "_17",
       "label": "Грмеч",
-      "longitude": 20.359356,
-      "latitude": 44.832458
+      "longitude": 20.359336,
+      "latitude": 44.832476
     },
     {
       "id": "_18",
       "label": "Змај",
-      "longitude": 20.371576,
-      "latitude": 44.830946
+      "longitude": 20.371626,
+      "latitude": 44.830919
     },
     {
       "id": "_19",
       "label": "Бежанијска Коса",
-      "longitude": 20.38867,
-      "latitude": 44.826571
+      "longitude": 20.388686,
+      "latitude": 44.826566
     },
     {
       "id": "_20",
       "label": "Тошин Бунар",
-      "longitude": 20.399637,
-      "latitude": 44.821543
+      "longitude": 20.399688,
+      "latitude": 44.821541
     },
     {
       "id": "_21",
       "label": "Зорана Ђинђића булевар",
-      "longitude": 20.409674,
-      "latitude": 44.820064
+      "longitude": 20.409686,
+      "latitude": 44.82009
     },
     {
       "id": "_22",
       "label": "ГО Нови Београд",
-      "longitude": 20.412667,
-      "latitude": 44.823377
+      "longitude": 20.412692,
+      "latitude": 44.823399
     },
     {
       "id": "_23",
       "label": "Архив",
-      "longitude": 20.412968,
-      "latitude": 44.825488
+      "longitude": 20.413009,
+      "latitude": 44.825508
     },
     {
       "id": "_24",
       "label": "Маршала Толбухина булевар",
-      "longitude": 20.411664,
-      "latitude": 44.829255
+      "longitude": 20.411675,
+      "latitude": 44.829221
     },
     {
       "id": "_25",
       "label": "Нови Београд /Павильони/",
-      "longitude": 20.404766,
-      "latitude": 44.830419
+      "longitude": 20.404759,
+      "latitude": 44.830423
     },
     {
       "id": "_26",
       "label": "Нови Београд /Павильони/",
-      "longitude": 20.404275,
-      "latitude": 44.830043
+      "longitude": 20.404296,
+      "latitude": 44.830109
     }
   ]
 }

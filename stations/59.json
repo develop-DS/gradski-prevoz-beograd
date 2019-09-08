@@ -3,188 +3,188 @@
     {
       "id": "_1",
       "label": "Славија /Бирчанинова/",
-      "longitude": 20.465362,
-      "latitude": 44.800531
+      "longitude": 20.465466,
+      "latitude": 44.800629
     },
     {
       "id": "_2",
       "label": "Карађорђев парк",
-      "longitude": 20.465196,
-      "latitude": 44.797029
+      "longitude": 20.465237,
+      "latitude": 44.797099
     },
     {
       "id": "_3",
       "label": "Франше Д'Епереа",
-      "longitude": 20.466411,
-      "latitude": 44.792716
+      "longitude": 20.466405,
+      "latitude": 44.792679
     },
     {
       "id": "_4",
       "label": "Трг Ослобођења",
-      "longitude": 20.464053,
-      "latitude": 44.787082
+      "longitude": 20.464102,
+      "latitude": 44.787166
     },
     {
       "id": "_5",
       "label": "Стадион Црвена Звезда",
-      "longitude": 20.46275,
-      "latitude": 44.784219
+      "longitude": 20.46274,
+      "latitude": 44.784262
     },
     {
       "id": "_6",
       "label": "Народног Хероја Милана Тепића",
-      "longitude": 20.458713,
+      "longitude": 20.458709,
       "latitude": 44.779737
     },
     {
       "id": "_7",
       "label": "Драгише Мишовић болница",
-      "longitude": 20.458083,
-      "latitude": 44.777662
+      "longitude": 20.458095,
+      "latitude": 44.77771
     },
     {
       "id": "_8",
       "label": "Паје Адамова",
-      "longitude": 20.462581,
-      "latitude": 44.772754
+      "longitude": 20.46258,
+      "latitude": 44.772745
     },
     {
       "id": "_9",
       "label": "Бањица",
-      "longitude": 20.465998,
-      "latitude": 44.769389
+      "longitude": 20.465972,
+      "latitude": 44.769418
     },
     {
       "id": "_10",
       "label": "Војномедицинска академија",
-      "longitude": 20.470045,
-      "latitude": 44.765668
+      "longitude": 20.470091,
+      "latitude": 44.765664
     },
     {
       "id": "_11",
       "label": "Пливалиште Бањица",
-      "longitude": 20.472411,
-      "latitude": 44.763076
+      "longitude": 20.472412,
+      "latitude": 44.763107
     },
     {
       "id": "_12",
       "label": "Пет Солитера",
-      "longitude": 20.472953,
-      "latitude": 44.759369
+      "longitude": 20.47298,
+      "latitude": 44.759255
     },
     {
       "id": "_13",
       "label": "Рашка",
-      "longitude": 20.467712,
-      "latitude": 44.754768
+      "longitude": 20.467734,
+      "latitude": 44.754761
     },
     {
       "id": "_14",
       "label": "Пере Велимировића",
-      "longitude": 20.460102,
-      "latitude": 44.757166
+      "longitude": 20.460092,
+      "latitude": 44.757208
     },
     {
       "id": "_15",
       "label": "Српских Ударних Бригада",
-      "longitude": 20.456412,
-      "latitude": 44.754304
+      "longitude": 20.456413,
+      "latitude": 44.754325
     },
     {
       "id": "_16",
       "label": "Канарево Брдо",
-      "longitude": 20.455095,
-      "latitude": 44.752066
+      "longitude": 20.455084,
+      "latitude": 44.752032
     },
     {
       "id": "_17",
       "label": "Варешка",
-      "longitude": 20.455754,
-      "latitude": 44.749855
+      "longitude": 20.455731,
+      "latitude": 44.749852
     },
     {
       "id": "_18",
       "label": "Станка Пауновића",
-      "longitude": 20.452402,
-      "latitude": 44.74845
+      "longitude": 20.452276,
+      "latitude": 44.748464
     },
     {
       "id": "_19",
       "label": "Миљаковац 1",
-      "longitude": 20.449902,
-      "latitude": 44.748244
+      "longitude": 20.449829,
+      "latitude": 44.748294
     },
     {
       "id": "_20",
       "label": "ГО Раковица",
-      "longitude": 20.446225,
-      "latitude": 44.743747
+      "longitude": 20.446224,
+      "latitude": 44.743757
     },
     {
       "id": "_21",
       "label": "Маричка",
-      "longitude": 20.438006,
-      "latitude": 44.745404
+      "longitude": 20.438085,
+      "latitude": 44.745413
     },
     {
       "id": "_22",
       "label": "Јанковић Стојана",
-      "longitude": 20.434393,
-      "latitude": 44.745093
+      "longitude": 20.434366,
+      "latitude": 44.745108
     },
     {
       "id": "_23",
       "label": "Пилота Михајла Петровића",
-      "longitude": 20.424493,
-      "latitude": 44.742836
+      "longitude": 20.424512,
+      "latitude": 44.742814
     },
     {
       "id": "_24",
       "label": "МЗ Видиковац",
       "longitude": 20.42261,
-      "latitude": 44.740176
+      "latitude": 44.740185
     },
     {
       "id": "_25",
       "label": "Видиковачки Венац",
-      "longitude": 20.420062,
-      "latitude": 44.738503
+      "longitude": 20.420066,
+      "latitude": 44.738532
     },
     {
       "id": "_26",
       "label": "Топлана",
-      "longitude": 20.420558,
-      "latitude": 44.734031
+      "longitude": 20.420595,
+      "latitude": 44.73409
     },
     {
       "id": "_27",
       "label": "Лабудово Брдо",
-      "longitude": 20.422079,
-      "latitude": 44.730445
+      "longitude": 20.422152,
+      "latitude": 44.730447
     },
     {
       "id": "_28",
       "label": "Сердар Јанка Вукотића",
-      "longitude": 20.425928,
-      "latitude": 44.727276
+      "longitude": 20.425932,
+      "latitude": 44.727286
     },
     {
       "id": "_29",
       "label": "11 Краишке Дивизије",
-      "longitude": 20.425966,
-      "latitude": 44.726213
+      "longitude": 20.425989,
+      "latitude": 44.726205
     },
     {
       "id": "_30",
       "label": "Генерала Згоњанина",
-      "longitude": 20.422388,
-      "latitude": 44.724711
+      "longitude": 20.422419,
+      "latitude": 44.724738
     },
     {
       "id": "_31",
       "label": "Милорада Драшковића",
-      "longitude": 20.42117,
-      "latitude": 44.721628
+      "longitude": 20.421157,
+      "latitude": 44.721626
     },
     {
       "id": "_32",
@@ -195,214 +195,214 @@
     {
       "id": "_33",
       "label": "Петлово Брдо",
-      "longitude": 20.428404,
-      "latitude": 44.718296
+      "longitude": 20.428494,
+      "latitude": 44.718281
     }
   ],
   "direction_b": [
     {
       "id": "_1",
       "label": "Петлово Брдо",
-      "longitude": 20.428659,
-      "latitude": 44.718479
+      "longitude": 20.428657,
+      "latitude": 44.718516
     },
     {
       "id": "_2",
       "label": "Расињска",
-      "longitude": 20.425097,
-      "latitude": 44.720277
+      "longitude": 20.425177,
+      "latitude": 44.720275
     },
     {
       "id": "_3",
       "label": "Милорада Драшковића",
-      "longitude": 20.421224,
-      "latitude": 44.722339
+      "longitude": 20.421251,
+      "latitude": 44.722325
     },
     {
       "id": "_4",
       "label": "Генерала Згоњанина",
-      "longitude": 20.423069,
-      "latitude": 44.72499
+      "longitude": 20.423219,
+      "latitude": 44.725073
     },
     {
       "id": "_5",
       "label": "11 Краишке Дивизије",
-      "longitude": 20.426194,
-      "latitude": 44.726104
+      "longitude": 20.426235,
+      "latitude": 44.7261
     },
     {
       "id": "_6",
       "label": "Сердар Јанка Вукотића",
-      "longitude": 20.425799,
-      "latitude": 44.72792
+      "longitude": 20.425843,
+      "latitude": 44.727943
     },
     {
       "id": "_7",
       "label": "Лабудово Брдо",
-      "longitude": 20.421637,
-      "latitude": 44.7306
+      "longitude": 20.421764,
+      "latitude": 44.730626
     },
     {
       "id": "_8",
       "label": "Топлана",
-      "longitude": 20.420591,
-      "latitude": 44.734574
+      "longitude": 20.420636,
+      "latitude": 44.734497
     },
     {
       "id": "_9",
       "label": "Видиковачки Венац",
-      "longitude": 20.420926,
-      "latitude": 44.739025
+      "longitude": 20.420967,
+      "latitude": 44.739029
     },
     {
       "id": "_10",
       "label": "МЗ Видиковац",
-      "longitude": 20.42309,
-      "latitude": 44.740405
+      "longitude": 20.423165,
+      "latitude": 44.740449
     },
     {
       "id": "_11",
       "label": "Пилота Михајла Петровића",
-      "longitude": 20.425357,
-      "latitude": 44.743295
+      "longitude": 20.425384,
+      "latitude": 44.743306
     },
     {
       "id": "_12",
       "label": "Јанковић Стојана",
-      "longitude": 20.433822,
-      "latitude": 44.744923
+      "longitude": 20.434342,
+      "latitude": 44.744985
     },
     {
       "id": "_13",
       "label": "Маричка",
-      "longitude": 20.438323,
-      "latitude": 44.745289
+      "longitude": 20.43824,
+      "latitude": 44.745294
     },
     {
       "id": "_14",
       "label": "ГО Раковица",
-      "longitude": 20.44556,
-      "latitude": 44.743357
+      "longitude": 20.445579,
+      "latitude": 44.74334
     },
     {
       "id": "_15",
       "label": "Миљаковац 1",
-      "longitude": 20.449961,
-      "latitude": 44.748109
+      "longitude": 20.449918,
+      "latitude": 44.748084
     },
     {
       "id": "_16",
       "label": "Станка Пауновића",
-      "longitude": 20.453306,
-      "latitude": 44.748416
+      "longitude": 20.453423,
+      "latitude": 44.748411
     },
     {
       "id": "_17",
       "label": "Варешка",
-      "longitude": 20.455706,
-      "latitude": 44.748869
+      "longitude": 20.455738,
+      "latitude": 44.748897
     },
     {
       "id": "_18",
       "label": "Канарево Брдо",
-      "longitude": 20.455151,
-      "latitude": 44.752675
+      "longitude": 20.455298,
+      "latitude": 44.752728
     },
     {
       "id": "_19",
       "label": "Српских Ударних Бригада",
-      "longitude": 20.457104,
-      "latitude": 44.754807
+      "longitude": 20.457065,
+      "latitude": 44.754738
     },
     {
       "id": "_20",
       "label": "Пере Велимировића",
-      "longitude": 20.461073,
-      "latitude": 44.757124
+      "longitude": 20.461207,
+      "latitude": 44.757065
     },
     {
       "id": "_21",
       "label": "Рашка",
-      "longitude": 20.469646,
-      "latitude": 44.754435
+      "longitude": 20.469723,
+      "latitude": 44.754428
     },
     {
       "id": "_22",
       "label": "Пет Солитера",
-      "longitude": 20.473132,
-      "latitude": 44.760023
+      "longitude": 20.473212,
+      "latitude": 44.760063
     },
     {
       "id": "_23",
       "label": "Пливалиште Бањица",
-      "longitude": 20.471783,
-      "latitude": 44.763976
+      "longitude": 20.471852,
+      "latitude": 44.763972
     },
     {
       "id": "_24",
       "label": "Војномедицинска академија",
-      "longitude": 20.469487,
-      "latitude": 44.76654
+      "longitude": 20.469515,
+      "latitude": 44.766554
     },
     {
       "id": "_25",
       "label": "Бањица",
-      "longitude": 20.465738,
-      "latitude": 44.769939
+      "longitude": 20.465763,
+      "latitude": 44.769938
     },
     {
       "id": "_26",
       "label": "Паје Адамова",
-      "longitude": 20.462267,
-      "latitude": 44.773346
+      "longitude": 20.462307,
+      "latitude": 44.773349
     },
     {
       "id": "_27",
       "label": "Драгише Мишовић болница",
-      "longitude": 20.458482,
-      "latitude": 44.777658
+      "longitude": 20.458522,
+      "latitude": 44.777634
     },
     {
       "id": "_28",
       "label": "Шекспирова",
-      "longitude": 20.459853,
-      "latitude": 44.781393
+      "longitude": 20.459902,
+      "latitude": 44.781426
     },
     {
       "id": "_29",
       "label": "Стадион Црвена Звезда",
-      "longitude": 20.462964,
-      "latitude": 44.782966
+      "longitude": 20.463008,
+      "latitude": 44.783015
     },
     {
       "id": "_30",
       "label": "Трг Ослобођења",
-      "longitude": 20.464423,
-      "latitude": 44.787287
+      "longitude": 20.464419,
+      "latitude": 44.787286
     },
     {
       "id": "_31",
       "label": "Франше Д'Епереа",
-      "longitude": 20.466738,
-      "latitude": 44.792674
+      "longitude": 20.466713,
+      "latitude": 44.792784
     },
     {
       "id": "_32",
       "label": "Карађорђев парк",
-      "longitude": 20.465713,
-      "latitude": 44.798107
+      "longitude": 20.465719,
+      "latitude": 44.79816
     },
     {
       "id": "_33",
       "label": "Трг Славија /Булевар Ослобођења/",
-      "longitude": 20.466314,
-      "latitude": 44.801565
+      "longitude": 20.46636,
+      "latitude": 44.801732
     },
     {
       "id": "_34",
       "label": "Славија /Бирчанинова/",
-      "longitude": 20.465362,
-      "latitude": 44.800531
+      "longitude": 20.465466,
+      "latitude": 44.800629
     }
   ]
 }

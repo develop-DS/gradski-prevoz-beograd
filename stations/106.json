@@ -3,140 +3,140 @@
     {
       "id": "_1",
       "label": "Омладински Стадион",
-      "longitude": 20.49003,
-      "latitude": 44.81534
+      "longitude": 20.490085,
+      "latitude": 44.815368
     },
     {
       "id": "_2",
       "label": "МЗ Крњача",
-      "longitude": 20.494067,
-      "latitude": 44.837738
+      "longitude": 20.494105,
+      "latitude": 44.837744
     },
     {
       "id": "_3",
       "label": "Блок Бранко Момиров",
-      "longitude": 20.490964,
-      "latitude": 44.841367
+      "longitude": 20.491051,
+      "latitude": 44.841315
     },
     {
       "id": "_4",
       "label": "Партизански Блок",
-      "longitude": 20.48829,
-      "latitude": 44.846338
+      "longitude": 20.488307,
+      "latitude": 44.84637
     },
     {
       "id": "_5",
       "label": "Блок Сутјеска",
-      "longitude": 20.486428,
-      "latitude": 44.849396
+      "longitude": 20.486444,
+      "latitude": 44.849427
     },
     {
       "id": "_6",
       "label": "Пиротско Насеље",
-      "longitude": 20.48369,
-      "latitude": 44.85353
+      "longitude": 20.483699,
+      "latitude": 44.853545
     },
     {
       "id": "_7",
       "label": "Пакрачка",
-      "longitude": 20.480364,
-      "latitude": 44.858458
+      "longitude": 20.480411,
+      "latitude": 44.85847
     },
     {
       "id": "_8",
       "label": "Себеш Суви",
-      "longitude": 20.478172,
-      "latitude": 44.861744
+      "longitude": 20.478215,
+      "latitude": 44.861742
     },
     {
       "id": "_9",
       "label": "Себешка Река",
-      "longitude": 20.473741,
-      "latitude": 44.868346
+      "longitude": 20.473805,
+      "latitude": 44.868343
     },
     {
       "id": "_10",
       "label": "Себеш Мокри",
-      "longitude": 20.470378,
-      "latitude": 44.873406
+      "longitude": 20.470407,
+      "latitude": 44.873404
     },
     {
       "id": "_11",
       "label": "Борча Раскршће",
-      "longitude": 20.467594,
-      "latitude": 44.877516
+      "longitude": 20.467627,
+      "latitude": 44.877582
     },
     {
       "id": "_12",
       "label": "Косовопољска",
-      "longitude": 20.463443,
-      "latitude": 44.883697
+      "longitude": 20.46341,
+      "latitude": 44.883767
     },
     {
       "id": "_13",
       "label": "Братства и Јединства",
-      "longitude": 20.460176,
+      "longitude": 20.460235,
       "latitude": 44.888513
     },
     {
       "id": "_14",
       "label": "Преток",
-      "longitude": 20.457776,
-      "latitude": 44.892158
+      "longitude": 20.457784,
+      "latitude": 44.892162
     },
     {
       "id": "_15",
       "label": "Мали Збег",
-      "longitude": 20.455783,
-      "latitude": 44.895077
+      "longitude": 20.455845,
+      "latitude": 44.895071
     },
     {
       "id": "_16",
       "label": "Гробље Збег",
-      "longitude": 20.452379,
-      "latitude": 44.900455
+      "longitude": 20.452344,
+      "latitude": 44.900445
     },
     {
       "id": "_17",
       "label": "Расадник",
-      "longitude": 20.447421,
-      "latitude": 44.90769
+      "longitude": 20.447482,
+      "latitude": 44.907712
     },
     {
       "id": "_18",
       "label": "Зрењанински Пут",
-      "longitude": 20.442536,
-      "latitude": 44.912739
+      "longitude": 20.442595,
+      "latitude": 44.912726
     },
     {
       "id": "_19",
       "label": "Ковилово 1",
-      "longitude": 20.433481,
-      "latitude": 44.909421
+      "longitude": 20.433555,
+      "latitude": 44.909408
     },
     {
       "id": "_20",
       "label": "Ковилово 2",
-      "longitude": 20.43029,
-      "latitude": 44.909487
+      "longitude": 20.430349,
+      "latitude": 44.909461
     },
     {
       "id": "_21",
       "label": "ПКБ Ковилово",
-      "longitude": 20.421462,
+      "longitude": 20.42143,
       "latitude": 44.908097
     },
     {
       "id": "_22",
       "label": "Пут за Јабучки Рит",
-      "longitude": 20.44171,
-      "latitude": 44.91647
+      "longitude": 20.441788,
+      "latitude": 44.916461
     },
     {
       "id": "_23",
       "label": "Штале ПКБ",
-      "longitude": 20.453182,
-      "latitude": 44.921359
+      "longitude": 20.453126,
+      "latitude": 44.921334
     },
     {
       "id": "_24",
@@ -153,28 +153,28 @@
     {
       "id": "_26",
       "label": "Раденска Бара",
-      "longitude": 20.544281,
-      "latitude": 44.928784
+      "longitude": 20.544297,
+      "latitude": 44.928799
     },
     {
       "id": "_27",
       "label": "Јабучки Рит (Машински Парк)",
-      "longitude": 20.553934,
-      "latitude": 44.921015
+      "longitude": 20.553958,
+      "latitude": 44.921035
     },
     {
       "id": "_28",
       "label": "Јабучки Рит",
-      "longitude": 20.557743,
-      "latitude": 44.918158
+      "longitude": 20.557842,
+      "latitude": 44.918078
     }
   ],
   "direction_b": [
     {
       "id": "_1",
       "label": "Јабучки Рит",
-      "longitude": 20.557743,
-      "latitude": 44.918158
+      "longitude": 20.557842,
+      "latitude": 44.918078
     },
     {
       "id": "_2",
@@ -185,158 +185,158 @@
     {
       "id": "_3",
       "label": "Раденска Бара",
-      "longitude": 20.544267,
-      "latitude": 44.928983
+      "longitude": 20.544273,
+      "latitude": 44.928943
     },
     {
       "id": "_4",
       "label": "Стари Аеродром",
-      "longitude": 20.505863,
-      "latitude": 44.929135
+      "longitude": 20.505841,
+      "latitude": 44.929095
     },
     {
       "id": "_5",
       "label": "Глогоњски Рит",
-      "longitude": 20.474262,
-      "latitude": 44.930225
+      "longitude": 20.474311,
+      "latitude": 44.930236
     },
     {
       "id": "_6",
       "label": "Штале ПКБ",
-      "longitude": 20.45204,
-      "latitude": 44.921
+      "longitude": 20.452068,
+      "latitude": 44.920988
     },
     {
       "id": "_7",
       "label": "Пут за Јабучки Рит",
-      "longitude": 20.440646,
-      "latitude": 44.916284
+      "longitude": 20.440938,
+      "latitude": 44.916347
     },
     {
       "id": "_8",
       "label": "ПКБ Ковилово",
-      "longitude": 20.421462,
+      "longitude": 20.42143,
       "latitude": 44.908097
     },
     {
       "id": "_9",
       "label": "Ковилово 2",
-      "longitude": 20.430319,
-      "latitude": 44.909237
+      "longitude": 20.430405,
+      "latitude": 44.909215
     },
     {
       "id": "_10",
       "label": "Ковилово 1",
-      "longitude": 20.434117,
-      "latitude": 44.909506
+      "longitude": 20.434313,
+      "latitude": 44.909557
     },
     {
       "id": "_11",
       "label": "Пут за Ковилово",
-      "longitude": 20.443894,
-      "latitude": 44.912414
+      "longitude": 20.443986,
+      "latitude": 44.912405
     },
     {
       "id": "_12",
       "label": "Расадник",
-      "longitude": 20.448044,
-      "latitude": 44.906225
+      "longitude": 20.448196,
+      "latitude": 44.906168
     },
     {
       "id": "_13",
       "label": "Гробље Збег",
-      "longitude": 20.45281,
-      "latitude": 44.89909
+      "longitude": 20.452642,
+      "latitude": 44.89949
     },
     {
       "id": "_14",
       "label": "Мали Збег",
-      "longitude": 20.456369,
-      "latitude": 44.893848
+      "longitude": 20.456399,
+      "latitude": 44.893838
     },
     {
       "id": "_15",
       "label": "Преток",
-      "longitude": 20.458116,
-      "latitude": 44.891207
+      "longitude": 20.458186,
+      "latitude": 44.891203
     },
     {
       "id": "_16",
       "label": "Братства и Јединства",
-      "longitude": 20.460955,
-      "latitude": 44.886955
+      "longitude": 20.460969,
+      "latitude": 44.886993
     },
     {
       "id": "_17",
       "label": "Косовопољска",
-      "longitude": 20.464068,
-      "latitude": 44.882341
+      "longitude": 20.464099,
+      "latitude": 44.882347
     },
     {
       "id": "_18",
       "label": "Борча Раскршће",
-      "longitude": 20.467516,
-      "latitude": 44.877193
+      "longitude": 20.467531,
+      "latitude": 44.877219
     },
     {
       "id": "_19",
       "label": "Себеш Мокри",
-      "longitude": 20.470536,
+      "longitude": 20.470556,
       "latitude": 44.872697
     },
     {
       "id": "_20",
       "label": "Себешка Река",
-      "longitude": 20.473572,
-      "latitude": 44.868109
+      "longitude": 20.473635,
+      "latitude": 44.868102
     },
     {
       "id": "_21",
       "label": "Себеш Суви",
-      "longitude": 20.478553,
-      "latitude": 44.860633
+      "longitude": 20.478635,
+      "latitude": 44.860618
     },
     {
       "id": "_22",
       "label": "Пакрачка",
-      "longitude": 20.480728,
-      "latitude": 44.857428
+      "longitude": 20.480785,
+      "latitude": 44.857411
     },
     {
       "id": "_23",
       "label": "Пиротско Насеље",
-      "longitude": 20.484068,
-      "latitude": 44.852463
+      "longitude": 20.484112,
+      "latitude": 44.852438
     },
     {
       "id": "_24",
       "label": "Блок Сутјеска",
-      "longitude": 20.486664,
-      "latitude": 44.848491
+      "longitude": 20.486769,
+      "latitude": 44.848453
     },
     {
       "id": "_25",
       "label": "Партизански Блок",
-      "longitude": 20.488102,
-      "latitude": 44.846078
+      "longitude": 20.488131,
+      "latitude": 44.846097
     },
     {
       "id": "_26",
       "label": "Блок Бранко Момиров",
-      "longitude": 20.490768,
-      "latitude": 44.841086
+      "longitude": 20.490776,
+      "latitude": 44.841187
     },
     {
       "id": "_27",
       "label": "Омладински Стадион",
-      "longitude": 20.489658,
-      "latitude": 44.81534
+      "longitude": 20.489693,
+      "latitude": 44.815337
     },
     {
       "id": "_28",
       "label": "Омладински Стадион",
-      "longitude": 20.49003,
-      "latitude": 44.81534
+      "longitude": 20.490085,
+      "latitude": 44.815368
     }
   ]
 }

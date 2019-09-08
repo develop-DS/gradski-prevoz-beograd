@@ -3,244 +3,244 @@
     {
       "id": "_1",
       "label": "Омладински Стадион",
-      "longitude": 20.49003,
-      "latitude": 44.81534
+      "longitude": 20.490085,
+      "latitude": 44.815368
     },
     {
       "id": "_2",
       "label": "МЗ Крњача",
-      "longitude": 20.494067,
-      "latitude": 44.837738
+      "longitude": 20.494105,
+      "latitude": 44.837744
     },
     {
       "id": "_3",
       "label": "Блок Бранко Момиров",
-      "longitude": 20.490964,
-      "latitude": 44.841367
+      "longitude": 20.491051,
+      "latitude": 44.841315
     },
     {
       "id": "_4",
       "label": "Партизански Блок",
-      "longitude": 20.48829,
-      "latitude": 44.846338
+      "longitude": 20.488307,
+      "latitude": 44.84637
     },
     {
       "id": "_5",
       "label": "Блок Сутјеска",
-      "longitude": 20.486428,
-      "latitude": 44.849396
+      "longitude": 20.486444,
+      "latitude": 44.849427
     },
     {
       "id": "_6",
       "label": "Пиротско Насеље",
-      "longitude": 20.48369,
-      "latitude": 44.85353
+      "longitude": 20.483699,
+      "latitude": 44.853545
     },
     {
       "id": "_7",
       "label": "Пакрачка",
-      "longitude": 20.480364,
-      "latitude": 44.858458
+      "longitude": 20.480411,
+      "latitude": 44.85847
     },
     {
       "id": "_8",
       "label": "Себеш Суви",
-      "longitude": 20.478172,
-      "latitude": 44.861744
+      "longitude": 20.478215,
+      "latitude": 44.861742
     },
     {
       "id": "_9",
       "label": "Себешка Река",
-      "longitude": 20.473741,
-      "latitude": 44.868346
+      "longitude": 20.473805,
+      "latitude": 44.868343
     },
     {
       "id": "_10",
       "label": "Себеш Мокри",
-      "longitude": 20.470378,
-      "latitude": 44.873406
+      "longitude": 20.470407,
+      "latitude": 44.873404
     },
     {
       "id": "_11",
       "label": "Борча Раскршће",
-      "longitude": 20.465893,
-      "latitude": 44.878111
+      "longitude": 20.465917,
+      "latitude": 44.878107
     },
     {
       "id": "_12",
       "label": "Ваљевског Одреда",
-      "longitude": 20.46205,
-      "latitude": 44.875121
+      "longitude": 20.46198,
+      "latitude": 44.875069
     },
     {
       "id": "_13",
       "label": "Соње Маринковић",
-      "longitude": 20.459188,
-      "latitude": 44.873378
+      "longitude": 20.459237,
+      "latitude": 44.873404
     },
     {
       "id": "_14",
       "label": "Трг Ослобођења",
-      "longitude": 20.456755,
-      "latitude": 44.87195
+      "longitude": 20.456776,
+      "latitude": 44.871943
     },
     {
       "id": "_15",
       "label": "Бранка Радичевића",
-      "longitude": 20.453566,
-      "latitude": 44.869186
+      "longitude": 20.453699,
+      "latitude": 44.869181
     },
     {
       "id": "_16",
       "label": "Вука Караџића",
-      "longitude": 20.449317,
-      "latitude": 44.869278
+      "longitude": 20.449394,
+      "latitude": 44.869288
     },
     {
       "id": "_17",
       "label": "Шести Прилаз",
-      "longitude": 20.443046,
-      "latitude": 44.864824
+      "longitude": 20.443093,
+      "latitude": 44.86483
     },
     {
       "id": "_18",
       "label": "Велики Канал",
-      "longitude": 20.439667,
-      "latitude": 44.862569
+      "longitude": 20.439713,
+      "latitude": 44.862559
     },
     {
       "id": "_19",
       "label": "Пумпа",
-      "longitude": 20.434385,
-      "latitude": 44.858951
+      "longitude": 20.434436,
+      "latitude": 44.858957
     },
     {
       "id": "_20",
       "label": "Црвенка",
-      "longitude": 20.417754,
-      "latitude": 44.860775
+      "longitude": 20.417789,
+      "latitude": 44.860763
     }
   ],
   "direction_b": [
     {
       "id": "_1",
       "label": "Црвенка",
-      "longitude": 20.417754,
-      "latitude": 44.860775
+      "longitude": 20.417789,
+      "latitude": 44.860763
     },
     {
       "id": "_2",
       "label": "Пумпа",
-      "longitude": 20.433012,
-      "latitude": 44.858409
+      "longitude": 20.43308,
+      "latitude": 44.858402
     },
     {
       "id": "_3",
       "label": "Велики Канал",
-      "longitude": 20.440667,
-      "latitude": 44.86304
+      "longitude": 20.440755,
+      "latitude": 44.863102
     },
     {
       "id": "_4",
       "label": "Шести Прилаз",
-      "longitude": 20.443695,
-      "latitude": 44.865137
+      "longitude": 20.443689,
+      "latitude": 44.865136
     },
     {
       "id": "_5",
       "label": "Вука Караџића",
-      "longitude": 20.450248,
-      "latitude": 44.869171
+      "longitude": 20.450256,
+      "latitude": 44.869183
     },
     {
       "id": "_6",
       "label": "Бранка Радичевића",
-      "longitude": 20.454491,
-      "latitude": 44.869082
+      "longitude": 20.454545,
+      "latitude": 44.869084
     },
     {
       "id": "_7",
       "label": "Петра Драпшина",
-      "longitude": 20.456513,
-      "latitude": 44.871087
+      "longitude": 20.456515,
+      "latitude": 44.871043
     },
     {
       "id": "_8",
       "label": "Соње Маринковић",
-      "longitude": 20.459193,
-      "latitude": 44.873266
+      "longitude": 20.459223,
+      "latitude": 44.873285
     },
     {
       "id": "_9",
       "label": "Ваљевског Одреда",
-      "longitude": 20.462825,
-      "latitude": 44.875422
+      "longitude": 20.462886,
+      "latitude": 44.875434
     },
     {
       "id": "_10",
       "label": "Борча Раскршће",
-      "longitude": 20.467516,
-      "latitude": 44.877193
+      "longitude": 20.467531,
+      "latitude": 44.877219
     },
     {
       "id": "_11",
       "label": "Себеш Мокри",
-      "longitude": 20.470536,
+      "longitude": 20.470556,
       "latitude": 44.872697
     },
     {
       "id": "_12",
       "label": "Себешка Река",
-      "longitude": 20.473572,
-      "latitude": 44.868109
+      "longitude": 20.473635,
+      "latitude": 44.868102
     },
     {
       "id": "_13",
       "label": "Себеш Суви",
-      "longitude": 20.478553,
-      "latitude": 44.860633
+      "longitude": 20.478635,
+      "latitude": 44.860618
     },
     {
       "id": "_14",
       "label": "Пакрачка",
-      "longitude": 20.480728,
-      "latitude": 44.857428
+      "longitude": 20.480785,
+      "latitude": 44.857411
     },
     {
       "id": "_15",
       "label": "Пиротско Насеље",
-      "longitude": 20.484068,
-      "latitude": 44.852463
+      "longitude": 20.484112,
+      "latitude": 44.852438
     },
     {
       "id": "_16",
       "label": "Блок Сутјеска",
-      "longitude": 20.486664,
-      "latitude": 44.848491
+      "longitude": 20.486769,
+      "latitude": 44.848453
     },
     {
       "id": "_17",
       "label": "Партизански Блок",
-      "longitude": 20.488102,
-      "latitude": 44.846078
+      "longitude": 20.488131,
+      "latitude": 44.846097
     },
     {
       "id": "_18",
       "label": "Блок Бранко Момиров",
-      "longitude": 20.490768,
-      "latitude": 44.841086
+      "longitude": 20.490776,
+      "latitude": 44.841187
     },
     {
       "id": "_19",
       "label": "Омладински Стадион",
-      "longitude": 20.489658,
-      "latitude": 44.81534
+      "longitude": 20.489693,
+      "latitude": 44.815337
     },
     {
       "id": "_20",
       "label": "Омладински Стадион",
-      "longitude": 20.49003,
-      "latitude": 44.81534
+      "longitude": 20.490085,
+      "latitude": 44.815368
     }
   ]
 }

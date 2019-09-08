@@ -9,136 +9,136 @@
     {
       "id": "_2",
       "label": "Вазнесењска Црква",
-      "longitude": 20.461956,
-      "latitude": 44.808041
+      "longitude": 20.462042,
+      "latitude": 44.80796
     },
     {
       "id": "_3",
       "label": "Милоша Поцерца",
-      "longitude": 20.45602,
-      "latitude": 44.802401
+      "longitude": 20.455948,
+      "latitude": 44.802316
     },
     {
       "id": "_4",
       "label": "Мостар",
-      "longitude": 20.449237,
-      "latitude": 44.798754
+      "longitude": 20.44927,
+      "latitude": 44.798762
     },
     {
       "id": "_5",
       "label": "Сајам",
-      "longitude": 20.44171,
-      "latitude": 44.796529
+      "longitude": 20.441977,
+      "latitude": 44.796588
     },
     {
       "id": "_6",
       "label": "Чукарица",
-      "longitude": 20.414529,
-      "latitude": 44.786454
+      "longitude": 20.414505,
+      "latitude": 44.78645
     },
     {
       "id": "_7",
       "label": "Светолика Лазаревића Лазе",
-      "longitude": 20.412434,
-      "latitude": 44.783756
+      "longitude": 20.412414,
+      "latitude": 44.783754
     },
     {
       "id": "_8",
       "label": "Обалских Радника",
-      "longitude": 20.4094,
-      "latitude": 44.780672
+      "longitude": 20.409339,
+      "latitude": 44.780605
     },
     {
       "id": "_9",
       "label": "Стругарска",
-      "longitude": 20.406788,
-      "latitude": 44.7773
+      "longitude": 20.406808,
+      "latitude": 44.777324
     },
     {
       "id": "_10",
       "label": "Чукаричка Падина",
-      "longitude": 20.404825,
-      "latitude": 44.778126
+      "longitude": 20.404778,
+      "latitude": 44.778032
     }
   ],
   "direction_b": [
     {
       "id": "_1",
       "label": "Чукаричка Падина",
-      "longitude": 20.404825,
-      "latitude": 44.778126
+      "longitude": 20.404778,
+      "latitude": 44.778032
     },
     {
       "id": "_2",
       "label": "Обалских Радника",
-      "longitude": 20.405629,
-      "latitude": 44.776043
+      "longitude": 20.40535,
+      "latitude": 44.776312
     },
     {
       "id": "_3",
       "label": "Стевана Ђурђевића",
-      "longitude": 20.407534,
-      "latitude": 44.776439
+      "longitude": 20.407555,
+      "latitude": 44.776404
     },
     {
       "id": "_4",
       "label": "МЗ Чукаричка Падина",
-      "longitude": 20.408218,
-      "latitude": 44.777233
+      "longitude": 20.408281,
+      "latitude": 44.777311
     },
     {
       "id": "_5",
       "label": "Обалских Радника",
-      "longitude": 20.409831,
-      "latitude": 44.78125
+      "longitude": 20.409829,
+      "latitude": 44.781271
     },
     {
       "id": "_6",
       "label": "Светолика Лазаревића Лазе",
-      "longitude": 20.412726,
-      "latitude": 44.784243
+      "longitude": 20.412712,
+      "latitude": 44.784295
     },
     {
       "id": "_7",
       "label": "Чукарица",
-      "longitude": 20.41495,
-      "latitude": 44.786366
+      "longitude": 20.414985,
+      "latitude": 44.786371
     },
     {
       "id": "_8",
       "label": "Господарска Механа",
-      "longitude": 20.433393,
-      "latitude": 44.794424
+      "longitude": 20.433518,
+      "latitude": 44.794439
     },
     {
       "id": "_9",
       "label": "Руска",
-      "longitude": 20.437784,
-      "latitude": 44.795189
+      "longitude": 20.438101,
+      "latitude": 44.79525
     },
     {
       "id": "_10",
       "label": "Сајам",
-      "longitude": 20.441944,
-      "latitude": 44.796327
+      "longitude": 20.441902,
+      "latitude": 44.796305
     },
     {
       "id": "_11",
       "label": "Дринска",
-      "longitude": 20.451763,
-      "latitude": 44.800826
+      "longitude": 20.451825,
+      "latitude": 44.800848
     },
     {
       "id": "_12",
       "label": "Милоша Поцерца",
-      "longitude": 20.454923,
-      "latitude": 44.803468
+      "longitude": 20.454948,
+      "latitude": 44.803463
     },
     {
       "id": "_13",
       "label": "Немањина",
-      "longitude": 20.458329,
-      "latitude": 44.807818
+      "longitude": 20.458357,
+      "latitude": 44.807879
     },
     {
       "id": "_14",

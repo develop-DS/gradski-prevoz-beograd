@@ -3,44 +3,44 @@
     {
       "id": "_1",
       "label": "Савски трг",
-      "longitude": 20.455596,
-      "latitude": 44.807795
+      "longitude": 20.455627,
+      "latitude": 44.80782
     },
     {
       "id": "_2",
       "label": "Палата Правде",
-      "longitude": 20.452917,
-      "latitude": 44.804446
+      "longitude": 20.452901,
+      "latitude": 44.804428
     },
     {
       "id": "_3",
       "label": "Сајам",
-      "longitude": 20.44171,
-      "latitude": 44.796529
+      "longitude": 20.441977,
+      "latitude": 44.796588
     },
     {
       "id": "_4",
       "label": "Чукарица",
-      "longitude": 20.414529,
-      "latitude": 44.786454
+      "longitude": 20.414505,
+      "latitude": 44.78645
     },
     {
       "id": "_5",
       "label": "Пут за Железник",
-      "longitude": 20.360174,
-      "latitude": 44.741872
+      "longitude": 20.360214,
+      "latitude": 44.741819
     },
     {
       "id": "_6",
       "label": "Конграп",
-      "longitude": 20.361952,
-      "latitude": 44.733231
+      "longitude": 20.36203,
+      "latitude": 44.733265
     },
     {
       "id": "_7",
       "label": "Железник /Савска/",
-      "longitude": 20.366316,
-      "latitude": 44.730558
+      "longitude": 20.36634,
+      "latitude": 44.730581
     },
     {
       "id": "_8",
@@ -57,154 +57,154 @@
     {
       "id": "_10",
       "label": "Железничка Рампа",
-      "longitude": 20.367306,
-      "latitude": 44.720503
+      "longitude": 20.367413,
+      "latitude": 44.720355
     },
     {
       "id": "_11",
       "label": "Стевана Филиповића",
-      "longitude": 20.368084,
-      "latitude": 44.717117
+      "longitude": 20.368145,
+      "latitude": 44.716726
     },
     {
       "id": "_12",
       "label": "Жикице Јовановића",
-      "longitude": 20.368108,
-      "latitude": 44.7147
+      "longitude": 20.368152,
+      "latitude": 44.714751
     },
     {
       "id": "_13",
       "label": "Горица /Саре Бернар/",
-      "longitude": 20.378166,
-      "latitude": 44.697194
+      "longitude": 20.378314,
+      "latitude": 44.696683
     },
     {
       "id": "_14",
       "label": "Горица",
-      "longitude": 20.380478,
-      "latitude": 44.692288
+      "longitude": 20.380512,
+      "latitude": 44.692239
     },
     {
       "id": "_15",
       "label": "Сремчица /Улаз/",
-      "longitude": 20.381425,
-      "latitude": 44.687767
+      "longitude": 20.381445,
+      "latitude": 44.687733
     },
     {
       "id": "_16",
       "label": "Сремчица /Шумске Економије/",
-      "longitude": 20.383485,
-      "latitude": 44.68398
+      "longitude": 20.38351,
+      "latitude": 44.683943
     },
     {
       "id": "_17",
       "label": "Сремчица /Обреновачка/",
-      "longitude": 20.385025,
-      "latitude": 44.68209
+      "longitude": 20.385035,
+      "latitude": 44.68207
     },
     {
       "id": "_18",
       "label": "МЗ Сремчица",
-      "longitude": 20.390896,
-      "latitude": 44.676653
+      "longitude": 20.390929,
+      "latitude": 44.67663
     },
     {
       "id": "_19",
       "label": "Сремчица /Јеличићев Венац/",
-      "longitude": 20.394088,
-      "latitude": 44.673679
+      "longitude": 20.394082,
+      "latitude": 44.673712
     },
     {
       "id": "_20",
       "label": "Сремчица /Томашка/",
-      "longitude": 20.396325,
-      "latitude": 44.670513
+      "longitude": 20.396333,
+      "latitude": 44.670523
     },
     {
       "id": "_21",
       "label": "Сремчица /Тесарска/",
-      "longitude": 20.399444,
-      "latitude": 44.665473
+      "longitude": 20.39944,
+      "latitude": 44.665511
     },
     {
       "id": "_22",
       "label": "Сремчица /Мирковићева/",
-      "longitude": 20.398178,
-      "latitude": 44.662989
+      "longitude": 20.398205,
+      "latitude": 44.662976
     },
     {
       "id": "_23",
       "label": "Сремчица /Вашарска/",
-      "longitude": 20.397542,
+      "longitude": 20.397588,
       "latitude": 44.659712
     },
     {
       "id": "_24",
       "label": "Сремчица /Излаз/",
-      "longitude": 20.399334,
-      "latitude": 44.655356
+      "longitude": 20.399305,
+      "latitude": 44.655387
     },
     {
       "id": "_25",
       "label": "Сремчица",
-      "longitude": 20.404251,
-      "latitude": 44.650532
+      "longitude": 20.404245,
+      "latitude": 44.650529
     }
   ],
   "direction_b": [
     {
       "id": "_1",
       "label": "Сремчица",
-      "longitude": 20.404251,
-      "latitude": 44.650532
+      "longitude": 20.404245,
+      "latitude": 44.650529
     },
     {
       "id": "_2",
       "label": "Сремчица /Излаз/",
-      "longitude": 20.398945,
-      "latitude": 44.656001
+      "longitude": 20.398996,
+      "latitude": 44.655999
     },
     {
       "id": "_3",
       "label": "Сремчица /Вашарска/",
-      "longitude": 20.39766,
-      "latitude": 44.66036
+      "longitude": 20.397702,
+      "latitude": 44.660343
     },
     {
       "id": "_4",
       "label": "Сремчица /Мирковићева/",
-      "longitude": 20.398642,
-      "latitude": 44.663342
+      "longitude": 20.398715,
+      "latitude": 44.66334
     },
     {
       "id": "_5",
       "label": "Сремчица /Тесарска/",
-      "longitude": 20.399565,
-      "latitude": 44.665771
+      "longitude": 20.399605,
+      "latitude": 44.665764
     },
     {
       "id": "_6",
       "label": "Сремчица /Томашка/",
-      "longitude": 20.396252,
-      "latitude": 44.670835
+      "longitude": 20.39631,
+      "latitude": 44.67079
     },
     {
       "id": "_7",
       "label": "Сремчица /Јеличићев Венац/",
-      "longitude": 20.394072,
-      "latitude": 44.67395
+      "longitude": 20.394093,
+      "latitude": 44.673971
     },
     {
       "id": "_8",
       "label": "МЗ Сремчица",
-      "longitude": 20.390646,
-      "latitude": 44.677002
+      "longitude": 20.390695,
+      "latitude": 44.677006
     },
     {
       "id": "_9",
       "label": "Сремчица /Обреновачка/",
-      "longitude": 20.386025,
-      "latitude": 44.681115
+      "longitude": 20.38606,
+      "latitude": 44.681102
     },
     {
       "id": "_10",
@@ -215,110 +215,110 @@
     {
       "id": "_11",
       "label": "Сремчица /Улаз/",
-      "longitude": 20.381564,
-      "latitude": 44.688503
+      "longitude": 20.381586,
+      "latitude": 44.688584
     },
     {
       "id": "_12",
       "label": "Горица",
-      "longitude": 20.38039,
-      "latitude": 44.693156
+      "longitude": 20.380433,
+      "latitude": 44.693152
     },
     {
       "id": "_13",
       "label": "Горица /Саре Бернар/",
-      "longitude": 20.378241,
-      "latitude": 44.697257
+      "longitude": 20.378308,
+      "latitude": 44.697205
     },
     {
       "id": "_14",
       "label": "Жикице Јовановића",
-      "longitude": 20.36818,
-      "latitude": 44.714029
+      "longitude": 20.368202,
+      "latitude": 44.713891
     },
     {
       "id": "_15",
       "label": "Стевана Филиповића",
-      "longitude": 20.368237,
-      "latitude": 44.716779
+      "longitude": 20.368213,
+      "latitude": 44.717523
     },
     {
       "id": "_16",
       "label": "Железничка Рампа",
-      "longitude": 20.367282,
-      "latitude": 44.720719
+      "longitude": 20.367376,
+      "latitude": 44.720658
     },
     {
       "id": "_17",
       "label": "Нићифоровићева",
-      "longitude": 20.368754,
-      "latitude": 44.723008
+      "longitude": 20.369037,
+      "latitude": 44.723354
     },
     {
       "id": "_18",
       "label": "Иво Лола Рибар",
-      "longitude": 20.36814,
-      "latitude": 44.727543
+      "longitude": 20.368155,
+      "latitude": 44.727538
     },
     {
       "id": "_19",
       "label": "Железник /Савска/",
       "longitude": 20.366262,
-      "latitude": 44.730857
+      "latitude": 44.730833
     },
     {
       "id": "_20",
       "label": "Конграп",
-      "longitude": 20.362189,
-      "latitude": 44.733216
+      "longitude": 20.362296,
+      "latitude": 44.733203
     },
     {
       "id": "_21",
       "label": "Пут за Железник",
-      "longitude": 20.360456,
-      "latitude": 44.741811
+      "longitude": 20.360494,
+      "latitude": 44.741829
     },
     {
       "id": "_22",
       "label": "Чукарица",
-      "longitude": 20.41495,
-      "latitude": 44.786366
+      "longitude": 20.414985,
+      "latitude": 44.786371
     },
     {
       "id": "_23",
       "label": "Господарска Механа",
-      "longitude": 20.433393,
-      "latitude": 44.794424
+      "longitude": 20.433518,
+      "latitude": 44.794439
     },
     {
       "id": "_24",
       "label": "Сајам",
-      "longitude": 20.441944,
-      "latitude": 44.796327
+      "longitude": 20.441902,
+      "latitude": 44.796305
     },
     {
       "id": "_25",
       "label": "Дурмиторска",
-      "longitude": 20.451415,
-      "latitude": 44.802039
+      "longitude": 20.451504,
+      "latitude": 44.80211
     },
     {
       "id": "_26",
       "label": "Палата Правде",
-      "longitude": 20.453787,
-      "latitude": 44.804951
+      "longitude": 20.453797,
+      "latitude": 44.804909
     },
     {
       "id": "_27",
       "label": "Савски трг",
-      "longitude": 20.456752,
-      "latitude": 44.808511
+      "longitude": 20.456784,
+      "latitude": 44.808538
     },
     {
       "id": "_28",
       "label": "Савски трг",
-      "longitude": 20.455596,
-      "latitude": 44.807795
+      "longitude": 20.455627,
+      "latitude": 44.80782
     }
   ]
 }

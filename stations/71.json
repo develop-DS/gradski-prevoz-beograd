@@ -3,128 +3,128 @@
     {
       "id": "_1",
       "label": "Зелени венац",
-      "longitude": 20.456704,
-      "latitude": 44.814052
+      "longitude": 20.456957,
+      "latitude": 44.814023
     },
     {
       "id": "_2",
       "label": "Бранков мост",
-      "longitude": 20.452286,
-      "latitude": 44.815386
+      "longitude": 20.452213,
+      "latitude": 44.815368
     },
     {
       "id": "_3",
       "label": "Шест Каплара",
-      "longitude": 20.433538,
-      "latitude": 44.815291
+      "longitude": 20.433531,
+      "latitude": 44.81528
     },
     {
       "id": "_4",
       "label": "Палата Србија",
-      "longitude": 20.429748,
-      "latitude": 44.816931
+      "longitude": 20.429702,
+      "latitude": 44.816954
     },
     {
       "id": "_5",
       "label": "Шпанских Бораца",
-      "longitude": 20.423498,
-      "latitude": 44.81972
+      "longitude": 20.423451,
+      "latitude": 44.819767
     },
     {
       "id": "_6",
       "label": "Зорана Ђинђића булевар",
-      "longitude": 20.41554,
-      "latitude": 44.820612
+      "longitude": 20.415574,
+      "latitude": 44.820609
     },
     {
       "id": "_7",
       "label": "Блок 29",
-      "longitude": 20.41304,
-      "latitude": 44.817766
+      "longitude": 20.413048,
+      "latitude": 44.817783
     },
     {
       "id": "_8",
       "label": "Факутет Драмских Уметности",
-      "longitude": 20.410465,
-      "latitude": 44.814923
+      "longitude": 20.410508,
+      "latitude": 44.814934
     },
     {
       "id": "_9",
       "label": "Уметности булевар",
-      "longitude": 20.408277,
-      "latitude": 44.813602
+      "longitude": 20.408254,
+      "latitude": 44.813648
     },
     {
       "id": "_10",
       "label": "Омладинских Бригада 1",
-      "longitude": 20.404108,
-      "latitude": 44.815509
+      "longitude": 20.404055,
+      "latitude": 44.815567
     },
     {
       "id": "_11",
       "label": "Народних Хероја",
-      "longitude": 20.399804,
-      "latitude": 44.817475
+      "longitude": 20.399829,
+      "latitude": 44.817504
     },
     {
       "id": "_12",
       "label": "Железничка Станица Тошин Бунар",
-      "longitude": 20.395053,
-      "latitude": 44.817222
+      "longitude": 20.395056,
+      "latitude": 44.817184
     },
     {
       "id": "_13",
       "label": "Стари Аеродром",
-      "longitude": 20.392808,
-      "latitude": 44.814103
+      "longitude": 20.392807,
+      "latitude": 44.814091
     },
     {
       "id": "_14",
       "label": "ИМТ",
-      "longitude": 20.389638,
-      "latitude": 44.812513
+      "longitude": 20.38967,
+      "latitude": 44.812505
     },
     {
       "id": "_15",
       "label": "Гандијева 1",
-      "longitude": 20.381948,
-      "latitude": 44.810315
+      "longitude": 20.381421,
+      "latitude": 44.810076
     },
     {
       "id": "_16",
       "label": "Бежанија Пијаца",
-      "longitude": 20.37774,
-      "latitude": 44.808581
+      "longitude": 20.37778,
+      "latitude": 44.808579
     },
     {
       "id": "_17",
       "label": "Црква Св.Георгија",
-      "longitude": 20.374628,
-      "latitude": 44.807325
+      "longitude": 20.37552,
+      "latitude": 44.807663
     },
     {
       "id": "_18",
       "label": "Душана Вукасовића",
-      "longitude": 20.370581,
-      "latitude": 44.805672
+      "longitude": 20.370577,
+      "latitude": 44.805657
     },
     {
       "id": "_19",
       "label": "Сурчинска",
-      "longitude": 20.36689,
-      "latitude": 44.804157
+      "longitude": 20.36693,
+      "latitude": 44.804164
     },
     {
       "id": "_20",
       "label": "Недељка Гвозденовића",
-      "longitude": 20.359747,
+      "longitude": 20.359788,
       "latitude": 44.807719
     },
     {
       "id": "_21",
       "label": "Биодекор",
-      "longitude": 20.352385,
-      "latitude": 44.806458
+      "longitude": 20.35217,
+      "latitude": 44.806391
     },
     {
       "id": "_22",
@@ -149,122 +149,122 @@
     {
       "id": "_3",
       "label": "Недељка Гвозденовића",
-      "longitude": 20.360225,
-      "latitude": 44.807542
+      "longitude": 20.36023,
+      "latitude": 44.807547
     },
     {
       "id": "_4",
       "label": "Сурчинска",
-      "longitude": 20.367064,
-      "latitude": 44.80393
+      "longitude": 20.367118,
+      "latitude": 44.803938
     },
     {
       "id": "_5",
       "label": "Душана Вукасовића",
-      "longitude": 20.372252,
-      "latitude": 44.806031
+      "longitude": 20.372277,
+      "latitude": 44.806038
     },
     {
       "id": "_6",
       "label": "Црква Св.Георгија",
-      "longitude": 20.375897,
-      "latitude": 44.807489
+      "longitude": 20.375876,
+      "latitude": 44.807516
     },
     {
       "id": "_7",
       "label": "Бежанија Пијаца",
-      "longitude": 20.378641,
-      "latitude": 44.808604
+      "longitude": 20.377138,
+      "latitude": 44.808027
     },
     {
       "id": "_8",
       "label": "Гандијева",
-      "longitude": 20.383477,
-      "latitude": 44.81069
+      "longitude": 20.383529,
+      "latitude": 44.810703
     },
     {
       "id": "_9",
       "label": "ИМТ",
-      "longitude": 20.391258,
+      "longitude": 20.391274,
       "latitude": 44.812825
     },
     {
       "id": "_10",
       "label": "Железничка Станица Тошин Бунар",
-      "longitude": 20.395281,
-      "latitude": 44.816813
+      "longitude": 20.395311,
+      "latitude": 44.816818
     },
     {
       "id": "_11",
       "label": "Народних Хероја",
-      "longitude": 20.401161,
-      "latitude": 44.816449
+      "longitude": 20.401308,
+      "latitude": 44.816403
     },
     {
       "id": "_12",
       "label": "Омладинских Бригада 1",
-      "longitude": 20.405592,
-      "latitude": 44.814423
+      "longitude": 20.405649,
+      "latitude": 44.814418
     },
     {
       "id": "_13",
       "label": "Блок 28",
-      "longitude": 20.409649,
-      "latitude": 44.813597
+      "longitude": 20.409724,
+      "latitude": 44.813595
     },
     {
       "id": "_14",
       "label": "Факутет Драмских Уметности",
-      "longitude": 20.411428,
-      "latitude": 44.815546
+      "longitude": 20.41149,
+      "latitude": 44.815543
     },
     {
       "id": "_15",
       "label": "Блок 29",
-      "longitude": 20.413389,
-      "latitude": 44.817663
+      "longitude": 20.413423,
+      "latitude": 44.817683
     },
     {
       "id": "_16",
       "label": "Зорана Ђинђића булевар",
-      "longitude": 20.416299,
-      "latitude": 44.820943
+      "longitude": 20.416315,
+      "latitude": 44.82091
     },
     {
       "id": "_17",
       "label": "Блок 30",
-      "longitude": 20.418305,
-      "latitude": 44.821759
+      "longitude": 20.418549,
+      "latitude": 44.821665
     },
     {
       "id": "_18",
       "label": "Шпанских Бораца",
-      "longitude": 20.42308,
-      "latitude": 44.819617
+      "longitude": 20.423156,
+      "latitude": 44.819593
     },
     {
       "id": "_19",
       "label": "Палата Србија",
-      "longitude": 20.428643,
-      "latitude": 44.817131
+      "longitude": 20.428727,
+      "latitude": 44.817077
     },
     {
       "id": "_20",
       "label": "Шест Каплара",
-      "longitude": 20.433229,
-      "latitude": 44.815093
+      "longitude": 20.43321,
+      "latitude": 44.815106
     },
     {
       "id": "_21",
       "label": "Бранков мост",
-      "longitude": 20.452112,
-      "latitude": 44.81492
+      "longitude": 20.452631,
+      "latitude": 44.814962
     },
     {
       "id": "_22",
       "label": "Зелени венац",
-      "longitude": 20.456704,
-      "latitude": 44.814052
+      "longitude": 20.456957,
+      "latitude": 44.814023
     }
   ]
 }

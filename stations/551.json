@@ -3,74 +3,74 @@
     {
       "id": "_1",
       "label": "Савски трг",
-      "longitude": 20.455596,
-      "latitude": 44.807795
+      "longitude": 20.455627,
+      "latitude": 44.80782
     },
     {
       "id": "_2",
       "label": "Палата Правде",
-      "longitude": 20.452917,
-      "latitude": 44.804446
+      "longitude": 20.452901,
+      "latitude": 44.804428
     },
     {
       "id": "_3",
       "label": "Сајам",
-      "longitude": 20.44171,
-      "latitude": 44.796529
+      "longitude": 20.441977,
+      "latitude": 44.796588
     },
     {
       "id": "_4",
       "label": "Чукарица",
-      "longitude": 20.414529,
-      "latitude": 44.786454
+      "longitude": 20.414505,
+      "latitude": 44.78645
     },
     {
       "id": "_5",
       "label": "Железник Р",
-      "longitude": 20.358972,
-      "latitude": 44.74227
+      "longitude": 20.359007,
+      "latitude": 44.742278
     },
     {
       "id": "_6",
       "label": "Остружница 1",
-      "longitude": 20.321035,
-      "latitude": 44.733664
+      "longitude": 20.321097,
+      "latitude": 44.733654
     },
     {
       "id": "_7",
       "label": "Остружница 2",
-      "longitude": 20.314456,
-      "latitude": 44.723724
+      "longitude": 20.31452,
+      "latitude": 44.723713
     },
     {
       "id": "_8",
       "label": "Пећани",
-      "longitude": 20.316837,
-      "latitude": 44.69655
+      "longitude": 20.316867,
+      "latitude": 44.69657
     },
     {
       "id": "_9",
       "label": "Умка /Зеленгора/",
-      "longitude": 20.311559,
-      "latitude": 44.689647
+      "longitude": 20.311634,
+      "latitude": 44.689638
     },
     {
       "id": "_10",
       "label": "Умка /Центар/",
-      "longitude": 20.304652,
-      "latitude": 44.679922
+      "longitude": 20.304706,
+      "latitude": 44.679898
     },
     {
       "id": "_11",
       "label": "Умка /Излаз/",
-      "longitude": 20.312221,
-      "latitude": 44.685153
+      "longitude": 20.31224,
+      "latitude": 44.685146
     },
     {
       "id": "_12",
       "label": "Умка /Карађорђева/",
-      "longitude": 20.319096,
-      "latitude": 44.690299
+      "longitude": 20.319103,
+      "latitude": 44.690291
     },
     {
       "id": "_13",
@@ -87,14 +87,14 @@
     {
       "id": "_15",
       "label": "Пећани /Гробље/",
-      "longitude": 20.335599,
-      "latitude": 44.690328
+      "longitude": 20.335644,
+      "latitude": 44.690317
     },
     {
       "id": "_16",
       "label": "Велика Моштаница /Црква/",
-      "longitude": 20.340637,
-      "latitude": 44.683936
+      "longitude": 20.340641,
+      "latitude": 44.684018
     },
     {
       "id": "_17",
@@ -105,166 +105,166 @@
     {
       "id": "_18",
       "label": "Велика Моштаница /Добривоја Јовановића/",
-      "longitude": 20.351663,
-      "latitude": 44.673774
+      "longitude": 20.35172,
+      "latitude": 44.673718
     },
     {
       "id": "_19",
       "label": "МЗ Велика Моштаница",
-      "longitude": 20.352782,
-      "latitude": 44.669637
+      "longitude": 20.352778,
+      "latitude": 44.669634
     },
     {
       "id": "_20",
       "label": "Велика Моштаница /Центар/",
-      "longitude": 20.353407,
-      "latitude": 44.665282
+      "longitude": 20.353419,
+      "latitude": 44.665274
     },
     {
       "id": "_21",
       "label": "Велика Моштаница /Милије Маринковића/",
-      "longitude": 20.358039,
-      "latitude": 44.661039
+      "longitude": 20.357433,
+      "latitude": 44.661395
     },
     {
       "id": "_22",
       "label": "Велика Моштаница /Станићева/",
-      "longitude": 20.359924,
-      "latitude": 44.657737
+      "longitude": 20.359949,
+      "latitude": 44.657735
     },
     {
       "id": "_23",
       "label": "Велика Моштаница /Гилино Воће/",
-      "longitude": 20.366271,
-      "latitude": 44.654766
+      "longitude": 20.365604,
+      "latitude": 44.655055
     },
     {
       "id": "_24",
       "label": "Велика Моштаница /Радовановићево/",
-      "longitude": 20.371099,
-      "latitude": 44.650748
+      "longitude": 20.371463,
+      "latitude": 44.650225
     },
     {
       "id": "_25",
       "label": "Велика Моштаница /Велики Трафо/",
-      "longitude": 20.377716,
-      "latitude": 44.644233
+      "longitude": 20.377706,
+      "latitude": 44.64429
     },
     {
       "id": "_26",
       "label": "Велика Моштаница /Мали Трафо/",
-      "longitude": 20.37818,
-      "latitude": 44.639304
+      "longitude": 20.378228,
+      "latitude": 44.639258
     },
     {
       "id": "_27",
       "label": "Велика Моштаница /М/",
-      "longitude": 20.381484,
-      "latitude": 44.634299
+      "longitude": 20.381618,
+      "latitude": 44.633942
     },
     {
       "id": "_28",
       "label": "Липовица /Полиција/",
-      "longitude": 20.412121,
-      "latitude": 44.637103
+      "longitude": 20.412068,
+      "latitude": 44.637032
     },
     {
       "id": "_29",
       "label": "Сремчица",
-      "longitude": 20.404251,
-      "latitude": 44.650532
+      "longitude": 20.404245,
+      "latitude": 44.650529
     }
   ],
   "direction_b": [
     {
       "id": "_1",
       "label": "Сремчица",
-      "longitude": 20.404251,
-      "latitude": 44.650532
+      "longitude": 20.404245,
+      "latitude": 44.650529
     },
     {
       "id": "_2",
       "label": "Липовица /Полиција/",
-      "longitude": 20.411902,
-      "latitude": 44.637061
+      "longitude": 20.411832,
+      "latitude": 44.637039
     },
     {
       "id": "_3",
       "label": "Велика Моштаница /М/",
-      "longitude": 20.381629,
-      "latitude": 44.634231
+      "longitude": 20.381673,
+      "latitude": 44.6342
     },
     {
       "id": "_4",
       "label": "Велика Моштаница /Мали Трафо/",
-      "longitude": 20.378308,
-      "latitude": 44.639479
+      "longitude": 20.378331,
+      "latitude": 44.639513
     },
     {
       "id": "_5",
       "label": "Велика Моштаница /Велики Трафо/",
-      "longitude": 20.377686,
-      "latitude": 44.644428
+      "longitude": 20.377965,
+      "latitude": 44.644172
     },
     {
       "id": "_6",
       "label": "Велика Моштаница /Радовановићево/",
-      "longitude": 20.370975,
-      "latitude": 44.651196
+      "longitude": 20.371317,
+      "latitude": 44.650656
     },
     {
       "id": "_7",
       "label": "Велика Моштаница /Липовачка/",
-      "longitude": 20.365495,
-      "latitude": 44.655194
+      "longitude": 20.365711,
+      "latitude": 44.655114
     },
     {
       "id": "_8",
       "label": "Велика Моштаница /Станићева/",
-      "longitude": 20.359873,
-      "latitude": 44.658124
+      "longitude": 20.35991,
+      "latitude": 44.658083
     },
     {
       "id": "_9",
       "label": "Велика Моштаница /Милије Маринковића/",
-      "longitude": 20.357819,
-      "latitude": 44.661312
+      "longitude": 20.358453,
+      "latitude": 44.660849
     },
     {
       "id": "_10",
       "label": "Велика Моштаница /Центар/",
-      "longitude": 20.353404,
-      "latitude": 44.665564
+      "longitude": 20.353433,
+      "latitude": 44.665597
     },
     {
       "id": "_11",
       "label": "МЗ Велика Моштаница",
-      "longitude": 20.352811,
+      "longitude": 20.352834,
       "latitude": 44.669967
     },
     {
       "id": "_12",
       "label": "Велика Моштаница /Добривоја Јовановића/",
-      "longitude": 20.351824,
-      "latitude": 44.673898
+      "longitude": 20.351854,
+      "latitude": 44.673887
     },
     {
       "id": "_13",
       "label": "Велика Моштаница /Економија/",
-      "longitude": 20.345357,
-      "latitude": 44.677129
+      "longitude": 20.345415,
+      "latitude": 44.677111
     },
     {
       "id": "_14",
       "label": "Велика Моштаница /Црква/",
-      "longitude": 20.340604,
-      "latitude": 44.684287
+      "longitude": 20.340505,
+      "latitude": 44.684504
     },
     {
       "id": "_15",
       "label": "Пећани /Гробље/",
-      "longitude": 20.336267,
-      "latitude": 44.690208
+      "longitude": 20.336314,
+      "latitude": 44.690185
     },
     {
       "id": "_16",
@@ -275,92 +275,92 @@
     {
       "id": "_17",
       "label": "Пећани (Благоја Ранковића)",
-      "longitude": 20.323626,
-      "latitude": 44.697812
+      "longitude": 20.323648,
+      "latitude": 44.697811
     },
     {
       "id": "_18",
       "label": "Умка /Карађорђева/",
-      "longitude": 20.319458,
-      "latitude": 44.690784
+      "longitude": 20.319434,
+      "latitude": 44.690749
     },
     {
       "id": "_19",
       "label": "Умка /Излаз/",
-      "longitude": 20.312278,
-      "latitude": 44.685378
+      "longitude": 20.312311,
+      "latitude": 44.685362
     },
     {
       "id": "_20",
       "label": "Умка /Центар/",
-      "longitude": 20.305264,
-      "latitude": 44.681104
+      "longitude": 20.305341,
+      "latitude": 44.681084
     },
     {
       "id": "_21",
       "label": "Умка /Зеленгора/",
-      "longitude": 20.311988,
+      "longitude": 20.312023,
       "latitude": 44.689724
     },
     {
       "id": "_22",
       "label": "Пећани",
-      "longitude": 20.317615,
-      "latitude": 44.69769
+      "longitude": 20.3177,
+      "latitude": 44.697674
     },
     {
       "id": "_23",
       "label": "Остружница 2",
-      "longitude": 20.314659,
-      "latitude": 44.722505
+      "longitude": 20.314727,
+      "latitude": 44.722489
     },
     {
       "id": "_24",
       "label": "Остружница 1",
-      "longitude": 20.320877,
-      "latitude": 44.733286
+      "longitude": 20.320936,
+      "latitude": 44.733296
     },
     {
       "id": "_25",
       "label": "Железник Р",
-      "longitude": 20.361072,
-      "latitude": 44.742728
+      "longitude": 20.361192,
+      "latitude": 44.742738
     },
     {
       "id": "_26",
       "label": "Чукарица",
-      "longitude": 20.41495,
-      "latitude": 44.786366
+      "longitude": 20.414985,
+      "latitude": 44.786371
     },
     {
       "id": "_27",
       "label": "Сајам",
-      "longitude": 20.441944,
-      "latitude": 44.796327
+      "longitude": 20.441902,
+      "latitude": 44.796305
     },
     {
       "id": "_28",
       "label": "Дурмиторска",
-      "longitude": 20.451415,
-      "latitude": 44.802039
+      "longitude": 20.451504,
+      "latitude": 44.80211
     },
     {
       "id": "_29",
       "label": "Палата Правде",
-      "longitude": 20.453787,
-      "latitude": 44.804951
+      "longitude": 20.453797,
+      "latitude": 44.804909
     },
     {
       "id": "_30",
       "label": "Савски трг",
-      "longitude": 20.456752,
-      "latitude": 44.808511
+      "longitude": 20.456784,
+      "latitude": 44.808538
     },
     {
       "id": "_31",
       "label": "Савски трг",
-      "longitude": 20.455596,
-      "latitude": 44.807795
+      "longitude": 20.455627,
+      "latitude": 44.80782
     }
   ]
 }

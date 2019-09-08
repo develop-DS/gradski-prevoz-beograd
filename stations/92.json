@@ -3,68 +3,68 @@
     {
       "id": "_1",
       "label": "Савски трг",
-      "longitude": 20.455596,
-      "latitude": 44.807795
+      "longitude": 20.455627,
+      "latitude": 44.80782
     },
     {
       "id": "_2",
       "label": "Палата Правде",
-      "longitude": 20.452917,
-      "latitude": 44.804446
+      "longitude": 20.452901,
+      "latitude": 44.804428
     },
     {
       "id": "_3",
       "label": "Сајам",
-      "longitude": 20.44171,
-      "latitude": 44.796529
+      "longitude": 20.441977,
+      "latitude": 44.796588
     },
     {
       "id": "_4",
       "label": "Чукарица",
-      "longitude": 20.414529,
-      "latitude": 44.786454
+      "longitude": 20.414505,
+      "latitude": 44.78645
     },
     {
       "id": "_5",
       "label": "СРЦ Макиш",
-      "longitude": 20.405761,
-      "latitude": 44.785005
+      "longitude": 20.405798,
+      "latitude": 44.785015
     },
     {
       "id": "_6",
       "label": "Макишка",
-      "longitude": 20.394243,
-      "latitude": 44.783144
+      "longitude": 20.394273,
+      "latitude": 44.783155
     },
     {
       "id": "_7",
       "label": "Рени Бунар",
-      "longitude": 20.381661,
-      "latitude": 44.77861
+      "longitude": 20.381683,
+      "latitude": 44.778624
     },
     {
       "id": "_8",
       "label": "Таложник",
-      "longitude": 20.374422,
-      "latitude": 44.775259
+      "longitude": 20.374462,
+      "latitude": 44.775272
     },
     {
       "id": "_9",
       "label": "Водовод",
-      "longitude": 20.369513,
-      "latitude": 44.773404
+      "longitude": 20.369567,
+      "latitude": 44.773411
     },
     {
       "id": "_10",
       "label": "МЗ Макиш",
-      "longitude": 20.361947,
-      "latitude": 44.770843
+      "longitude": 20.362033,
+      "latitude": 44.770854
     },
     {
       "id": "_11",
       "label": "Неопланта",
-      "longitude": 20.357256,
-      "latitude": 44.768135
+      "longitude": 20.357359,
+      "latitude": 44.768158
     },
     {
       "id": "_12",
@@ -93,20 +93,20 @@
     {
       "id": "_16",
       "label": "Мостоградња",
-      "longitude": 20.338708,
-      "latitude": 44.747105
+      "longitude": 20.338732,
+      "latitude": 44.747112
     },
     {
       "id": "_17",
       "label": "Надвожњак",
-      "longitude": 20.326094,
-      "latitude": 44.738427
+      "longitude": 20.326126,
+      "latitude": 44.738423
     },
     {
       "id": "_18",
       "label": "Железнички надвожњак",
-      "longitude": 20.321381,
-      "latitude": 44.735497
+      "longitude": 20.32139,
+      "latitude": 44.735491
     },
     {
       "id": "_19",
@@ -117,28 +117,28 @@
     {
       "id": "_20",
       "label": "Остружница /Савска/",
-      "longitude": 20.311586,
-      "latitude": 44.726733
+      "longitude": 20.31158,
+      "latitude": 44.726753
     },
     {
       "id": "_21",
       "label": "Остружница /Лоле Рибара/",
-      "longitude": 20.311304,
-      "latitude": 44.723001
+      "longitude": 20.311323,
+      "latitude": 44.722999
     },
     {
       "id": "_22",
       "label": "Остружница /Караула/",
-      "longitude": 20.309719,
-      "latitude": 44.718148
+      "longitude": 20.309738,
+      "latitude": 44.718106
     }
   ],
   "direction_b": [
     {
       "id": "_1",
       "label": "Остружница /Караула/",
-      "longitude": 20.309719,
-      "latitude": 44.718148
+      "longitude": 20.309738,
+      "latitude": 44.718106
     },
     {
       "id": "_2",
@@ -149,146 +149,146 @@
     {
       "id": "_3",
       "label": "Остружница /Савска/",
-      "longitude": 20.311653,
-      "latitude": 44.727062
+      "longitude": 20.311667,
+      "latitude": 44.727069
     },
     {
       "id": "_4",
       "label": "МЗ Остружница",
-      "longitude": 20.315282,
-      "latitude": 44.731678
+      "longitude": 20.315305,
+      "latitude": 44.731632
     },
     {
       "id": "_5",
       "label": "Железнички надвожњак",
-      "longitude": 20.32162,
-      "latitude": 44.735551
+      "longitude": 20.321337,
+      "latitude": 44.73524
     },
     {
       "id": "_6",
       "label": "Надвожњак",
-      "longitude": 20.326523,
-      "latitude": 44.73856
+      "longitude": 20.326544,
+      "latitude": 44.738555
     },
     {
       "id": "_7",
       "label": "Мостоградња",
-      "longitude": 20.33814,
-      "latitude": 44.746497
+      "longitude": 20.338218,
+      "latitude": 44.746484
     },
     {
       "id": "_8",
       "label": "Мике Аласа",
-      "longitude": 20.342804,
-      "latitude": 44.753459
+      "longitude": 20.342874,
+      "latitude": 44.753493
     },
     {
       "id": "_9",
       "label": "Рибокомбинат",
-      "longitude": 20.346546,
-      "latitude": 44.757916
+      "longitude": 20.346613,
+      "latitude": 44.757931
     },
     {
       "id": "_10",
       "label": "Бродотехника",
-      "longitude": 20.350236,
-      "latitude": 44.761676
+      "longitude": 20.350321,
+      "latitude": 44.761703
     },
     {
       "id": "_11",
       "label": "ББП Макиш",
-      "longitude": 20.35353,
-      "latitude": 44.764911
+      "longitude": 20.353568,
+      "latitude": 44.764916
     },
     {
       "id": "_12",
       "label": "Неопланта",
-      "longitude": 20.358025,
-      "latitude": 44.768602
+      "longitude": 20.358062,
+      "latitude": 44.76861
     },
     {
       "id": "_13",
       "label": "МЗ Макиш",
-      "longitude": 20.362215,
-      "latitude": 44.770857
+      "longitude": 20.362312,
+      "latitude": 44.770859
     },
     {
       "id": "_14",
       "label": "Водовод",
-      "longitude": 20.369937,
-      "latitude": 44.773456
+      "longitude": 20.370047,
+      "latitude": 44.773399
     },
     {
       "id": "_15",
       "label": "Таложник",
-      "longitude": 20.374486,
-      "latitude": 44.775195
+      "longitude": 20.374552,
+      "latitude": 44.775178
     },
     {
       "id": "_16",
       "label": "Рени Бунар",
-      "longitude": 20.382176,
-      "latitude": 44.778779
+      "longitude": 20.382273,
+      "latitude": 44.778792
     },
     {
       "id": "_17",
       "label": "Макишка",
-      "longitude": 20.394723,
-      "latitude": 44.783201
+      "longitude": 20.394858,
+      "latitude": 44.783219
     },
     {
       "id": "_18",
       "label": "СРЦ Макиш",
-      "longitude": 20.406178,
-      "latitude": 44.784912
+      "longitude": 20.406127,
+      "latitude": 44.784916
     },
     {
       "id": "_19",
       "label": "Чукарица",
-      "longitude": 20.41495,
-      "latitude": 44.786366
+      "longitude": 20.414985,
+      "latitude": 44.786371
     },
     {
       "id": "_20",
       "label": "Господарска Механа",
-      "longitude": 20.433393,
-      "latitude": 44.794424
+      "longitude": 20.433518,
+      "latitude": 44.794439
     },
     {
       "id": "_21",
       "label": "Руска",
-      "longitude": 20.437784,
-      "latitude": 44.795189
+      "longitude": 20.438101,
+      "latitude": 44.79525
     },
     {
       "id": "_22",
       "label": "Сајам",
-      "longitude": 20.441944,
-      "latitude": 44.796327
+      "longitude": 20.441902,
+      "latitude": 44.796305
     },
     {
       "id": "_23",
       "label": "Дурмиторска",
-      "longitude": 20.451415,
-      "latitude": 44.802039
+      "longitude": 20.451504,
+      "latitude": 44.80211
     },
     {
       "id": "_24",
       "label": "Палата Правде",
-      "longitude": 20.453787,
-      "latitude": 44.804951
+      "longitude": 20.453797,
+      "latitude": 44.804909
     },
     {
       "id": "_25",
       "label": "Савски трг",
-      "longitude": 20.456752,
-      "latitude": 44.808511
+      "longitude": 20.456784,
+      "latitude": 44.808538
     },
     {
       "id": "_26",
       "label": "Савски трг",
-      "longitude": 20.455596,
-      "latitude": 44.807795
+      "longitude": 20.455627,
+      "latitude": 44.80782
     }
   ]
 }
