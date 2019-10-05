@@ -3,148 +3,154 @@
     {
       "id": "_1",
       "label": "Студентски трг",
-      "longitude": 20.457627,
-      "latitude": 44.818714
+      "longitude": 20.457617,
+      "latitude": 44.81872
     },
     {
       "id": "_2",
-      "label": "Македонска /Политика/",
-      "longitude": 20.465161,
-      "latitude": 44.815239
+      "label": "Републике трг",
+      "longitude": 20.459804,
+      "latitude": 44.817039
     },
     {
       "id": "_3",
-      "label": "Палилулска Пијаца",
-      "longitude": 20.474184,
-      "latitude": 44.810841
+      "label": "Македонска /Политика/",
+      "longitude": 20.465155,
+      "latitude": 44.815233
     },
     {
       "id": "_4",
-      "label": "27. марта",
-      "longitude": 20.475831,
-      "latitude": 44.809664
+      "label": "Палилулска Пијаца",
+      "longitude": 20.474163,
+      "latitude": 44.810844
     },
     {
       "id": "_5",
-      "label": "Здравка Челара",
-      "longitude": 20.479409,
-      "latitude": 44.810909
+      "label": "27. марта",
+      "longitude": 20.475911,
+      "latitude": 44.809728
     },
     {
       "id": "_6",
-      "label": "Подвожњак",
-      "longitude": 20.483502,
-      "latitude": 44.806269
+      "label": "Здравка Челара",
+      "longitude": 20.479411,
+      "latitude": 44.810926
     },
     {
       "id": "_7",
-      "label": "Марка Орешковића",
-      "longitude": 20.488477,
-      "latitude": 44.803144
+      "label": "Подвожњак",
+      "longitude": 20.483502,
+      "latitude": 44.806259
     },
     {
       "id": "_8",
-      "label": "Шабачка",
-      "longitude": 20.493544,
-      "latitude": 44.801129
+      "label": "Марка Орешковића",
+      "longitude": 20.488482,
+      "latitude": 44.803145
     },
     {
       "id": "_9",
-      "label": "Градска болница",
-      "longitude": 20.498943,
-      "latitude": 44.799939
+      "label": "Шабачка",
+      "longitude": 20.493561,
+      "latitude": 44.801132
     },
     {
       "id": "_10",
-      "label": "Милоша Јанковића",
-      "longitude": 20.503121,
-      "latitude": 44.799293
+      "label": "Градска болница",
+      "longitude": 20.498916,
+      "latitude": 44.799939
     },
     {
       "id": "_11",
+      "label": "Милоша Јанковића",
+      "longitude": 20.503166,
+      "latitude": 44.799275
+    },
+    {
+      "id": "_12",
       "label": "Звездара",
-      "longitude": 20.506912,
-      "latitude": 44.798204
+      "longitude": 20.506933,
+      "latitude": 44.798216
     }
   ],
   "direction_b": [
     {
       "id": "_1",
       "label": "Звездара",
-      "longitude": 20.506912,
-      "latitude": 44.798204
+      "longitude": 20.506933,
+      "latitude": 44.798216
     },
     {
       "id": "_2",
       "label": "Милоша Јанковића",
-      "longitude": 20.503898,
-      "latitude": 44.799286
+      "longitude": 20.503829,
+      "latitude": 44.799319
     },
     {
       "id": "_3",
       "label": "Градска болница",
-      "longitude": 20.499418,
-      "latitude": 44.800008
+      "longitude": 20.49932,
+      "latitude": 44.800042
     },
     {
       "id": "_4",
       "label": "Чегарска",
-      "longitude": 20.496038,
-      "latitude": 44.800718
+      "longitude": 20.495957,
+      "latitude": 44.80075
     },
     {
       "id": "_5",
       "label": "Живојина Жујовића",
-      "longitude": 20.492812,
-      "latitude": 44.80151
+      "longitude": 20.492849,
+      "latitude": 44.801539
     },
     {
       "id": "_6",
       "label": "Марка Орешковића",
-      "longitude": 20.486946,
-      "latitude": 44.804113
+      "longitude": 20.487022,
+      "latitude": 44.804067
     },
     {
       "id": "_7",
       "label": "Подвожњак",
-      "longitude": 20.483904,
-      "latitude": 44.806086
+      "longitude": 20.4839,
+      "latitude": 44.806163
     },
     {
       "id": "_8",
       "label": "27. марта",
-      "longitude": 20.476552,
-      "latitude": 44.810157
+      "longitude": 20.476544,
+      "latitude": 44.810171
     },
     {
       "id": "_9",
       "label": "Палилулска Пијаца",
-      "longitude": 20.4746,
-      "latitude": 44.810551
+      "longitude": 20.474696,
+      "latitude": 44.810584
     },
     {
       "id": "_10",
       "label": "Македонска /Политика/",
-      "longitude": 20.464313,
-      "latitude": 44.815549
+      "longitude": 20.464288,
+      "latitude": 44.815594
     },
     {
       "id": "_11",
       "label": "Републике трг",
-      "longitude": 20.460982,
-      "latitude": 44.816274
+      "longitude": 20.46014,
+      "latitude": 44.816975
     },
     {
       "id": "_12",
       "label": "Студентски трг",
-      "longitude": 20.45746,
-      "latitude": 44.819231
+      "longitude": 20.457521,
+      "latitude": 44.819192
     },
     {
       "id": "_13",
       "label": "Студентски трг",
-      "longitude": 20.457627,
-      "latitude": 44.818714
+      "longitude": 20.457617,
+      "latitude": 44.81872
     }
   ]
 }
