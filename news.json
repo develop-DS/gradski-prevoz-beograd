@@ -1,76 +1,28 @@
 [
     {
-        "date": "04.10.2019",
-        "title": "Izmena režima rada linija zbog radova u Paunovoj ulici (05.10. / 06.10.2019)",
+        "date": "10.10.2019",
+        "title": "Izmena na linijama broj: 3L1, 3A zbog radova u zoni Topčiderske ulice (11.10. / 12.10. / 13.10.2019)",
         "sections": [
             {
-                "text": "Zbog radova na izgradnji distributivne toplovodne mreže u Baštovanskoj ulici, u zoni raskrsnice sa Paunovom ulicom, pri čemu će doći do zatvaranja 1⁄2 profila kolovoza u Paunovoj ulici u smeru ka Crnotravskoj ulici, koje će izvoditi JKP „Beogradske elektrane“, u subotu 05.10. i nedelju 06.10.2019., menja se režim rada linija JGP-a na sledeći način:"
+                "text": "Zbog radova na sanaciji tramvajskog koloseka u zoni Topčiderske ulice, na deonici između restorana „Daščara“ i tramvajske okretnice „Topčider“, koje će izvoditi OJ „Elektrograđevinska operativa”, u periodu od petka 11.10.2019. od 22:00 časa do 14.10.2019. do 03:30 časova, menja se režim rada linija javnog prevoza."
             },
             {
-                "text": "• Trolejbusi sa linije 40, će saobraćati na relaciji: Zvezdara – Banjica /stara okretnica/ i nosiće oznaku 40L\n• Uspostavlja se autobuska linija 41A na relaciji: Banjica /stara okretnica/ – Banjica 2. Trasa linije: Banjica (stara okretnica) – Crnotravska – Paunova – Banjica 2. Vozila sa linije 41A će koristiti sva postojeća stajališta duž trase.\n• Vozila sa linija poteza 400 i linija 503, u smeru ka periferiji, će se kretati u izmenjenom režimu, koji je na snazi."
-            }
-        ]
-    },
-    {
-        "date": "04.10.2019",
-        "title": "Izmena na linijama broj: 11, 13 zbog radova na infrastrukturi (05.10. / 06.10.2019)",
-        "sections": [
-            {
-                "text": "Zbog radova na infrastrukturi u subotu 05.10. i nedelju 06.10.2019. menja se režim rada linija javnog prevoza:"
+                "text": "U subotu 12.10. i nedelju 13.10.2019. celodnevno:"
             },
             {
-                "text": "• Tramvajska linija 11 će saobraćati na relaciji: Kalemegdan/Donji grad/ – Stari savski most – Blok 45\n• Tramvajska linija 13 će saobraćati na relaciji: Banovo brdo – Stari savski most – Blok 45"
+                "text": "• Tramvaji sa linija 3L1 će saobraćati na relaciji: Omladinski stadion – Gospodarska mehana\n• Vozila na privremenoj autobuskoj liniji 3A će saobraćati na relaciji: Savski trg – Kneževac/. Trasa linije 3A: za smer ka Kneževcu: SAVSKI TRG – Savska – Bulevar vojvode Mišića – Topčiderska – Bulevar patrijarha Pavla – Patrijarha Dimitrija – Oslobodilaca Rakovice – KNEŽEVAC; za smer ka Savskom trgu: KNEŽEVAC – Oslobodilaca Rakovice – Patrijarha Dimitrija – Bulevar patrijarha Pavla – Topčiderska – Gardijska – Bulevar patrijarha Pavla – Bulevar vojvode Mišića – Savska – SAVSKI TRG"
             },
             {
-                "text": "Privremeno se ukidaju stajališta:"
+                "text": "U petak 11.10.2019. od 22:00 časa do završetka rada, operativno će biti izmenjen režim rada linija:"
             },
             {
-                "text": "• „Petlja Radnička“ i „Đorđa Stanojevića“ u oba smera za linije 11, 13\n• „Gospodarska mehana“, „Ruska“, „Sajam“, „Mostar“, „Palata pravde“ i „Savski trg“ u oba smera za liniju 11"
-            }
-        ]
-    },
-    {
-        "date": "04.10.2019",
-        "title": "Izmena na liniji broj: 50 zbog radova u Bul. Peke Dapčevića (05.10. / 06.10.2019)",
-        "sections": [
-            {
-                "text": "Zbog radova na toplovodu u Bulevaru Peke Dapčevića, na delu sa raskrsnicom ulice Kružni put voždovački, koje će izvoditi JKP „Beogradske elektrane“ od subote 05.10.2019. od 22:00 časa do nedelje 06.10.2019. do 05:00 časova, menja se režim rada linija JGP-a."
+                "text": "• Tramvaji na linije 3L1 će saobraćati na skraćenoj relaciji: Omladinski stadion – Gospodarska mehana\n• Autobuska linija 3A će biti produžena i vozila će saobraćati na relaciji: Savski trg – Kneževac"
             },
             {
-                "text": "• Vozila na autobuskoj liniji 50, u oba smera, će saobraćati: Kružni put voždovački – Bulevar Peke Dapčevića – Vojvode Stepe – Save Maškovića i dalje redovnom trasom."
+                "text": "Privremeno se uspostavljaju stajališta za liniju 3A:"
             },
             {
-                "text": "Privremeno se ukida stajalište „Bulevar Peke Dapčevića“ u smeru ka Banovom brdu."
-            }
-        ]
-    },
-    {
-        "date": "04.10.2019",
-        "title": "Izmena na linijama broj: 22A, 31 za vreme održavanja manifestacije “Dani bez automobila” (04.10. / 05.10. / 06.10.2019)",
-        "sections": [
-            {
-                "text": "Zbog održavanja manifestacije „Dani bez automobila“, koja se održava ulicama Kralja Milana, Terazije i Kolarčeva, u periodu od petka 04.10.2019. od 20:00 časova do 07.10.2019. do 04:00 časa, menja se režim rada linija JGP-a na sledeći način:"
-            },
-            {
-                "text": "• Privremeno uvedena linija 22A (Palata Albanije – Trg Slavija) neće saobraćati\n• Autobusi sa linije 31 će saobraćati na relaciji Trg Slavija – Konjarnik, sa oznakom 31L"
-            }
-        ]
-    },
-    {
-        "date": "03.10.2019",
-        "title": "Pojačanje na linijama broj: 3L1, 12, 25, 26, 35, 50, 65, 75, 82, 101, 202, 310, 533, 612 zbog Zadušnica (05.10.2019) (od 08h do 16h)",
-        "sections": [
-            {
-                "text": "Dana 05.10.2019. (subota), zbog Zadušnica, u periodu 08:00 do 16:00 časova, pojačavaju se linije JGP-a :"
-            },
-            {
-                "text": "• Linija 3L1 (Omladinski stadion – Železnička stanica „Topčider“)\n• Linija 12 (Omladinski stadion – Banovo brdo)\n• Linija 25 (Karaburma 2 – Kumodraž 2)\n• Linija 26 (Dorćol /Dunavska/ – Braće Jerković)\n• Linija 35 (Novi Beograd /Blok 20/ – Lešće /Groblje/)\n• Linija 50 (Ustanička – Banovo brdo)\n• Linija 65 (Zvezdara 2 – Novo Bežanijsko groblje)\n• Linija 75 (Zeleni venac – Bežanijska kosa)\n• Linija 82 (Zemun /Kej oslobođenja/ – Bežanijsko groblje)\n• Linija 101 (Omladinski stadion – Padinska skela)\n• Linija 202 (Omladinski stadion – Veliko selo)\n• Linija 310 (Šumice – Mali Mokri Lug /crkva/)\n• Linija 533 (Banovo brdo – Orlovača groblje)\n• Linija 612 (Novi Beograd /Paviljoni/ – Kvantaška pijaca – Nova Galenika)"
-            },
-            {
-                "text": "Uspostavlja se linija 75L na relaciji: /GO Novi Beograd – Bežanijsko groblje/."
-            },
-            {
-                "text": "Trasa linije: GO Novi Beograd – Pariske komune (stajalište „Ulaz u Pariske komune“ je polazno) – kao linija 75 do Bežanijske kose, zatim Marka Čelebonovića – Norveška – Bežanijsko groblje – LJubinke Bobić – dr Huga Klajna i dalje kao linija 75 do GO Novi Beograd. Vozila će, duž trase koristiti postojeća stajališta linija javnog prevoza."
+                "text": "• „Topčiderski park“ u Topčiderskoj ulici, neposredno posle raskrsnice sa Bulevarom vojvode Mišića u smeru ka Kneževcu\n• „Careva ćuprija“ u oba smera, naspram postojećih stajališta"
             }
         ]
     },
@@ -133,6 +85,9 @@
         "title": "Izmena na liniji broj 310 zbog radova u ulici Narodnog fronta (od 17.09.2019)",
         "sections": [
             {
+                "text": "Radovi produženi do 15.10.2019"
+            },
+            {
                 "text": "Zbog radova na redovnom održavanju kolovoza i trotoara u ulici Narodnog fronta u Malom Mokrom Lugu, na delu od ulice 27.marta do ulice Partizanske (potpuno zatvaranje ulice na predmetnoj deonici) koje će izvoditi JKP „Beograd put“, u periodu od utorka 17.09.2019. do 08.10.2019., menja se režim rada linije JGP-a, na sledeći način:"
             },
             {
@@ -166,6 +121,9 @@
         "title": "Izmene na linijama broj: 16, 23, 25, 32N zbog radova u ulici Vojvode Micka Krstića (od 02.09.2019)",
         "sections": [
             {
+                "text": "Radovi produženi do 21.10.2019"
+            },
+            {
                 "text": "Zbog izvođenja radova na rekonstrukciji vodovodne mreže, u ulici Vojvode Micka Krstića, na delu od kućnog broja 9 do ulice Višnjičke, koje će izvoditi JKP „Beogradski vodovod i kanalizacije“, u periodu od ponedeljka 02.09.2019 do 06.10.2019., menja se režim rada linija JGP-a na sledeći način:"
             },
             {
@@ -187,7 +145,7 @@
         "title": "Izmene na linijama broj: 400, 401, 402, 403, 405, 406, 407, 408, 409, 503 zbog radova u Baštovanskoj ulici (Faza 1) (od 20.08.2019)",
         "sections": [
             {
-                "text": "Radovi produženi do 12.10.2019."
+                "text": "Radovi produženi do daljnjeg"
             },
             {
                 "text": "Zbog radova na izgradnji distributivne toplovodne mreže, u ulici Baštovanska (potpuno zatvaranje), na delu od Bulevara oslobođenja do ulice Nae Pendeli (stari naziv ulice – Kokanova), koje će izvoditi JKP „Beogradske elektrane“, u periodu od utorka 20.08.2019. do 08.09.2019., menja se režim rada linije JGP-a, na sledeći način:"

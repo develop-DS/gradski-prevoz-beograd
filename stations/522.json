@@ -3,8 +3,8 @@
     {
       "id": "_1",
       "label": "Нови Железник",
-      "longitude": 20.380025,
-      "latitude": 44.731753
+      "longitude": 20.379832,
+      "latitude": 44.732081
     }
   ],
   "direction_b": [
@@ -94,33 +94,27 @@
     },
     {
       "id": "_15",
-      "label": "Иво Лола Рибар",
-      "longitude": 20.368155,
-      "latitude": 44.727538
+      "label": "Пијаца",
+      "longitude": 20.373901,
+      "latitude": 44.727133
     },
     {
       "id": "_16",
-      "label": "Браће Митровића",
-      "longitude": 20.370707,
-      "latitude": 44.732323
+      "label": "Железник Центар",
+      "longitude": 20.376315,
+      "latitude": 44.728545
     },
     {
       "id": "_17",
-      "label": "Златановићи",
-      "longitude": 20.37664,
-      "latitude": 44.734035
+      "label": "МЗ Нови Железник",
+      "longitude": 20.382981,
+      "latitude": 44.729705
     },
     {
       "id": "_18",
-      "label": "Радних Акција 1",
-      "longitude": 20.375423,
-      "latitude": 44.731583
-    },
-    {
-      "id": "_19",
       "label": "Нови Железник",
-      "longitude": 20.380025,
-      "latitude": 44.731753
+      "longitude": 20.379832,
+      "latitude": 44.732081
     }
   ]
 }
