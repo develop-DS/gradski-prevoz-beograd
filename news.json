@@ -1,49 +1,43 @@
 [
     {
-        "date": "10.10.2019",
-        "title": "Izmena na linijama broj: 3L1, 3A zbog radova u zoni Topčiderske ulice (11.10. / 12.10. / 13.10.2019)",
+        "date": "11.10.2019",
+        "title": "Izmena na linijama broj: 38A, 49, 94 zbog radova u ulici Teodora Drajzera (od 14.10.2019)",
         "sections": [
             {
-                "text": "Zbog radova na sanaciji tramvajskog koloseka u zoni Topčiderske ulice, na deonici između restorana „Daščara“ i tramvajske okretnice „Topčider“, koje će izvoditi OJ „Elektrograđevinska operativa”, u periodu od petka 11.10.2019. od 22:00 časa do 14.10.2019. do 03:30 časova, menja se režim rada linija javnog prevoza."
+                "text": "Zbog radova na izgradnji fekalne i kišne kanalizacije u ulici Teodora Drajzera, na delu od raskrsnice sa ulicom Užička do priključka ka bolnici, pri čemu će doći do zatvaranja 1⁄2 profila kolovoza u smeru ka Mostu na Adi, koje će izvoditi Direkcija za građevinsko zemljište iz Beograda, od ponedeljka 14.10.2019. do 28.10.2019., menja se režim rada linija JGP-a na sledeći način:"
             },
             {
-                "text": "U subotu 12.10. i nedelju 13.10.2019. celodnevno:"
-            },
-            {
-                "text": "• Tramvaji sa linija 3L1 će saobraćati na relaciji: Omladinski stadion – Gospodarska mehana\n• Vozila na privremenoj autobuskoj liniji 3A će saobraćati na relaciji: Savski trg – Kneževac/. Trasa linije 3A: za smer ka Kneževcu: SAVSKI TRG – Savska – Bulevar vojvode Mišića – Topčiderska – Bulevar patrijarha Pavla – Patrijarha Dimitrija – Oslobodilaca Rakovice – KNEŽEVAC; za smer ka Savskom trgu: KNEŽEVAC – Oslobodilaca Rakovice – Patrijarha Dimitrija – Bulevar patrijarha Pavla – Topčiderska – Gardijska – Bulevar patrijarha Pavla – Bulevar vojvode Mišića – Savska – SAVSKI TRG"
-            },
-            {
-                "text": "U petak 11.10.2019. od 22:00 časa do završetka rada, operativno će biti izmenjen režim rada linija:"
-            },
-            {
-                "text": "• Tramvaji na linije 3L1 će saobraćati na skraćenoj relaciji: Omladinski stadion – Gospodarska mehana\n• Autobuska linija 3A će biti produžena i vozila će saobraćati na relaciji: Savski trg – Kneževac"
-            },
-            {
-                "text": "Privremeno se uspostavljaju stajališta za liniju 3A:"
-            },
-            {
-                "text": "• „Topčiderski park“ u Topčiderskoj ulici, neposredno posle raskrsnice sa Bulevarom vojvode Mišića u smeru ka Kneževcu\n• „Careva ćuprija“ u oba smera, naspram postojećih stajališta"
-            }
-        ]
-    },
-    {
-        "date": "01.10.2019",
-        "title": "Izmena zbog radova u ulici Majora Zorana Radosavljevića (Faza 1) (od 01.10.2019)",
-        "sections": [
-            {
-                "text": "Zbog produžetka radova na izgradnji fekalne kanalizacije u ulici Majora Zorana Radosavljevića, koje izvodi GP „Rad GM“ d.o.o. u periodu od utorka 01.10.2019. od 12:00 časova do 13.10.2019., menja se režim rada linije JGP-a, na sledeći način:"
-            },
-            {
-                "text": "• Vozila sa linije 73 na izmenjenom delu trase, će saobraćati: u smeru ka Batajnici: Majora Zorana Radosavljevića – Stevana Dubajića – Kralja\nRadoslava – Vojvode Nikole Stanjevića – Matrozova – BATAJNICA /ŽELEZNIČKA\nSTANICA/; u smeru ka Novom Beogradu: Carice Jelene – Jovana Brankovića – Save Grkinića – Vojvođanskih brigada – Braće Smiljanić – Majora Zorana Radosavljevića i dalje redovnom trasom\n• Vozila sa linije 700, će saobraćati: BATAJNICA /ŽELEZNIČKA STANICA/ – Matrozova – Vojačka – Drage Mihajlovića – Novosadska – BATAJNICA i dalje redovnom trasom\n• Vozila sa linije 702 na izmenjenom delu trase će saobraćati: u smeru ka okretnici Batajnica /Železnička stanica/ skraćenom trasom: Šangajska – Carice Jelene – Matrozova i terminus; u smeru ka okretnici Busije/Crkva/: svojom redovnom trasom\n• Vozila sa linije 703 na izmenjenom delu trase će saobraćati: u smeru ka Zemunu: Carice Jelene – Jovana Brankovića – Save Grkinića – Vojvođanskih brigada – Braće Smiljanić – Majora Zorana Radosavljevića i dalje redovnom trasom; u smeru ka Ugrinovcima: svojom redovnom trasom\n• Vozila sa linije 706 na izmenjenom delu trase će saobraćati: u smeru ka Batajnici: Majora Zorana Radosavljevića – Stevana Dubajića – Kralja Radoslava – Vojvode Nikole Stanjevića – Matrozova – Vojačka – Drage Mihajlovića – Novosadska – BATAJNICA; u smeru ka Zemunu: BATAJNICA – Katice Opačić – Jovana Brankovića – Save Grkinića – Braće Smiljanić – Majora Zorana Radosavljevića i dalje redovnom trasom\n• Vozila sa linije 706E na izmenjenom delu trase će saobraćati: u smeru ka Batajnici: Majora Zorana Radosavljevića – Stevana Dubajića – Kralja Radoslava – Vojvode Nikole Stanjevića – Matrozova – Vojačka – Drage Mihajlovića – Pukovnika Milenka Pavlovića – Vojni aerodrom pukovnik Milenko Pavlović; u smeru ka Zemunu: Vojni aerodrom pukovnik Milenko Pavlović – Pukovnika Milenka Pavlovića – Novosadska – Katice Opačić – Jovana Brankovića – Save Grkinića – Braće Smiljanić – Majora Zorana Radosavljevića i dalje redovnom trasom\n• Vozila sa linije noćnog saobraćaja 706N će saobraćati kao i autobusi sa dnevne linije 706 u izmenjenom režimu"
+                "text": "• Vozila na liniji 38A će saobraćati: u smeru ka Železničkoj stanici „Topčider“: Dragana Mancea – Bulevar kneza Aleksandra Karađorđevića – Bulevar vojvode Putnika – Mostarska petlja – Bulevar vojvode Mišića – Petlja „Radnička“ – Bulevar vojvode Mišića – Bulevar Patrijarha Pavla i dalje redovnom trasom; u smeru ka SP „Kosmaj“: redovnom trasom\n• Vozila na liniji 49 će saobraćati: u smeru ka Banovom brdu: Neznanog junaka – Bulevar kneza Aleksandra Karađorđevića – Bulevar vojvode Putnika – Mostarska petlja – Bulevar vojvode Mišića – Petlja „Radnička“ – Paštrovićeva i dalje redovnom trasom; u smeru ka Naselju Stepa Stepanović: redovnom trasom\n• Vozila na liniji 94 će saobraćati: u smeru ka Novom Beogradu /Blok 45/: Neznanog junaka – Bulevar kneza Aleksandra Karađorđevića – Bulevar vojvode Putnika – Mostarska petlja – Bulevar vojvode Mišića – Petlja „Radnička“ – Most na Adi i dalje redovnom trasom; u smeru ka Resniku: redovnom trasom"
             },
             {
                 "text": "Privremeno se ukidaju stajališta:"
             },
             {
-                "text": "• „Batajnica/Železnička rampa/“ u smeru ka gradu za linije 700, 702, odnosno u\nsmeru ka Batajnici za liniju 73\n• „Majke Jugovića“ u smeru ka gradu za linije 702, 703, 706, odnosno u oba smera\nza linije 73, 706E\n• „Batajnica/centar/“ u smeru ka terminusu Batajnica, za linije 703, 706; odnosno u smeru ka Zeminu linije 73, 702, 703, 706, 706E\n• „Posavska“ u oba smera za linije 700, 706, 706E\n• „Drage Mihajlovića“ i „Dalmatinskih brigada“ u smeru ka gradu za liniju 706"
+                "text": "• „Stadion Partizan“ i „Pedagoška akademija“ u smeru ka Železničkoj stanici „Topčider“, za liniju 38A\n• „Topčiderski park“ u smeru ka Mostu na Adi, za linije 49, 94\n• „IV Beogradska gimnazija“, „Teodora Drajzera 2“ i „Teodora Drajzera“ u smeru ka Mostu na Adi za linije 38A, 49, 94"
             },
             {
-                "text": "Privremeno se uspostavlja stajalište: „Batajnica (centar)“, u ulici Jovana Brankovića, na poziciji postojećeg međumesnog stajališta u zoni lokalnog vatrogasnog doma za linije 73 i 703."
+                "text": "Napomena: Na izmenjenom delu trase vozila na liniji 38A će koristiti stajalište „Muzej Jugoslavije“, odnosno na linijama 49, 94 stajališta „Pedagoška akademija“ i „Mostar“."
+            }
+        ]
+    },
+    {
+        "date": "11.10.2019",
+        "title": "Izmena na linijama broj: 38, 38A, 38L, 70 zbog radova u Koreničkoj ulici (od 14.10.2019)",
+        "sections": [
+            {
+                "text": "Zbog radova na redovnom održavanju kolovoza u ulici Korenička, na delu od deonice dodatka trase puta A1 ka ulici Vladimira Tomanovića, koje će izvoditi JKP „Beograd put“ od ponedeljka 14.10.2019. od prvih jutarnjih polazaka do 20.10.2019., menja se režim rada linija JGP-a na sledeći način:"
+            },
+            {
+                "text": "• Vozila na liniji 38 će saobraćati: u smeru ka ulici Ustaničkoj: Nikole Grulovića – Partizanska – Bulevar kralja Aleksandra – Ustanička do okretnice „Šumice“; u smeru ka SP „Kosmaj“: redovnom trasom\n• Vozila na linijama 38A, 70 će saobraćati: u smeru ka petlji „Mostar“: Auto put za Niš – Stefana Prvovenčanog do Autokomande i dalje redovnom trasom; u smeru ka SP „Kosmaj“: redovnom trasom\n• Vozila na liniji 38L će saobraćati: u smeru ka petlji „Mostar“: Auto put za Niš – Stefana Prvovenčanog do mosta kod Dušanovac pošte i dalje redovnom trasom; u smeru ka SP „Kosmaj“: redovnom trasom"
+            },
+            {
+                "text": "Privremeno se ukidaju stajališta:"
+            },
+            {
+                "text": "• „Vladimira Tomanovića“ ka Ustaničkoj ulici, za linije 38, 38A, 38L, odnosno\n„Vladimira Tomanovića“ ka Mostaru za liniju 70\n• „ Šumice“ , „ Hotel Srbija“, „Grčića Milenka“ i „Dušanovac pošta“ u smeru ka Mostaru, za linije 38A, 38L\n• „Vinjage“, „Ristin potok“, „Milošev kladenac“ i SP „Lasta“ u smeru ka Šumicama, za liniju 38"
+            },
+            {
+                "text": "Na izmenjenim delovima trasa, vozila će koristiti sva postojeća stajališta linija JGP-a."
             }
         ]
     },
@@ -58,7 +52,7 @@
                 "text": "• Trolejbusi na linijama: 21L, 22L, 29L saobraćaju od Trga Slavija ka perifernim termiunusima\n• Vozila na privremenoj liniji 22A saobraćaju na relaciji: Palata Albanija – Trg Slavija\n• Vozila na liniji 31L saobraćaju na relaciji: Palata Albanija – Konjarnik\n• Vozila na linijma: 24, 26, 27, 37, 44 saobraćaju, u oba smera, ulicama\nDečanskom i Braće Jugovića\n• Vozila na linijama: 32E, 43, 96 saobraćaju na skraćenoj trasi, Železnička\nstanica /Pančevački most/ – periferni terminusi\n• Linija E2 saobraća skraćeno do Trga Republike"
             },
             {
-                "text": "Izmena će trajati do završetka radova na Trgu Republike."
+                "text": "Izmena će trajati do završetka radova na Trgu Republike (očekivano do 01.11.2019)."
             }
         ]
     },
