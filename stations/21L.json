@@ -3,142 +3,142 @@
     {
       "id": "_1",
       "label": "Славија трг",
-      "longitude": 20.465837,
-      "latitude": 44.802769
+      "longitude": 20.465947,
+      "latitude": 44.802772
     },
     {
       "id": "_2",
       "label": "Катанићева",
-      "longitude": 20.47173,
-      "latitude": 44.799452
+      "longitude": 20.47171,
+      "latitude": 44.799496
     },
     {
       "id": "_3",
       "label": "Мачванска",
-      "longitude": 20.473985,
-      "latitude": 44.797783
+      "longitude": 20.474003,
+      "latitude": 44.797792
     },
     {
       "id": "_4",
       "label": "Војводе Драгомира",
-      "longitude": 20.479197,
-      "latitude": 44.797926
+      "longitude": 20.47912,
+      "latitude": 44.797943
     },
     {
       "id": "_5",
       "label": "Црвени Крст",
-      "longitude": 20.48748,
-      "latitude": 44.797368
+      "longitude": 20.487434,
+      "latitude": 44.79738
     },
     {
       "id": "_6",
       "label": "Брегалничка",
-      "longitude": 20.490626,
-      "latitude": 44.795113
+      "longitude": 20.49072,
+      "latitude": 44.795052
     },
     {
       "id": "_7",
       "label": "Велимира Тодоровића",
-      "longitude": 20.494931,
-      "latitude": 44.793341
+      "longitude": 20.495017,
+      "latitude": 44.793313
     },
     {
       "id": "_8",
       "label": "Школа Војислав Илић",
-      "longitude": 20.497897,
-      "latitude": 44.790876
+      "longitude": 20.497928,
+      "latitude": 44.790843
     },
     {
       "id": "_9",
       "label": "Римска",
-      "longitude": 20.499657,
+      "longitude": 20.499693,
       "latitude": 44.787506
     },
     {
       "id": "_10",
       "label": "Др Велизара Косановића",
-      "longitude": 20.504667,
-      "latitude": 44.788098
+      "longitude": 20.504625,
+      "latitude": 44.78809
     },
     {
       "id": "_11",
       "label": "Учитељско насеље",
-      "longitude": 20.506853,
-      "latitude": 44.786025
+      "longitude": 20.50689,
+      "latitude": 44.786034
     }
   ],
   "direction_b": [
     {
       "id": "_1",
       "label": "Учитељско насеље",
-      "longitude": 20.506853,
-      "latitude": 44.786025
+      "longitude": 20.50689,
+      "latitude": 44.786034
     },
     {
       "id": "_2",
       "label": "Марчанска",
-      "longitude": 20.508873,
-      "latitude": 44.787093
+      "longitude": 20.508896,
+      "latitude": 44.787095
     },
     {
       "id": "_3",
       "label": "Др Велизара Косановића",
-      "longitude": 20.505378,
-      "latitude": 44.788188
+      "longitude": 20.505424,
+      "latitude": 44.788218
     },
     {
       "id": "_4",
       "label": "Римска",
-      "longitude": 20.500172,
-      "latitude": 44.787023
+      "longitude": 20.500183,
+      "latitude": 44.78705
     },
     {
       "id": "_5",
       "label": "Школа Војислав Илић",
-      "longitude": 20.497479,
-      "latitude": 44.791782
+      "longitude": 20.497478,
+      "latitude": 44.79181
     },
     {
       "id": "_6",
       "label": "Велимира Тодоровића",
-      "longitude": 20.494443,
-      "latitude": 44.793685
+      "longitude": 20.49448,
+      "latitude": 44.793702
     },
     {
       "id": "_7",
       "label": "Брегалничка",
-      "longitude": 20.490811,
-      "latitude": 44.795156
+      "longitude": 20.490773,
+      "latitude": 44.795202
     },
     {
       "id": "_8",
       "label": "Црвени Крст",
-      "longitude": 20.485996,
-      "latitude": 44.797869
+      "longitude": 20.485841,
+      "latitude": 44.797918
     },
     {
       "id": "_9",
       "label": "Војводе Драгомира",
-      "longitude": 20.480401,
-      "latitude": 44.798072
+      "longitude": 20.48034,
+      "latitude": 44.798093
     },
     {
       "id": "_10",
       "label": "Новопазарска",
-      "longitude": 20.474085,
-      "latitude": 44.797926
+      "longitude": 20.474232,
+      "latitude": 44.797895
     },
     {
       "id": "_11",
       "label": "Катанићева",
-      "longitude": 20.471284,
-      "latitude": 44.799998
+      "longitude": 20.471268,
+      "latitude": 44.800046
     },
     {
       "id": "_12",
       "label": "Славија трг",
-      "longitude": 20.465837,
-      "latitude": 44.802769
+      "longitude": 20.465947,
+      "latitude": 44.802772
     }
   ]
 }

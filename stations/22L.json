@@ -3,136 +3,136 @@
     {
       "id": "_1",
       "label": "Славија трг",
-      "longitude": 20.465837,
-      "latitude": 44.802769
+      "longitude": 20.465947,
+      "latitude": 44.802772
     },
     {
       "id": "_2",
       "label": "Катанићева",
-      "longitude": 20.47173,
-      "latitude": 44.799452
+      "longitude": 20.47171,
+      "latitude": 44.799496
     },
     {
       "id": "_3",
       "label": "Мачванска",
-      "longitude": 20.473985,
-      "latitude": 44.797783
+      "longitude": 20.474003,
+      "latitude": 44.797792
     },
     {
       "id": "_4",
       "label": "Војводе Драгомира",
-      "longitude": 20.479197,
-      "latitude": 44.797926
+      "longitude": 20.47912,
+      "latitude": 44.797943
     },
     {
       "id": "_5",
       "label": "Црвени Крст",
-      "longitude": 20.48748,
-      "latitude": 44.797368
+      "longitude": 20.487434,
+      "latitude": 44.79738
     },
     {
       "id": "_6",
       "label": "Брегалничка",
-      "longitude": 20.490626,
-      "latitude": 44.795113
+      "longitude": 20.49072,
+      "latitude": 44.795052
     },
     {
       "id": "_7",
       "label": "Велимира Тодоровића",
-      "longitude": 20.494931,
-      "latitude": 44.793341
+      "longitude": 20.495017,
+      "latitude": 44.793313
     },
     {
       "id": "_8",
       "label": "Школа Војислав Илић",
-      "longitude": 20.496881,
-      "latitude": 44.791372
+      "longitude": 20.496914,
+      "latitude": 44.791356
     },
     {
       "id": "_9",
       "label": "Бачванска",
-      "longitude": 20.494381,
-      "latitude": 44.791025
+      "longitude": 20.494414,
+      "latitude": 44.791043
     },
     {
       "id": "_10",
       "label": "Грчића Миленка",
-      "longitude": 20.490941,
-      "latitude": 44.791443
+      "longitude": 20.490892,
+      "latitude": 44.791479
     },
     {
       "id": "_11",
       "label": "Крушевачка",
-      "longitude": 20.484816,
-      "latitude": 44.790635
+      "longitude": 20.484845,
+      "latitude": 44.790645
     }
   ],
   "direction_b": [
     {
       "id": "_1",
       "label": "Крушевачка",
-      "longitude": 20.484816,
-      "latitude": 44.790635
+      "longitude": 20.484845,
+      "latitude": 44.790645
     },
     {
       "id": "_2",
       "label": "Грчића Миленка",
-      "longitude": 20.489145,
-      "latitude": 44.791623
+      "longitude": 20.489165,
+      "latitude": 44.791622
     },
     {
       "id": "_3",
       "label": "Бачванска",
-      "longitude": 20.493625,
-      "latitude": 44.79088
+      "longitude": 20.49365,
+      "latitude": 44.790881
     },
     {
       "id": "_4",
       "label": "Школа Војислав Илић",
-      "longitude": 20.497479,
-      "latitude": 44.791782
+      "longitude": 20.497478,
+      "latitude": 44.79181
     },
     {
       "id": "_5",
       "label": "Велимира Тодоровића",
-      "longitude": 20.494443,
-      "latitude": 44.793685
+      "longitude": 20.49448,
+      "latitude": 44.793702
     },
     {
       "id": "_6",
       "label": "Брегалничка",
-      "longitude": 20.490811,
-      "latitude": 44.795156
+      "longitude": 20.490773,
+      "latitude": 44.795202
     },
     {
       "id": "_7",
       "label": "Црвени Крст",
-      "longitude": 20.485996,
-      "latitude": 44.797869
+      "longitude": 20.485841,
+      "latitude": 44.797918
     },
     {
       "id": "_8",
       "label": "Војводе Драгомира",
-      "longitude": 20.480401,
-      "latitude": 44.798072
+      "longitude": 20.48034,
+      "latitude": 44.798093
     },
     {
       "id": "_9",
       "label": "Новопазарска",
-      "longitude": 20.474085,
-      "latitude": 44.797926
+      "longitude": 20.474232,
+      "latitude": 44.797895
     },
     {
       "id": "_10",
       "label": "Катанићева",
-      "longitude": 20.471284,
-      "latitude": 44.799998
+      "longitude": 20.471268,
+      "latitude": 44.800046
     },
     {
       "id": "_11",
       "label": "Славија трг",
-      "longitude": 20.465837,
-      "latitude": 44.802769
+      "longitude": 20.465947,
+      "latitude": 44.802772
     }
   ]
 }
