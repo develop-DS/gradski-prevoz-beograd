@@ -1,5 +1,17 @@
 [
     {
+        "date": "28.10.2019",
+        "title": "Linija broj 66 privremeno se ukida od 30.10.2019.",
+        "sections": [
+            {
+                "text": "Zbog radova na redovnom održavanju kolovoza, u ulici Veljka Dugoševića, na delu od ulice Severni bulevar do Naučno – tehnološkog parka, koje će izvoditi JKP „Beorad put“, u periodu od srede 30.10.2019. do 14.11.2019., doći će do promene režima rada linija JGP-a:"
+            },
+            {
+                "text": "• Privremeno se ukida linija broj 66 (Vukov spomenik – Naučno tehnološki park „Zvezdara“)"
+            }
+        ]
+    },
+    {
         "date": "21.10.2019",
         "title": "Izmena režima rada linija zbog radova na Trgu Republike (od 21.10.2019)",
         "sections": [
@@ -21,27 +33,6 @@
         ]
     },
     {
-        "date": "11.10.2019",
-        "title": "Izmena na linijama broj: 38A, 49, 94 zbog radova u ulici Teodora Drajzera (od 14.10.2019)",
-        "sections": [
-            {
-                "text": "Zbog radova na izgradnji fekalne i kišne kanalizacije u ulici Teodora Drajzera, na delu od raskrsnice sa ulicom Užička do priključka ka bolnici, pri čemu će doći do zatvaranja 1⁄2 profila kolovoza u smeru ka Mostu na Adi, koje će izvoditi Direkcija za građevinsko zemljište iz Beograda, od ponedeljka 14.10.2019. do 28.10.2019., menja se režim rada linija JGP-a na sledeći način:"
-            },
-            {
-                "text": "• Vozila na liniji 38A će saobraćati: u smeru ka Železničkoj stanici „Topčider“: Dragana Mancea – Bulevar kneza Aleksandra Karađorđevića – Bulevar vojvode Putnika – Mostarska petlja – Bulevar vojvode Mišića – Petlja „Radnička“ – Bulevar vojvode Mišića – Bulevar Patrijarha Pavla i dalje redovnom trasom; u smeru ka SP „Kosmaj“: redovnom trasom\n• Vozila na liniji 49 će saobraćati: u smeru ka Banovom brdu: Neznanog junaka – Bulevar kneza Aleksandra Karađorđevića – Bulevar vojvode Putnika – Mostarska petlja – Bulevar vojvode Mišića – Petlja „Radnička“ – Paštrovićeva i dalje redovnom trasom; u smeru ka Naselju Stepa Stepanović: redovnom trasom\n• Vozila na liniji 94 će saobraćati: u smeru ka Novom Beogradu /Blok 45/: Neznanog junaka – Bulevar kneza Aleksandra Karađorđevića – Bulevar vojvode Putnika – Mostarska petlja – Bulevar vojvode Mišića – Petlja „Radnička“ – Most na Adi i dalje redovnom trasom; u smeru ka Resniku: redovnom trasom"
-            },
-            {
-                "text": "Privremeno se ukidaju stajališta:"
-            },
-            {
-                "text": "• „Stadion Partizan“ i „Pedagoška akademija“ u smeru ka Železničkoj stanici „Topčider“, za liniju 38A\n• „Topčiderski park“ u smeru ka Mostu na Adi, za linije 49, 94\n• „IV Beogradska gimnazija“, „Teodora Drajzera 2“ i „Teodora Drajzera“ u smeru ka Mostu na Adi za linije 38A, 49, 94"
-            },
-            {
-                "text": "Napomena: Na izmenjenom delu trase vozila na liniji 38A će koristiti stajalište „Muzej Jugoslavije“, odnosno na linijama 49, 94 stajališta „Pedagoška akademija“ i „Mostar“."
-            }
-        ]
-    },
-    {
         "date": "24.09.2019",
         "title": "Izmena na liniji broj 60 zbog radova u ulici Savski nasip (od 25.09.2019)",
         "sections": [
@@ -56,6 +47,15 @@
             },
             {
                 "text": "• terminus „Toplana“\n• GP „Rad“ u oba smera."
+            }
+        ]
+    },
+    {
+        "date": "22.08.2019",
+        "title": "Privremeno ukinuto stajalište “Ušće” (#300)",
+        "sections": [
+            {
+                "text": "Zbog radova privremeno je ukinuto stajalište “Ušće” (#300) u smeru ka gradu za autobuske linije broj: 15, 84."
             }
         ]
     },
