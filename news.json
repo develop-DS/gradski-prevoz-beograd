@@ -1,5 +1,32 @@
 [
     {
+        "date": "12.11.2019",
+        "title": "Operativna izmena na liniji broj 26 – linija preusmerena",
+        "sections": [
+            {
+                "text": "Zbog proširenja zone radova u ulici Zaplanjska i nemogućnosti prolaska vozila javnog prevoza istom, došlo je do promene trase linije broj 26."
+            },
+            {
+                "text": "• Vozila sa linije 26 će do daljeg saobraćati ulicama Zaplanjska, Darvinova, Kumodraška, Ljubićka, Husova, Miška Jovanovića i dalje redovno"
+            },
+            {
+                "text": "Privremeno su ukinuta stajališta:"
+            },
+            {
+                "text": "Smer A:"
+            },
+            {
+                "text": "• MIŠKA JOVANOVIĆA\n• PEKE PAVLOVIĆA\n• IGNjATA JOBA\n• CENTRALNO GROBLjE"
+            },
+            {
+                "text": "Smer B:"
+            },
+            {
+                "text": "• CENTRALNO GROBLjE\n• IGNjATA JOBA\n• PEKE PAVLOVIĆA\n• MIŠKA JOVANOVIĆA"
+            }
+        ]
+    },
+    {
         "date": "08.11.2019",
         "title": "Izmena na linijama broj: 704, 706, 707 zbog radova u Bulevaru Nikole Tesle (od 09.11.2019)",
         "sections": [
@@ -16,19 +43,28 @@
     },
     {
         "date": "08.11.2019",
-        "title": "Izmena na liniji broj: 44 zbog radova u ulici Klanički kej (09.11. / 10.11.2019)",
+        "title": "Izmena na linijama broj: 46, 51, 91, 92, 511, 551, 553, 601 zbog radova na Savskom trgu (od 12.11.2019)",
         "sections": [
             {
-                "text": "Zbog radova na zameni dilatacionih spojnica na mostu u ulici Klanički kej preko ulice Poenkareove, koje će izvoditi preduzeće „Tri omega inženjering“ doo, u periodu od 09.11.2019. od 07:00 časova do 10.11.2019. do 17:00 časova, doći će do izmene režima rada linije javnog prevoza na sledeći način:"
+                "text": "Zbog radova na rekonstrukciji kontaktne mreže na Savskom trgu, ispred bioskopa „Partizan“, koje će izvoditi preduzeće „Beograd na vodi“, u periodu od utorka 12.11.2019. do 31.05.2020. godine, menja se režim rada linija JGP-a na sledeći način:"
             },
             {
-                "text": "• Vozila sa linije 44 će saobraćati na relaciji: Topčidersko brdo /Senjak/ – Tempo"
+                "text": "• Vozila sa linije 46 će saobraćati: u smeru ka Savskom trgu: Franša D’ Eperea – Savska – Drinska – Sarajevska – Hajduk Veljkov venac – Balkanska do stajališta NEMANJINA koje će obavljati funkciju dolaznog stajališta; u smeru ka Mirijevu: vozila će saobraćati u redovnom režimu\n• Vozila sa linija 51, 91, 92, 511, 551, 553 će saobraćati: u smeru ka Savskom trgu: Bulevar vojvode Mišića – Savska – Drinska – Sarajevska – Hajduk Veljkov venac – Balkanska do stajališta NEMANJINA; u kontra smeru: vozila će saobraćati u redovnom režimu\n• Vozila sa linije 601 će saobraćati: u smeru ka Savskom trgu: Most Gazela – Savska – Drinska – Sarajevska – Hajduk Veljkov venac – Balkanska do stajališta NEMANJINA; u smeru ka Surčinu: vozila će saobraćati u redovnom režimu\n• Vozila sa linija: 860, 860A, 860B, 860D, 860E, 860I, 860J, 860M, 860S, 861A će kao dolazno stajalište koristiti svoje redovno (dolazno) „Savski trg“ odakle će terminirati do BAS-a"
             },
             {
-                "text": "Privremeno se ukidaju stajališta u oba smera:"
+                "text": "Napomena: Promenu smera kretanja do polaznog (redovnog) stajališta „Savski trg“ vozila sa ovih linija će vršiti ulicama Balkanska – Gavrila Principa – Mihaila Bogićevića – Karađorđeva – Savska."
             },
             {
-                "text": "• Železnička stanica „Dunav“\n• „Klanički kej“\n• „Viline vode“"
+                "text": "Privremeno se ukidaju stajališta, u smeru ka Savskom trgu za linije 46, 51, 91, 92, 511, 551, 553, 601:"
+            },
+            {
+                "text": "• „Durmitorska“\n• „Palata pravde“\n• „Savski trg“ – dolazno stajalište"
+            },
+            {
+                "text": "Stajalište „Nemanjina“ u Balkanskoj ulici, obavljaće funkciju dolaznog stajališta."
+            },
+            {
+                "text": "Na izmenjenom delu trase vozila JGP-a koristiće postojeća stajališta."
             }
         ]
     },
@@ -45,35 +81,23 @@
         ]
     },
     {
-        "date": "07.11.2019",
-        "title": "Izmena na linijama broj: 3L1, 3A, 11, 12 zbog radova u Savskoj ulici (09.11. / 10.11.2019)",
+        "date": "06.11.2019",
+        "title": "Izmena na linijama broj: 6, 7, 12 zbog radova u Bulevaru kralja Aleksandra (od 12.11.2019)",
         "sections": [
             {
-                "text": "Zbog radova u Savskoj ulici, koji obuhvataju spajanje saobraćajnice SAO 2 sa Savskom ulicom u visini raskrsnice sa ulicom Višegradska, koje će izvoditi preduzeće „Beograd na vodi“, u periodu od subote 09.11.2019. do 11.11.2019. godine, menja se režim rada linija JGP-a na sledeći način:"
+                "text": "Zbog radova na pregledu i popravci tramvajskih šina i skretnice u Bulevaru kralja Aleksandra na delu od ulice Svetozara Markovića do ulice Resavska, koje će izvoditi OJ „Elektrograđevinska operativa”, u periodu od utorka 12.11.2019. od 00:30 časova do 12.12.2019. do 03:30 časova, menja se režim rada linija JGP-a na sledeći način:"
             },
             {
-                "text": "• Ukida se tramvajska linija 3L1\n• Tramvaji sa linije 11 u oba smera, će saobraćati: Karađorđeva – Zemunski put – Stari\nsavski most – Zemunski put – Milentija Popovića – Bulevar Milutina Milankovića –\nAntifašističke borbe – Jurija Gagarina i dalje redovnom trasom\n• Tramvaji sa linije 12, u oba smera, će saobraćati: Nemanjina – Karađorđeva – Zemunski\nput – Stari savski most – Zemunski put – Milentija Popovića – Bulevar Milutina Milankovića – Đorđa Stanojevića – Bulevar heroja sa Košara – Most na Adi – Saobraćajnica pored Hipodroma – Vladimira Radovanovića – Požeška i dalje redovnom trasom\n• Vozila na privremenoj autobuskoj liniji 3A će saobraćati na relaciji: Savski trg – Kneževac. Trasa linije 3A: u smeru ka Kneževcu: SAVSKI TRG – Savska – Bulevar vojvode Mišića – Topčiderska – Bulevar patrijarha Pavla – Patrijarha Dimitrija – Oslobodilaca Rakovice – KNEŽEVAC; u smeru ka Savskom trgu: KNEŽEVAC – Oslobodilaca Rakovice – Patrijarha Dimitrija – Bulevar patrijarha Pavla – Topčiderska – Gardijska – Bulevar patrijarha Pavla – Bulevar vojvode Mišića – Savska – SAVSKI TRG"
+                "text": "• Tramvaji sa linija: 7, 12, u oba smera, će saobraćati: Bulevar kralja Aleksandra – Beogradska – Trg Slavija – Nemanjina i dalje redovnim trasama\n• Tramvaji sa linije 6 će saobraćati na relaciji Omladinski stadion – Ustanička, sa oznakom 6L"
+            },
+            {
+                "text": "Privremeno se ukidaju stajališta:"
+            },
+            {
+                "text": "• „Pravni fakultet„ u smeru ka Tašmajdanu, odnosno u smeru ka Ustaničkoj za liniju 6\n• „Tašmajdan”, u oba smera\n• RK „Beograđanka“ u oba smera\n• okretnica „Tašmajdan“."
             },
             {
                 "text": "Na izmenjenom delu trase vozila JGP-a koristiće postojeća stajališta."
-            }
-        ]
-    },
-    {
-        "date": "07.11.2019",
-        "title": "Izmena na linijama broj: 42, 59, 94 zbog radova u ulicama Bahtijara Vagabzade i Crnotravska (od 08.11.2019)",
-        "sections": [
-            {
-                "text": "Zbog radova na izgradnji toplovodne mreže u ulici Crnotravskoj u zoni raskrsnice sa ulicom Bahtijara Vagabzade, u periodu od 08.11.2019. do 11.11.2019. godine, doći će do izmene režima rada linija javnog prevoza na sledeći način:"
-            },
-            {
-                "text": "• Vozila sa linija: 42, 59, 94 u smeru ka periferiji saobraćaće: Crnotravska – Paunova – Baštovanska – Bahtijara Vagabzade i dalje redovnom trasom. U smeru ka gradu vozila će saobraćati u redovnom režimu."
-            },
-            {
-                "text": "Ukida se stajalište „Pet solitera“ u smeru ka periferiji."
-            },
-            {
-                "text": "Na izmenjenim delovima trasa, vozila će koristiti sva postojeća stajališta linija JGP-a."
             }
         ]
     },
@@ -95,18 +119,6 @@
             },
             {
                 "text": "• Uspostavlja se redovan režim rada linija: 24, 26, 37, 44\n• Autobusi sa linije 27 saobraćaće redovnom trasom na relaciji: Trg Republike – Mirijevo 3\n• Autobusi sa linije 31 saobraćaće redovnom trasom na relaciji: Studentski trg – Konjarnik\n• Autobusi sa linije 32E saobraćaće redovnom trasom na relaciji: Trg Republike – Višnjica\n• Autobusi sa linija 43, 96 će i dalje raditi u postojećem režimu, na relaciji: Pančevački most /železnička stanica/ do perifernih terminusa"
-            }
-        ]
-    },
-    {
-        "date": "28.10.2019",
-        "title": "Linija broj 66 privremeno se ukida od 30.10.2019.",
-        "sections": [
-            {
-                "text": "Zbog radova na redovnom održavanju kolovoza, u ulici Veljka Dugoševića, na delu od ulice Severni bulevar do Naučno – tehnološkog parka, koje će izvoditi JKP „Beorad put“, u periodu od srede 30.10.2019. do 14.11.2019., doći će do promene režima rada linija JGP-a:"
-            },
-            {
-                "text": "• Privremeno se ukida linija broj 66 (Vukov spomenik – Naučno tehnološki park „Zvezdara“)"
             }
         ]
     },
