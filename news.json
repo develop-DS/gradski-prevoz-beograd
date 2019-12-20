@@ -1,44 +1,11 @@
 [
     {
         "date": "06.12.2019",
-        "title": "Izmena na linijama broj: 11, 13 zbog radova na Mostu na Adi (07.12. / 08.12.2019)",
-        "sections": [
-            {
-                "text": "Zbog radova u tramvajskoj baštici na Mostu na Adi, u subotu 07.12.2019. i nedelju 08.12.2019. menja se režim rada linija javnog prevoza:"
-            },
-            {
-                "text": "• Tramvajska linija 11 će saobraćati: Kalemegdan /Donji grad/ – Stari savski most – Blok 45\n• Tramvajska linija 13 će saobraćati: Banovo brdo – Stari savski most – Blok 45"
-            },
-            {
-                "text": "Privremeno se ukidaju stajališta:"
-            },
-            {
-                "text": "• „Petlja Radnička“ i „Đorđa Stanojevića“ u oba smera za linije: 11, 13\n• „Gospodarska mehana“, „Ruska“, „Sajam“, „Mostar“, „Palata pravde“ i „Savski trg“ u oba smera za liniju 11"
-            }
-        ]
-    },
-    {
-        "date": "06.12.2019",
-        "title": "Izmena na linijama broj: 37, 79 zbog radova u Venizelosovoj ulici (08.12.2019)",
-        "sections": [
-            {
-                "text": "Zbog radova na montaži opreme za grejanje i hlađenje, u ulici Venizelosova broj 54, pri čemu će doći do zatvaranja za saobraćaj navedene ulice na delu od Ulice knez Miletine do zone raskrsnice sa Budimskom ulicom, koje će izvoditi preduzeće „Beokran“ doo, u nedelju 08.12.2019. u periodu od 07:00 časova do 17:00 časova, menja se režim rada linija JGP-a, na sledeći način:"
-            },
-            {
-                "text": "• Vozila sa linije 37, u oba smera saobraćaće: Poenkareova – Cvijićeva – Bulevar despota Stefana – Braće Jugović – Dečanska – Trg Nikole Pašića i dalje redovnom trasom\n• Vozila sa linije 79, u oba smera saobraćaće: Cvijićeva – Poenkareova – Klanički kej – Dunavska – Žorža Klemansoa – Venzilosova – Cara Dušana i dalje redovnom trasom"
-            },
-            {
-                "text": "Ukidaju se stajališta:"
-            },
-            {
-                "text": "• za liniju 37 u oba smera: „Vojvode Dobrnjca“, „Gundulićev venac“, „Dušanova“ i „Trg Republike“\n• za liniju 79 u oba smera uspostavljena stajališta na izmenjenom delu trase: „Vojvode Dobrnjca“ i „Gundulićev venac“"
-            }
-        ]
-    },
-    {
-        "date": "06.12.2019",
         "title": "Izmena na linijama broj: 25, 25P zbog radova u Ljubićkoj ulici (08.12.2019)",
         "sections": [
+            {
+                "text": "Radovi produženi"
+            },
             {
                 "text": "Zbog izvođenja radova na priključenju stambenog objekta na kanalizacioni sistem u ulici Ljubićka u visini broja 24, doći će do zatvaranja za saobraćaj navedene ulice, na delu od ulice Kumodraška do ulice Danijelova, u periodu od nedelje 08.12.2019. do ponedeljka 09.12.2019., menja se režima rada linija javnog prevoza na sledeći način:"
             },
@@ -176,36 +143,6 @@
             },
             {
                 "text": "Na izmenjenom delu trase vozila koriste postojeća stajališta linija javnog gradskog prevoza."
-            }
-        ]
-    },
-    {
-        "date": "24.07.2018",
-        "title": "Od 25.07.2018. zbog radova na deonici pruge “Beograd /Centar/ – Stara Pazova” biće smanjen broj polazaka na liniji BG Voz 1 (Batajnica – Ovča) – Autobuska linija broj 73 biće pojačana",
-        "sections": [
-            {
-                "text": "Radovi produženi"
-            },
-            {
-                "text": "Broj planiranih polazaka na liniji gradske železnice BG Voz 1 (Batajnica – Ovča) biće redukovan zbog radova na deonici pruge “Beograd /Centar/ – Stara Pazova” od 25.07.2018."
-            },
-            {
-                "text": "Očekivano je da izmena bude na snazi do aprila 2019."
-            },
-            {
-                "text": "U Sekreterijatu za javni prevoz navode da će linija 1 BG voza (Batajnica – Ovča) saobraćati sada na sat vremena, a da će se umesto linije Resnik – Beograd centar uvesti linija Resnik – Ovča."
-            },
-            {
-                "text": "Vozovi na liniji Resnik – Ovča saobraćaće na svakih pola sata radnim danima – kažu iz Seketarijata i dodaju da će se prvi i poslednji polasci razlikovati samo za po nekoliko minuta."
-            },
-            {
-                "text": "Resnička linija do sada je išla samo do Prokopa, i to na svakih sat, a sa ovom promenom ne samo da će broj polazaka biti dupliran, već će Resnik imati direktnu brzu vezu sa Autokomandom, Vukovim spomenikom, Pančevačkim mostom, Krnjačom i Ovčom."
-            },
-            {
-                "text": "Subotom i nedeljom polasci će biti na sat vremena, osim prepodnevnog perioda subotom, kada će vozovi Resnik – Ovča ići na pola sata do podneva, a ostali deo dana na svaki sat – objašnjavaju u Sekretarijatu."
-            },
-            {
-                "text": "Zbog redukovanja broja polazaka na liniji BG Voz 1, autobuska linija broj 73 biće pojačana od 25.07.2018."
             }
         ]
     }
