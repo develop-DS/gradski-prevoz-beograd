@@ -1,10 +1,22 @@
 [
     {
+        "date": "30.12.2019",
+        "title": "Redovi vožnje koji se primenjuju za vreme novogodišnjih i božićnih praznika (2020)",
+        "sections": [
+            {
+                "text": "Na svim linijama gradskog i prigradskog prevoza u Beogradu i Nišu primenjivaće se sledeći režim rada linija:"
+            },
+            {
+                "text": "• 01.01. / 02.01. / 07.01.2020 – vozila rade po nedeljnom redu vožnje\n• U periodu zimskog raspusta 03.01. i 06.01.2020 primenjivaće se redukovani (“letnji”) red vožnje na svim linijama javnog prevoza u Nišu"
+            }
+        ]
+    },
+    {
         "date": "06.12.2019",
         "title": "Izmena na linijama broj: 25, 25P zbog radova u Ljubićkoj ulici (08.12.2019)",
         "sections": [
             {
-                "text": "Radovi produženi"
+                "text": "Radovi produženi do 08.01.2020"
             },
             {
                 "text": "Zbog izvođenja radova na priključenju stambenog objekta na kanalizacioni sistem u ulici Ljubićka u visini broja 24, doći će do zatvaranja za saobraćaj navedene ulice, na delu od ulice Kumodraška do ulice Danijelova, u periodu od nedelje 08.12.2019. do ponedeljka 09.12.2019., menja se režima rada linija javnog prevoza na sledeći način:"
@@ -19,26 +31,11 @@
     },
     {
         "date": "03.12.2019",
-        "title": "Izmena na linijama broj: 47, 50, 54, 59, 94, 502, 505, 505L zbog radova u Borskoj ulici (od 04.12.2019)",
-        "sections": [
-            {
-                "text": "Zbog radova na toplovodnoj mreži koje će izvoditi JKP „Beogradske elektrane“, u Borskoj ulici na delu od zone raskrsnice sa ulicom Božidara Stojanovića do zone raskrsnice sa ulicom Bogdana Žerajića, za saobraćaj će biti zatvorena saobraćajna traka za kretanje vozila ka periferiji, u periodu od srede 04.12.2019. do 30.12.2019., menja režim rada linija JGP-a, na sledeći način:"
-            },
-            {
-                "text": "• Vozila sa linija: 47, 50, 54, 59, 94, 502, 505L u smeru ka terminusu Miljakovac 1, saobraćaće: Borska – Vareška –- Čelebićka – Borska i dalje redovnim trasama. U smeru ka centru grada vozila saobraćaju redovnom trasom\n• Vozila sa linije 505, u smeru ka terminusu „Miljakovačke staze“, saobraćaće na skraćenoj trasi do terminusa „ Miljakovac 1“ gde će vršiti promenu smera. U suprotnom smeru vozila saobraćaju redovnom trasom"
-            },
-            {
-                "text": "Napomena: Privremeno se ukida stajalište „Stanka Paunovića“ u smeru ka terminusu „Miljakovac 1“, za linije 47, 50, 54, 59, 94, 502, 505, 505L."
-            },
-            {
-                "text": "Na izmenjenim delovima trasa, vozila će koristiti postojeća stajališta linija JGP-a."
-            }
-        ]
-    },
-    {
-        "date": "03.12.2019",
         "title": "Izmene na linijama broj: 2, 5, 10, 79, 27N, 32N, 401N zbog radova na rekonstrukciji ulica Kraljice Marije, Džordža Vašingtona i Cara Dušana",
         "sections": [
+            {
+                "text": "Radovi produženi do 01.08.2020"
+            },
             {
                 "text": "Zbog radova na rekonstrukciji ulica Kraljice Marije, Džordža Vašingtona i Cara Dušana, doći će do izmene režima rada linija JGP-a na sledeći način:"
             },
@@ -57,6 +54,9 @@
         "date": "20.11.2019",
         "title": "Izmena na liniji broj: 311 zbog radova u ulici Ravan (od 21.11.2019)",
         "sections": [
+            {
+                "text": "Radovi produženi do 29.02.2020"
+            },
             {
                 "text": "Zbog sanacije defekta na vodovodnoj mreži u ulici Ravan, koje će izvoditi JKP „Beogradski vodovod i kanalizacija”, u periodu od četvrtka 21.11.2019. do 19.12.2019. menja se režim rada linije javnog prevoza na sledeći način:"
             },
@@ -124,7 +124,7 @@
         "title": "Vanredna izmena na linijama broj: 45, 83 zbog radova u Novogradskoj ulici u Zemunu (od 29.07.2018)",
         "sections": [
             {
-                "text": "Radovi produženi do 31.12.2019"
+                "text": "Radovi produženi do 01.06.2020"
             },
             {
                 "text": "Autobuske linije broj: 45, 83, preusmerene su i saobraćaju izmenjenom trasom:"
