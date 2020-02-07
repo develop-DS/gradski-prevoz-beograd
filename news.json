@@ -1,5 +1,74 @@
 [
     {
+        "date": "07.02.2020",
+        "title": "Operativna izmena na liniji broj 60 zbog radova na toplovodu u ulici Savski nasip",
+        "sections": [
+            {
+                "text": "Zbog radova na toplovodu u ulici Savski nasip od 14:00 časova (07.02.2020) (očekivano do 12.02.2020), linija 60 saobraća izmenjenom trasom u oba smera ulicama Zemunski put – Vladimira Popovića i dalje redovnom trasom."
+            }
+        ]
+    },
+    {
+        "date": "07.02.2020",
+        "title": "Reorganizacija stajališta u zoni raskrsnice Bulevar kralja Aleksandra – Mite Ružića (stajalište “Mite Ružića”)",
+        "sections": [
+            {
+                "text": "U sklopu aktivnosti za poboljšljnje uslova funkcionisanja javnog prevoza na gradskoj uličnoj mreži, Sekretarijat za javni prevoz je, u saradnji sa Upravom saobraćajne policije MUP-a Republike Srbije i Sekretarijatom za saobraćaj izvršio reorganizaciju stajališta javnog prevoza u zoni semaforisane raskrsnice Bulevar kralja Aleksandra – Mite Ružića."
+            },
+            {
+                "text": "Autobusko stajalište koje se nalazilo u ulici Mite Ružića neposredno ispred raskrsnice sa Bulevarom kralja Aleksandra, koje su koristili autobusi sa linija 20, 46, 79 i koje se nalazilo u protočnoj saobraćajnoj traci je ukinuto."
+            },
+            {
+                "text": "Tramvajsko stajalište u Bulevaru kralja Aleksandra smer ka centru grada, koje se nalazilo ispred raskrsnice sa Mite Ružića je izmešteno na poziciju neposredno posle raskrsnice. Ovo stajalište sada koriste tramvaji sa linija 6, 7, 14 i autobusi sa linija 46, 79."
+            },
+            {
+                "text": "Autobusi sa linije 20 sada koriste postojeće tramvajsko stajalište za linije 6, 7, 14 u Bulevaru kralja Aleksandra koje se nalazi neposredno posle raskrsnice sa Mite Ružića u smeru ka Ustaničkoj ulici čime su oba stajališta postala mešovita."
+            },
+            {
+                "text": "Ovom intervencijom je ubrzan javni prevoz na linijama 20, 46, 79, obezbeđena znatno bolja protočnost ulice Mite Ružića, zadržana stajališta javnog prevoza u istoj zoni i obezbeđeni bolji uslovi za presedanje putnika."
+            },
+            {
+                "text": "Nova organizacija stajališta je stupila na snagu 04.02.2020."
+            }
+        ]
+    },
+    {
+        "date": "07.02.2020",
+        "title": "Operativna izmena na linijama broj: 17, 73, 84, 703, 704, 705, 706, 706E, 707 zbog radova na vodovodnoj mreži u ulici Cara Dušana u Zemunu",
+        "sections": [
+            {
+                "text": "Zbog radova na vodovodnoj mreži u ulici Cara Dušana, koje izvodi preduzeće JKP „Beogradski vodovod i kanalizacija“ od četvrtka 06.02.2020. od 20:00 časova pa do završetka radova (očekivano do 10.02.2020), operativno je izmenjen režim rada linija JGP-a na sledeći način:"
+            },
+            {
+                "text": "• Vozila sa linija 17, 73, 84, 703, 704, 705, 706, 706E, 707 u smeru ka Batajnici, saobraćaju: Cara Dušana – Dobrovoljačka – Ugrinovačka – Filipa Višnjića i dalje redovnim trasama"
+            },
+            {
+                "text": "Privremeno se ukidaju stajališta, u smeru ka Batajnici:"
+            },
+            {
+                "text": "• „Dunavska“ za linije 17, 73, 84, 703, 705\n• „Tršćanska“ za linije 17, 73, 84, 704, 705, 707"
+            }
+        ]
+    },
+    {
+        "date": "05.02.2020",
+        "title": "Operativna izmena na liniji broj 306 zbog radova u ulici Ravan (naselje Leštane)",
+        "sections": [
+            {
+                "text": "Zbog sanacije defekta na vodovodnoj mreži u ulici Ravan, koje izvodi JKP „Beogradski vodovod i kanalizacija”, očekivano do 14.02.2020. u periodu od 08:00 do 14:00 časova, menja se režim rada linije javnog prevoza na sledeći način:"
+            },
+            {
+                "text": "• Vozila sa autobuske liniji 306 će saobraćati: Smederevski put – Save Kovačevića – Maršala Tita – Leštane"
+            },
+            {
+                "text": "Privremeno se ukidaju stajališta:"
+            },
+            {
+                "text": "• „Zdravstvena stanica Leštane i Vinča“ u smeru ka Leštanima\n• „Skladište boja“ u oba smera\n• „Elektrodistribucija“ u oba smera\n• „Stari put za Boleč“ u oba smera\n• „Leštane /ulaz/“ u oba smera"
+            }
+        ]
+    },
+    {
         "date": "10.01.2020",
         "title": "Izmene na linijama broj: 7, 9, 11, 46, 51, 78, 83, 91, 92, 511, 551, 553, 601 zbog radova na Savskom trgu (od 11.01.2020)",
         "sections": [
@@ -7,10 +76,13 @@
                 "text": "Zbog radova na rekonstrukciji saobraćajnice na obodu Savskog trga, koji podrazumevaju potpuno zatvaranje Karađorđeve ulice na delu od ulice Nemanjine do ulice Mihaila Bogićevića, kao i samog terminusa „Savski trg“, koje će izvoditi preduzeće „Beograd na vodi“, u periodu od subote 11.01.2020. do 30.03.2020., menja se režim rada linija JGP-a na sledeći način:"
             },
             {
-                "text": "• Tramvaji sa linija 7, 9 u oba smera, će saobraćati: Nemanjina – Savska – Bulevar vojvode Mišića – Petlja “Radnička” – Most na Adi – Bulevar heroja sa Košara – Đorđa Stanojevića – Bulevar Milutina Milankovića – Antifašističke borbe i dalje redovnim trasama\n• Tramvaji sa linije 11 u oba smera, će saobraćati: Karađorđeva – Stari savski most – Zemunski put – Milentija Popovića – Bulevar Milutina Milankovića – Antifašističke borbe i dalje redovnom trasom\n• Vozila sa linija 78, 83 će saobraćati: u smeru ka Trgu Slavija: Bulevar Mihajla Pupina – Brankov most – Brankova – Kraljice Natalije – Kneza Miloša – Nemanjina i dalje redovnim trasama; u smeru ka Zemunu: Nemanjina – Balkanska – Gavrila Principa – Pop Lukina – Brankova – Brankov most – Bulevar Mihajla Pupina i dalje redovnim trasama\n• Vozila sa linije 46 u smeru ka Savskom trgu, će saobraćati: Franša D’ Eperea – Savska – Drinska – Sarajevska – Hajduk Veljkov venac – Balkanska do stajališta NEMANJINA\n• Vozila sa linija 51, 91, 92, 511, 551, 553 u smeru ka Savskom trgu, će saobraćati: Bulevar vojvode Mišića – Savska – Drinska – Sarajevska – Hajduk Veljkov venac – Balkanska do stajališta NEMANJINA\n• Vozila sa linije 601 u smeru ka Savskom trgu, će saobraćati: Most Gazela – Savska  Drinska – Sarajevska – Hajduk Veljkov venac – Balkanska do stajališta NEMANJINA\n• Vozila sa linije A1 iz pravca aerodroma “Nikola Tesla” saobraćaju trasom: Brankov most – Brankova – Kraljice Natalije – Kneza Miloša – Nemanjina i dalje redovno, uz ukidanje stajališta “Savski trg”. U smeru ka aerodromu “Nikola Tesla”: linija radi na redovnoj trasi, dok se stajalište “Savski trg” izmešta unapred za oko 60m u Savskoj ulici."
+                "text": "• Tramvaji sa linija 7, 9 u oba smera, će saobraćati: Nemanjina – Savska – Bulevar vojvode Mišića – Petlja “Radnička” – Most na Adi – Bulevar heroja sa Košara – Đorđa Stanojevića – Bulevar Milutina Milankovića – Antifašističke borbe i dalje redovnim trasama\n• Tramvaji sa linije 11 u oba smera, će saobraćati: Karađorđeva – Stari savski most – Zemunski put – Milentija Popovića – Bulevar Milutina Milankovića – Antifašističke borbe i dalje redovnom trasom\n• Vozila sa linija 78, 83 će saobraćati: u smeru ka Trgu Slavija: Bulevar Mihajla Pupina – Brankov most – Brankova – Kraljice Natalije – Kneza Miloša – Nemanjina i dalje redovnim trasama; u smeru ka Zemunu: Nemanjina – Balkanska – Gavrila Principa – Pop Lukina – Brankova – Brankov most – Bulevar Mihajla Pupina i dalje redovnim trasama\n• Vozila sa linije 46 u smeru ka Savskom trgu, će saobraćati: Franša D’ Eperea – Savska – Drinska – Sarajevska – Hajduk Veljkov venac – Balkanska do stajališta NEMANJINA\n• Vozila sa linija 91, 92, 551, 553 u smeru ka Savskom trgu, će saobraćati: Bulevar vojvode Mišića – Savska – Drinska – Sarajevska – Hajduk Veljkov venac – Balkanska do stajališta NEMANJINA\n• Vozila sa linije 601 u smeru ka Savskom trgu, će saobraćati: Most Gazela – Savska  Drinska – Sarajevska – Hajduk Veljkov venac – Balkanska do stajališta NEMANJINA\n• Vozila sa linije A1 iz pravca aerodroma “Nikola Tesla” saobraćaju trasom: Brankov most – Brankova – Kraljice Natalije – Kneza Miloša – Nemanjina i dalje redovno, uz ukidanje stajališta “Savski trg”. U smeru ka aerodromu “Nikola Tesla”: linija radi na redovnoj trasi, dok se stajalište “Savski trg” izmešta unapred za oko 60m u Savskoj ulici."
             },
             {
-                "text": "Napomena: Promenu smera kretanja do polaznog stajališta „Savski trg“ vozila sa ovih linija će vršiti ulicama Balkanska – Admirala Geprata – Kneza Miloša – Nemanjina – Savski trg – Savska. Polazno stajalište „Savski trg“ za linije 36, 46, 51, 91, 92, 511, 551, 553, 601, biće privremeno izmešteno za 60 metara unapred, u odnosu na postojeću lokaciju."
+                "text": "Napomena: Uspostavlja se privremeno dolazno stajalište, za linije 46, 51, 511, u ulici Hajduk Veljkov venac, oko 25 metara posle obeleženog pešačkog prelaza u visini raskrsnice sa ulicom Birčaninova."
+            },
+            {
+                "text": "Napomena: Promenu smera kretanja do polaznog stajališta „Savski trg“ vozila sa linija: 91, 92, 551, 553, 601 će vršiti ulicama Balkanska – Admirala Geprata – Kneza Miloša – Nemanjina – Savski trg – Savska. Polazno stajalište „Savski trg“ za linije 36, 46, 51, 91, 92, 511, 551, 553, 601, biće privremeno izmešteno za 60 metara unapred, u odnosu na postojeću lokaciju."
             },
             {
                 "text": "Privremeno se ukidaju stajališta:"

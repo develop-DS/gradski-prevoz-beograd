@@ -123,46 +123,46 @@
     {
       "id": "_21",
       "label": "Савез Бораца 1",
-      "longitude": 20.518817,
-      "latitude": 44.707081
+      "longitude": 20.518501,
+      "latitude": 44.707407
     },
     {
       "id": "_22",
       "label": "Пошта",
-      "longitude": 20.518423,
-      "latitude": 44.709414
+      "longitude": 20.518407,
+      "latitude": 44.709428
     },
     {
       "id": "_23",
       "label": "Савез Бораца",
-      "longitude": 20.518532,
-      "latitude": 44.71165
+      "longitude": 20.518577,
+      "latitude": 44.711267
     },
     {
       "id": "_24",
       "label": "Бели Поток (Насеље Колонија)",
-      "longitude": 20.518302,
-      "latitude": 44.713361
+      "longitude": 20.518348,
+      "latitude": 44.712638
     },
     {
       "id": "_25",
       "label": "Бели Поток (Железничка станица)",
-      "longitude": 20.515915,
-      "latitude": 44.714565
+      "longitude": 20.51735,
+      "latitude": 44.714149
     }
   ],
   "direction_b": [
     {
       "id": "_1",
       "label": "Бели Поток (Железничка станица)",
-      "longitude": 20.515915,
-      "latitude": 44.714565
+      "longitude": 20.51735,
+      "latitude": 44.714149
     },
     {
       "id": "_2",
       "label": "Бели Поток (Насеље Колонија)",
-      "longitude": 20.518187,
-      "latitude": 44.71332
+      "longitude": 20.518251,
+      "latitude": 44.712561
     },
     {
       "id": "_3",
@@ -173,20 +173,20 @@
     {
       "id": "_4",
       "label": "Пошта",
-      "longitude": 20.518285,
-      "latitude": 44.709464
+      "longitude": 20.518226,
+      "latitude": 44.709439
     },
     {
       "id": "_5",
       "label": "Савез Бораца 1",
-      "longitude": 20.51877,
-      "latitude": 44.707009
+      "longitude": 20.518134,
+      "latitude": 44.707668
     },
     {
       "id": "_6",
       "label": "Бели Поток /Центар/",
-      "longitude": 20.519557,
-      "latitude": 44.705879
+      "longitude": 20.519059,
+      "latitude": 44.705587
     },
     {
       "id": "_7",
