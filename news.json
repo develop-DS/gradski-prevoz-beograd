@@ -1,13 +1,58 @@
 [
     {
-        "date": "29.02.2020",
-        "title": "Prekid železničkog saobraćaja na relaciji “Mladenovac – Beograd /Centar/” (BG Voz 3)",
+        "date": "13.03.2020",
+        "title": "Izmena na liniji broj 60 zbog radova u ulici Savski nasip (od 14.03.2020)",
         "sections": [
             {
-                "text": "Od 07:06 časova (29.02.2020) zbog iskliznuća kola iz teretnog voza broj 52961 između stanica: Resnik – Pinosava u prekidu je saobraćaj vozova na relaciji Mladenovac – Beograd centar."
+                "text": "Zbog radova na rekonstrukciji i izgradnji toplovodne mreže duž ulice Savski nasip, na delu od ulice Jurija Gagarina do ulice Brodarska, koje će izvoditi JKP „Beogradske elektrane” od subote 14.03.2020 do 28.03.2020, doći će do potpunog zatvaranja navedene deonice, pri čemu se menja režim rada linije 60 na sledeći način:"
             },
             {
-                "text": "Dok se ne izvrši sanacija pruge i dok pruga ne bude puštena za redovan saobraćaj biće otkazani vozovi iz sistema BG VOZ koji saobraćaju na relaciji: Beograd Centar – Mladenovac – Beograd Centar."
+                "text": "• U smeru ka Zelenom vencu, vozila će saobraćati: Jurija Gargarina – Vladimira Popovića – interna saobraćajnica između ulica Vladimira Popovića i Milentija Popovića – Milentija Popovića – Bulevar Mihajla Pupina – Brankov most i dalje redovnom trasom\n• U smeru ka Novom Beogradu, vozila će saobraćati: Sajmište – Zemunski put – Vladimira Popovića – Bulevar Milutina Milankovića i dalje redovonom trasom"
+            },
+            {
+                "text": "Privremeno se ukidaju stajališta:"
+            },
+            {
+                "text": "• „JRB“, u oba smera\n• „Novi železnički most“ u oba smera\n• „Železnički most Sava“ u oba smera\n• „Most Gazela“ u oba smera\n• „Slavka Šlandera“ u oba smera\n• „Sajmište“ u smeru ka Zelenom vencu"
+            },
+            {
+                "text": "Privremeno se uspostavljaju stajališta:"
+            },
+            {
+                "text": "• „Sava centar“, u smeru ka Novom Beogradu, na poziciji autobuske niše ispred ulaza u objekat Sava centra u ulici Vladimira Popovića\n• „Sava centar“, u smeru ka Zelenom vencu, na poziciji ED stuba koji se nalazi oko 30 metara posle obeleženog pešačkog prelaza preko puta ulaza u objekat Sava centra u ulici Vladimira Popovića\n• „Blok 20“, u smeru ka Zelenom vencu, na betonskoj površini oko 30,0 metara posle obeleženog pešačkog prelaza u zoni raskrsnice ulica Vladimira Popovića i interne saobraćajnice između ulica Milentija Popovića i Vladimira Popovića (u visini okretnice „Blok 20“)"
+            }
+        ]
+    },
+    {
+        "date": "10.03.2020",
+        "title": "Izmena na liniji broj 27 zbog radova u ulici Rableova (od 11.03.2020)",
+        "sections": [
+            {
+                "text": "Zbog radova na redovnom održavanju kolovoza, u ulici Rableova, na delu od ulice Mirijevski venac do ulice Matice srpske, koje će izvoditi JKP „Beograd put“, od srede 11.03.2020 do 31.03.2020, doći će do potpunog zatvaranja za saobraćaj navedene deonice, pri čemu se menja režim rada linije JGP-a 27 na sledeći način:"
+            },
+            {
+                "text": "• Vozila sa linije 27 će saobraćati, u oba smera, ulicama: Mirijevski venac – Samjuela Beketa – Matice srpske – Mihaila Bulgakova i dalje redovnom trasom"
+            },
+            {
+                "text": "Napomena: Privremeno se ukida stajalište „Matice srpske“ u oba smera."
+            }
+        ]
+    },
+    {
+        "date": "02.03.2020",
+        "title": "Izmena na linijama broj: 58, 88 zbog radova u ulici Lole Ribara (od 03.03.2020)",
+        "sections": [
+            {
+                "text": "Zbog radova na redovnom održavanju kolovoza, u ulici Lole Ribara , na delu od ulice Radnih akcija do ulice Bore Stankovića, koje će izvoditi JKP „Beograd put“, u periodu od utorka 03.03.2020 do 19.03.2020., doći će do potpunog zatvaranja za saobraćaj navedene deonice, pri čemu se menja režim rada linija JGP-a na sledeći način:"
+            },
+            {
+                "text": "• Vozila sa linija 58, 88 u oba smera će saobraćati ulicama: Vodovodska – Lole Ribara – Radnih akcija – Avalska i dalje redovnom trasom"
+            },
+            {
+                "text": "Privremeno se ukidaju stajališta, u oba smera, za linije 58 i 88:"
+            },
+            {
+                "text": "• „Železnik (Zlatanovići)“\n• „Braće Mitrović“\n• „Ivo Lola Ribar“\n• „Pijaca“"
             }
         ]
     },
@@ -91,6 +136,9 @@
         "title": "Izmena na linijama broj: 860B, 861A, 862, 863 zbog radova u ulici Palih boraca (naselje Mala Moštanica) (od 29.02.2020)",
         "sections": [
             {
+                "text": "Radovi produženi do 18.03.2020"
+            },
+            {
                 "text": "Tokom izvođenja radova (od 29.02.2020 do 13.03.2020) na redovnom održavanju u ulici Palih boraca na delu od ulice Ravanička do ulice Moštanička u naselju Mala Moštanica u Beogradu (Obrenovac), doći će do potpunog zatvaranja kolovoza ulice Palih boraca Male Moštanice, pa će vozila sa linija javnog prevoza saobraćati na sledeći način:"
             },
             {
@@ -110,27 +158,6 @@
             },
             {
                 "text": "Napomena: Privremeno se ukida stajalište „Leštane /ulaz/“ u oba smera za linije: 306, 311."
-            }
-        ]
-    },
-    {
-        "date": "24.02.2020",
-        "title": "Izmena na liniji broj 505 zbog radova u ulici Miljakovačke staze (od 25.02.2020)",
-        "sections": [
-            {
-                "text": "Zbog radova na redovnom održavanju kolovoza u ulici Miljakovačke staze, na delu od ulice Vojvode Plamenca do ulice Maja Glave, koje će izvoditi JKP „Beograd put” u periodu od utorka 25.02.2020 do 10.03.2020, doći će do potpunog zatvaranja za saobraćaj navedene deonice, pri čemu se menja režim rada linije 505 na sledeći način:"
-            },
-            {
-                "text": "• Vozila sa linije 505 će saobraćati na relaciji: “Miljakovac 1 – Sunčani breg”, pri čemu će promenu smera kretanja vršiti neposredno ispred zone radova, odnosno ispred raskrsnice ulica Vojvode Plamenca i Miljakovačke staze"
-            },
-            {
-                "text": "Privremeno se ukidaju stajališta, u oba smera:"
-            },
-            {
-                "text": "• „Mali zabran“\n• „Miljakovačko brdo“\n• „Miljakovačke staze“"
-            },
-            {
-                "text": "Napomena: Uspostavlja se privremeno stajalište „Sunčani breg“ u zoni privremenog terminusa, ispred raskrsnice ulica Vojvode Plamenca i Miljakovačke staze."
             }
         ]
     },
