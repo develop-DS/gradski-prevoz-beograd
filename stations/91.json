@@ -2,9 +2,9 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Савски трг",
-      "longitude": 20.455627,
-      "latitude": 44.80782
+      "label": "Савска",
+      "longitude": 20.455394,
+      "latitude": 44.807432
     },
     {
       "id": "_2",
@@ -202,27 +202,27 @@
     },
     {
       "id": "_14",
-      "label": "Дринска",
-      "longitude": 20.451825,
-      "latitude": 44.800848
+      "label": "Дурмиторска",
+      "longitude": 20.451504,
+      "latitude": 44.80211
     },
     {
       "id": "_15",
-      "label": "Милоша Поцерца",
-      "longitude": 20.454948,
-      "latitude": 44.803463
+      "label": "Палата Правде",
+      "longitude": 20.453797,
+      "latitude": 44.804909
     },
     {
       "id": "_16",
-      "label": "Немањина",
-      "longitude": 20.458357,
-      "latitude": 44.807879
+      "label": "Савска",
+      "longitude": 20.455434,
+      "latitude": 44.806951
     },
     {
       "id": "_17",
-      "label": "Савски трг",
-      "longitude": 20.455627,
-      "latitude": 44.80782
+      "label": "Савска",
+      "longitude": 20.455394,
+      "latitude": 44.807432
     }
   ]
 }

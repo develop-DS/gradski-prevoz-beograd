@@ -1,5 +1,23 @@
 [
     {
+        "date": "15.03.2020",
+        "title": "Izmena u režimu rada linija javnog prevoza zbog uspostavljanja vanrednog stanja zbog epidemije koronavirusa (Covid-19) (od 17.03.2020)",
+        "sections": [
+            {
+                "text": "Sekretarijatu za javni prevoz izdata je naredba za smanjenje obima javnog gradskog prevoza na teritoriji grada Beograda od utorka, 17. marta 2020. i njegovo stavljanje na subotnji režim vožnje, uz ukidanje svih noćnih linija. Napomena: Subotnji red vožnje primenjuje se radnim danima i subotom, nedeljom linije rade po nedeljnom redu vožnje."
+            },
+            {
+                "text": "Napomena: Za linije broj: 464, 465, 465A, 493, 580, 581, 581E, 583, 583A, 860BL, 4414A uspostavljaju se dodatni polasci po subotnjem redu vožnje, tj. redu vožnje koji se u vanrednom režimu primenjuje radnim danom i subotom."
+            },
+            {
+                "text": "Na linijama gradskog i prigradskog prevoza u Nišu od utorka 17. marta 2020. pa do daljnjeg primenjivaće se letnji red vožnje."
+            },
+            {
+                "text": "Informacije: Epidemija koronavirusa (Covid-19)"
+            }
+        ]
+    },
+    {
         "date": "13.03.2020",
         "title": "Izmena na liniji broj 60 zbog radova u ulici Savski nasip (od 14.03.2020)",
         "sections": [
@@ -43,6 +61,9 @@
         "title": "Izmena na linijama broj: 58, 88 zbog radova u ulici Lole Ribara (od 03.03.2020)",
         "sections": [
             {
+                "text": "Radovi produženi do 30.03.2020"
+            },
+            {
                 "text": "Zbog radova na redovnom održavanju kolovoza, u ulici Lole Ribara , na delu od ulice Radnih akcija do ulice Bore Stankovića, koje će izvoditi JKP „Beograd put“, u periodu od utorka 03.03.2020 do 19.03.2020., doći će do potpunog zatvaranja za saobraćaj navedene deonice, pri čemu se menja režim rada linija JGP-a na sledeći način:"
             },
             {
@@ -64,7 +85,7 @@
                 "text": "Zbog izvođenja radova na Savskom trgu u periodu od 29.02.2020 do 05.04.2020. saobraćaj će biti potpuno obustavljen u ovoj zoni što će dovesti do sledećih izmena na linijama javnog prevoza:"
             },
             {
-                "text": "🚋 Tramvajski saobraćaj:"
+                "text": "Tramvajski saobraćaj:"
             },
             {
                 "text": "• Tramvaji sa linije 3L1 (Omladinski stadion – ŽS Topčider) ne saobraća\n• Tramvaji sa linije 6 (Tašmajdan – Ustanička) ne saobraća\n• Tramvaji sa linije 7 (Ustanička – Blok 45) ne saobraća\n• Tramvaji sa linije 9 (Banjica – Blok 45) ne saobraća\n• Tramvaji sa linije 12 (Omladinski stadion – Banovo brdo) ne saobraća\n• Tramvaji sa linije 14 (Ustanička – Banjica) ne saobraća\n• Tramvaji sa linije 11 (Kalemegdan /Donji grad/ – Blok 45) će i dalje saobraćati u oba smera preko Starog savskog mosta\n• Tramvaji sa linije 13 (Banovo brdo – Blok 45) će saobraćati na redovnoj trasi preko Mosta na Adi\n• Uspostavlja se privremena tramvajska linija 12L (Kalemegdan /Donji grad/ – Banovo brdo) sa sledećom trasom oba smera: KALEMEGDAN /DONJI GRAD/, Bulevar vojvode Bojovića, Tadeuša Košćuška, Pariska, Pristanište, Karađorđeva, Stari savski most, Zemunski put, Milentija Popovića, Bulevar Milutina Milankovića, Đorđa Stanojevića, Bulevar heroja sa Košara, Most na Adi, Saobraćajnica pored Hipodroma, Vladimira Radovanovića, Požeška, BANOVO BRDO"
@@ -132,21 +153,6 @@
         ]
     },
     {
-        "date": "28.02.2020",
-        "title": "Izmena na linijama broj: 860B, 861A, 862, 863 zbog radova u ulici Palih boraca (naselje Mala Moštanica) (od 29.02.2020)",
-        "sections": [
-            {
-                "text": "Radovi produženi do 18.03.2020"
-            },
-            {
-                "text": "Tokom izvođenja radova (od 29.02.2020 do 13.03.2020) na redovnom održavanju u ulici Palih boraca na delu od ulice Ravanička do ulice Moštanička u naselju Mala Moštanica u Beogradu (Obrenovac), doći će do potpunog zatvaranja kolovoza ulice Palih boraca Male Moštanice, pa će vozila sa linija javnog prevoza saobraćati na sledeći način:"
-            },
-            {
-                "text": "• Vozila sa linije 860B će u oba smera saobraćati od Beograda do raskrsnice ulica Obrenovački put i Cvetna, odakle dalje do stajališta „Mala Moštanica – okretnica“ i istom trasom u suprotnom smeru, bez svraćanja do „Industrijske zone (Barič)“\n• Vozila sa linije 861A će u oba smera saobraćati od Obrenovca na redovnoj trasi do stajališta „Mala Moštanica – okretnica“, odakle će se istim putem vraćati nazad do Obrenovačkog puta, pa dalje za Beograd\n• Vozila sa linije 862 će u oba smera saobraćati od Obrenovca na skraćenoj trasi do stajališta „Mala Moštanica – okretnica“\n• Vozila sa linije 863 će u oba smera saobraćati od „Barič (ambulante)“ na skraćenoj trasi do stajališta „Mala Moštanica – okretnica“"
-            }
-        ]
-    },
-    {
         "date": "26.02.2020",
         "title": "Izmena na linijama broj: 306, 311 zbog radova u ulici Ravan (od 26.02.2020)",
         "sections": [
@@ -195,9 +201,6 @@
         "date": "22.02.2020",
         "title": "Od 21.02.2020 delimično se menja trasa autobuske linije broj 506 u naselju Resnik",
         "sections": [
-            {
-                "text": "ℹ️"
-            },
             {
                 "text": "Počev od petka 21.02.2020 promenjena je trasa linije broj 506 u naselju Resnik."
             },
