@@ -1,5 +1,71 @@
 [
     {
+        "date": "25.05.2020",
+        "title": "Izmene na linijama: 56, 59, 502 zbog radova na toplovodnoj mreži u ulici 11. krajiške divizije (od 26.05.2020)",
+        "sections": [
+            {
+                "text": "Zbog radova na instalacijama toplovodne mreže, u ulici 11. krajiške divizije, pri čemu će doći do zatvaranja 1⁄2 profila kolovoza, u smeru ka gradu, na delu od raskrsnice sa ulicom Oplenačkom do kućnog broja 52B, koje će izvoditi JKP „Beogradske elektrane” u periodu od utorka 26.05.2020. do 03.06.2020., menja se režim rada linija javnog prevoza na sledeći način:"
+            },
+            {
+                "text": "• Vozila sa linija 56, 59 će saobraćati u smeru ka gradu ulicama: Milorada Draškovića – Rasinska – 11. krajiške divizije i dalje redovnim trasama; U smeru ka Petlovom brdu vozila sa linija rade u redovnom režimu\n• Vozila sa linije 502 će saobraćati, u oba smera, ulicama: 11. krajiške divizije – Rasinska – 17. oktobra i dalje redovnom trasom"
+            },
+            {
+                "text": "Privremeno se ukidaju stajališta:"
+            },
+            {
+                "text": "• „Rasinska“, „Milorada Draškovića“, „Generala Zgonjanina“, „Jedanaeste krajiške divizije“, u smeru ka gradu za linije 56, 59\n• „Dom zdravlja Labudovo brdo“, u oba smera za liniju 502"
+            },
+            {
+                "text": "Privremeno se uspostavljaju stajališta:"
+            },
+            {
+                "text": "• „Mrakovička“ u ulici 11. krajiške divizije, na poziciji EDB stuba koji se nalazi ispred kućnog broja 40, u smeru ka ulici Rasinska, za linije 56, 59\n• „Oplenačka 1“ u ulici 11. krajiške divizije, 10 metara posle stepenica koje se nalaze ispred kućnog broja 52 sa ulicom Oplenačka, u smeru ka ulici Rasinska, za linije 56, 59\n• „Oplenačka 1“ u ulici 11. krajiške divizije, na poziciji drugog EDB stuba, 52 metra posle raskrsnice sa ulicom Oplenačka, u smeru ka Petlovom brdu, za liniju 502\n• „Mrakovička“ u ulici 11. krajiške divizije, na poziciji EDB stuba koji se nalazi ispred kućnog broja 31, u smeru ka Petlovom brdu, za liniju 502"
+            }
+        ]
+    },
+    {
+        "date": "25.05.2020",
+        "title": "Izmena na liniji broj 81L zbog radova u ulici Dobanovački put (od 26.05.2020)",
+        "sections": [
+            {
+                "text": "Zbog radova na redovnom održavanju kolovoza u u ulici Dobanovački put, u naselju Altina, na delu od ulice Miroslava Antića do ulice Zire Adamovića, koje će izvoditi JKP “Beograd put”, od utorka 26.05.2020. do 10.06.2020., doći će do potpunog zatvaranja za saobraćaj navedene deonice, pri čemu se menja režim rada linija javnog prevoza na sledeći način:"
+            },
+            {
+                "text": "• Vozila sa linije 81L će saobraćati: u smeru ka terminusu Altina 1: Dobanovački put – Zire Adamović – Ljiljane Krstić – Pavla Vujisića i dalje redovnom trasom ; u smeru ka terminusu Novi Beograd /Paviljoni/: Pavla Vujisića – Ljiljane Krstić – Ugrinovački put – Ugrinovačka i dalje redovnom trasom"
+            },
+            {
+                "text": "Privremeno se ukidaju stajališta:"
+            },
+            {
+                "text": "• u oba smera: „Zire Adamović“, „Vrtić Milica“, „Pavla Vujisića“ i „Viktora Starčića“\n• u smeru ka terminusu Novi Beograd /Paviljoni/: „Abebe Bikila“ i „Dobanovački put“"
+            },
+            {
+                "text": "Uspostavljaju se privremena stajališta u smeru ka terminusu „Altina 1“:"
+            },
+            {
+                "text": "• „Zire Adamović“ u ulici Dobanovački put, na poziciji EDB stuba koji se nalazi 10 metara ispred raskrsnice sa ulicom Zire Adamović\n• „Servantesova“ u ulici Zire Adamovića, na poziciji EDB stuba br. 3, koji se nalazi 20 metara pre raskrsnice sa Servanesovom ulicom\n• „Taška Načića“ u ulici Zire Adamovića na poziciji 20 metara nakon raskrsnice sa istoimenom ulicom"
+            }
+        ]
+    },
+    {
+        "date": "21.05.2020",
+        "title": "Operativna izmena na linijama: 306, 311 zbog radova na vodovodnoj mreži u ulici Ravan",
+        "sections": [
+            {
+                "text": "Zbog sanacije defekta na vodovodnoj mreži u ulici Ravan, na delu između Kružnog puta i centra Leštana, koje izvodi JKP „Beogradski vodovod i kanalizacija”, od utorka 19.05.2020. do završetka radova, u periodu od 08:00 do 15:00 časova na snazi je sledeća operativna izmena:"
+            },
+            {
+                "text": "• Vozila sa linije 306 će saobraćati na izmenjenoj trasi: Kružni put – Ravan (okretnica linije 311). Napomena: Planirani polasci do Bubanj potoka biće realizovani po redu vožnje.\n• Vozila sa linije 311 će saobraćati na skraćenoj trasi do centra Leštana."
+            },
+            {
+                "text": "Privremeno se ukida stajalište „Leštane /ulaz/“ u oba smera za linije 306, 311."
+            },
+            {
+                "text": "Na izmenjenom delu trase vozila JGP-a koristiće postojeća stajališta."
+            }
+        ]
+    },
+    {
         "date": "20.05.2020",
         "title": "Izmene na linijama broj: 70, 72, 74, 75, 613 zbog radova u ulici Dr. Huga Klajna (od 21.05.2020)",
         "sections": [
@@ -17,21 +83,6 @@
             },
             {
                 "text": "Napomena: Uspostavlja se privremeno stajalište za liniju 613 u Ulici Partizanske avijacije, oko 30 metara posle raskrsnice sa Ulicom Nikole Dobrovića, u smeru ka naselju Radiofar."
-            }
-        ]
-    },
-    {
-        "date": "20.05.2020",
-        "title": "Izmena na linijama broj: 501, 502 zbog radova u ulici 11. krajiške divizije (Faza 1) (od 20.05.2020)",
-        "sections": [
-            {
-                "text": "Zbog radova na instalacijama toplovodne mreže, u ulici 11.krajiške divizije, pri čemu će doći do zatvaranja 1⁄2 profila kolovoza, u smeru ka gradu, na delu od kućnog broja 52 do sredine raskrsnice sa ulicom Oplenačkom, koje će izvoditi JKP „Beogradske elektrane” od srede 20.05.2020. od 09:00 časova pa do 25.05.2020., menja se režim rada linija javnog prevoza na sledeći način:"
-            },
-            {
-                "text": "• Vozila sa linije 501 će saobraćati u smeru ka terminusu „Staro Kijevo“ ulicama: Oplenačka – 11.krajiške divizije – Rasinska – 17.oktobra i dalje redovnom trasom. U smeru ka Petlovom brdu vozila sa linije rade u redovnom režimu\n• Vozila sa linije 502 će saobraćati u smeru ka terminusu „Miljakovac 1“ ulicama: 11.krajiške divizije – Rasinska – 17.oktobra i dalje redovnom trasom. U smeru ka Orlovači (groblje) vozila sa linije rade u redovnom režimu"
-            },
-            {
-                "text": "Privremeno se ukida stajalište „Dom zdravlja Labudovo brdo“ u smeru ka Miljakovcu, za linije 501, 502."
             }
         ]
     },
@@ -98,33 +149,6 @@
             },
             {
                 "text": "• „20.oktobra“ u ulici Pavla Vasića, 20 metara posle zone raskrsnice sa ulicom Slobodana Lale Berberskog\n• „Milana Predića“ u ulici Pavla Vasića, 15 metara posle zone raskrsnice sa ulicom Milana Predića\n• „Hazarska“ u ulici Pavla Vasića, 15 metara posle zone raskrsnice sa ulicom Hazarska"
-            }
-        ]
-    },
-    {
-        "date": "08.05.2020",
-        "title": "Izmena na liniji broj 26 zbog radova u Zaplanjskoj ulici (od 11.05.2020)",
-        "sections": [
-            {
-                "text": "Zbog izvođenja radova na rekonstrukciji vodovodne mreže, koje će izvoditi JKP „Beogradski vodovod i kanalizacija“ u ulici Zaplanjska, na delu od OŠ “Branislav Nušić“ do raskrsnice sa ulicom Darvinova, u periodu od ponedeljka 11.05.2020. do 26.05.2020., doći će do izmene režim rada javnog prevoza na sledeći način:"
-            },
-            {
-                "text": "• Vozila sa linije 26, u oba smera saobraćaće: Kruševačka – Husova – Ljubićka – Kumodraška – Darvinova – Zaplanjska i dalje redovnom trasom"
-            },
-            {
-                "text": "Ukidaju se stajališta u oba smera: „Miška Jovanovića“, „Peke Pavlovića“, „Ignjata Joba“ i „Centralno groblje“."
-            },
-            {
-                "text": "Na izmenjenom delu trase vozila će koristiti postojeća stajališta javnog prevoza."
-            }
-        ]
-    },
-    {
-        "date": "07.05.2020",
-        "title": "Javni gradski prevoz od 08.05.2020 počinje sa radom za sve kategorije putnika",
-        "sections": [
-            {
-                "text": "Preporuka je da koristite zaštitne maske i rukavice"
             }
         ]
     },
