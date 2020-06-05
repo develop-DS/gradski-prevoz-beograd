@@ -2,9 +2,9 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Савска",
-      "longitude": 20.455394,
-      "latitude": 44.807432
+      "label": "Савски трг",
+      "longitude": 20.455627,
+      "latitude": 44.80782
     },
     {
       "id": "_2",
@@ -286,15 +286,15 @@
     },
     {
       "id": "_25",
-      "label": "Савска",
-      "longitude": 20.455434,
-      "latitude": 44.806951
+      "label": "Савски трг",
+      "longitude": 20.456784,
+      "latitude": 44.808538
     },
     {
       "id": "_26",
-      "label": "Савска",
-      "longitude": 20.455394,
-      "latitude": 44.807432
+      "label": "Савски трг",
+      "longitude": 20.455627,
+      "latitude": 44.80782
     }
   ]
 }
