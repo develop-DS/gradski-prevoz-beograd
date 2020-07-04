@@ -3,214 +3,220 @@
     {
       "id": "_1",
       "label": "Коњарник",
-      "longitude": 20.510957,
-      "latitude": 44.782307
+      "longitude": 20.510946,
+      "latitude": 44.782343
     },
     {
       "id": "_2",
       "label": "Петрињска",
-      "longitude": 20.505786,
-      "latitude": 44.782968
+      "longitude": 20.505783,
+      "latitude": 44.782979
     },
     {
       "id": "_3",
       "label": "Шумице",
-      "longitude": 20.50133,
-      "latitude": 44.782945
+      "longitude": 20.50136,
+      "latitude": 44.782959
     },
     {
       "id": "_4",
       "label": "Медаковић 2",
-      "longitude": 20.49974,
-      "latitude": 44.774943
+      "longitude": 20.499747,
+      "latitude": 44.774933
     },
     {
       "id": "_5",
       "label": "Светозора Радојчића",
-      "longitude": 20.502127,
-      "latitude": 44.772167
+      "longitude": 20.502194,
+      "latitude": 44.772139
     },
     {
       "id": "_6",
       "label": "Заплањска",
-      "longitude": 20.500553,
-      "latitude": 44.76888
+      "longitude": 20.500575,
+      "latitude": 44.768899
     },
     {
       "id": "_7",
       "label": "Насеље Браће Јерковић",
-      "longitude": 20.499777,
+      "longitude": 20.499788,
       "latitude": 44.765096
     },
     {
       "id": "_8",
       "label": "Браће Јерковић (Митрово Брдо)",
-      "longitude": 20.497527,
+      "longitude": 20.497546,
       "latitude": 44.763188
     },
     {
       "id": "_9",
       "label": "СЦ Спорт Еко",
-      "longitude": 20.493059,
-      "latitude": 44.764609
+      "longitude": 20.493095,
+      "latitude": 44.764619
     },
     {
       "id": "_10",
       "label": "Пиве Караматијевића",
-      "longitude": 20.491315,
-      "latitude": 44.766151
+      "longitude": 20.491357,
+      "latitude": 44.766147
     },
     {
       "id": "_11",
       "label": "Јована Бијелића",
-      "longitude": 20.490229,
-      "latitude": 44.767897
+      "longitude": 20.490175,
+      "latitude": 44.767955
     },
     {
       "id": "_12",
       "label": "Мештровићева",
-      "longitude": 20.488032,
-      "latitude": 44.771264
+      "longitude": 20.488052,
+      "latitude": 44.77128
     },
     {
       "id": "_13",
       "label": "Дарвинова",
-      "longitude": 20.482292,
-      "latitude": 44.772688
+      "longitude": 20.482327,
+      "latitude": 44.772721
     },
     {
       "id": "_14",
       "label": "Бјеловарска",
-      "longitude": 20.481308,
-      "latitude": 44.775912
+      "longitude": 20.481327,
+      "latitude": 44.775906
     },
     {
       "id": "_15",
       "label": "Витановачка",
-      "longitude": 20.479787,
-      "latitude": 44.779004
+      "longitude": 20.479826,
+      "latitude": 44.779011
     },
     {
       "id": "_16",
       "label": "Универзитет Сингидунум",
-      "longitude": 20.477276,
-      "latitude": 44.782777
+      "longitude": 20.477296,
+      "latitude": 44.78279
     },
     {
       "id": "_17",
       "label": "Прешернова",
-      "longitude": 20.47321,
-      "latitude": 44.785871
+      "longitude": 20.473222,
+      "latitude": 44.785892
     },
     {
       "id": "_18",
       "label": "Трг Ослобођења",
-      "longitude": 20.466279,
-      "latitude": 44.788102
+      "longitude": 20.466297,
+      "latitude": 44.788087
     },
     {
       "id": "_19",
       "label": "Франше Д'Епереа",
-      "longitude": 20.468232,
-      "latitude": 44.790862
+      "longitude": 20.468254,
+      "latitude": 44.790876
     },
     {
       "id": "_20",
       "label": "Делиградска",
-      "longitude": 20.457594,
-      "latitude": 44.795771
+      "longitude": 20.457582,
+      "latitude": 44.795793
     },
     {
       "id": "_21",
       "label": "Мостар",
-      "longitude": 20.449237,
-      "latitude": 44.798754
+      "longitude": 20.44927,
+      "latitude": 44.798762
     },
     {
       "id": "_22",
       "label": "Сајам",
-      "longitude": 20.44171,
-      "latitude": 44.796529
+      "longitude": 20.441977,
+      "latitude": 44.796588
     },
     {
       "id": "_23",
       "label": "Руска",
-      "longitude": 20.436035,
+      "longitude": 20.436034,
       "latitude": 44.795118
     },
     {
       "id": "_24",
+      "label": "Петља Радничка",
+      "longitude": 20.426785,
+      "latitude": 44.792472
+    },
+    {
+      "id": "_25",
       "label": "Ада Циганлија",
-      "longitude": 20.41937,
-      "latitude": 44.788677
+      "longitude": 20.419436,
+      "latitude": 44.788665
     }
   ],
   "direction_b": [
     {
       "id": "_1",
       "label": "Ада Циганлија",
-      "longitude": 20.419837,
-      "latitude": 44.788416
+      "longitude": 20.419789,
+      "latitude": 44.7884
     },
     {
       "id": "_2",
       "label": "Господарска Механа",
-      "longitude": 20.433393,
-      "latitude": 44.794424
+      "longitude": 20.433518,
+      "latitude": 44.794439
     },
     {
       "id": "_3",
       "label": "Руска",
-      "longitude": 20.437784,
-      "latitude": 44.795189
+      "longitude": 20.438101,
+      "latitude": 44.79525
     },
     {
       "id": "_4",
       "label": "Сајам",
-      "longitude": 20.441944,
-      "latitude": 44.796327
+      "longitude": 20.441902,
+      "latitude": 44.796305
     },
     {
       "id": "_5",
       "label": "Мостар",
-      "longitude": 20.448743,
-      "latitude": 44.79823
+      "longitude": 20.448834,
+      "latitude": 44.798229
     },
     {
       "id": "_6",
       "label": "Делиградска",
-      "longitude": 20.457356,
-      "latitude": 44.795314
+      "longitude": 20.457354,
+      "latitude": 44.795328
     },
     {
       "id": "_7",
       "label": "Франше Д'Епереа",
-      "longitude": 20.466416,
-      "latitude": 44.791513
+      "longitude": 20.466418,
+      "latitude": 44.791518
     },
     {
       "id": "_8",
       "label": "Трг Ослобођења",
       "longitude": 20.467494,
-      "latitude": 44.786669
+      "latitude": 44.786665
     },
     {
       "id": "_9",
       "label": "Прешернова",
-      "longitude": 20.474052,
-      "latitude": 44.785346
+      "longitude": 20.474107,
+      "latitude": 44.785278
     },
     {
       "id": "_10",
       "label": "Универзитет Сингидунум",
-      "longitude": 20.477268,
-      "latitude": 44.782595
+      "longitude": 20.477265,
+      "latitude": 44.782598
     },
     {
       "id": "_11",
       "label": "Витановачка",
-      "longitude": 20.479232,
-      "latitude": 44.779606
+      "longitude": 20.479255,
+      "latitude": 44.779612
     },
     {
       "id": "_12",
@@ -227,26 +233,26 @@
     {
       "id": "_14",
       "label": "Мештровићева",
-      "longitude": 20.487469,
-      "latitude": 44.771818
+      "longitude": 20.487496,
+      "latitude": 44.771835
     },
     {
       "id": "_15",
       "label": "Јована Бијелића",
-      "longitude": 20.489588,
-      "latitude": 44.768526
+      "longitude": 20.48962,
+      "latitude": 44.768524
     },
     {
       "id": "_16",
       "label": "Пиве Караматијевића",
-      "longitude": 20.491326,
-      "latitude": 44.765856
+      "longitude": 20.491279,
+      "latitude": 44.765888
     },
     {
       "id": "_17",
       "label": "СЦ Спорт Еко",
-      "longitude": 20.493262,
-      "latitude": 44.764258
+      "longitude": 20.493456,
+      "latitude": 44.764173
     },
     {
       "id": "_18",
@@ -263,50 +269,50 @@
     {
       "id": "_20",
       "label": "Заплањска",
-      "longitude": 20.500687,
-      "latitude": 44.768421
+      "longitude": 20.500718,
+      "latitude": 44.76845
     },
     {
       "id": "_21",
       "label": "Светозора Радојчића",
-      "longitude": 20.50279,
-      "latitude": 44.772043
+      "longitude": 20.502804,
+      "latitude": 44.772067
     },
     {
       "id": "_22",
       "label": "Медаковић 2",
-      "longitude": 20.500196,
-      "latitude": 44.775638
+      "longitude": 20.500217,
+      "latitude": 44.77566
     },
     {
       "id": "_23",
       "label": "Владимира Томановића",
-      "longitude": 20.50209,
-      "latitude": 44.781799
+      "longitude": 20.5021,
+      "latitude": 44.781843
     },
     {
       "id": "_24",
       "label": "Шумице",
-      "longitude": 20.502264,
+      "longitude": 20.502268,
       "latitude": 44.783154
     },
     {
       "id": "_25",
       "label": "Петрињска",
-      "longitude": 20.507095,
-      "latitude": 44.782578
+      "longitude": 20.50716,
+      "latitude": 44.782581
     },
     {
       "id": "_26",
       "label": "Коњарник",
-      "longitude": 20.511129,
-      "latitude": 44.78209
+      "longitude": 20.511114,
+      "latitude": 44.782083
     },
     {
       "id": "_27",
       "label": "Коњарник",
-      "longitude": 20.510957,
-      "latitude": 44.782307
+      "longitude": 20.510946,
+      "latitude": 44.782343
     }
   ]
 }

@@ -3,68 +3,68 @@
     {
       "id": "_1",
       "label": "Бежанијска Коса",
-      "longitude": 20.362915,
-      "latitude": 44.807938
+      "longitude": 20.362961,
+      "latitude": 44.807929
     },
     {
       "id": "_2",
       "label": "Магеланова",
-      "longitude": 20.365541,
-      "latitude": 44.808794
+      "longitude": 20.365487,
+      "latitude": 44.808696
     },
     {
       "id": "_3",
       "label": "Милана Вујаклије",
-      "longitude": 20.3684,
-      "latitude": 44.810505
+      "longitude": 20.368345,
+      "latitude": 44.810452
     },
     {
       "id": "_4",
       "label": "Марка Ристића",
-      "longitude": 20.371273,
-      "latitude": 44.812503
+      "longitude": 20.371318,
+      "latitude": 44.8125
     },
     {
       "id": "_5",
       "label": "Љубинке Бобић",
-      "longitude": 20.37458,
-      "latitude": 44.815265
+      "longitude": 20.374658,
+      "latitude": 44.81527
     },
     {
       "id": "_6",
       "label": "Пеђе Милосављевића",
-      "longitude": 20.376906,
-      "latitude": 44.817753
+      "longitude": 20.377003,
+      "latitude": 44.817809
     },
     {
       "id": "_7",
       "label": "Др Хуга Клајна",
-      "longitude": 20.379526,
-      "latitude": 44.820017
+      "longitude": 20.379572,
+      "latitude": 44.820023
     },
     {
       "id": "_8",
       "label": "Марка Челебоновића",
-      "longitude": 20.382664,
-      "latitude": 44.819253
+      "longitude": 20.382865,
+      "latitude": 44.819195
     },
     {
       "id": "_9",
       "label": "Николе Добровића",
-      "longitude": 20.385818,
-      "latitude": 44.818889
+      "longitude": 20.385959,
+      "latitude": 44.81904
     },
     {
       "id": "_10",
       "label": "Стојана Аралице",
-      "longitude": 20.388192,
-      "latitude": 44.822066
+      "longitude": 20.388207,
+      "latitude": 44.822023
     },
     {
       "id": "_11",
       "label": "СЦ 11. Април",
-      "longitude": 20.393868,
-      "latitude": 44.827034
+      "longitude": 20.393915,
+      "latitude": 44.827041
     },
     {
       "id": "_12",
@@ -75,190 +75,190 @@
     {
       "id": "_13",
       "label": "Народних Хероја",
-      "longitude": 20.406777,
-      "latitude": 44.822589
+      "longitude": 20.40685,
+      "latitude": 44.822562
     },
     {
       "id": "_14",
       "label": "Црква Светог Димитрија",
-      "longitude": 20.411455,
-      "latitude": 44.82042
+      "longitude": 20.411475,
+      "latitude": 44.820452
     },
     {
       "id": "_15",
       "label": "Уметности булевар",
-      "longitude": 20.415355,
-      "latitude": 44.818613
+      "longitude": 20.415443,
+      "latitude": 44.818618
     },
     {
       "id": "_16",
       "label": "Београдска Арена",
-      "longitude": 20.419255,
-      "latitude": 44.814557
+      "longitude": 20.419275,
+      "latitude": 44.814507
     },
     {
       "id": "_17",
       "label": "Београдска Арена (Антифашистичке Борбе)",
-      "longitude": 20.422406,
-      "latitude": 44.811103
+      "longitude": 20.422468,
+      "latitude": 44.811108
     },
     {
       "id": "_18",
       "label": "Сава центар",
-      "longitude": 20.430957,
-      "latitude": 44.80719
+      "longitude": 20.431066,
+      "latitude": 44.807169
     },
     {
       "id": "_19",
       "label": "Сајам",
-      "longitude": 20.44171,
-      "latitude": 44.796529
+      "longitude": 20.441977,
+      "latitude": 44.796588
     },
     {
       "id": "_20",
       "label": "Руска",
-      "longitude": 20.436035,
+      "longitude": 20.436034,
       "latitude": 44.795118
     },
     {
       "id": "_21",
       "label": "Ада Циганлија",
-      "longitude": 20.41937,
-      "latitude": 44.788677
+      "longitude": 20.419436,
+      "latitude": 44.788665
     }
   ],
   "direction_b": [
     {
       "id": "_1",
       "label": "Ада Циганлија",
-      "longitude": 20.419837,
-      "latitude": 44.788416
+      "longitude": 20.419789,
+      "latitude": 44.7884
     },
     {
       "id": "_2",
       "label": "Господарска Механа",
-      "longitude": 20.433393,
-      "latitude": 44.794424
+      "longitude": 20.433518,
+      "latitude": 44.794439
     },
     {
       "id": "_3",
       "label": "Руска",
-      "longitude": 20.437784,
-      "latitude": 44.795189
+      "longitude": 20.438101,
+      "latitude": 44.79525
     },
     {
       "id": "_4",
       "label": "Сајам",
-      "longitude": 20.441944,
-      "latitude": 44.796327
+      "longitude": 20.441902,
+      "latitude": 44.796305
     },
     {
       "id": "_5",
       "label": "Сава центар",
-      "longitude": 20.431328,
-      "latitude": 44.807647
+      "longitude": 20.431435,
+      "latitude": 44.807619
     },
     {
       "id": "_6",
       "label": "Београдска Арена (Антифашистичке Борбе)",
-      "longitude": 20.422554,
-      "latitude": 44.811679
+      "longitude": 20.42257,
+      "latitude": 44.811682
     },
     {
       "id": "_7",
       "label": "Београдска Арена",
-      "longitude": 20.420204,
-      "latitude": 44.815188
+      "longitude": 20.420243,
+      "latitude": 44.815187
     },
     {
       "id": "_8",
       "label": "Београдска Арена",
-      "longitude": 20.420457,
-      "latitude": 44.816798
+      "longitude": 20.420471,
+      "latitude": 44.816811
     },
     {
       "id": "_9",
       "label": "Уметности булевар",
-      "longitude": 20.413531,
-      "latitude": 44.819963
+      "longitude": 20.413618,
+      "latitude": 44.81993
     },
     {
       "id": "_10",
       "label": "Народних Хероја",
-      "longitude": 20.405554,
-      "latitude": 44.823578
+      "longitude": 20.405556,
+      "latitude": 44.823624
     },
     {
       "id": "_11",
       "label": "Студентски Град",
-      "longitude": 20.396888,
-      "latitude": 44.826822
+      "longitude": 20.396761,
+      "latitude": 44.826849
     },
     {
       "id": "_12",
       "label": "СЦ 11. Април",
-      "longitude": 20.392916,
-      "latitude": 44.826457
+      "longitude": 20.392948,
+      "latitude": 44.826456
     },
     {
       "id": "_13",
       "label": "Стојана Аралице",
-      "longitude": 20.388541,
-      "latitude": 44.822813
+      "longitude": 20.388553,
+      "latitude": 44.822795
     },
     {
       "id": "_14",
       "label": "Николе Добровића",
-      "longitude": 20.384668,
-      "latitude": 44.818864
+      "longitude": 20.384681,
+      "latitude": 44.818887
     },
     {
       "id": "_15",
       "label": "Др Хуга Клајна",
-      "longitude": 20.381288,
-      "latitude": 44.819872
+      "longitude": 20.381233,
+      "latitude": 44.819916
     },
     {
       "id": "_16",
       "label": "Пеђе Милосављевића",
-      "longitude": 20.377053,
-      "latitude": 44.818114
+      "longitude": 20.377241,
+      "latitude": 44.818302
     },
     {
       "id": "_17",
       "label": "Љубинке Бобић",
-      "longitude": 20.373633,
-      "latitude": 44.814585
+      "longitude": 20.373596,
+      "latitude": 44.814532
     },
     {
       "id": "_18",
       "label": "Марка Ристића",
-      "longitude": 20.370551,
-      "latitude": 44.812178
+      "longitude": 20.370513,
+      "latitude": 44.812145
     },
     {
       "id": "_19",
       "label": "Милана Вујаклије",
-      "longitude": 20.367598,
-      "latitude": 44.810155
+      "longitude": 20.367604,
+      "latitude": 44.810142
     },
     {
       "id": "_20",
       "label": "Магеланова",
-      "longitude": 20.364685,
-      "latitude": 44.808488
+      "longitude": 20.364791,
+      "latitude": 44.808505
     },
     {
       "id": "_21",
       "label": "Бежанијска Коса",
-      "longitude": 20.362596,
-      "latitude": 44.808389
+      "longitude": 20.363143,
+      "latitude": 44.808284
     },
     {
       "id": "_22",
       "label": "Бежанијска Коса",
-      "longitude": 20.362915,
-      "latitude": 44.807938
+      "longitude": 20.362961,
+      "latitude": 44.807929
     }
   ]
 }
