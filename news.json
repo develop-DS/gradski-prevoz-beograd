@@ -1,37 +1,64 @@
 [
     {
-        "date": "03.07.2020",
-        "title": "Izmena na linijama: 5A, 12 zbog radova u Ruzveltovoj ulici (04.07. / 05.07.2020)",
+        "date": "10.07.2020",
+        "title": "Izmena na linijama: 70, 72, 74, 75, 82, 613, ADA 5, 75N zbog radova u ulicama Dr Huga Klajna i Nedeljka Gvozdenovića (od 13.07.2020)",
         "sections": [
             {
-                "text": "Zbog radova na montaži krana za potrebe gradilišta, u ulici Ruzveltova, koje će izvoditi preduzeće AMSS d.o.o, pri čemu će doći do zauzeća desne kolovozne trake i tramvajske baštice u smeru ka ulici Kraljice Marije, u zoni stajališta „Dalmatinska“, u subotu 04.07.2020. i nedelju 05.07.2020., menja se režim rada linija JGP-a, na sledeći način:"
+                "text": "Zbog radova na redovnom održavanju kolovoza u ulici Dr Huga Klajna i Nedeljka Gvozdenovića, na delu od ulice Marka Čelebonovića do ulice Viktora Novaka, koje će izvoditi JKP “Beograd put”, u periodu od ponedeljka 13.07.2020. od 06.00 časova do 20.07.2020. do 06.00 časova, menja se režim rada linija javnog prevoza na sledeći način:"
             },
             {
-                "text": "• Tramvaji na liniji 12, će saobraćati na relaciji: “Tašmajdan – Banovo brdo”, sa oznakom 12L\n• Vozila na privremeno uspostavljenoj liniji 5A, će umesto do Vukovog spomenika, saobraćati na relaciji: “Dorćol SRC „Milana Gale Muškatirović“ – Omladinski stadion”. Trasa linije u oba smera: DORĆOL SRC “MILAN GALE MUŠKATIROVIĆ” – Tadeuša Košćuška – Cara Dušana – Dubrovačka – Dunavska – Žorža Klemansoa – Venizelosova – Cvijićeva – Bulevar despota Stefana – Džordža Vašingtona – 27.marta – Kraljice Marije – Ruzveltova – Mije Kovačevića – OMLADINSKI STADION. Promenu smera kretanja vozila će vršiti u terminusu „Omladinski stadion“, a dolazno i polazno stajalište je „Omladinski stadion“ u ulici Mije Kovačevića zajedno sa autobuskim linijama 25, 25P, 27, 32, 66."
-            },
-            {
-                "text": "Privremeno se izmešta stajalište „Dalmatinska“, u smeru ka Vukovom spomeniku, na poziciju ispred kućnog broja 13."
-            },
-            {
-                "text": "Vozila sa navedenih linija koristiće postojeća stajališta linija JGP-a, duž trasa."
-            }
-        ]
-    },
-    {
-        "date": "03.07.2020",
-        "title": "Izmena režima rada linija zbog održavanja biciklističke trke “Talenti Beograda i Evrope 2020”, u Bulevaru Nikole Tesle (04.07.2020)",
-        "sections": [
-            {
-                "text": "Zbog održavanja biciklističke trke „Talenti Beograda i Evrope 2020″, u Bulevaru Nikole Tesle, na delu od Brankovog mosta do ulice Trešnjinog cveta, u organizaciji “Biciklističkog saveza Beograda”, u subotu 04.07.2020. u periodu od 09:00 do 19:30 časova, menja se režim rada linija JGP-a."
-            },
-            {
-                "text": "• Vozila sa linija 15, 84, 704, 706, 707, će saobraćati: u smeru ka Zemunu: Brankov most – Bulevar Mihajla Pupina – DŽona Kenedija – Bulevar Nikole Tesle i dalje redovnim trasama; u smeru ka gradu: Bulevar Nikole Tesle – Trešnjinog cveta – Bulevar Mihajla Pupina – Brankov most i dalje redovnim trasama\n• Vozila sa linija 27E, 35 u oba smera, će saobraćati: Brankov most – Bulevar Mihajla Pupina – Milentija Popovića – interna saobraćajnica pored hotela Hyatt – Vladimira Popovića – terminus Blok 20\n• Minibus sa linije 60 u smeru ka Toplani će saobraćati: Brankov most – Bulevar Mihajla Pupina – Milentija Popovića – interna saobraćajnica pored hotela Hyatt – Vladimira Popovića – Zemunski put – Brodarska i dalje redovnom trasom; u smeru ka Zelenom vencu nema izmene"
+                "text": "• Vozila sa linija: 70, 72, 74, 75, ADA 5 saobraćaće: Marka Čelebonovića – Norveška – Grčka – (Marka Ristića u smeru ka Bežanijskoj kosi) – (Viktora Novaka u smeru ka gradu) – Nedeljka Gvozdenovića i dalje redovnim trasama\n• Vozila sa linije 82 saobraćaće: Marka Čelebonovića – Norveška – Grčka – (Marka Ristića u smeru ka Bloku 44) – (Viktora Novaka u smeru ka Kej oslobođenja) – Nedeljka Gvozdenovića – Surčinska – Kružni tok sa ulicama Vinogradska i Dr Ivana Ribara – Vojvođanska – Gandijeva i dalje redovnom trasom\n• Vozila sa linije 613 će u oba smera saobraćati: Nikole Dobrovića – Marka Čelebonovića i dalje redovnom trasom\n• Vozila sa noćne linije 75N, na izmenjenom delu trase, saobraćaće kao vozila sa dnevne linije 75"
             },
             {
                 "text": "Ukidaju se stajališta:"
             },
             {
-                "text": "• „Šest kaplara“, u ul. Ušće, u smeru ka Bloku 20, za linije 27E, 35\n• „Staro Sajmište“ i „Novi Beograd /Ušće/“, u smeru ka Toplani, za liniju 60\n• „Ušće“ i „Palata Srbija”, u oba smera, za linije 15, 84\n• „Hotel Jugoslavija“ u smeru ka periferiji, za linije 15, 84, 704, 707"
+                "text": "• za liniju 82: „Vojvođanska“ u smeru ka Zemunu, „Nedeljka Gvozdenovića“ smer ka Bloku 44 i „Raška Dimitrijevića“ u oba smera\n• za linije 82, 613: „Nedeljka Gvozdenovića“ u smeru ka Zemunu i „Bežanijska kosa (Grčka)“ u smeru ka Bloku 44\n• za liniju 613: „Bežanijska kosa (groblje)“ u oba smera\n• za linije 70, 72, 74, 75, 613, ADA 5: „Peđe Milosavljević“ u oba smera i „Ljubinke Bobić“ u smeru ka ulici Marka Čelebonovića\n• za linije 70, 72, 74, 75, ADA 5: „Ljubinke Bobić“ u smeru ka terminusu „Bežanijska kosa“"
+            },
+            {
+                "text": "Na izmenjenom delu trase vozila će koristiti postojeća stajališta javnog prevoza."
+            }
+        ]
+    },
+    {
+        "date": "10.07.2020",
+        "title": "Izmena na linijama: 21, 22, 22A, 29, 83, 29N zbog radova u ulici Cara Nikolaja II (od 11.07.2020)",
+        "sections": [
+            {
+                "text": "Radovi produženi do 20.07.2020."
+            },
+            {
+                "text": "Zbog radova na otklanjanju defekta u ul. Cara Nikolaja II, na delu između objekata sa kućnim brojem 9 i 11, koje će izvoditi JKP „Beogradski vodovod i kanalizacija”, u periodu od subote 11.07.2020. od 08:00 časova do 13.07.2020. godine do 18:00 časova, menja se režim rada linija JGP-a."
+            },
+            {
+                "text": "U subotu 11.07., nedelju 12.07. i ponedeljak 13.07.2020. godine, celodnevno:"
+            },
+            {
+                "text": "• Ukida se autobuska linija 22A\n• Ukidaju se trolejbuske linije 21, 22, 29\n• Uspostavlja se lokalna trolejbuska linija 22L (Studentski trg – Trg Slavija)\n• Autobuska linija 83 saobraćaće na skraćenoj trasi: Trg Slavija – Zemun /Bačka/ i nosi oznaku 83L\n• Vozila sa noćne linije 29N, na izmenjenom delu trase, saobraćaće kao vozila sa dnevne linije 29A"
+            },
+            {
+                "text": "Uspostavljaju se privremene lokalne autobuske linije:"
+            },
+            {
+                "text": "• Linija 21A (Trg Slavija – Učiteljsko naselje)\n• Linija 22A1 (Trg Slavija – Kruševačka)\n• Linija 29A (Trg Slavija – Medaković 3)"
+            },
+            {
+                "text": "Trasa linija 21A, 22A1, 29A:"
+            },
+            {
+                "text": "• u smeru ka periferiji: Trg Slavija – Makenzijeva – Kursulina – Njegoševa – Maksima Gorkog – Cara Nikolaja II i dalje redovnim trasama trolejbuskih linija\n• u smeru ka Trgu Slavija: Redovnim trasama trolejbuskih linija do ul. Cara Nikolaja II – Maksima Gorkog – Krunska – Baba Višnjina – Njegoševa – Kursulina – Makenzijeva i Trg Slavija"
+            },
+            {
+                "text": "Privremeno se ukidaju stajališta:"
+            },
+            {
+                "text": "• „Katanićeva“ i „Mačvanska“, u smeru ka Crvenom krstu, za linije 21, 22, 29, 83\n• „Novopazarska“, u smeru ka Trgu Slavija, za linije 21, 22, 29, 83\n• „Vojvode Dragomira“ i „Crveni krst“, u oba smera, za liniju 83\n• „Katanićeva“ u smeru ka Trgu Slavija, za liniju 83"
+            },
+            {
+                "text": "Privremeno se uspostavljaju stajališta za linije 21A, 22A1, 29A:"
+            },
+            {
+                "text": "• u ul. Kursulinoj, 50 m od raskrsnice sa ul. Makenzijevom, ka periferiji\n• u ul. Cara Nikolaja II, 15m ispred raskrsnice sa ul. Maksima Gorkog, u smeru ka Trgu Slavija"
             },
             {
                 "text": "Na izmenjenim delovima trasa, vozila će koristiti postojeća stajališta linija JGP-a."
@@ -39,17 +66,32 @@
         ]
     },
     {
-        "date": "29.06.2020",
-        "title": "Letnji red vožnje stupa na snagu od 01.07.2020.",
+        "date": "06.07.2020",
+        "title": "Izmena na linijama: 38, 308, 312, 308N zbog radova u ulici Nikole Grulovića (od 07.07.2020)",
         "sections": [
             {
-                "text": "Od srede, 01.07.2020., na svim gradskim i prigradskim linijama u Beogradu stupa na snagu letnji red vožnje. Primenom letnjeg reda vožnje biće uspostavljene i sezonske linije koje će saobraćati vikendom:"
+                "text": "Radovi produženi do 17.07.2020."
             },
             {
-                "text": "• Linija 400 (Voždovac – Vrh Avale)\n• Linija ADA 1 (Trg Republike – Ada Ciganlija – Vidikovac)\n• Linija ADA 2 (Zemun /Kej oslobođenja/ – Ada Ciganlija)\n• Linija ADA 3 (Konjarnik – Ada Ciganlija)\n• Linija ADA 4 (Mirijevo – Ada Ciganlija)\n• Linija ADA 5 (Bežanijska kosa – Ada Ciganlija)"
+                "text": "Zbog radova na kanalizacionoj mreži u ulici Nikole Grulovića, u zoni raskrsnice sa ulicom Feliksa Kanica, u Velikom mokrom lugu, koje će izvoditi JKP “Beogradski vodovod i kanalizacija”, u periodu od utorka 07.07.2020. do 14.07.2020., menja se režim rada linija JGP-a."
             },
             {
-                "text": "Napomena: U slučaju loših vremenskih uslova, kada je značajno smanjen broj posetilaca na Adi Ciganliji, rad na linijama ADA (1-5) biće redukovan ili privremeno obustavljen."
+                "text": "Od utorka 07.07.2020., od 09:00 časova:"
+            },
+            {
+                "text": "• Vozila sa linije 38, će saobraćati (na izmenjenom delu trase – kružno): Milošev Kladenac – Nikole Grulovića – Lipovačka – Radoslava Ljumovića – Živka Jovanovića – Nikole Grulovića – Milošev kladenac i dalje redovnom trasom. Nosiće oznaku 38L1\n• Vozila sa linija 308, će saobraćati (na izmenjenom delu trase – kružno): Partizanska – Nikole Grulovića – Lipovačka – Radoslava Ljumovića – Živka Jovanovića – Nikole Grulovića – Partizanska i dalje redovnom trasom. Nosiće oznaku 308L\n• Vozila sa linije 312, će saobraćati: Nikole Grulovića – Lipovačka – Stražarska kosa – Vladimira Ćorovića i dalje redovnom trasom. Nosiće oznaku 312L\n• Vozila sa noćne linije 308N, će saobraćati kao i vozila sa dnevne linije"
+            },
+            {
+                "text": "Privremeno se ukidaju stajališta, za linije 38, 308, u oba smera:"
+            },
+            {
+                "text": "• „MZ VML“\n• „Vizantijska“\n• „terminus VML“"
+            },
+            {
+                "text": "Privremeno se uspostavljaju stajališta za linije 38L1, 308L, 312L:"
+            },
+            {
+                "text": "• „MZ Veliki Mokri Lug“ – u ul. Živka Jovanovića, kod kućnog br. 3, prekoputa „MZ Veliki Mokri Lug“, na kome će vozila vršiti korekciju vremena polazaka. (za linije: 38L1, 308L)\n• „Vizantijska 1“ u ulici Stražarska kosa neposredno ispred kolskog ulaza posle kućnog broja 1. oko 35 metara posle raskrsnice sa ulicom Vizantijska (za liniju: 312L)\n• „Jovijanova 1“ u ulici Stražarska kosa na poziciji ED stuba neposredno ispred\nraskrsnice sa ulicom Jovijanovaa (za liniju: 312L)"
             }
         ]
     },
@@ -85,7 +127,7 @@
         "title": "Izmene na linijama broj: 2, 5, 10, 24, 26, 37, 44, 79, 26N, 401N, 5A zbog radova na rekonstrukciji i uređenju ulice Cara Dušana (od 22.06.2020)",
         "sections": [
             {
-                "text": "Radovi produženi do 17.07.2020."
+                "text": "Radovi produženi d0 17.07.2020."
             },
             {
                 "text": "U sklopu radova na rekonstrukciji i uređenju ulice Cara Dušana, doći će do potpunog zatvaranja za saobraćaj deonice između ulica Francuske i Kralja Petra, kao i same raskrsnice ulica Cara Dušana i Francuske, u periodu od ponedeljka 22.06.2020. do 06.07.2020., pri čemu će za saobraćaj biti prohodna raskrsnica ulica Cara Dušana i Dobračina, pa će važiti sledeći režim rada linija JGP-a:"
@@ -116,21 +158,6 @@
             },
             {
                 "text": "• Vozila sa linije 26N, saobraćaće kao i vozila sa dnevne linije\n• Vozila sa linije 401N saobraćaće: u smeru ka Pinosavi: DORĆOL /DUNAVSKA/, Dunavska, Žorža Klemansoa, Venizelosova, Cvijićeva, Bulevar despota Stefana, Džordža Vašingtona i dalje redovno; u smeru ka Dorćolu: 27. marta, Džordža Vašingtona, Bulevar despota Stefana, Cvijićeva, Venizelosova, Žorža Klemansoa, Dunavska, Dubrovačka, Cara Dušana, Tadeuša Košćuška, Dunavska, DORĆOL /DUNAVSKA/"
-            }
-        ]
-    },
-    {
-        "date": "15.06.2020",
-        "title": "Izmena na linijama broj: 70, 72, 74, 75, ADA 5, 75N zbog radova u ulici Nedeljka Gvozdenovića (od 16.06.2020)",
-        "sections": [
-            {
-                "text": "Zbog radova na redovnom održavanju kolovoza u ulici Nedeljka Gvozdenovića na delu od ulice Ljubinke Bobić do ulice Viktora Novaka, koje izvodi JKP “Beograd put”, od utorka 16.06.2020. do 12.07.2020., doći će do potpunog zatvaranja za saobraćaj navedene deonice, pri čemu se menja režim rada linija javnog prevoza na sledeći način:"
-            },
-            {
-                "text": "• Vozila sa linija 70, 72, 74, 75, ADA 5 će saobraćati: u smeru ka Bežanijskoj kosi: Dr Huga Klajna – Ljubinke Bobić – Grčka – Marka Ristića – Nedeljka Gvozdenovića i dalje redovnim trasama; u smeru ka gradu: Nedeljka Gvozdenovića – Viktora Novaka – Grčka – Ljubinke Bobić – Dr Huga Klajna i dalje redovnim trasama\n• Vozila sa noćne linije 75N, će saobraćati kao i vozila sa dnevne linije"
-            },
-            {
-                "text": "Privremeno se ukida stajalište: „Ljubinke Bobić“ u smeru ka Bežaniskoj kosi, za linije 70, 72, 74, 75, ADA 5."
             }
         ]
     },
@@ -200,18 +227,6 @@
             },
             {
                 "text": "Na izmenjenom delu trase vozila će koristiti postojeća stajališta JGP-a."
-            }
-        ]
-    },
-    {
-        "date": "15.05.2020",
-        "title": "Informacija o početku rada minubus linija (A1) (E)",
-        "sections": [
-            {
-                "text": "Minibus linije (E1, E2, E6, E9) počinju sa radom od ponedeljka 18.05.2020."
-            },
-            {
-                "text": "Minibus linija A1 biće aktivna po otpočinjanju putničkog saobraćaja na Aerodromu “Nikola Tesla”, očekivano od 21.05.2020."
             }
         ]
     },
