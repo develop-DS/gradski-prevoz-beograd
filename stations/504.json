@@ -86,51 +86,51 @@
     },
     {
       "id": "_15",
-      "label": "Железничка Станица Јајинци",
-      "longitude": 20.456597,
-      "latitude": 44.72166
+      "label": "Испод тунела",
+      "longitude": 20.442592,
+      "latitude": 44.724439
     },
     {
       "id": "_16",
-      "label": "Ресник /Улаз/",
-      "longitude": 20.465606,
-      "latitude": 44.717233
+      "label": "Споменик",
+      "longitude": 20.446297,
+      "latitude": 44.72263
     },
     {
       "id": "_17",
-      "label": "Ресник /Авалска/",
-      "longitude": 20.459843,
-      "latitude": 44.714834
+      "label": "Ресник /Излаз/",
+      "longitude": 20.447887,
+      "latitude": 44.719518
     },
     {
       "id": "_18",
-      "label": "Ресник /Брђанска/",
-      "longitude": 20.457328,
-      "latitude": 44.716545
+      "label": "Ресник /Палих Бораца/",
+      "longitude": 20.448303,
+      "latitude": 44.717271
     },
     {
       "id": "_19",
       "label": "Ресник /Јосипа Теларевића/",
-      "longitude": 20.451628,
-      "latitude": 44.71871
+      "longitude": 20.452091,
+      "latitude": 44.718942
     },
     {
       "id": "_20",
-      "label": "Braće Jeremića",
-      "longitude": 20.451377,
-      "latitude": 44.715171
+      "label": "Ресник /Брђанска/",
+      "longitude": 20.457189,
+      "latitude": 44.716559
     },
     {
       "id": "_21",
-      "label": "Vrtić",
-      "longitude": 20.452289,
-      "latitude": 44.714046
+      "label": "Ресник /Авалска/",
+      "longitude": 20.45959,
+      "latitude": 44.714386
     },
     {
       "id": "_22",
-      "label": "MZ Resnik",
-      "longitude": 20.453546,
-      "latitude": 44.712731
+      "label": "Ресник /Каменац/",
+      "longitude": 20.456339,
+      "latitude": 44.71253
     },
     {
       "id": "_23",
@@ -172,120 +172,126 @@
     },
     {
       "id": "_4",
-      "label": "MZ Resnik",
-      "longitude": 20.453618,
-      "latitude": 44.712799
+      "label": "Ресник /Каменац/",
+      "longitude": 20.456806,
+      "latitude": 44.712639
     },
     {
       "id": "_5",
-      "label": "Vrtić",
-      "longitude": 20.452341,
-      "latitude": 44.71409
+      "label": "Ресник /Авалска/",
+      "longitude": 20.45957,
+      "latitude": 44.714189
     },
     {
       "id": "_6",
-      "label": "Braće Jeremića",
-      "longitude": 20.451464,
-      "latitude": 44.71521
+      "label": "Ресник /Брђанска/",
+      "longitude": 20.457328,
+      "latitude": 44.716545
     },
     {
       "id": "_7",
       "label": "Ресник /Јосипа Теларевића/",
-      "longitude": 20.452091,
-      "latitude": 44.718942
+      "longitude": 20.451628,
+      "latitude": 44.71871
     },
     {
       "id": "_8",
-      "label": "Ресник /Брђанска/",
-      "longitude": 20.457189,
-      "latitude": 44.716559
+      "label": "Ресник /Палих Бораца/",
+      "longitude": 20.44851,
+      "latitude": 44.717438
     },
     {
       "id": "_9",
-      "label": "Ресник /Улаз/",
-      "longitude": 20.464818,
-      "latitude": 44.717666
+      "label": "Ресник /Излаз/",
+      "longitude": 20.447993,
+      "latitude": 44.719581
     },
     {
       "id": "_10",
-      "label": "Железничка Станица Јајинци",
-      "longitude": 20.457077,
-      "latitude": 44.721554
+      "label": "Споменик",
+      "longitude": 20.445951,
+      "latitude": 44.722854
     },
     {
       "id": "_11",
+      "label": "Испод тунела",
+      "longitude": 20.442622,
+      "latitude": 44.724516
+    },
+    {
+      "id": "_12",
       "label": "Кијево",
       "longitude": 20.438425,
       "latitude": 44.725452
     },
     {
-      "id": "_12",
+      "id": "_13",
       "label": "Депонија",
       "longitude": 20.434916,
       "latitude": 44.729034
     },
     {
-      "id": "_13",
+      "id": "_14",
       "label": "Кнежевац",
       "longitude": 20.431639,
       "latitude": 44.734622
     },
     {
-      "id": "_14",
+      "id": "_15",
       "label": "Ослобођења",
       "longitude": 20.437452,
       "latitude": 44.738609
     },
     {
-      "id": "_15",
+      "id": "_16",
       "label": "Мишка Крањца",
       "longitude": 20.442684,
       "latitude": 44.742862
     },
     {
-      "id": "_16",
+      "id": "_17",
       "label": "Маричка",
       "longitude": 20.438085,
       "latitude": 44.745413
     },
     {
-      "id": "_17",
+      "id": "_18",
       "label": "Јанковић Стојана",
       "longitude": 20.434366,
       "latitude": 44.745108
     },
     {
-      "id": "_18",
+      "id": "_19",
       "label": "Пилота Михајла Петровића",
       "longitude": 20.424512,
       "latitude": 44.742814
     },
     {
-      "id": "_19",
+      "id": "_20",
       "label": "Суседградска",
       "longitude": 20.426026,
       "latitude": 44.739814
     },
     {
-      "id": "_20",
+      "id": "_21",
       "label": "Боже Jеремиhа",
       "longitude": 20.423333,
       "latitude": 44.737175
     },
     {
-      "id": "_21",
+      "id": "_22",
       "label": "Видиковачки Венац",
       "longitude": 20.420066,
       "latitude": 44.738532
     },
     {
-      "id": "_22",
+      "id": "_23",
       "label": "Топлана",
       "longitude": 20.420595,
       "latitude": 44.73409
     },
     {
-      "id": "_23",
+      "id": "_24",
       "label": "Видиковац",
       "longitude": 20.420455,
       "latitude": 44.731819
