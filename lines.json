@@ -1,6 +1,6 @@
 [
     {
-        "id": "EKO 1",
+        "id": "EKO1",
         "type": "EKO",
         "title": "Vukov spomenik - Naselje Belville",
         "info": [],
@@ -9139,7 +9139,7 @@
         }
     },
     {
-        "id": "ADA 1",
+        "id": "ADA1",
         "type": "BUS",
         "title": "Trg Republike - Ada Ciganlija - Vidikovac",
         "info": [],
@@ -9241,7 +9241,7 @@
         }
     },
     {
-        "id": "ADA 2",
+        "id": "ADA2",
         "type": "BUS",
         "title": "Zemun /Kej Oslobođenja/ - Ada Ciganlija",
         "info": [],
@@ -9359,7 +9359,7 @@
         }
     },
     {
-        "id": "ADA 3",
+        "id": "ADA3",
         "type": "BUS",
         "title": "Konjarnik - Ada Ciganlija",
         "info": [],
@@ -9477,7 +9477,7 @@
         }
     },
     {
-        "id": "ADA 4",
+        "id": "ADA4",
         "type": "BUS",
         "title": "Mirijevo - Ada Ciganlija",
         "info": [],
@@ -9579,7 +9579,7 @@
         }
     },
     {
-        "id": "ADA 5",
+        "id": "ADA5",
         "type": "BUS",
         "title": "Bežanijska Kosa - Ada Ciganlija",
         "info": [],
