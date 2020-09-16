@@ -1,19 +1,85 @@
 [
     {
         "date": "",
-        "title": "Zimski red vožnje stupa na snagu od 01.09.2020.",
+        "title": "Režim rada linija zbog radova na rekonstrukciji i uređenju ulice Cara Dušana (od 16.09.2020)",
         "sections": [
             {
-                "text": "Od utorka, 01.09.2020., na svim gradskim i prigradskim linijama u Beogradu i Nišu stupa na snagu zimski red vožnje. Novim redovima vožnje u Beogradu biće angažovano u vršnim periodima 204 vozila više u odnosu na letnji red vožnje, odnosno, ukupno 1.350 vozila."
+                "text": "Izmena aktivna do: 30.09.2020."
             },
             {
-                "text": "Zbog povećanja broja letova sa aerodroma „Nikola Tesla“ od utorka, 01.09.2020., ponovo se uspostavlja privremeno ukinuta linija A1 Trg Slavija /Kralja Milutina/ – Aerodrom “Nikola Tesla”."
+                "text": "U sklopu radova na rekonstrukciji i uređenju ulice Cara Dušana, na delu između ulica Francuske i Tadeuša Košćuška, u periodu od 16.09.2020. do 30.09.2020., važiće sledeći režim rada linija:"
             },
             {
-                "text": "Linija A1 će početi sa radom 01.09.2020., sa polaskom sa Trga Slavija u 4:20h. Tokom dana vozila na liniji će saobraćati na 30 minuta i ostvariće ukupno 73 polaska (38 sa Trga Slavija i 35 sa aerodroma Nikola Tesla)."
+                "text": "Tramvajski saobraćaj:"
             },
             {
-                "text": "Sezonske “ADA” linije i linija “400” prestaju sa radom."
+                "text": "• Tramvajske linije 2, 5, 10 i dalje ne saobraćaju\n• Tramvaji sa linije 11L saobraćaće i dalje na relaciji: Pristanište – Stari savski most – Blok 45"
+            },
+            {
+                "text": "Autobuski saobraćaj:"
+            },
+            {
+                "text": "• Vozila sa linija: 5A, 79 u oba smera, će saobraćati: Dorćol /SRC „Milan Gale Muškatirović“/ – Tadeuša Košćuška – Bulevar vojvode Bojovića – Dunavska – Žorža Klemansoa – Cara Dušana – Džordža Vašingtona i dalje redovnim trasama\n• Vozila sa linije 24 u oba smera, će saobraćati: Dorćol /SRC „Milan Gale Muškatirović“/ – Tadeuša Košćuška – Bulevar vojvode Bojovića – Dunavska – Žorža Klemansoa – Francuska i dalje redovnom trasom\n• Vozila sa linija: 26, 26N će saobraćati: u smeru ka Naselju „Braće Jerković“: Dorćol /Dunavska/ – Dunavska – Žorža Klemansoa – Francuska i dalje redovnim trasama; u smeru ka Dorćolu: Francuska – Žorža Klemansoa – Dunavska – Bulevar vojvode Bojovića – Tadeuša Košćuška – Dunavska – Dorćol /Dunavska/\n• Vozila sa linije 401N će saobraćati: u smeru ka Vukovom spomeniku: Dorćol /Dunavska/ – Dunavska – Žorža Klemansoa – Cara Dušana – DŽordža Vašingtona i dalje redovnom trasom; u smeru ka Dorćolu: Džordža Vašingtona – Cara Dušana – Žorža Klemansoa – Dunavska – Bulevar vojvode Bojovića – Tadeuša Košćuška – Dunavska – Dorćol /Dunavska/"
+            },
+            {
+                "text": "Privremeno su ukinuta stajališta:"
+            },
+            {
+                "text": "• „Kalemegdan“ u oba smera, „Tadeuša Košćuška“ u oba smera i terminusno polazno-dolazno stajalište „Kalemegdan /Donji grad/“ za liniju 11L\n• „Dorćol /Knjeginje Ljubice/“ i „Kralja Petra“ u oba smera, „Braće Baruh“ u smeru ka Dorćolu za linije 5A, 24, 26, 79\n• „Braće Baruh“ u smeru ka Francuskoj ulici za linije 5A, 24, 79\n• „Despota Đurđa“ u smeru ka Naselju Braće Jerković za liniju 26"
+            },
+            {
+                "text": "Privremeno uspostavljena stajališta: u Dunavskoj ulici u oba smera „Dobračina“, „Jevrejska“ i „Mike Alasa“, kao i stajalište „Dubrovačka“ u smeru ka Kalemegdanu su i dalje u funkciji."
+            },
+            {
+                "text": "Na izmenjenom delu trase vozila će koristiti postojeća stajališta JGP-a."
+            }
+        ]
+    },
+    {
+        "date": "",
+        "title": "Operativna izmena na liniji broj 25 zbog radova u zoni polaznog stajališta terminusa “Karaburma 2” (od 14.09.2020)",
+        "sections": [
+            {
+                "text": "Izmena aktivna do: 17.09.2020."
+            },
+            {
+                "text": "Zbog rekonstrukcije okretnice „Karaburma 2“, u zoni polaznog stajališta linije 25, koje izvodi JKP „Beograd put“, u periodu od ponedeljka 14.09.2020. od 10:30 časova do 17.09.2020., operativno se menja se režim rada linije JGP-a, na sledeći način:"
+            },
+            {
+                "text": "• Vozila sa linije 25 saobraćaju na relaciji stara okretnica „Karaburma“ – Kumodraž 2."
+            },
+            {
+                "text": "Privremeno se ukidaju stajališta, za liniju 25:"
+            },
+            {
+                "text": "• „Salvadora Aljendea“ u oba smera\n• „Terminus Karaburma 2“"
+            }
+        ]
+    },
+    {
+        "date": "",
+        "title": "Izmena na linijama broj: 47, 94, 503 zbog radova u ulici Slavka Miljkovića (od 14.09.2020)",
+        "sections": [
+            {
+                "text": "Izmena aktivna do: 27.09.2020."
+            },
+            {
+                "text": "Zbog radova na redovnom održavanju kolovoza, uz potpunu obustavu saobraćaja u ulici Slavka Miljkovića u Resniku, na delu od ulice Podavalska do raskrsnice ulica Kružni put Rakovica i Slavka Miljkovića, koje će izvoditi JKP „Beograd put“, u periodu od ponedeljka 14.09.2020. od 09:00 časova do 27.09.2020., menja se režim rada linija JGP-a, na sledeći način:"
+            },
+            {
+                "text": "Od ponedeljka 14.09.2020. godine, od 09:00 časova:"
+            },
+            {
+                "text": "• Vozila sa linije 47, u oba smera, će saobraćati: Patrijarha Dimitrija – Oslobodilaca Rakovice – Oslobođenja – Sretena Popovića – 13. Oktobra – Palih boraca – Podavalska – Slavka Miljkovića i dalje redovnom trasom\n• Vozila sa linije 94, u oba smera, će saobraćati: Oslobođenja – Sretena Popovića – 13. Oktobra – Slavka Miljkovića i dalje redovnom trasom\n• Vozila sa linije 503, u oba smera, će saobraćati: Kružni put Rakovica – Patrijarha Dimitrija – Oslobodilaca Rakovice do terminusa „Kneževac“"
+            },
+            {
+                "text": "Privremeno se ukidaju stajališta:"
+            },
+            {
+                "text": "• „Ulica oslobođenja“, „Servis DMB“, „Manastir Rakovica“, „Josipa Telarevića/izlaz/“ i\n„Tunel Straževica“, u oba smera, za liniju 47\n• „Železnička stanica Jajinci“ i „Resnik ulaz“,u oba smera za linije: 47, 94\n• „Avalska“ u oba smera za liniju 94\n• „Resnik/ulaz/“, „Podavalska/izlaz/“, „Brđanska“, „Josipa Telarevića“, „Palih boraca“, „MZ Resnik“, „13.oktobra“, „Aleksandra Vojinovića“ i „Železnička stanica Resnik“ u oba smera za liniju 503."
+            },
+            {
+                "text": "Na izmenjenom delu trase vozila će koristiti postojeća stajališta linija JGP-a."
             }
         ]
     },
@@ -55,10 +121,10 @@
         "title": "Režim rada linija za vreme trajanja radova u Kupreškoj ulici (od 20.08.2020)",
         "sections": [
             {
-                "text": "Izmena aktivna do: 16.09.2020."
+                "text": "Izmena aktivna do: 18.09.2020."
             },
             {
-                "text": "Zbog radova na redovnom održavanju kolovoza u ulici Kupreška, na delu od ulice Krajiške do Solunske, kao i na delu od ulice Solunska do Mačvanske, koje će izvoditi JKP “Beograd put”, od 20.08.2020. do 06.09.2020., menja se režim rada linije JGP-a na sledeći način:"
+                "text": "Zbog radova na redovnom održavanju kolovoza u ulici Kupreška, na delu od ulice Krajiške do Solunske, kao i na delu od ulice Solunska do Mačvanske, koje će izvoditi JKP “Beograd put”, od 20.08.2020. do 18.09.2020., menja se režim rada linije JGP-a na sledeći način:"
             },
             {
                 "text": "• Vozila sa linija 15, 78, 15N, vršiće promenu smera kretanja ulicama: Krajiška – Jakšićeva – Slovenska – Geteova i dalje redovnim trasama\n• Vozila sa linije 45, vršiće promenu smera kretanja ulicama: Geteova – Krajiška – Jakšićeva i dalje redovnom trasom\n• Vozila sa linije 612 će saobraćati u oba smera: Autoput za Novi Sad – Ugrinovačka – Banatska i dalje redovnom trasom\n• Vozila sa linije 709, će saobraćati do terminusa „Zemun Bačka“, u oba smera: Autoput za Novi Sad – Ugrinovačka – terminus „Zemun Bačka“"
@@ -80,66 +146,6 @@
             },
             {
                 "text": "Na izmenjenom delu trase vozila će koristiti postojeća stajališta."
-            }
-        ]
-    },
-    {
-        "date": "",
-        "title": "Režim rada linija zbog radova u ulici Cara Dušana (od 11.08.2020)",
-        "sections": [
-            {
-                "text": "Izmena aktivna do: 10.09.2020."
-            },
-            {
-                "text": "U sklopu radova na rekonstrukciji i uređenju ulice Cara Dušana, na delu između ulica Francuske i Tadeuša Košćuška, uključujući i raskrsnicu sa ulicom Tadeuša Košćuška, u periodu od 11.08.2020. do 31.08.2020., (za saobraćaj je prohodna raskrsnica ulica Cara Dušana i Dobračina), važiće sledeći režim rada linija:"
-            },
-            {
-                "text": "Tramvajski saobraćaj:"
-            },
-            {
-                "text": "• Tramvajske linije 2, 5, 10 i dalje ne saobraćaju\n• Tramvaji sa linije 11L saobraćaće na relaciji: Pristanište – Stari savski most – Blok 45"
-            },
-            {
-                "text": "Autobuski saobraćaj:"
-            },
-            {
-                "text": "Napomena: Na parkingu kod terminusa Kalemegdan /Donji grad/, biće uspostavljen privremeni terminus Kalemegdan /Vidin kapija/ gde će promenu smera kretanja vršiti vozila sa linija 5A, 24, 26, 79."
-            },
-            {
-                "text": "• Autobusi sa linije 5A u oba smera, će saobraćati: Kalemegdan /Vidin kapija/ – Dunavska – Žorža Klemansoa – Džordža Vašingtona – 27. marta – Kraljice Marije – Vukov spomenik\n• Vozila sa linija: 24, 26 u oba smera, će saobraćati: Kalemegdan /Vidin kapija/ – Dunavska – Žorža Klemansoa – Francuska i dalje redovnim trasama\n• Vozila sa linije 79 u oba smera, će saobraćati: Kalemegdan /Vidin kapija/ – Dunavska – Žorža Klemansoa – Džordža Vašingtona i dalje redovnom trasom"
-            },
-            {
-                "text": "Noćne linije (N):"
-            },
-            {
-                "text": "• Vozila sa linije 26N, saobraćaće kao i vozila sa dnevne linije\n• Vozila sa linije 401N u oba smera, saobraćaće: Kalemegdan /Vidin kapija/ – Dunavska – Žorža Klemansoa – Cara Dušana – Džordža Vašingtona i dalje redovnom trasom"
-            },
-            {
-                "text": "Privremeno se ukidaju stajališta:"
-            },
-            {
-                "text": "• „Kalemegdan“ u oba smera, „Tadeuša Košćuška“ u oba smera i terminusno polazno-dolazno stajalište „Kalemagdan /Donji grad/“ za liniju 11L\n• „Dorćol /Knjeginje Ljubice/“ i „Kralja Petra“ u oba smera, „Braće Baruh“ i „Solunska“ u smeru ka Dorćolu za linije 5A, 24, 26, 79\n• „Braće Baruh“ u smeru ka Francuskoj ulici za linije 5A, 79\n• „SRC Milan Gale Muškatirović“ u oba smera, terminusno stajalište za linije 24, 79\n• „Despota Đurđa“ u smeru ka Naselju Braće Jerković za liniju 26"
-            },
-            {
-                "text": "Privremeno se uspostavljaju stajališta:"
-            },
-            {
-                "text": "u smeru ka ulici Žorža Klemensoa:"
-            },
-            {
-                "text": "• Kalemegdan /Vidin kapija/ (polazno stajalište) u privremenoj okretnici (parking kod terminusa Kalemegdan /Donji grad/), na 10 metara pre izlaska iz okretnice (parkinga) u Bulevar vojvode Bojovića\n• „Jevrejska“ u ulici Dunavska, na poziciji ED stuba koji se nalazi ispred objekta sa kućnim brojem 2, odnosno na 25 metara ispred raskrsnice sa ulicom Jevrejska"
-            },
-            {
-                "text": "u smeru ka privremenom terminusu Kalemgdan /Vidin kapija/:"
-            },
-            {
-                "text": "• „Dubrovačka“ u ulici Dunavska, na poziciji ED stuba koji se nalazi oko 30 metara posle pešačkog prelaza u zoni raskrsnice sa ulicom Dubrovačka\n• „Jevrejska“ – u ulici Dunavska, na poziciji ED stuba koji se nalazi ispred pešačkog prelaza u zoni raskrsnice sa ulicom Jevrejska\n• „Kalemegdan /Vidin kapija/“ (dolazno stajalište) u privremenoj okretnici (parking kod terminusa Kalemegdan /Donji grad/), na oko 40 metara posle ulaska u privremenu okretnicu (parking)."
-            },
-            {
-                "text": "Napomena: Privremeno uspostavljena stajališta u Dunavskoj ulici u oba smera „Dobračina“ i „Mike Alasa“ su i dalje u funkciji."
-            },
-            {
-                "text": "Na izmenjenom delu trase vozila će koristiti postojeća stajališta JGP-a."
             }
         ]
     },
@@ -205,7 +211,7 @@
         "title": "Režim rada linija zbog radova na Savskom trgu (od 08.05.2020)",
         "sections": [
             {
-                "text": "Izmena aktivna do: 10.09.2020."
+                "text": "Izmena aktivna do: 17.09.2020."
             },
             {
                 "text": "Zbog završetka dela radova u sklopu rekonstrukcije Savskog trga, počev od 08.05.2020. menja se režim rada linija javnog prevoza."
