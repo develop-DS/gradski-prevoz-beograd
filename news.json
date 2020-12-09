@@ -1,34 +1,37 @@
 [
     {
         "date": "",
-        "title": "Izmena na linijama: 25P, 27E, 79 zbog radova u zoni raskrsnica ulica Semjuela Beketa i Miroslava Krleže (od 02.12.2020)",
+        "title": "Operativna izmena na linijama: 45, 83 zbog zatvaranja Dobrovoljačke ulice u Zemunu (od 08.12.2020)",
         "sections": [
             {
-                "text": "Izmena aktivna do: 02.12.2020."
+                "text": "Izmena aktivna do: 10.12.2020."
             },
             {
-                "text": "Zbog izvođenja radova na popravci kvara na toplovodnoj mreži u zoni raskrsnica ulica Semjuela Beketa i Miroslava Krleže u Mirijevu, u sredu 02.12.2020. od 07:00 časova, doći će do potupunog zatvaranja predmetne deonice, pa će vozila sa linija javnog prevoza saobraćati na izmenjenoj trasi."
-            },
-            {
-                "text": "• Linije: 25P, 27E: ulicama Semjuela Beketa, Koste Nađa, Mihaila Bulgakova i dalje redovno\n• Linija 79: ulicama Koste Nađa, Mihaila Bulgakova, i dalje redovno"
-            },
-            {
-                "text": "Očekuje se da navedeni radovi budu završeni tokom dana."
+                "text": "Zbog hitnih radova u Dobrovoljačkoj ulici u Zemunu, doći će do potpunog zatvaranja predmetne deonice, pa će vozila javnog prevoza sa linija: 45, 83 u oba smera saobraćati izmenjeno: Cara Dušana, Filipa Višnjića."
             }
         ]
     },
     {
         "date": "",
-        "title": "Redukovanje večernjih polazaka na linijama gradskog i prigradskog prevoza u Beogradu (od 30.11.2020 / 01.12.2020)",
+        "title": "Privremeno se ukidaju pojedini polasci na liniji BG Voz 1 (05.12. / 06.12. / 12.12.2020)",
         "sections": [
             {
-                "text": "Sekretarijat za javni prevoz i JKP GSP „Beograd“, obavili su 26. i 27. novembra, snimanje popunjenosti vozila na 119 linija gradskog prevoza na 15 lokacija u periodu od 18 sati. Na osnovu analize snimljenih podataka i rezultata dobijenih pomoću uređaja za brojanje putnika, od ponedeljka, 30.11.2020. biće redukovani polasci nakon 18:30h na 77 linija gradskog prevoza u Beogradu zbog smanjenog broja putnika."
+                "text": "🕒"
             },
             {
-                "text": "Zaposleni Sekretarijata za javni prevoz i SP „Lasta“ a.d. Beograd, u periodu od 23. do 27. novembra, obavili su snimanja popunjenosti vozila na svim linijama javnog prigradskog i lokalnog prevoza u periodu posle 18 sati. Na osnovu analize snimljenih podataka i rezultata dobijenih pomoću uređaja za brojanje putnika, od utorka, 01.12.2020., na 11 linija prigradskog i lokalnog prevoza putnika biće redukovani polasci nakon 20h zbog smanjenog broja putnika."
+                "text": "Dana 05.12.2020., 06.12.2020., 12.12.2020 biće redukovani polasci na liniji BG Voz 1 na relaciji: „Batajnica – Ovča – Batajnica“, subotom i nedeljom u vanvršnom periodu."
             },
             {
-                "text": "Sekretarijat za javni prevoz apeluje na korisnike javnog prevoza na teritoriji Beograda da poštuju obavezu nošenja zaštitnih maski u vozilima, kao i na stajalištima gde se nalazi veći broj ljudi."
+                "text": "Detaljan pregled vezan za redukciju linije (polasci koji neće saobraćati):"
+            },
+            {
+                "text": "• voz broj 8012 koji po redu vožnje saobraća na relaciji Ovča (10:05h) – Batajnica (11:09h)\n• voz broj 8019 koji po redu vožnje saobraća na relaciji Batajnica (11:45h) – Ovča (12:43h)\n• voz broj 8018 koji po redu vožnje saobraća na relaciji Ovča (13:05h) – Batajnica (14:09h)\n• voz broj 8027 koji po redu vožnje saobraća na relaciji Batajnica (14:45h) – Ovča (15:43h)\n• voz broj 8026 koji po redu vožnje saobraća na relaciji Ovča (16:05h) – Batajnica (17:09h)\n• voz broj 8035 koji po redu vožnje saobraća na relaciji Batajnica (17:45h) – Ovča (18:43h)\n• voz broj 8034 koji po redu vožnje saobraća na relaciji Ovča (19:05h) – Batajnica (20:04h)\n• voz broj 8045 koji po redu vožnje saobraća na relaciji Batajnica (20:39h) – Zemun(21:01h)"
+            },
+            {
+                "text": "Napomena: Voz broj 8011 koji po redu vožnje saobraća na relaciji Batajnica (8:45h) – Ovča (9:43h), saobraćaće na relaciji: “Batajnica – Zemun”, dok će na delu relacije: “Zemun – Ovča” izostati."
+            },
+            {
+                "text": "Ostali vozovi iz sistema BG Voz-a saobraćaju po redu vožnje koji je trenutno na snazi."
             }
         ]
     },
