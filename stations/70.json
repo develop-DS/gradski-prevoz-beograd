@@ -141,34 +141,40 @@
     {
       "id": "_24",
       "label": "Погон Космај",
-      "longitude": 20.517785,
-      "latitude": 44.771816
+      "longitude": 20.517934,
+      "latitude": 44.771691
     },
     {
       "id": "_25",
       "label": "Траншпед",
-      "longitude": 20.57252,
-      "latitude": 44.703566
+      "longitude": 20.576179,
+      "latitude": 44.703829
     },
     {
       "id": "_26",
+      "label": "Аструд Линдгрен",
+      "longitude": 20.572507,
+      "latitude": 44.70359
+    },
+    {
+      "id": "_27",
       "label": "IKEA",
-      "longitude": 20.561452,
-      "latitude": 44.709723
+      "longitude": 20.561369,
+      "latitude": 44.709795
     }
   ],
   "direction_b": [
     {
       "id": "_1",
       "label": "IKEA",
-      "longitude": 20.561452,
-      "latitude": 44.709723
+      "longitude": 20.561369,
+      "latitude": 44.709795
     },
     {
       "id": "_2",
       "label": "Траншпед",
-      "longitude": 20.573246,
-      "latitude": 44.705131
+      "longitude": 20.576179,
+      "latitude": 44.703829
     },
     {
       "id": "_3",

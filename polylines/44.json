@@ -777,8 +777,8 @@
       "latitude": 44.82041
     },
     {
-      "longitude": 20.467059,
-      "latitude": 44.82045
+      "longitude": 20.467032,
+      "latitude": 44.820436
     },
     {
       "longitude": 20.46731,
@@ -1114,67 +1114,51 @@
     },
     {
       "longitude": 20.485283,
-      "latitude": 44.821342
+      "latitude": 44.82134
     },
     {
-      "longitude": 20.485311,
-      "latitude": 44.821342
+      "longitude": 20.48531,
+      "latitude": 44.82134
     },
     {
-      "longitude": 20.485641,
-      "latitude": 44.821346
+      "longitude": 20.48564,
+      "latitude": 44.82135
     },
     {
-      "longitude": 20.485864,
-      "latitude": 44.821346
+      "longitude": 20.48586,
+      "latitude": 44.82135
     },
     {
       "longitude": 20.48729,
-      "latitude": 44.821355
+      "latitude": 44.82136
     },
     {
       "longitude": 20.48765,
       "latitude": 44.82136
     },
     {
-      "longitude": 20.488294,
-      "latitude": 44.821363
-    },
-    {
-      "longitude": 20.489041,
-      "latitude": 44.821366
-    },
-    {
-      "longitude": 20.48931,
-      "latitude": 44.821364
-    },
-    {
-      "longitude": 20.489349,
-      "latitude": 44.821365
-    },
-    {
-      "longitude": 20.48955,
+      "longitude": 20.488293,
       "latitude": 44.821369
     },
     {
-      "longitude": 20.489623,
-      "latitude": 44.821364
+      "longitude": 20.48904,
+      "latitude": 44.82138
     },
     {
-      "longitude": 20.48968,
+      "longitude": 20.4893,
+      "latitude": 44.82138
+    },
+    {
+      "longitude": 20.489333,
+      "latitude": 44.821377
+    },
+    {
+      "longitude": 20.48963,
       "latitude": 44.82135
     },
     {
-      "longitude": 20.48974,
-      "latitude": 44.82132
-    },
-    {
-      "longitude": 20.489797,
-      "latitude": 44.821281
-    },
-    {
-      "longitude": 20.489855,
-      "latitude": 44.821231
+      "longitude": 20.489844,
+      "latitude": 44.821314
     },
     {
       "longitude": 20.48987,
@@ -1679,44 +1663,28 @@
       "latitude": 44.82093
     },
     {
-      "longitude": 20.489855,
-      "latitude": 44.821231
+      "longitude": 20.489844,
+      "latitude": 44.821314
     },
     {
-      "longitude": 20.489797,
-      "latitude": 44.821281
-    },
-    {
-      "longitude": 20.48974,
-      "latitude": 44.82132
-    },
-    {
-      "longitude": 20.48968,
+      "longitude": 20.48963,
       "latitude": 44.82135
     },
     {
-      "longitude": 20.489623,
-      "latitude": 44.821364
+      "longitude": 20.489333,
+      "latitude": 44.821377
     },
     {
-      "longitude": 20.48955,
+      "longitude": 20.4893,
+      "latitude": 44.82138
+    },
+    {
+      "longitude": 20.48904,
+      "latitude": 44.82138
+    },
+    {
+      "longitude": 20.488293,
       "latitude": 44.821369
-    },
-    {
-      "longitude": 20.489349,
-      "latitude": 44.821365
-    },
-    {
-      "longitude": 20.48931,
-      "latitude": 44.821364
-    },
-    {
-      "longitude": 20.489041,
-      "latitude": 44.821366
-    },
-    {
-      "longitude": 20.488294,
-      "latitude": 44.821363
     },
     {
       "longitude": 20.48765,
@@ -1724,23 +1692,23 @@
     },
     {
       "longitude": 20.48729,
-      "latitude": 44.821355
+      "latitude": 44.82136
     },
     {
-      "longitude": 20.485864,
-      "latitude": 44.821346
+      "longitude": 20.48586,
+      "latitude": 44.82135
     },
     {
-      "longitude": 20.485641,
-      "latitude": 44.821346
+      "longitude": 20.48564,
+      "latitude": 44.82135
     },
     {
-      "longitude": 20.485311,
-      "latitude": 44.821342
+      "longitude": 20.48531,
+      "latitude": 44.82134
     },
     {
       "longitude": 20.485283,
-      "latitude": 44.821342
+      "latitude": 44.82134
     },
     {
       "longitude": 20.484518,
@@ -2075,8 +2043,8 @@
       "latitude": 44.82062
     },
     {
-      "longitude": 20.467059,
-      "latitude": 44.82045
+      "longitude": 20.467032,
+      "latitude": 44.820436
     },
     {
       "longitude": 20.46689,
