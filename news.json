@@ -1,22 +1,115 @@
 [
     {
         "date": "",
-        "title": "Izmena na linijama: 27E, 33, 48 zbog radova u ulicama Dragoslava Srejovića i Bulevar despota Stefana (od 03.03.2021)",
+        "title": "Izmena na linijama: 25P, 74, 79 zbog radova u ulici Vitezova Karađorđeve zvezde (od 25.03.2021)",
         "sections": [
             {
-                "text": "Izmena aktivna do: 17.03.2021."
+                "text": "Izmena aktivna do: 04.04.2021."
             },
             {
-                "text": "Zbog radova na izgradnji sekundarne kanalizacione mreže i revizionog vodovodnog šahta u ulici Dragoslava Srejovića i Bulevaru despota Stefana, koje izvodi preduzeće „Beonant“, od crede 03.03.2021. do 17.03.2021., menja se režim rada linije JGP-a, na sledeći način:"
+                "text": "Zbog izvođenja radova na održavanju kolovoza u ulici Vitezova Karađorđeve zvezde, na delu od ulice Mirijevski bulevar do ulice Koste Nađe, koje će izvoditi JKP “Beograd put”, u periodu od četvrtka 25.03.2021. od 09:00 časova do 04.04.2021., doći će izmene režima rada linija javnog prevoza na sledeći način:"
             },
             {
-                "text": "• Vozila sa linije 27E: u smeru ka Mirijevu: Bulevar despota Stefana – Mije Kovačevića – Dragoslava Srejovića i dalje redovnom trasom; u smeru ka Bloku 20, vozila će saobraćati redovnom trasom\n• Vozila sa linija: 33, 48: u smeru prema Kumodražu i Miljakovcu: Bulevar despota Stefana – Mije Kovačevića – Dragoslava Srejovića – Mitropolita Petra i dalje redovnim trasama; u smeru ka Pančevačkom mostu, vozila će saobraćati redovnim trasama"
+                "text": "• Vozila sa linija: 25P, 74 će u oba smera saobraćati: Mirijevski bulevar – desno Vitezova Karađorđeve zvezde – Mirijevski venac – Samjuela Beketa i dalje redovnom trasom\n• Vozila sa linije 79 će u oba smera saobraćati: Matice Srpske – Samjuela Beketa i dalje redovnom trasom"
             },
             {
-                "text": "Tokom izvođenja radova ulica Dragoslava Srejovića na delu od ulice Mitropolita Petra do Bulevara despota Stefana će biti jednosmerna u smeru ka Bulevaru despota Stefana."
+                "text": "Ukidaju se stajališta u oba smera:"
             },
             {
-                "text": "Vozila sa linija 27E, 33, 48 na izmenjenom delu trase koristiće samo stajalište „SUP Palilula“."
+                "text": "• za linije 25P, 74: „Mirijevo“ i „Mirijevo 2“\n• za liniju 79: „Matice Srpske /pijaca/“ „Lazara Trifunovića“, „Mirijevo 3“ i „Samjuela Beketa“"
+            },
+            {
+                "text": "Vozila će na izmenjenom delu trase koristiti sva postojeća stajališta."
+            }
+        ]
+    },
+    {
+        "date": "",
+        "title": "Izmena u režimu rada linija: 15, 84, 704, 706, 707 zbog radova u Bulevaru Nikole Tesle (od 20.03.2021)",
+        "sections": [
+            {
+                "text": "Izmena aktivna do: 28.03.2021."
+            },
+            {
+                "text": "Tokom izvođenja radova na redovnom održavanju u ulici Bulevar Nikole Tesle, na delu od ulice 22. oktobra do ulice Maršala Tolbuhina u periodu od 20.03.2021. do 28.03.2021. doći će do promena u radu linija javnog prevoza broj: 15, 84, 704, 706, 707."
+            },
+            {
+                "text": "Tokom izvođenja radova zatvara se desna kolovozna traka u smeru prema gradu, dok će se suprotnom stranom saobraćaj odvijati dvosmerno."
+            },
+            {
+                "text": "Privremeno se ukidaju stajalište „Karađorđev trg“ (#310) i „Džona Kenedija“ (#308) u smeru prema gradu, dok se istovremeno uspostavlja privremeno stajalište „Maršala Tolbuhina“ na poziciji oko 50 metara nakon obeleženog pešačkog prelaza u zoni raskrsnice sa ulicom Maršala Tolbuhina."
+            }
+        ]
+    },
+    {
+        "date": "",
+        "title": "Izmena na liniji broj 27E zbog radova u ulici Dragoslava Srejovića i Bulevaru despota Stefana (Faza 4) (od 20.03.2021)",
+        "sections": [
+            {
+                "text": "Izmena aktivna do: 10.04.2021."
+            },
+            {
+                "text": "Zbog radova na izgradnji sekundarne kanalizacione mreže i revizionog vodovodnog šahta u ulici Dragoslava Srejovića i Bulevaru despota Stefana, koje izvodi preduzeće „Beonant“, biće zatvorena za saobraćaj ulica Dragoslava Srejovića od raskrsnice sa ulicom Mitropolita Petra do kružnog toka kod Bogoslovije u periodu od subote 20.03.2021. od 11:00 časova do 10.04.2021., menja se režim rada linija JGP-a, na sledeći način:"
+            },
+            {
+                "text": "• Vozila sa linije 27E, u oba smera i dalje saobraćaju: Bulevar despota Stefana – Mije Kovačevića – Dragoslava Srejovića i dalje redovnom trasom\n• Autobuske linije 33, 48 saobraćaju u redovnom režimu"
+            },
+            {
+                "text": "Napomena: Stajalište „Omladinski stadion“, za liniju 27E u smeru ka Bloku 20 je i dalje ukinuto, a privremeno uspostavljeno stajalište „Omladinski stadion 1“ u ulici Mije Kovačevića, neposredno po izlasku iz kružnog toka, za liniju 27E u smeru ka Bloku 20 je i dalje u funkciji."
+            },
+            {
+                "text": "Vozila sa linija 27E će na izmenjenom delu trase koristiti stajalište „SUP Palilula“ u smeru ka periferiji."
+            }
+        ]
+    },
+    {
+        "date": "",
+        "title": "Izmena na liniji broj 85 zbog radova na izgradnji prilaznih saobraćajnica za autobusku stanicu u Bloku 42 (od 17.03.2021)",
+        "sections": [
+            {
+                "text": "Izmena aktivna do: 15.04.2021."
+            },
+            {
+                "text": "Zbog izvođenja radova na izgradnji prilaznih saobraćajnica za autobusku stanicu u Bloku 42, doći će do zatvaranja desne kolovozne trake ulice Đorđa Stanojevića, gledano ka Bulevaru Milutina Milankovića, na delu od ulaza u tramvajski depo do sredine raskrsnice sa ulicom Marka Hristića, pri čemu će biti onemogućeno skretanje u smeru ka ulici Jurija Gagarina u periodu od 17.03.2021. od 09:00 časova do 15.04.2021."
+            },
+            {
+                "text": "U navedenom periodu menja se režim rada linije 85 na sledeći način:"
+            },
+            {
+                "text": "• U smeru ka Banovom brdu: Đorđa Stanojevića – Bulevar Milutina Milankovića – Antifašističke borbe – Jurija Gagarina i dalje redovno\n• U smeru ka Borči linija radi u redovnom režimu."
+            },
+            {
+                "text": "Ukida se stajalište „Bulevar Crvene Armije“ (#2672) za liniju 85 u smeru ka Banovom brdu."
+            },
+            {
+                "text": "Na izmenjenom delu trase autobusi sa linije 85 koriste postojeća stajališta javnog prevoza."
+            }
+        ]
+    },
+    {
+        "date": "",
+        "title": "Izmena na linijama: 15, 18, 78 zbog radova na izgradnji sekundarne kišne kanalizacione mreže u ulici Teodora Hercla (od 09.03.2021)",
+        "sections": [
+            {
+                "text": "Izmena aktivna do: 22.04.2021."
+            },
+            {
+                "text": "Zbog izvođenja radova na izgradnji sekundarne kišne kanalizacione mreže, u ulici Teodora Hercla, koje će izvoditi „Direkcija za građevinsko zemljište i izgradnju Beograda“, u periodu od utorka 09.03.2021. do 22.04.2021., menja se režim rada linija JGP-a, na sledeći način:"
+            },
+            {
+                "text": "• Vozila sa linije 15 u oba smera, će saobraćati: Prvomajska – Gornjogradska – Ugrinovačka – Senjski trg – Vrtlarska i dalje redovnom trasom\n• Vozila sa linija 18, 78 u oba smera, će saobraćati: Prvomajska – Gornjogradska – Ugrinovačka – Senjski trg – Ivićeva – Tošin bunar i dalje redovnim trasama"
+            },
+            {
+                "text": "Privremeno se ukidaju stajališta: „Zlatiborska“ (#317, #318) i „Prilaz“ (#315, #316) u oba smera, za sve linije."
+            },
+            {
+                "text": "Uspostavljaju se privremena stajališta:"
+            },
+            {
+                "text": "• „Prvomajska 1“ u ulici Gornjogradska, na poziciji EDB stuba koji se nalazi 40 metara posle raskrsnice sa ulicom Prvomajska\n• „Gornjogradska 1“ u ulici Gornjogradska na poziciji EDB stuba koji se nalazi oko 40 metara posle raskrsnice sa ulicom Ugrinovačka\n• Dopuna: Od četvrtka, 11.03.2021. uspostavljeno je privremeno stajalište u Ulici Gornjogradska, 50 metara pre raskrsnice sa Prvomajskom ulicom, u smeru ka Zemunu"
+            },
+            {
+                "text": "Vozila će na izmenjenom delu trasa koristiti sva postojeća stajališta, kao i novouspostavljena stajališta, osim stajališta „Prilaz“ u ulici Ivićeva."
             }
         ]
     },
@@ -85,7 +178,7 @@
         "title": "Operativna izmena na liniji 310 zbog radova u ulici Rebeke Vest",
         "sections": [
             {
-                "text": "Izmena aktivna do: 19.03.2021."
+                "text": "Izmena aktivna do: 09.04.2021."
             },
             {
                 "text": "Zbog radova u ulici Rebeke Vest, koje izvodi JKP „Beogradske elektrane“ od subote 23.01.2021., operativno je izmenjen režim rada linije 310, na sledeći način:"
@@ -190,7 +283,7 @@
                 "text": "Zbog završetka dela radova u sklopu rekonstrukcije Savskog trga, počev od petka 30.10.2020. do 01.03.2021., (za saobraćaj je zatvorena Savska ulica, smer od Nemanjine ulice ka Palati pravde – u zoni pošte u Savskoj ulici), na snazi je i dalje izmenjen režim rada linija:"
             },
             {
-                "text": "• Tramvajska linija 3L1 je i dalje ukinuta\n• Tramvaji sa linije 11 u oba smera saobraćaju na relaciji: Pristanište – Stari savski most – Novi Beograd /Blok 45/\n• Tramvaji sa linije 12 u oba smera saobraćaju na relaciji: Omladinski stadion – Vukov spomenik – Tašmajdan – Savski trg – Stari savski most – Most na Adi – Banovo brdo\n• Autobuska linija 3A saobraća na relaciji Savski trg – Kneževac i to sledećom trasom: u smeru ka Kneževcu: Savski trg – Karađorđeva – Zemunski put – Bulevar Vudroa Vilsona – Nikolaja Kravcova – Savska – Bulevar vojvode Mišića – Topčiderska i dalje redovnom trasom; u smeru ka Savskom trgu: redovnom trasom do Bulevara vojvode Mišića – Savska – Savski trg."
+                "text": "• Tramvajska linija 3L1 je i dalje ukinuta\n• Tramvaji sa linije 11 u oba smera saobraćaju na relaciji: Kalemegdan /Donji Grad/ – Stari savski most – Novi Beograd /Blok 45/\n• Tramvaji sa linije 12 u oba smera saobraćaju na relaciji: Omladinski stadion – Vukov spomenik – Tašmajdan – Savski trg – Stari savski most – Most na Adi – Banovo brdo\n• Autobuska linija 3A saobraća na relaciji Savski trg – Kneževac i to sledećom trasom: u smeru ka Kneževcu: Savski trg – Karađorđeva – Zemunski put – Bulevar Vudroa Vilsona – Nikolaja Kravcova – Savska – Bulevar vojvode Mišića – Topčiderska i dalje redovnom trasom; u smeru ka Savskom trgu: redovnom trasom do Bulevara vojvode Mišića – Savska – Savski trg."
             },
             {
                 "text": "Na izmenjenom delu trase vozila JGP-a koristiće postojeća stajališta."
@@ -199,37 +292,16 @@
     },
     {
         "date": "",
-        "title": "Režim rada linija zbog radova na rekonstrukciji i uređenju ulice Cara Dušana (od 16.09.2020)",
+        "title": "Izmena u režimu rada linije 860I zbog radova na putu Boljevci – Obrenovac (od 15.10.2020)",
         "sections": [
             {
                 "text": "Izmena aktivna do: 31.03.2021."
             },
             {
-                "text": "U sklopu radova na rekonstrukciji i uređenju ulice Cara Dušana, na delu između ulica Francuske i Tadeuša Košćuška, u periodu od 16.09.2020. do 30.09.2020., važiće sledeći režim rada linija:"
+                "text": "Zbog radova koje će izvoditi JKP “Beograd put” na putu Boljevci – Obrenovac u periodu od 15.10.2020. do 29.12.2020., doći će do potpune obustave saobraćaja, pa će vozila saobraćati na sledeći način:"
             },
             {
-                "text": "Tramvajski saobraćaj:"
-            },
-            {
-                "text": "• Tramvajske linije 2, 5, 10 i dalje ne saobraćaju\n• Tramvaji sa linije 11L saobraćaće i dalje na relaciji: Pristanište – Stari savski most – Blok 45"
-            },
-            {
-                "text": "Autobuski saobraćaj:"
-            },
-            {
-                "text": "• Vozila sa linija: 5A, 79 u oba smera, će saobraćati: Dorćol /SRC „Milan Gale Muškatirović“/ – Tadeuša Košćuška – Bulevar vojvode Bojovića – Dunavska – Žorža Klemansoa – Cara Dušana – Džordža Vašingtona i dalje redovnim trasama\n• Vozila sa linije 24 u oba smera, će saobraćati: Dorćol /SRC „Milan Gale Muškatirović“/ – Tadeuša Košćuška – Bulevar vojvode Bojovića – Dunavska – Žorža Klemansoa – Francuska i dalje redovnom trasom\n• Vozila sa linija: 26, 26N će saobraćati: u smeru ka Naselju „Braće Jerković“: Dorćol /Dunavska/ – Dunavska – Žorža Klemansoa – Francuska i dalje redovnim trasama; u smeru ka Dorćolu: Francuska – Žorža Klemansoa – Dunavska – Bulevar vojvode Bojovića – Tadeuša Košćuška – Dunavska – Dorćol /Dunavska/\n• Vozila sa linije 401N će saobraćati: u smeru ka Vukovom spomeniku: Dorćol /Dunavska/ – Dunavska – Žorža Klemansoa – Cara Dušana – DŽordža Vašingtona i dalje redovnom trasom; u smeru ka Dorćolu: Džordža Vašingtona – Cara Dušana – Žorža Klemansoa – Dunavska – Bulevar vojvode Bojovića – Tadeuša Košćuška – Dunavska – Dorćol /Dunavska/"
-            },
-            {
-                "text": "Privremeno su ukinuta stajališta:"
-            },
-            {
-                "text": "• „Kalemegdan“ u oba smera, „Tadeuša Košćuška“ u oba smera i terminusno polazno-dolazno stajalište „Kalemegdan /Donji grad/“ za liniju 11L\n• „Dorćol /Knjeginje Ljubice/“ i „Kralja Petra“ u oba smera, „Braće Baruh“ u smeru ka Dorćolu za linije 5A, 24, 26, 79\n• „Braće Baruh“ u smeru ka Francuskoj ulici za linije 5A, 24, 79\n• „Despota Đurđa“ u smeru ka Naselju Braće Jerković za liniju 26"
-            },
-            {
-                "text": "Privremeno uspostavljena stajališta: u Dunavskoj ulici u oba smera „Dobračina“, „Jevrejska“ i „Mike Alasa“, kao i stajalište „Dubrovačka“ u smeru ka Kalemegdanu su i dalje u funkciji."
-            },
-            {
-                "text": "Na izmenjenom delu trase vozila će koristiti postojeća stajališta JGP-a."
+                "text": "• Linija 860I – NASELJE “SAVA” – Ravnogorska – Nemanjina – Kralja Aleksandra I – Zabranski put – Obrenovački put – Železnička – INDUSTRIJSKA ZONA “BARIČ” – Železnička – Obrenovački put – Most Srpsko – kineskog prijateljstva – Autoput “Miloš Veliki” – Petlja “Surčin” – Beogradska obilaznica – Železnička – Braće Puhalović – Vojvođanska i dalje redovno"
             }
         ]
     },
