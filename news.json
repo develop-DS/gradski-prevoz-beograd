@@ -1,64 +1,97 @@
 [
     {
         "date": "",
-        "title": "Operativna izmena na linijama: 58, 88, 512 zbog radova u ulici Vodovodska (od 25.05.2021)",
+        "title": "Izmena na liniji 312 zbog radova u ulici Stražarska kosa (Faza 1) (od 10.06.2021)",
         "sections": [
             {
-                "text": "Izmena aktivna do: 26.05.2021."
+                "text": "Izmena aktivna do: 11.06.2021."
             },
             {
-                "text": "Zbog pucanja vodovodne cevi u ulici Vodovodska, kod kućnog broja 12, ulica je u potpunosti zatvorena za saobraćaj, zbog čega vozila sa linija javnog prevoza: 58, 88, 512 saobraćaju izmenjenim trasama preko ulice Milorada Jovanovića."
+                "text": "Tokom izvođenja radova na redovnom održavanju u ulici Stražarska kosa – FAZA 1, na delu od ulice Vojvode Stepe do ulice Cvetanova ćuprija u Beogradu (Zvezdara) u periodu od 10.06.2021. do 11.06.2021. doći će do promena u radu linije 312."
             },
             {
-                "text": "Radovi bi trebalo da traju do 20:00 časova."
+                "text": "Tokom izvođenja navedenih radova, ulica Stražarska kosa će u potpunosti biti zatvorena za saobraćaj, zbog čega će doći do promena u radu linije javnog prevoza broj 312 i to:"
+            },
+            {
+                "text": "• Ukida se linija 312\n• Uspostavlja se linija 312L koja će saobraćati na relaciji:"
+            },
+            {
+                "text": "SMER A – VELIKI MOKRI LUG (okretnica linije 20) – Cvetanova ćuprija – Ladno brdo – Ristin potok – Milošev kladenac – Nikole Grulovića – Zabranska – Lipovačka – Stražarska kosa – Livadska – Živka Jovanovića – MZ VELIKI MOKRI LUG – Nikole Grulovića – Vizantijska – Vladimira Ćorovića – Stražarska kosa do zone raskrsnice sa ulicom Cvetanova ćuprija, gde će vozilo vršiti promenu smera"
+            },
+            {
+                "text": "SMER B – Stražarska kosa (zona raskrsnice sa ulicom Cvetanova ćuprija) – Stražarska kosa – Vladimira Ćorovića – Vizantijska – Nikole Grulovića – Milošev kladenac – Ristin potok – Cvetanova ćuprija – VELIKI MOKRI LUG (okretnica linije 20)"
+            },
+            {
+                "text": "Vozila će na izmenjenom delu trase koristiti sva postojeća stajališta, kao i novouspostavljena u visini stajališta iz suprotnog smera."
             }
         ]
     },
     {
         "date": "",
-        "title": "Operativna izmena na linijama: 12, 13, 23, 37, 49, 51, 52, 53, 57, 58, 85, 87, 88, 560E zbog radova u Požeškoj ulici (od 24.05.2021)",
+        "title": "Izmena na linijama: 24, 79, E9 zbog radova u zoni terminusa Dorćol /SRC Milan Gale Muškatirović/ (od 10.06.2021)",
         "sections": [
             {
-                "text": "Izmena aktivna do: očekivano do 31.05.2021."
+                "text": "Izmena aktivna do: 10.07.2021."
             },
             {
-                "text": "Zbog najavljenih hitnih radova koje će izvoditi JKP „Beogradski vodovod i kanalizacija“ od ponedeljka 24.05.2021. od 08:00 časova u ulici Požeška, na delu od ulice Petra Mećave do ulice Kijevska doći će do zatvaranje predmetne saobraćajnice, zbog čega će vozila javnog prevoza saobraćati na sledeći način:"
+                "text": "Zbog radova na kišnoj kanalizaciji u visini okretnice Dorćol (SRC „Milan Gale Muškatirović“), koje izvodi „RAS inženjering“, doći će do zatvaranja prilaza okretnici, u periodu od četvrtka 10.06.2021. do 10.07.2021. menja se režim rada linija javnog prevoza na sledeći način:"
             },
             {
-                "text": "• Ukidaju se tramvajske linije: 12, 13\n• Uspostavlja se privremena tramvajska linija 12L (Omladinski stadion – Blok 45) koja će saobraćati sa povećanim brojem vozila\n• Linije: 23, 53 će saobraćati u smeru prema Vidikovcu ulicama: Bulevar vojvode Mišića, petlja „Radnička“, Požeška, Kirovljeva, Visoka, Paštrovićeva, Radnička, Savska magistrala, Svetolika Lazarevića Laze, Radnička, Endija Vorhola, Đorđa Ognjanovića, Požeška, Blagoja Parovića i dalje redovno; u smeru prema gradu ulicama: Blagoja Parovića, Požeška, Valjevska, Stevana Brakusa, Lješka, Kirovljeva i dalje redovno. Napomena: Linija 53 će saobraćati sa povećanim brojem vozila\n• Linija 37 će saobraćati u smeru prema Kneževcu ulicama: Bulevar vojvode Mišića, petlja „Radnička“, Požeška, Kirovljeva, Visoka, Paštrovićeva, Radnička, Savska magistrala, Svetolika Lazarevića Laze, Radnička, Endija Vorhola, Trgovačka i dalje redovno; u smeru prema gradu ulicama: Požeška, Valjevska, Stevana Brakusa, Lješka, Kirovljeva i dalje redovno\n• Linija 49 će saobraćati u smeru prema Voždovcu ulicama: Požeška, Valjevska, Stevana Brakusa, Lješka, Kirovljeva, Požeška i dalje redovno; u smeru prema Banovom brdu ulicama: Bulevar vojvode Mišića, Požeška, Kirovljeva, Visoka, Paštrovićeva, Radnička, Savska magistrala, Svetolika Lazarevića Laze, Radnička, Endija Vorhola, Đorđa Ognjanovića, Požeška do terminusa „Banovo brdo“\n• Linije: 51, 52, 560E će saobraćati u oba smera ulicama: Bulevar vojvode Mišića, Radnička, Savska magistrala, Svetolika Lazarevića Laze, Radnička, Endija Vorhola, Trgovačka, i dalje redovno\n• Linija 57 će saobraćati ulicama: Požeška, Valjevska, Stevana Brakusa, Lješka, Kirovljeva, Požeška, Kneza Višeslava i dalje redovno\n• Linije: 58, 88 će saobraćati u oba smera ulicama: Bulevar vojvode Mišića, Radnička, Savska magistrala, Svetolika Lazarevića Laze, Radnička, Endija Vorhola, Vodovodska i dalje redovno\n• Linija 85 će saobraćati u smeru prema Borči ulicama: Požeška, Valjevska, Stevana Brakusa, Lješka, Kirovljeva i dalje redovno; u smeru prema Banovom brdu ulicama: Most na Adi, Bulevar vojvode Mišića, petlja „Radnička“, Požeška, Kirovljeva, Visoka, Paštrovićeva, Radnička, Savska magistrala, Svetolika Lazarevića Laze, Radnička, Endija Vorhola, Đorđa Ognjanovića, Požeška, terminus „Banovo brdo“\n• Linija 87 će saobraćati ulicama: Požeška, Valjevska, Stevana Brakusa, Lješka, Kirovljeva i dalje redovno"
+                "text": "• Vozila sa linije 24, 79, E9 će saobraćati na relaciji terminus: „Dorćol (Dunavska)“ – periferni terminusi: u smeru ka periferiji: Dunavska – Dubrovačka – Cara Dušana i dalje redovnom trasom, u smeru ka Dorćolu: Cara Dušana – Tadeuša Košćeuška – Dunavska"
             },
             {
                 "text": "Privremeno se ukidaju stajališta:"
             },
             {
-                "text": "• „OŠ Josif Pančić“, „Dom zdravlja“ i „Kijevska“, u oba smera i „Kneza Višeslava“, u smeru ka periferiji, za linije: 12, 13, 23, 37, 49, 51, 52, 53, 58, 85, 88\n• „Kirovljeva“ u smeru ka gradu, za linije: 23, 37, 51, 52, 53, 58, 85, 87, 88\n• „Trebevićka“ u smeru ka periferiji, za linije 12, 13, 37, 51, 52, 53, 58, 85, 88\n• „Trebevićka“ u smeru ka gradu, za linije: 12, 13, 51, 52, 58, 88\n• „Kijevska“, „Dom zdravlja“ i „OŠ Josif Pančić“, u smeru ka gradu, za linije: 57, 87\n• Terminus „Banovo brdo“, Kneza Višeslava“, u smeru ka gradu\n• „Hipodrom“, „Most na Adi“ i „Đorđa Stanojevića“, u oba smera, za tramvajske linije 12, 13"
+                "text": "• „SRC Milan Gale Muškatirović“ terminusno stajalište za linije 24, 79\n• „Braće Baruh“ u smeru ka periferiji za linije 24, 79"
             },
             {
-                "text": "Na izmenjenim delovima trasa, vozila će koristiti postojeća stajališta, kao i novouspostavljena:"
+                "text": "Napomena: Vozila će koristiti stajalište „Dorćol /Dunavska/“ kao terminusno (dolazno – polazno) stajalište, zajedno sa linijom 26."
             },
             {
-                "text": "• „Stanka Opsenice“, „Petra Mećave“ i „Kijevska“ (u smeru ka ulici Kirovljeva) u Lješkoj ulici, za linije 23, 37, 49, 53, 57, 85, 87\n• „Kirovljeva“ (u smeru ka gradu) za linije 23, 37, 53, 85, 87"
+                "text": "Na izmenjenim delovima trasa, vozila će koristiti postojeća stajališta linija JGP-a."
             }
         ]
     },
     {
         "date": "",
-        "title": "Izmena na liniji 27 zbog radova u ulici Matice Srpske (Faza 3) (od 24.05.2021)",
+        "title": "Od 02.06.2021. linija broj 602 se u smeru ka gradu preusmerava u ulicu Mileve Marić pored naselja Ključ u Surčinu",
         "sections": [
             {
-                "text": "Izmena aktivna do: 26.05.2021."
+                "text": "Počev od srede 02.06.20201. linija 602 je pri kretanju ka gradu preusmerena na saobraćajnicu Mileve Marić pored naselja Ključ u Surčinu."
             },
             {
-                "text": "U sklopu projekta izgradnje toplovodne mreže u ulici Matice srpske (od strane JKP „Beogradske elektrane“) doći će do potpunog zatvaranja saobraćaja u Rableovoj ulici (na delu od Mirijevskog venca do Matice srpske) u periodu od ponedeljka 24.05.2021. do 26.05.2021."
+                "text": "Zahtev građana naselja Ključ u proteklom periodu bio je da se navedeno naselje na obodu gradske opštine Surčin, u zoni SRC „Surčin“, poveže javnim prevozom. Obilaskom terena, od strane stručnih službi Sekretarijata za javni prevoz i predstavnika gradske opštine Surčin, konstatovano je da saobraćajna mreža u navedenom naselju nije uslovna za kretanje autobusa poprečnim uličnim veza i da je jedina alternativa za uspostavljanje javnog prevoza u naselju kretanje vozila obodnom ulicom Mileve Marić."
+            },
+            {
+                "text": "U proteklom periodu, angažovanjem gradske opštine Surčin izvršeno je regulisanje novog pružnog prelaza i povezivanje ul. Mileve Marić sa sistemom ulica u delu SRC „Surčin“. Obeležavanjem nove saobraćajne signalizacije, definisanjem i izgradnjom novih stajališta, omogućeno je da redovna linija 602 u povratku ka gradu saobraća ul. Mileve Marić pored naselja Ključ."
+            },
+            {
+                "text": "Duž trase linije 602 u ul. Mileve Marić uspostavljeno je ukupno 3 nova stajališta: „Park Ključ“, „Don Kihotova“ i „Žička“, kao i jedno u samom SRC-u u ul. Jakovička."
+            },
+            {
+                "text": "Red vožnje linije 602 trenutno se neće menjati."
+            }
+        ]
+    },
+    {
+        "date": "",
+        "title": "Izmena na linijama: 20, 79 zbog radova u ulici Matice srpske (Faza 4) (od 02.06.2021)",
+        "sections": [
+            {
+                "text": "Izmena aktivna do: 29.06.2021."
+            },
+            {
+                "text": "U sklopu radova na izgradnji toplovodne mreže u ulici Matice srpske (od strane JKP „Beogradske elektrane“) koji se izvode na desnoj strani kolovoza, ulica Matice srpske će biti jednosmerna na delu od ulice 16.oktobra do ulice Rableova (gledano u smeru ka ulici Rableova) u periodu od srede 02.06.2021. do 29.06.2021."
             },
             {
                 "text": "Zbog navedenog, menja se režim rada na linijama JGP-a na sledeći način:"
             },
             {
-                "text": "• Vozila sa linije 27, u oba smera, će saobraćati: Mirijevski venac – Semjuela Beketa – Matice srpske – Mihaila Bulgakova i dalje redovnom trasom\n• Vozila sa linija 20, 79, će saobraćati redovnom trasom"
+                "text": "• Vozila sa linija 20, 79, u smeru ka Dorćolu i Velikom mokrom lugu će saobraćati: Matice srpske – Rableova – Mirijevski venac – Vitezova Karađorđeve zvezde – Milana Rakića – Mite Ružića i dalje redovnim trasama. U smeru ka Mirijevu 3 i Mirijevu 4 saobraćaju redovnim trasama.\n• Vozila sa linije 27, će saobraćati redovnom trasom u oba smera"
             },
             {
-                "text": "Privremeno će biti ukinuto stajalište „Matice srpske“ u Rableovoj ulici, u oba smera."
+                "text": "Privremeno se ukidaju stajališta: „16.oktobra“, „Vitezova Karađorđeve zvezde“ i „Milana Rakića“ u smeru ka Velikom mokrom lugu, odnosno ka Dorćolu za linije 20, 79."
             },
             {
                 "text": "Na izmenjenim delovima trase, vozila će koristiti postojeća stajališta linija JGP-a."
@@ -67,25 +100,64 @@
     },
     {
         "date": "",
-        "title": "Izmena na linijama: 54, 502, 505 zbog radova u ulici Čelebićka (od 18.05.2021)",
+        "title": "Izmene na linijama: 73, 84, 612, 703, 704, 705, 706, 706E, 707 zbog radova na izgradnji distributivne toplovodne mreže u ulici Batajnički drum (od 01.06.2021)",
         "sections": [
             {
-                "text": "Izmena aktivna do: 07.06.2021."
+                "text": "Izmena aktivna do: 15.06.2021."
             },
             {
-                "text": "Zbog radova na toplovodu, u ulici Čelebićka, na desnom profilu kolovoza na delu od raskrsnice sa ulicom Božidara Stojanovića do Vareške, koje će izvoditi JKP „Beogradske elektrane“, od utorka 18.05.2021. do 07.06.2021. menja se režim rada linija JGP-a, na sledeći način:"
+                "text": "Tokom izvođenja radova na izgradnji distributivne toplovodne mreže u ulici Batajnički drum na delu od ulice Banatska do saobraćajnice T7 u periodu od 01.06.2021. do 15.06.2021., doći će do poremećaja u radu linija javnog prevoza."
             },
             {
-                "text": "• Vozila sa linija 54, 502, će saobraćati: u smeru ka „Miljakovcu 1“: Borska – Vareška – 1. šumadijske brigade i dalje redovnom trasom; u suprotnom smeru vozila će saobraćati redovnom trasom\n• Vozila sa linije 505, će saobraćati: u smeru ka terminusu „Miljakovačke staze“: Miljakovac 1 – Borska – Miška Kranjca i dalje redovnom trasom; u suprotnom smeru vozila će saobraćati redovnom trasom"
+                "text": "Radovi se izvode u desnoj kolovoznoj traci ulice Batajnički drum na deonici od zone raskrsnice sa saobraćajnicom T7 (uključujući i samu raskrsnicu) do zone neposredno ispred raskrsnice sa Putem u produžetku Pupinovog mosta."
             },
             {
-                "text": "Privremeno se ukidaju stajališta:"
+                "text": "Tokom izvođenja radova na ovoj deonici, doći će do zauzeća desne kolovozne trake ulice ulice Batajnički drum, pri čemu će na predmetnoj deonica Batajnički drum biti jednosmeran u smeru prema Batajnici."
             },
             {
-                "text": "• „Božidara Stojanovića“, u smeru ka Vareškoj, za sve linije\n• „Toplana“, „Stanka Paunovića“ i „Miljakovac 1“ (#873), u smeru ka Miljakovačkim stazama, za liniju 505"
+                "text": "Tokom izvođenja radova, važiće režim odvijanja javnog prevoza:"
             },
             {
-                "text": "Na izmenjenim delovima trase vozila će koristiti postojeća stajališta javnog prevoza."
+                "text": "• Linije: 84, 612: u smeru ka Novoj Galenici – saobraćaće redovno; u smeru ka Zelenom vencu i Novom Beogradu – saobraćaće ulicama: 2. Nova, Lazara Mamuzića, Jovana Stojsavljevića, T-7, Autoput za Novi Sad, Put prema Pupinovom mostu (Autoput za Novi Sad), Cara Dušana i dalje redovno\n• Linije: 73, 706: u smeru ka Batajnici – saobraćaće redovno; u smeru ka Zemunu – saobraćaće ulicama: Batajnički drum, Batajnički drum 6.deo, Batajnički drum 17.deo, Batajnički drum 2. deo, Naselje Mala pruga, Autoput za Novi Sad, Put prema Pupinovom mostu (Autoput za Novi Sad), Cara Dušana i dalje redovno\n• Linija 703: u smeru ka Ugrinovcima – redovno; u smeru ka Zemunu – Batajnički drum 17.deo, Batajnički drum 2. deo, Naselje Mala pruga, Autoput za Novi Sad, Put prema Pupinovom mostu (Autoput za Novi Sad), Cara Dušana i dalje redovno\n• Linija 704: u smeru ka Zemun polju – redovno; u smeru ka Zemunu – Jurija Rakitina, Batajnički drum, Batajnički drum 6.deo, Batajnički drum 17.deo, Batajnički drum 2. deo, Naselje Mala pruga, Autoput za Novi Sad, Put prema Pupinovom mostu (Autoput za Novi Sad), Cara Dušana i dalje redovno\n• Linije: 705, 706E: u smeru ka 13. Maju i Batajnici – redovno; u smeru ka Zemunu – Batajnički drum, Batajnički drum 1.deo, 2. Nova, Lazara Mamuzića, Jovana Stojsavljevića, T-7, Autoput za Novi Sad, Put prema Pupinovom mostu (Autoput za Novi Sad), Cara Dušana i dalje redovno\n• Linija 707: u oba smera – Cara Dušana, Put od Pupinovog mosta (Autoput za Novi Sad), Autoput za Novi Sad, Ugrinovački put i dalje redovno"
+            },
+            {
+                "text": "Ukidaju se stajališta:"
+            },
+            {
+                "text": "• za linije 84, 612: „Galenika“ u smeru ka gradu\n• za linije 73, 703, 704, 706 u smeru ka Zemunu: „Preduzeće Galenika Magmasil“ i „Geomašina“\n• za liniju 703: „Metro“ u smeru ka Zemunu\n• za liniju 707 u oba smera: „Svetozara Papića“ i „Milice Šuvaković“"
+            },
+            {
+                "text": "Uspostavlja se stajalište za linije 84, 612, 705, 706E: „Milice Šuvaković 1“, u ulici Lazara Mamuzića, 30 metara posle raskrsnice sa ulicom Milice Šuvaković, u smeru ka Zemunu."
+            },
+            {
+                "text": "Vozila JGP-a će na izmenjenom delu trase koristiti sva postojeća stajališta."
+            }
+        ]
+    },
+    {
+        "date": "",
+        "title": "Operativna izmena na liniji BG Voz 1 zbog radova na izgradnji deonice brze pruge Beograd /Centar/ – Stara Pazova (od 01.06.2021)",
+        "sections": [
+            {
+                "text": "Izmena aktivna do: 30.06.2021."
+            },
+            {
+                "text": "Obaveštavamo Vas da će od 01.06.2021. do 30.6.2021., u periodu od 11.00 do 14.00 časova, usled izvođenja radova na rekonstrukciji i izgradnji dvokolosečne pruge od Beograd centra do Stare Pazove, doći do zatvora koloseka između stanica „Batajnica“ i „Beograd centar“, usled čega se menja se organizacija saobraćaja vozova iz sistema BG:VOZ, linija BG Voz 1."
+            },
+            {
+                "text": "Od 01.06.2021. do 30.06.2021., menja se red vožnje sledećih vozova:"
+            },
+            {
+                "text": "Relacija: „Batajnica – Ovča“"
+            },
+            {
+                "text": "• Voz broj 8017, koji po redu vožnje saobraća na relaciji Batajnica (10:50h) – Ovča (11:49h), saobraća na relaciji Beograd /Centar/ – Ovča, a izostaje na relaciji Batajnica – Beograd /Centar/\n• Voz broj 8019, koji po redu vožnje saobraća na relaciji Batajnica (11:50h) – Ovča (12:49h), saobraća na relaciji Beograd /Centar/ – Ovča, a izostaje na relaciji Batajnica – Beograd /Centar/\n• Voz broj 8021, koji po redu vožnje saobraća na relaciji Batajnica (12:50h) – Ovča (13:49h), saobraća na relaciji Beograd /Centar/ – Ovča, a izostaje na relaciji Batajnica – Beograd /Centar/\n• Voz broj 8023, koji po redu vožnje saobraća na relaciji Batajnica (13:44h) – Ovča (14:49h) saobraća na relaciji Beograd /Centar/ – Ovča, a izostaje na relaciji Batajnica – Beograd /Centar/\n• Voz broj 8018, koji po redu vožnje saobraća na relaciji Zemun (13:23h) – Batajnica (13:40h), neće saobraćati u navedenom periodu."
+            },
+            {
+                "text": "Relacija: „Ovča – Batajnica“"
+            },
+            {
+                "text": "• Voz broj 8012, koji po redu vožnje saobraća na relaciji Ovča (10:10h) – Batajnica (11:14h), saobraća na relaciji Ovča – Beograd /Centar/, a izostaje na relaciji Beograd /Centar/ – Batajnica\n• Voz broj 8014, koji po redu vožnje saobraća na relaciji Ovča (11:10h) – Batajnica (12:14h), saobraća na relaciji Ovča – Beograd /Centar/, a izostaje na relaciji Beograd /Centar/ – Batajnica\n• Voz broj 8016, koji po redu vožnje saobraća na relaciji Ovča (12:10h) – Batajnica (13:14h), saobraća na relaciji Ovča – Beograd /Centar/, a izostaje na relaciji Beograd /Centar/ – Batajnica\n• Voz broj 8020, koji po redu vožnje saobraća na relaciji Ovča (13:10h) – Batajnica (14:09h), saobraća na relaciji Ovča – Beograd /Centar/, a izostaje na relaciji Beograd /Centar/ – Batajnica"
             }
         ]
     },
@@ -134,48 +206,6 @@
             },
             {
                 "text": "Na izmenjenom delu trase vozila će koristiti postojeća stajališta JGP-a."
-            }
-        ]
-    },
-    {
-        "date": "",
-        "title": "Operativna izmena na liniji BG Voz 1 zbog radova na izgradnji deonice brze pruge Beograd /Centar/ – Stara Pazova (od 03.05.2021)",
-        "sections": [
-            {
-                "text": "Izmena aktivna do: 31.05.2021."
-            },
-            {
-                "text": "U periodu od 03.05.2021. do 31.5.2021. u periodu od 11:00 do 14:00 časova, zbog izvođenja građevinskih radova na izgradnji deonice brze pruge Beograd Centar – Stara Pazova vozovi iz sistema Bg:voz-a na relaciji (linija BG voz 1) Batajnica – Ovča – Batajnica saobraćaju u izmenjenom režimu:"
-            },
-            {
-                "text": "• voz br. 8012, koji po redu vožnje saobraća na relaciji Ovča (10:10h) – Batajnica (11:14h), saobraća na relaciji Ovča (10:10h) – Beograd /Centar/ (10:34h), a izostaje na relaciji Beograd /Centar/ – Batajnica\n• voz br. 8017, koji po redu vožnje saobraća na relaciji Batajnica (10:50h) – Ovča (11:49h), izostaje na relaciji Batajnica – Beograd /Centar/, a saobraća na relaciji Beograd /Centar/ (11:26h) – Ovča (11:49h)\n• voz br. 8014, koji po redu vožnje saobraća na relaciji Ovča (11:10h) – Batajnica (12:14h), saobraća na relaciji Ovča (11:10h) – Beograd /Centar/ (11:34h), a izostaje na relaciji Beograd /Centar/ – Batajnica\n• voz br. 8019, koji po redu vožnje saobraća na relaciji Batajnica (11:50h) – Ovča (12:49h), izostaje na relaciji Batajnica – Beograd /Centar/, a saobraća na relaciji Beograd /Centar/ (12:26h) – Ovča (12:49h)\n• voz br. 8016, koji po redu vožnje saobraća na relaciji Ovča (12:10h) – Batajnica (13:14h), saobraća na relaciji Ovča (12:10h) – Beograd /Centar/ (12:34h), a izostaje na relaciji Beograd /Centar/ – Batajnica\n• voz br. 8021, koji po redu vožnje saobraća na relaciji Batajnica (12:50h) – Ovča (13:49h), izostaje na relaciji Batajnica – Beograd /Centar/, a saobraća na relaciji Beograd /Centar/ (13:26h) – Ovča (13:49h)\n• voz br. 8020, koji po redu vožnje saobraća na relaciji Ovča (13:10h) – Batajnica (14:09h), saobraća na relaciji Ovča (13:10h) – Beograd /Centar/ (13:34h), a izostaje na relaciji Beograd /Centar/ – Batajnica\n• voz br. 8023, koji po redu vožnje saobraća na relaciji Batajnica (13:44h) – Ovča (14:49h), izostaje na relaciji Batajnica – Beograd /Centar/, a saobraća na relaciji Beograd /Centar/ (14:26h) – Ovča (14:49h)\n• voz br. 8018 ne saobraća na celom prevoznom putu Zemun (13:23h) – Batajnica (13:40h) u dane od ponedeljka do petka"
-            },
-            {
-                "text": "Ostali vozovi iz sistema Bg:voz-a saobraćaju po predviđenom redu vožnje."
-            }
-        ]
-    },
-    {
-        "date": "",
-        "title": "Izmena na liniji 310 zbog radova u ulici Prvomajska (2 faza) (od 29.04.2021)",
-        "sections": [
-            {
-                "text": "Izmena aktivna do: 26.05.2021."
-            },
-            {
-                "text": "Zbog izvođenja radova na toplovodu u ulici Prvomajska, na delu od raskrsnice sa ulicama Živka Davidovića i Narodnog fronta, do raskrsnice sa ulicom Hazarska, koje izvodi JKP „Beogradske elektrane“, u periodu od četvrtka 29.04.2021. do 12.05.2021.  ⇢ 26.05.2021. menja se režim rada linije 310 na sledeći način:"
-            },
-            {
-                "text": "• Vozila sa linije 310 će saobraćati ulicama: Živka Davidovića – Narodnog fronta – Bosanska – Slobodana Lale Berberskog i dalje redovnom trasom"
-            },
-            {
-                "text": "Privremeno se ukidaju stajališta: „Prvomajska“, „Mage Magazinović“, „Jerusalimska“"
-            },
-            {
-                "text": "Privremeno se uspostavljaju stajališta:"
-            },
-            {
-                "text": "• Prvomajska – u ulici Bosanska, neposredno ispred zone raskrsnice sa ulicom Hazarska\n• Mage Magazinović – u ulici Bosanska, neposredno ispred zone raskrsnice sa ulicom Mage Magazinović"
             }
         ]
     },
@@ -274,34 +304,13 @@
     },
     {
         "date": "",
-        "title": "Privremeno se ukidaju noćne linije (N) u Beogradu (od 18.11.2020)",
-        "sections": [
-            {
-                "text": "Privremena obustava rada linija u noćnom (N) prevozu putnika od sutra uveče, odnosno od noći između 18. i 19. novembra."
-            },
-            {
-                "text": "Odluka je doneta u skladu sa naredbom Gradskog štaba za vanredne situacije (zbog pogoršane epidemiološke situacije uzrokovane virusom Covid-19) na teritoriji Grada Beograda, a kojom je svim ugostiteljskim objektima, prodavnicama, trgovinskim centrima i drugim maloprodajnim objektima, pozorištima i bioskopima, priređivačima posebnih i klasičnih igara na sreću i drugim objektima zabranjen rad od 21 do 5 časova."
-            },
-            {
-                "text": "Privremena obustava rada će biti izvršena na 24 noćne linije, koje su saobraćale od 00 do 4 sata, a to su sledeće linije:"
-            },
-            {
-                "text": "• 15N Trg Republike – Zemun /Novi grad/\n• 26N Dorćol – Braće Jerković\n• 27N Trg Republike – Mirijevo 3\n• 29N Studentski trg – Medaković 3\n• 31N Studentski trg – Konjarnik\n• 32N Trg Republike – Višnjica\n• 33N Studentski trg – Kumodraž\n• 37N Trg Republike – Kneževac\n• 47N Trg Republike – Resnik ŽS\n• 51N Trg Republike – Bele vode\n• 56N Trg Republike – Rušanj\n• 68N Trg Republike – Novi Beograd /Blok 45/\n• 75N Trg Republike – Bežanijska kosa\n• 101N Trg Republike – Padinska skela\n• 202N Trg Republike – Veliko selo\n• 301N Trg Republike – Begaljica\n• 304N Trg Republike – Ritopek\n• 308N Slavija – Veliki mokri lug\n• 401N Dorćol /Dunavska/ – Pinosava\n• 511N Trg Republike – Sremčica\n• 601N Trg Slavija – Dobanovci\n• 603N Trg Republike – Ugrinovci\n• 704N Trg Republike – Zemun polje\n• 706N Trg Republike – Batajnica"
-            },
-            {
-                "text": "Po ukidanju donetih mera, prevoz na noćnim linijama će biti ponovo uspostavljen."
-            }
-        ]
-    },
-    {
-        "date": "",
         "title": "Izmena u režimu rada linija: 3L1, 3A, 11 (11L), 12 zbog završetka dela radova u sklopu rekonstrukcije Savskog trga (od 30.10.2020)",
         "sections": [
             {
-                "text": "Izmena aktivna do: 31.05.2021."
+                "text": "Izmena aktivna do: 31.12.2021."
             },
             {
-                "text": "Zbog završetka dela radova u sklopu rekonstrukcije Savskog trga, počev od petka 30.10.2020. do 01.03.2021.  ⇢ 31.05.2021. (za saobraćaj je zatvorena Savska ulica, smer od Nemanjine ulice ka Palati pravde – u zoni pošte u Savskoj ulici), na snazi je i dalje izmenjen režim rada linija:"
+                "text": "Zbog završetka dela radova u sklopu rekonstrukcije Savskog trga, počev od petka 30.10.2020. do 01.03.2021.  ⇢ 31.12.2021. (za saobraćaj je zatvorena Savska ulica, smer od Nemanjine ulice ka Palati pravde – u zoni pošte u Savskoj ulici), na snazi je i dalje izmenjen režim rada linija:"
             },
             {
                 "text": "• Tramvajska linija 3L1 je i dalje ukinuta\n• Tramvaji sa linije 11 u oba smera saobraćaju na relaciji: Kalemegdan /Donji Grad/ – Stari savski most – Novi Beograd /Blok 45/\n• Tramvaji sa linije 12 u oba smera saobraćaju na relaciji: Omladinski stadion – Vukov spomenik – Tašmajdan – Savski trg – Stari savski most – Most na Adi – Banovo brdo\n• Autobuska linija 3A saobraća na relaciji Savski trg – Kneževac i to sledećom trasom: u smeru ka Kneževcu: Savski trg – Karađorđeva – Zemunski put – Bulevar Vudroa Vilsona – Nikolaja Kravcova – Savska – Bulevar vojvode Mišića – Topčiderska i dalje redovnom trasom; u smeru ka Savskom trgu: redovnom trasom do Bulevara vojvode Mišića – Savska – Savski trg."
