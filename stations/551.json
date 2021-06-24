@@ -3,8 +3,8 @@
     {
       "id": "_1",
       "label": "ТЦ Галериja",
-      "longitude": 20.445854,
-      "latitude": 44.801563
+      "longitude": 20.445457,
+      "latitude": 44.801256
     },
     {
       "id": "_2",
@@ -359,14 +359,14 @@
     {
       "id": "_31",
       "label": "Кула Београд",
-      "longitude": 20.44839,
-      "latitude": 44.803146
+      "longitude": 20.448054,
+      "latitude": 44.80299
     },
     {
       "id": "_32",
       "label": "ТЦ Галериja",
-      "longitude": 20.445854,
-      "latitude": 44.801563
+      "longitude": 20.445457,
+      "latitude": 44.801256
     }
   ]
 }
