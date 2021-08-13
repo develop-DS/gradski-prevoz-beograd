@@ -69,20 +69,20 @@
     {
       "id": "_12",
       "label": "Вождовац",
-      "longitude": 20.484091,
-      "latitude": 44.761266
+      "longitude": 20.483415,
+      "latitude": 44.761601
     },
     {
       "id": "_13",
-      "label": "Бебелова",
-      "longitude": 20.483378,
-      "latitude": 44.75877
+      "label": "Паунова",
+      "longitude": 20.475683,
+      "latitude": 44.761044
     },
     {
       "id": "_14",
-      "label": "Врачарска 1",
-      "longitude": 20.481079,
-      "latitude": 44.757182
+      "label": "Пет Солитера",
+      "longitude": 20.47298,
+      "latitude": 44.759255
     },
     {
       "id": "_15",
@@ -310,21 +310,21 @@
     },
     {
       "id": "_20",
-      "label": "Врачарска 1",
-      "longitude": 20.480966,
-      "latitude": 44.757127
+      "label": "Пет Солитера",
+      "longitude": 20.473212,
+      "latitude": 44.760063
     },
     {
       "id": "_21",
-      "label": "Бебелова",
-      "longitude": 20.483542,
-      "latitude": 44.758819
+      "label": "Паунова",
+      "longitude": 20.476934,
+      "latitude": 44.760861
     },
     {
       "id": "_22",
       "label": "Вождовац",
-      "longitude": 20.484282,
-      "latitude": 44.761298
+      "longitude": 20.483501,
+      "latitude": 44.761474
     },
     {
       "id": "_23",
