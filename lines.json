@@ -297,7 +297,9 @@
         "id": "VRABAC",
         "type": "EKO",
         "title": "Obilićev venac - Studentski trg - Kosančićev venac - Obilićev venac",
-        "info": ["Kružna linija"],
+        "info": [
+            "Kružna linija"
+        ],
         "weekday": {
             "starting_points_a": [
                 "10:00",
@@ -6429,19 +6431,18 @@
                 "05:15",
                 "05:25",
                 "05:34",
-                "05:34",
-                "05:42",
                 "05:43",
+                "05:48",
                 "05:51",
-                "05:59",
                 "06:01",
-                "06:04",
                 "06:07",
+                "06:12",
                 "06:15",
-                "06:15",
+                "06:16",
+                "06:21",
                 "06:23",
-                "06:25",
                 "06:31",
+                "06:35",
                 "06:39",
                 "06:47",
                 "06:55",
@@ -6481,13 +6482,11 @@
                 "12:00",
                 "12:09",
                 "12:18",
-                "12:22",
                 "12:28",
                 "12:37",
                 "12:46",
                 "12:46",
                 "12:56",
-                "13:05",
                 "13:05",
                 "13:14",
                 "13:23",
@@ -6578,14 +6577,14 @@
                 "07:54",
                 "08:03",
                 "08:12",
-                "08:16",
                 "08:21",
-                "08:29",
+                "08:27",
                 "08:30",
                 "08:40",
-                "08:49",
+                "08:42",
                 "08:49",
                 "08:58",
+                "09:01",
                 "09:08",
                 "09:17",
                 "09:26",
@@ -6633,18 +6632,17 @@
                 "15:56",
                 "16:05",
                 "16:15",
+                "16:20",
                 "16:24",
-                "16:30",
                 "16:33",
                 "16:43",
                 "16:52",
+                "16:53",
                 "17:01",
                 "17:10",
-                "17:18",
                 "17:20",
                 "17:29",
                 "17:38",
-                "17:43",
                 "17:48",
                 "17:57",
                 "18:06",
@@ -6664,28 +6662,27 @@
                 "20:04",
                 "20:12",
                 "20:21",
-                "20:28",
                 "20:29",
                 "20:37",
                 "20:45",
+                "20:49",
                 "20:53",
                 "21:02",
                 "21:11",
+                "21:17",
                 "21:21",
                 "21:31",
                 "21:42",
                 "21:54",
                 "22:06",
-                "22:14",
                 "22:18",
                 "22:31",
                 "22:44",
-                "22:52",
                 "22:57",
+                "23:10",
                 "23:11",
-                "23:15",
                 "23:25",
-                "23:35",
+                "23:25",
                 "23:35",
                 "23:55"
             ]
@@ -6699,12 +6696,12 @@
                 "05:09",
                 "05:26",
                 "05:38",
-                "05:44",
                 "05:49",
                 "06:00",
-                "06:04",
+                "06:10",
                 "06:11",
                 "06:22",
+                "06:26",
                 "06:33",
                 "06:45",
                 "06:56",
@@ -6715,7 +6712,6 @@
                 "07:52",
                 "08:02",
                 "08:11",
-                "08:15",
                 "08:20",
                 "08:30",
                 "08:39",
@@ -6905,11 +6901,10 @@
                 "20:00",
                 "20:10",
                 "20:19",
-                "20:25",
                 "20:28",
                 "20:38",
-                "20:39",
                 "20:47",
+                "20:49",
                 "20:57",
                 "21:07",
                 "21:18",
@@ -6919,12 +6914,10 @@
                 "22:03",
                 "22:16",
                 "22:30",
-                "22:43",
-                "22:48",
+                "22:44",
                 "23:01",
-                "23:15",
                 "23:18",
-                "23:35",
+                "23:20",
                 "23:35",
                 "23:55"
             ]
@@ -6938,12 +6931,12 @@
                 "05:09",
                 "05:26",
                 "05:38",
-                "05:44",
                 "05:49",
                 "06:00",
-                "06:04",
+                "06:10",
                 "06:11",
                 "06:22",
+                "06:26",
                 "06:33",
                 "06:45",
                 "06:56",
@@ -6954,7 +6947,6 @@
                 "07:52",
                 "08:02",
                 "08:11",
-                "08:15",
                 "08:20",
                 "08:30",
                 "08:39",
@@ -7144,11 +7136,10 @@
                 "20:00",
                 "20:10",
                 "20:19",
-                "20:25",
                 "20:28",
                 "20:38",
-                "20:39",
                 "20:47",
+                "20:49",
                 "20:57",
                 "21:07",
                 "21:18",
@@ -7158,12 +7149,10 @@
                 "22:03",
                 "22:16",
                 "22:30",
-                "22:43",
-                "22:48",
+                "22:44",
                 "23:01",
-                "23:15",
                 "23:18",
-                "23:35",
+                "23:20",
                 "23:35",
                 "23:55"
             ]
@@ -16412,13 +16401,11 @@
                 "05:00",
                 "05:30",
                 "05:55",
-                "06:10",
-                "06:24",
+                "06:20",
                 "06:36",
-                "06:48",
-                "07:00",
-                "07:12",
-                "07:24",
+                "06:51",
+                "07:06",
+                "07:21",
                 "07:36",
                 "07:48",
                 "08:00",
@@ -16501,15 +16488,13 @@
                 "05:25",
                 "05:49",
                 "06:09",
-                "06:25",
-                "06:40",
-                "06:54",
+                "06:29",
+                "06:49",
                 "07:06",
-                "07:18",
-                "07:30",
-                "07:42",
-                "07:54",
-                "08:06",
+                "07:21",
+                "07:36",
+                "07:51",
+                "08:05",
                 "08:18",
                 "08:30",
                 "08:42",
@@ -35202,7 +35187,9 @@
         "id": "57",
         "type": "BUS",
         "title": "Banovo brdo - Naselje Golf - Banovo brdo",
-        "info": ["Kružna linija"],
+        "info": [
+            "Kružna linija"
+        ],
         "weekday": {
             "starting_points_a": [
                 "06:00",
@@ -36336,7 +36323,13 @@
                 "18:10",
                 "19:10"
             ],
-            "starting_points_b": ["12:15", "13:15", "14:15", "17:45", "18:45"]
+            "starting_points_b": [
+                "12:15",
+                "13:15",
+                "14:15",
+                "17:45",
+                "18:45"
+            ]
         },
         "saturday": {
             "starting_points_a": [
@@ -45084,7 +45077,9 @@
         "id": "87",
         "type": "BUS",
         "title": "Čukarička padina - Banovo brdo - Čukarička padina",
-        "info": ["Kružna linija"],
+        "info": [
+            "Kružna linija"
+        ],
         "weekday": {
             "starting_points_a": [
                 "05:50",
@@ -51895,7 +51890,10 @@
         "id": "302",
         "type": "BUS",
         "title": "Ustanička - Grocka - Begaljica",
-        "info": ["* Svraća u Zaklopaču", "** Svraća u Boleč"],
+        "info": [
+            "* Svraća u Zaklopaču",
+            "** Svraća u Boleč"
+        ],
         "weekday": {
             "starting_points_a": [
                 "04:10",
@@ -55656,7 +55654,9 @@
         "id": "312",
         "type": "BUS",
         "title": "MZ Veliki Mokri Lug - Kumodraž - MZ Veliki Mokri Lug",
-        "info": ["Kružna linija"],
+        "info": [
+            "Kružna linija"
+        ],
         "weekday": {
             "starting_points_a": [
                 "06:15",
@@ -55887,10 +55887,20 @@
         "id": "352",
         "type": "BUS",
         "title": "Šumice - Dražanj",
-        "info": ["* Polazak označen zvezdicom saobraća na liniji 352A"],
+        "info": [
+            "* Polazak označen zvezdicom saobraća na liniji 352A"
+        ],
         "weekday": {
-            "starting_points_a": ["05:45", "16:00", "15:00*", "22:00"],
-            "starting_points_b": ["05:20*", "21:30"]
+            "starting_points_a": [
+                "05:45",
+                "16:00",
+                "15:00*",
+                "22:00"
+            ],
+            "starting_points_b": [
+                "05:20*",
+                "21:30"
+            ]
         },
         "saturday": {
             "starting_points_a": [],
@@ -55907,7 +55917,9 @@
         "title": "Dražanj - Živkovac - Šumice",
         "info": [],
         "weekday": {
-            "starting_points_a": ["04:00"],
+            "starting_points_a": [
+                "04:00"
+            ],
             "starting_points_b": []
         },
         "saturday": {
@@ -55925,7 +55937,9 @@
         "title": "Šumice - Vrčin - Zaklopača - Grocka - Kamendo",
         "info": [],
         "weekday": {
-            "starting_points_a": ["06:10"],
+            "starting_points_a": [
+                "06:10"
+            ],
             "starting_points_b": []
         },
         "saturday": {
@@ -55943,7 +55957,9 @@
         "title": "Živkovac - Grocka - Zaklopača - Vrčin - Šumice",
         "info": [],
         "weekday": {
-            "starting_points_a": ["14:30"],
+            "starting_points_a": [
+                "14:30"
+            ],
             "starting_points_b": []
         },
         "saturday": {
@@ -55961,12 +55977,24 @@
         "title": "Šumice - Vrčin - Zaklopača - Grocka",
         "info": [],
         "weekday": {
-            "starting_points_a": ["05:30", "12:50", "17:50"],
-            "starting_points_b": ["14:00", "19:00", "20:00"]
+            "starting_points_a": [
+                "05:30",
+                "12:50",
+                "17:50"
+            ],
+            "starting_points_b": [
+                "14:00",
+                "19:00",
+                "20:00"
+            ]
         },
         "saturday": {
-            "starting_points_a": ["05:30"],
-            "starting_points_b": ["20:00"]
+            "starting_points_a": [
+                "05:30"
+            ],
+            "starting_points_b": [
+                "20:00"
+            ]
         },
         "sunday": {
             "starting_points_a": [],
@@ -55980,15 +56008,21 @@
         "info": [],
         "weekday": {
             "starting_points_a": [],
-            "starting_points_b": ["16:15"]
+            "starting_points_b": [
+                "16:15"
+            ]
         },
         "saturday": {
             "starting_points_a": [],
             "starting_points_b": []
         },
         "sunday": {
-            "starting_points_a": ["17:00"],
-            "starting_points_b": ["18:45"]
+            "starting_points_a": [
+                "17:00"
+            ],
+            "starting_points_b": [
+                "18:45"
+            ]
         }
     },
     {
@@ -55997,15 +56031,21 @@
         "title": "Šumice - Živkovac - Dražanj",
         "info": [],
         "weekday": {
-            "starting_points_a": ["23:00"],
+            "starting_points_a": [
+                "23:00"
+            ],
             "starting_points_b": []
         },
         "saturday": {
-            "starting_points_a": ["23:00"],
+            "starting_points_a": [
+                "23:00"
+            ],
             "starting_points_b": []
         },
         "sunday": {
-            "starting_points_a": ["23:00"],
+            "starting_points_a": [
+                "23:00"
+            ],
             "starting_points_b": []
         }
     },
@@ -56015,7 +56055,9 @@
         "title": "Grocka - Kamendo - Umčari",
         "info": [],
         "weekday": {
-            "starting_points_a": ["19:00"],
+            "starting_points_a": [
+                "19:00"
+            ],
             "starting_points_b": []
         },
         "saturday": {
@@ -56034,15 +56076,29 @@
         "info": [],
         "weekday": {
             "starting_points_a": [],
-            "starting_points_b": ["20:20"]
+            "starting_points_b": [
+                "20:20"
+            ]
         },
         "saturday": {
-            "starting_points_a": ["10:30"],
-            "starting_points_b": ["12:00", "17:00", "20:20"]
+            "starting_points_a": [
+                "10:30"
+            ],
+            "starting_points_b": [
+                "12:00",
+                "17:00",
+                "20:20"
+            ]
         },
         "sunday": {
-            "starting_points_a": ["10:30"],
-            "starting_points_b": ["12:00", "17:00", "20:20"]
+            "starting_points_a": [
+                "10:30"
+            ],
+            "starting_points_b": [
+                "12:00",
+                "17:00",
+                "20:20"
+            ]
         }
     },
     {
@@ -56051,8 +56107,12 @@
         "title": "Šumice - Grocka - Brestovik - Pudarci",
         "info": [],
         "weekday": {
-            "starting_points_a": ["15:45"],
-            "starting_points_b": ["04:30"]
+            "starting_points_a": [
+                "15:45"
+            ],
+            "starting_points_b": [
+                "04:30"
+            ]
         },
         "saturday": {
             "starting_points_a": [],
@@ -56077,7 +56137,9 @@
             "starting_points_b": []
         },
         "sunday": {
-            "starting_points_a": ["16:15"],
+            "starting_points_a": [
+                "16:15"
+            ],
             "starting_points_b": []
         }
     },
@@ -56087,7 +56149,9 @@
         "title": "Dražanj - Grocka",
         "info": [],
         "weekday": {
-            "starting_points_a": ["18:30"],
+            "starting_points_a": [
+                "18:30"
+            ],
             "starting_points_b": []
         },
         "saturday": {
@@ -56105,15 +56169,21 @@
         "title": "Živkovac - Šumice",
         "info": [],
         "weekday": {
-            "starting_points_a": ["16:20"],
+            "starting_points_a": [
+                "16:20"
+            ],
             "starting_points_b": []
         },
         "saturday": {
-            "starting_points_a": ["16:20"],
+            "starting_points_a": [
+                "16:20"
+            ],
             "starting_points_b": []
         },
         "sunday": {
-            "starting_points_a": ["16:20"],
+            "starting_points_a": [
+                "16:20"
+            ],
             "starting_points_b": []
         }
     },
@@ -56131,15 +56201,37 @@
                 "18:30",
                 "20:15"
             ],
-            "starting_points_b": ["05:20", "06:00", "06:45", "11:50"]
+            "starting_points_b": [
+                "05:20",
+                "06:00",
+                "06:45",
+                "11:50"
+            ]
         },
         "saturday": {
-            "starting_points_a": ["07:20", "14:45", "16:15", "18:30"],
-            "starting_points_b": ["04:30", "05:20", "11:50"]
+            "starting_points_a": [
+                "07:20",
+                "14:45",
+                "16:15",
+                "18:30"
+            ],
+            "starting_points_b": [
+                "04:30",
+                "05:20",
+                "11:50"
+            ]
         },
         "sunday": {
-            "starting_points_a": ["07:20", "14:45", "18:30"],
-            "starting_points_b": ["04:30", "05:20", "06:00"]
+            "starting_points_a": [
+                "07:20",
+                "14:45",
+                "18:30"
+            ],
+            "starting_points_b": [
+                "04:30",
+                "05:20",
+                "06:00"
+            ]
         }
     },
     {
@@ -56148,16 +56240,28 @@
         "title": "Živkovac - Kamendo - Grocka",
         "info": [],
         "weekday": {
-            "starting_points_a": ["09:00"],
-            "starting_points_b": ["11:00"]
+            "starting_points_a": [
+                "09:00"
+            ],
+            "starting_points_b": [
+                "11:00"
+            ]
         },
         "saturday": {
-            "starting_points_a": ["09:00"],
-            "starting_points_b": ["11:00"]
+            "starting_points_a": [
+                "09:00"
+            ],
+            "starting_points_b": [
+                "11:00"
+            ]
         },
         "sunday": {
-            "starting_points_a": ["09:00"],
-            "starting_points_b": ["11:00"]
+            "starting_points_a": [
+                "09:00"
+            ],
+            "starting_points_b": [
+                "11:00"
+            ]
         }
     },
     {
@@ -56166,12 +56270,32 @@
         "title": "Grocka - Umčari - Mladenovac",
         "info": [],
         "weekday": {
-            "starting_points_a": ["06:30", "09:00", "14:30", "17:30"],
-            "starting_points_b": ["07:40", "13:10", "16:10", "18:45"]
+            "starting_points_a": [
+                "06:30",
+                "09:00",
+                "14:30",
+                "17:30"
+            ],
+            "starting_points_b": [
+                "07:40",
+                "13:10",
+                "16:10",
+                "18:45"
+            ]
         },
         "saturday": {
-            "starting_points_a": ["06:30", "09:00", "14:30", "17:30"],
-            "starting_points_b": ["07:40", "13:10", "16:10", "18:45"]
+            "starting_points_a": [
+                "06:30",
+                "09:00",
+                "14:30",
+                "17:30"
+            ],
+            "starting_points_b": [
+                "07:40",
+                "13:10",
+                "16:10",
+                "18:45"
+            ]
         },
         "sunday": {
             "starting_points_a": [],
@@ -56184,8 +56308,13 @@
         "title": "Šumice - Umčari - Kamendo",
         "info": [],
         "weekday": {
-            "starting_points_a": ["11:00"],
-            "starting_points_b": ["07:25", "12:10"]
+            "starting_points_a": [
+                "11:00"
+            ],
+            "starting_points_b": [
+                "07:25",
+                "12:10"
+            ]
         },
         "saturday": {
             "starting_points_a": [],
@@ -56202,7 +56331,9 @@
         "title": "Kamendo - Umčari - Šumice",
         "info": [],
         "weekday": {
-            "starting_points_a": ["05:30"],
+            "starting_points_a": [
+                "05:30"
+            ],
             "starting_points_b": []
         },
         "saturday": {
@@ -56218,7 +56349,9 @@
         "id": "401",
         "type": "BUS",
         "title": "Slavija /Birčaninova/ - Pinosava",
-        "info": ["* Svraća u Beli Potok"],
+        "info": [
+            "* Svraća u Beli Potok"
+        ],
         "weekday": {
             "starting_points_a": [
                 "04:00",
@@ -57411,7 +57544,9 @@
         "id": "405L",
         "type": "BUS",
         "title": "Glumčevo brdo - Nenadovac - Karaula - Barajevo - Karaula - Glumčevo brdo",
-        "info": ["Kružna linija"],
+        "info": [
+            "Kružna linija"
+        ],
         "weekday": {
             "starting_points_a": [
                 "05:00",
@@ -58544,12 +58679,32 @@
             ]
         },
         "saturday": {
-            "starting_points_a": ["06:40", "10:50", "15:00", "21:30"],
-            "starting_points_b": ["05:15", "09:20", "13:20", "19:40"]
+            "starting_points_a": [
+                "06:40",
+                "10:50",
+                "15:00",
+                "21:30"
+            ],
+            "starting_points_b": [
+                "05:15",
+                "09:20",
+                "13:20",
+                "19:40"
+            ]
         },
         "sunday": {
-            "starting_points_a": ["06:40", "10:50", "15:00", "21:30"],
-            "starting_points_b": ["05:15", "09:20", "13:20", "19:40"]
+            "starting_points_a": [
+                "06:40",
+                "10:50",
+                "15:00",
+                "21:30"
+            ],
+            "starting_points_b": [
+                "05:15",
+                "09:20",
+                "13:20",
+                "19:40"
+            ]
         }
     },
     {
@@ -58558,16 +58713,41 @@
         "title": "Beograd - Stojnik",
         "info": [],
         "weekday": {
-            "starting_points_a": ["07:15", "15:30", "17:30", "20:30", "22:10"],
-            "starting_points_b": ["04:20", "05:20"]
+            "starting_points_a": [
+                "07:15",
+                "15:30",
+                "17:30",
+                "20:30",
+                "22:10"
+            ],
+            "starting_points_b": [
+                "04:20",
+                "05:20"
+            ]
         },
         "saturday": {
-            "starting_points_a": ["07:15", "15:30", "20:30", "22:10"],
-            "starting_points_b": ["04:20", "05:20"]
+            "starting_points_a": [
+                "07:15",
+                "15:30",
+                "20:30",
+                "22:10"
+            ],
+            "starting_points_b": [
+                "04:20",
+                "05:20"
+            ]
         },
         "sunday": {
-            "starting_points_a": ["07:15", "15:30", "20:30", "22:10"],
-            "starting_points_b": ["04:20", "05:20"]
+            "starting_points_a": [
+                "07:15",
+                "15:30",
+                "20:30",
+                "22:10"
+            ],
+            "starting_points_b": [
+                "04:20",
+                "05:20"
+            ]
         }
     },
     {
@@ -58576,15 +58756,25 @@
         "title": "Stojnik - Beograd",
         "info": [],
         "weekday": {
-            "starting_points_a": ["09:10", "17:25", "19:25"],
+            "starting_points_a": [
+                "09:10",
+                "17:25",
+                "19:25"
+            ],
             "starting_points_b": []
         },
         "saturday": {
-            "starting_points_a": ["09:10", "17:25"],
+            "starting_points_a": [
+                "09:10",
+                "17:25"
+            ],
             "starting_points_b": []
         },
         "sunday": {
-            "starting_points_a": ["09:10", "17:25"],
+            "starting_points_a": [
+                "09:10",
+                "17:25"
+            ],
             "starting_points_b": []
         }
     },
@@ -58594,16 +58784,26 @@
         "title": "Beograd - Mala Ivanča",
         "info": [],
         "weekday": {
-            "starting_points_a": ["05:15", "16:15"],
-            "starting_points_b": ["06:20", "17:30"]
+            "starting_points_a": [
+                "05:15",
+                "16:15"
+            ],
+            "starting_points_b": [
+                "06:20",
+                "17:30"
+            ]
         },
         "saturday": {
             "starting_points_a": [],
-            "starting_points_b": ["06:20"]
+            "starting_points_b": [
+                "06:20"
+            ]
         },
         "sunday": {
             "starting_points_a": [],
-            "starting_points_b": ["06:20"]
+            "starting_points_b": [
+                "06:20"
+            ]
         }
     },
     {
@@ -58612,15 +58812,21 @@
         "title": "Beograd - Mali Popović - Ralja /Drumine/ - Mala Ivanča",
         "info": [],
         "weekday": {
-            "starting_points_a": ["21:00"],
+            "starting_points_a": [
+                "21:00"
+            ],
             "starting_points_b": []
         },
         "saturday": {
-            "starting_points_a": ["21:00"],
+            "starting_points_a": [
+                "21:00"
+            ],
             "starting_points_b": []
         },
         "sunday": {
-            "starting_points_a": ["21:00"],
+            "starting_points_a": [
+                "21:00"
+            ],
             "starting_points_b": []
         }
     },
@@ -58816,16 +59022,37 @@
         "title": "Šumice - Vrčin - Jaričište",
         "info": [],
         "weekday": {
-            "starting_points_a": ["05:00", "05:30", "06:40", "19:00", "20:30"],
-            "starting_points_b": ["05:40", "07:20", "19:40", "21:10", "23:10"]
+            "starting_points_a": [
+                "05:00",
+                "05:30",
+                "06:40",
+                "19:00",
+                "20:30"
+            ],
+            "starting_points_b": [
+                "05:40",
+                "07:20",
+                "19:40",
+                "21:10",
+                "23:10"
+            ]
         },
         "saturday": {
-            "starting_points_a": ["05:00", "05:30"],
-            "starting_points_b": ["05:00", "05:40", "23:10"]
+            "starting_points_a": [
+                "05:00",
+                "05:30"
+            ],
+            "starting_points_b": [
+                "05:00",
+                "05:40",
+                "23:10"
+            ]
         },
         "sunday": {
             "starting_points_a": [],
-            "starting_points_b": ["05:00"]
+            "starting_points_b": [
+                "05:00"
+            ]
         }
     },
     {
@@ -58838,11 +59065,20 @@
             "starting_points_b": []
         },
         "saturday": {
-            "starting_points_a": ["09:20", "12:00", "17:00"],
+            "starting_points_a": [
+                "09:20",
+                "12:00",
+                "17:00"
+            ],
             "starting_points_b": []
         },
         "sunday": {
-            "starting_points_a": ["04:50", "09:20", "12:20", "17:00"],
+            "starting_points_a": [
+                "04:50",
+                "09:20",
+                "12:20",
+                "17:00"
+            ],
             "starting_points_b": []
         }
     },
@@ -58852,16 +59088,30 @@
         "title": "Sopot - Mali Popović - Mali Požarevac - Beograd",
         "info": [],
         "weekday": {
-            "starting_points_a": ["05:00", "05:30", "18:10"],
-            "starting_points_b": ["15:25"]
+            "starting_points_a": [
+                "05:00",
+                "05:30",
+                "18:10"
+            ],
+            "starting_points_b": [
+                "15:25"
+            ]
         },
         "saturday": {
-            "starting_points_a": ["05:30"],
-            "starting_points_b": ["15:25"]
+            "starting_points_a": [
+                "05:30"
+            ],
+            "starting_points_b": [
+                "15:25"
+            ]
         },
         "sunday": {
-            "starting_points_a": ["05:30"],
-            "starting_points_b": ["15:25"]
+            "starting_points_a": [
+                "05:30"
+            ],
+            "starting_points_b": [
+                "15:25"
+            ]
         }
     },
     {
@@ -59043,15 +59293,24 @@
         "title": "Beograd - Sopot",
         "info": [],
         "weekday": {
-            "starting_points_a": ["07:30", "14:45", "19:00"],
+            "starting_points_a": [
+                "07:30",
+                "14:45",
+                "19:00"
+            ],
             "starting_points_b": []
         },
         "saturday": {
-            "starting_points_a": ["14:45", "19:00"],
+            "starting_points_a": [
+                "14:45",
+                "19:00"
+            ],
             "starting_points_b": []
         },
         "sunday": {
-            "starting_points_a": ["19:00"],
+            "starting_points_a": [
+                "19:00"
+            ],
             "starting_points_b": []
         }
     },
@@ -59059,18 +59318,44 @@
         "id": "466",
         "type": "BUS",
         "title": "Beograd - Jaričište - Vrčin",
-        "info": ["* Polazak označen zvezdicom saobraća na liniji 466A"],
+        "info": [
+            "* Polazak označen zvezdicom saobraća na liniji 466A"
+        ],
         "weekday": {
-            "starting_points_a": ["04:40*", "06:30", "11:50", "15:10", "17:10"],
-            "starting_points_b": ["05:30", "07:30", "12:50", "16:10", "18:10"]
+            "starting_points_a": [
+                "04:40*",
+                "06:30",
+                "11:50",
+                "15:10",
+                "17:10"
+            ],
+            "starting_points_b": [
+                "05:30",
+                "07:30",
+                "12:50",
+                "16:10",
+                "18:10"
+            ]
         },
         "saturday": {
-            "starting_points_a": ["06:30", "15:10"],
-            "starting_points_b": ["07:30", "16:10"]
+            "starting_points_a": [
+                "06:30",
+                "15:10"
+            ],
+            "starting_points_b": [
+                "07:30",
+                "16:10"
+            ]
         },
         "sunday": {
-            "starting_points_a": ["06:30", "15:10"],
-            "starting_points_b": ["07:30", "16:10"]
+            "starting_points_a": [
+                "06:30",
+                "15:10"
+            ],
+            "starting_points_b": [
+                "07:30",
+                "16:10"
+            ]
         }
     },
     {
@@ -59117,8 +59402,12 @@
         "title": "Beograd - Vrčin - Grocka",
         "info": [],
         "weekday": {
-            "starting_points_a": ["08:30"],
-            "starting_points_b": ["10:15"]
+            "starting_points_a": [
+                "08:30"
+            ],
+            "starting_points_b": [
+                "10:15"
+            ]
         },
         "saturday": {
             "starting_points_a": [],
@@ -59156,12 +59445,34 @@
             ]
         },
         "saturday": {
-            "starting_points_a": ["06:15", "10:30", "15:15", "17:15"],
-            "starting_points_b": ["04:45", "07:40", "12:00", "17:00", "19:00"]
+            "starting_points_a": [
+                "06:15",
+                "10:30",
+                "15:15",
+                "17:15"
+            ],
+            "starting_points_b": [
+                "04:45",
+                "07:40",
+                "12:00",
+                "17:00",
+                "19:00"
+            ]
         },
         "sunday": {
-            "starting_points_a": ["06:15", "10:30", "15:15", "17:15"],
-            "starting_points_b": ["04:45", "07:40", "12:00", "17:00", "19:00"]
+            "starting_points_a": [
+                "06:15",
+                "10:30",
+                "15:15",
+                "17:15"
+            ],
+            "starting_points_b": [
+                "04:45",
+                "07:40",
+                "12:00",
+                "17:00",
+                "19:00"
+            ]
         }
     },
     {
@@ -59170,15 +59481,22 @@
         "title": "Beograd - Parcani - Mala Ivanča",
         "info": [],
         "weekday": {
-            "starting_points_a": ["08:00", "22:30"],
+            "starting_points_a": [
+                "08:00",
+                "22:30"
+            ],
             "starting_points_b": []
         },
         "saturday": {
-            "starting_points_a": ["22:30"],
+            "starting_points_a": [
+                "22:30"
+            ],
             "starting_points_b": []
         },
         "sunday": {
-            "starting_points_a": ["22:30"],
+            "starting_points_a": [
+                "22:30"
+            ],
             "starting_points_b": []
         }
     },
@@ -59188,12 +59506,28 @@
         "title": "Beograd - Parcani",
         "info": [],
         "weekday": {
-            "starting_points_a": ["10:45", "16:30", "21:00"],
-            "starting_points_b": ["05:15", "12:00", "18:00"]
+            "starting_points_a": [
+                "10:45",
+                "16:30",
+                "21:00"
+            ],
+            "starting_points_b": [
+                "05:15",
+                "12:00",
+                "18:00"
+            ]
         },
         "saturday": {
-            "starting_points_a": ["10:45", "16:30", "21:00"],
-            "starting_points_b": ["05:15", "12:00", "18:00"]
+            "starting_points_a": [
+                "10:45",
+                "16:30",
+                "21:00"
+            ],
+            "starting_points_b": [
+                "05:15",
+                "12:00",
+                "18:00"
+            ]
         },
         "sunday": {
             "starting_points_a": [],
@@ -59204,7 +59538,9 @@
         "id": "491",
         "type": "BUS",
         "title": "Beograd - Mladenovac",
-        "info": ["* Polazak označen zvezdicom saobraća na liniji 491A"],
+        "info": [
+            "* Polazak označen zvezdicom saobraća na liniji 491A"
+        ],
         "weekday": {
             "starting_points_a": [
                 "05:40",
@@ -59333,22 +59669,40 @@
                 "22:15",
                 "23:15"
             ],
-            "starting_points_b": ["03:50"]
+            "starting_points_b": [
+                "03:50"
+            ]
         },
         "saturday": {
-            "starting_points_a": ["06:40", "21:30", "22:15", "23:15"],
-            "starting_points_b": ["03:50"]
+            "starting_points_a": [
+                "06:40",
+                "21:30",
+                "22:15",
+                "23:15"
+            ],
+            "starting_points_b": [
+                "03:50"
+            ]
         },
         "sunday": {
-            "starting_points_a": ["06:40", "21:30", "22:15", "23:15"],
-            "starting_points_b": ["03:50"]
+            "starting_points_a": [
+                "06:40",
+                "21:30",
+                "22:15",
+                "23:15"
+            ],
+            "starting_points_b": [
+                "03:50"
+            ]
         }
     },
     {
         "id": "493",
         "type": "BUS",
         "title": "Beograd - Mladenovac",
-        "info": ["* Polazak označen zvezdicom saobraća na liniji 493A"],
+        "info": [
+            "* Polazak označen zvezdicom saobraća na liniji 493A"
+        ],
         "weekday": {
             "starting_points_a": [
                 "05:00",
@@ -59756,16 +60110,40 @@
         "title": "Mladenovac - Glišići - Šepšin - Beograd",
         "info": [],
         "weekday": {
-            "starting_points_a": ["04:00", "05:00", "11:00", "17:30"],
-            "starting_points_b": ["07:45", "13:15", "15:45", "20:15"]
+            "starting_points_a": [
+                "04:00",
+                "05:00",
+                "11:00",
+                "17:30"
+            ],
+            "starting_points_b": [
+                "07:45",
+                "13:15",
+                "15:45",
+                "20:15"
+            ]
         },
         "saturday": {
-            "starting_points_a": ["04:00", "05:00", "17:30"],
-            "starting_points_b": ["07:45", "15:45", "20:15"]
+            "starting_points_a": [
+                "04:00",
+                "05:00",
+                "17:30"
+            ],
+            "starting_points_b": [
+                "07:45",
+                "15:45",
+                "20:15"
+            ]
         },
         "sunday": {
-            "starting_points_a": ["05:00", "17:30"],
-            "starting_points_b": ["07:45", "20:15"]
+            "starting_points_a": [
+                "05:00",
+                "17:30"
+            ],
+            "starting_points_b": [
+                "07:45",
+                "20:15"
+            ]
         }
     },
     {
@@ -60209,28 +60587,26 @@
             "starting_points_a": [
                 "05:35",
                 "06:10",
-                "06:45",
-                "07:20",
-                "07:55",
-                "08:35",
-                "09:15",
-                "09:55",
-                "10:35",
-                "11:15",
-                "11:55",
-                "12:35",
-                "13:15",
-                "13:55",
-                "14:35",
-                "15:15",
-                "15:55",
-                "16:35",
-                "17:15",
-                "17:55",
-                "18:35",
-                "19:15",
-                "19:55",
-                "20:35",
+                "06:53",
+                "07:36",
+                "08:19",
+                "09:02",
+                "09:45",
+                "10:28",
+                "11:11",
+                "11:54",
+                "12:37",
+                "13:20",
+                "14:03",
+                "14:46",
+                "15:29",
+                "16:12",
+                "16:55",
+                "17:38",
+                "18:21",
+                "19:04",
+                "19:47",
+                "20:30",
                 "21:15",
                 "22:35"
             ],
@@ -60238,27 +60614,25 @@
                 "05:00",
                 "05:35",
                 "06:10",
-                "06:45",
-                "07:20",
-                "07:55",
-                "08:35",
-                "09:15",
-                "09:55",
-                "10:35",
-                "11:15",
-                "11:55",
-                "12:35",
-                "13:15",
-                "13:55",
-                "14:35",
-                "15:15",
-                "15:55",
-                "16:35",
-                "17:15",
-                "17:55",
-                "18:35",
-                "19:15",
-                "19:55",
+                "06:52",
+                "07:35",
+                "08:18",
+                "09:01",
+                "09:44",
+                "10:27",
+                "11:10",
+                "11:53",
+                "12:36",
+                "13:19",
+                "14:02",
+                "14:45",
+                "15:28",
+                "16:11",
+                "16:54",
+                "17:37",
+                "18:20",
+                "19:05",
+                "19:50",
                 "20:35",
                 "21:55"
             ]
@@ -63220,7 +63594,9 @@
         "id": "521",
         "type": "BUS",
         "title": "Vidikovac - Železnik /Taraiš/",
-        "info": ["* Svraća do Bore Kečića"],
+        "info": [
+            "* Svraća do Bore Kečića"
+        ],
         "weekday": {
             "starting_points_a": [
                 "04:38",
@@ -63466,7 +63842,9 @@
         "id": "522",
         "type": "BUS",
         "title": "Novi Železnik - Milorada Ćirića - Novi Železnik",
-        "info": ["Kružna linija"],
+        "info": [
+            "Kružna linija"
+        ],
         "weekday": {
             "starting_points_a": [
                 "06:00",
@@ -63577,7 +63955,9 @@
         "id": "531",
         "type": "BUS",
         "title": "Banovo brdo - Rušanj /13. Septembra/",
-        "info": ["* Polazak staje na stanicu “Groblje Orlovača”"],
+        "info": [
+            "* Polazak staje na stanicu “Groblje Orlovača”"
+        ],
         "weekday": {
             "starting_points_a": [
                 "04:50",
@@ -63851,7 +64231,9 @@
         "id": "532",
         "type": "BUS",
         "title": "Banovo brdo - Rušanj /Ul. Oslobođenja/",
-        "info": ["* Polazak staje na stanicu “Groblje Orlovača”"],
+        "info": [
+            "* Polazak staje na stanicu “Groblje Orlovača”"
+        ],
         "weekday": {
             "starting_points_a": [
                 "04:20",
@@ -65212,8 +65594,14 @@
         "title": "Banovo brdo - Sremčica - Barajevo",
         "info": [],
         "weekday": {
-            "starting_points_a": ["07:00", "12:45"],
-            "starting_points_b": ["13:30", "19:10"]
+            "starting_points_a": [
+                "07:00",
+                "12:45"
+            ],
+            "starting_points_b": [
+                "13:30",
+                "19:10"
+            ]
         },
         "saturday": {
             "starting_points_a": [],
@@ -65230,8 +65618,15 @@
         "title": "Beograd - Barajevo",
         "info": [],
         "weekday": {
-            "starting_points_a": ["07:15", "15:25", "17:00"],
-            "starting_points_b": ["06:15", "14:20"]
+            "starting_points_a": [
+                "07:15",
+                "15:25",
+                "17:00"
+            ],
+            "starting_points_b": [
+                "06:15",
+                "14:20"
+            ]
         },
         "saturday": {
             "starting_points_a": [],
@@ -65248,11 +65643,15 @@
         "title": "Barajevo - Guncati - Baćevac - Banovo brdo",
         "info": [],
         "weekday": {
-            "starting_points_a": ["14:00"],
+            "starting_points_a": [
+                "14:00"
+            ],
             "starting_points_b": []
         },
         "saturday": {
-            "starting_points_a": ["14:00"],
+            "starting_points_a": [
+                "14:00"
+            ],
             "starting_points_b": []
         },
         "sunday": {
@@ -65266,7 +65665,10 @@
         "title": "Barajevo - Baćevac - Banovo brdo",
         "info": [],
         "weekday": {
-            "starting_points_a": ["05:10", "06:10"],
+            "starting_points_a": [
+                "05:10",
+                "06:10"
+            ],
             "starting_points_b": []
         },
         "saturday": {
@@ -65571,16 +65973,35 @@
         "title": "Beograd - Lazarevac /Bolnica/",
         "info": [],
         "weekday": {
-            "starting_points_a": ["05:30", "11:30"],
-            "starting_points_b": ["07:10", "13:15", "19:10"]
+            "starting_points_a": [
+                "05:30",
+                "11:30"
+            ],
+            "starting_points_b": [
+                "07:10",
+                "13:15",
+                "19:10"
+            ]
         },
         "saturday": {
-            "starting_points_a": ["05:30", "11:30"],
-            "starting_points_b": ["07:10", "13:15"]
+            "starting_points_a": [
+                "05:30",
+                "11:30"
+            ],
+            "starting_points_b": [
+                "07:10",
+                "13:15"
+            ]
         },
         "sunday": {
-            "starting_points_a": ["05:30", "11:30"],
-            "starting_points_b": ["07:10", "13:15"]
+            "starting_points_a": [
+                "05:30",
+                "11:30"
+            ],
+            "starting_points_b": [
+                "07:10",
+                "13:15"
+            ]
         }
     },
     {
@@ -65589,7 +66010,10 @@
         "title": "Trbušnica - Beograd",
         "info": [],
         "weekday": {
-            "starting_points_a": ["05:05", "06:50"],
+            "starting_points_a": [
+                "05:05",
+                "06:50"
+            ],
             "starting_points_b": []
         },
         "saturday": {
@@ -65607,7 +66031,9 @@
         "title": "Beograd - Kruševica",
         "info": [],
         "weekday": {
-            "starting_points_a": ["17:15"],
+            "starting_points_a": [
+                "17:15"
+            ],
             "starting_points_b": []
         },
         "saturday": {
@@ -65629,8 +66055,12 @@
             "starting_points_b": []
         },
         "saturday": {
-            "starting_points_a": ["16:30"],
-            "starting_points_b": ["05:00"]
+            "starting_points_a": [
+                "16:30"
+            ],
+            "starting_points_b": [
+                "05:00"
+            ]
         },
         "sunday": {
             "starting_points_a": [],
@@ -65643,8 +66073,16 @@
         "title": "Banovo brdo - Stepojevac - Termoelektrana",
         "info": [],
         "weekday": {
-            "starting_points_a": ["05:00", "14:00", "16:00"],
-            "starting_points_b": ["06:00", "15:00", "17:00"]
+            "starting_points_a": [
+                "05:00",
+                "14:00",
+                "16:00"
+            ],
+            "starting_points_b": [
+                "06:00",
+                "15:00",
+                "17:00"
+            ]
         },
         "saturday": {
             "starting_points_a": [],
@@ -65661,8 +66099,12 @@
         "title": "Beograd - Leskovac /Kolubarski/ - Mirosaljci",
         "info": [],
         "weekday": {
-            "starting_points_a": ["16:30"],
-            "starting_points_b": ["04:45"]
+            "starting_points_a": [
+                "16:30"
+            ],
+            "starting_points_b": [
+                "04:45"
+            ]
         },
         "saturday": {
             "starting_points_a": [],
@@ -65787,7 +66229,9 @@
         "title": "Rašića kraj - Vranić - Banovo brdo",
         "info": [],
         "weekday": {
-            "starting_points_a": ["07:00"],
+            "starting_points_a": [
+                "07:00"
+            ],
             "starting_points_b": []
         },
         "saturday": {
@@ -65823,12 +66267,36 @@
             ]
         },
         "saturday": {
-            "starting_points_a": ["07:00", "13:30", "15:30", "19:00", "22:00"],
-            "starting_points_b": ["04:55", "08:00", "14:30", "16:30", "20:00"]
+            "starting_points_a": [
+                "07:00",
+                "13:30",
+                "15:30",
+                "19:00",
+                "22:00"
+            ],
+            "starting_points_b": [
+                "04:55",
+                "08:00",
+                "14:30",
+                "16:30",
+                "20:00"
+            ]
         },
         "sunday": {
-            "starting_points_a": ["07:00", "13:30", "15:30", "19:00", "22:00"],
-            "starting_points_b": ["04:55", "08:00", "14:30", "16:30", "20:00"]
+            "starting_points_a": [
+                "07:00",
+                "13:30",
+                "15:30",
+                "19:00",
+                "22:00"
+            ],
+            "starting_points_b": [
+                "04:55",
+                "08:00",
+                "14:30",
+                "16:30",
+                "20:00"
+            ]
         }
     },
     {
@@ -65838,14 +66306,21 @@
         "info": [],
         "weekday": {
             "starting_points_a": [],
-            "starting_points_b": ["13:30", "17:30"]
+            "starting_points_b": [
+                "13:30",
+                "17:30"
+            ]
         },
         "saturday": {
-            "starting_points_a": ["06:00"],
+            "starting_points_a": [
+                "06:00"
+            ],
             "starting_points_b": []
         },
         "sunday": {
-            "starting_points_a": ["06:00"],
+            "starting_points_a": [
+                "06:00"
+            ],
             "starting_points_b": []
         }
     },
@@ -65855,7 +66330,9 @@
         "title": "Banovo brdo - Meljak - Rašića kraj",
         "info": [],
         "weekday": {
-            "starting_points_a": ["06:00"],
+            "starting_points_a": [
+                "06:00"
+            ],
             "starting_points_b": []
         },
         "saturday": {
@@ -65873,7 +66350,9 @@
         "title": "Šiljakovac - Meljak - Banovo brdo",
         "info": [],
         "weekday": {
-            "starting_points_a": ["05:30"],
+            "starting_points_a": [
+                "05:30"
+            ],
             "starting_points_b": []
         },
         "saturday": {
@@ -66524,39 +67003,37 @@
                 "06:16",
                 "06:41",
                 "07:07",
-                "07:32",
-                "07:58",
-                "08:23",
-                "08:48",
-                "09:14",
-                "09:39",
-                "10:04",
-                "10:30",
-                "10:55",
-                "11:20",
-                "11:46",
-                "12:11",
-                "12:37",
-                "13:03",
-                "13:29",
-                "13:56",
-                "14:23",
-                "14:49",
-                "15:16",
-                "15:43",
-                "16:09",
-                "16:36",
-                "17:03",
-                "17:29",
-                "17:56",
-                "18:23",
-                "18:50",
-                "19:17",
-                "19:53",
-                "20:29",
-                "21:05",
-                "21:41",
-                "22:18",
+                "07:34",
+                "08:01",
+                "08:28",
+                "08:56",
+                "09:24",
+                "09:52",
+                "10:20",
+                "10:48",
+                "11:16",
+                "11:44",
+                "12:12",
+                "12:40",
+                "13:08",
+                "13:36",
+                "14:04",
+                "14:32",
+                "15:00",
+                "15:28",
+                "15:56",
+                "16:24",
+                "16:52",
+                "17:20",
+                "17:48",
+                "18:16",
+                "18:44",
+                "19:12",
+                "19:40",
+                "20:19",
+                "20:58",
+                "21:37",
+                "22:16",
                 "22:55"
             ],
             "starting_points_b": [
@@ -66565,41 +67042,39 @@
                 "05:34",
                 "06:00",
                 "06:26",
-                "06:51",
-                "07:17",
-                "07:43",
-                "08:08",
-                "08:34",
-                "08:59",
-                "09:24",
-                "09:50",
-                "10:15",
-                "10:40",
-                "11:06",
-                "11:31",
-                "11:57",
+                "06:52",
+                "07:18",
+                "07:45",
+                "08:12",
+                "08:39",
+                "09:07",
+                "09:35",
+                "10:03",
+                "10:31",
+                "10:59",
+                "11:27",
+                "11:55",
                 "12:23",
-                "12:49",
-                "13:16",
-                "13:43",
-                "14:09",
-                "14:36",
-                "15:03",
-                "15:29",
-                "15:55",
-                "16:22",
-                "16:48",
-                "17:14",
-                "17:41",
-                "18:07",
-                "18:33",
-                "18:59",
-                "19:25",
-                "19:53",
-                "20:29",
-                "21:05",
-                "21:41",
-                "22:18",
+                "12:51",
+                "13:19",
+                "13:47",
+                "14:15",
+                "14:43",
+                "15:11",
+                "15:39",
+                "16:07",
+                "16:35",
+                "17:03",
+                "17:31",
+                "17:59",
+                "18:27",
+                "18:55",
+                "19:23",
+                "19:51",
+                "20:19",
+                "20:58",
+                "21:37",
+                "22:16",
                 "22:55",
                 "23:35"
             ]
@@ -66608,138 +67083,130 @@
             "starting_points_a": [
                 "04:30",
                 "05:10",
-                "05:46",
-                "06:22",
-                "06:58",
-                "07:34",
-                "08:10",
-                "08:46",
-                "09:22",
-                "09:58",
-                "10:34",
-                "11:10",
-                "11:46",
-                "12:22",
-                "12:58",
-                "13:34",
-                "14:10",
-                "14:46",
-                "15:22",
-                "15:58",
-                "16:34",
-                "17:10",
-                "17:46",
-                "18:22",
-                "18:58",
-                "19:34",
-                "20:10",
-                "20:46",
-                "21:22",
-                "21:58",
-                "22:40"
+                "05:50",
+                "06:29",
+                "07:08",
+                "07:47",
+                "08:26",
+                "09:05",
+                "09:44",
+                "10:23",
+                "11:02",
+                "11:41",
+                "12:20",
+                "12:59",
+                "13:38",
+                "14:17",
+                "14:56",
+                "15:35",
+                "16:14",
+                "16:53",
+                "17:32",
+                "18:11",
+                "18:50",
+                "19:29",
+                "20:08",
+                "20:47",
+                "21:26",
+                "22:05",
+                "22:45"
             ],
             "starting_points_b": [
                 "04:30",
                 "05:10",
-                "05:46",
-                "06:22",
-                "06:58",
-                "07:34",
-                "08:10",
-                "08:46",
-                "09:22",
-                "09:58",
-                "10:34",
-                "11:10",
-                "11:46",
-                "12:22",
+                "05:49",
+                "06:28",
+                "07:07",
+                "07:46",
+                "08:25",
+                "09:04",
+                "09:43",
+                "10:22",
+                "11:01",
+                "11:40",
+                "12:19",
                 "12:58",
-                "13:34",
-                "14:10",
-                "14:46",
-                "15:22",
-                "15:58",
-                "16:34",
-                "17:10",
-                "17:46",
-                "18:22",
-                "18:58",
-                "19:34",
-                "20:10",
+                "13:37",
+                "14:16",
+                "14:55",
+                "15:34",
+                "16:13",
+                "16:52",
+                "17:31",
+                "18:10",
+                "18:49",
+                "19:28",
+                "20:07",
                 "20:46",
-                "21:22",
-                "21:58",
-                "22:34",
-                "23:15"
+                "21:25",
+                "22:05",
+                "22:45",
+                "23:25"
             ]
         },
         "sunday": {
             "starting_points_a": [
                 "04:30",
                 "05:10",
-                "05:46",
-                "06:22",
-                "06:58",
-                "07:34",
-                "08:10",
-                "08:46",
-                "09:22",
-                "09:58",
-                "10:34",
-                "11:10",
-                "11:46",
-                "12:22",
-                "12:58",
-                "13:34",
-                "14:10",
-                "14:46",
-                "15:22",
-                "15:58",
-                "16:34",
-                "17:10",
-                "17:46",
-                "18:22",
-                "18:58",
-                "19:34",
-                "20:10",
-                "20:46",
-                "21:22",
-                "21:58",
-                "22:40"
+                "05:50",
+                "06:29",
+                "07:08",
+                "07:47",
+                "08:26",
+                "09:05",
+                "09:44",
+                "10:23",
+                "11:02",
+                "11:41",
+                "12:20",
+                "12:59",
+                "13:38",
+                "14:17",
+                "14:56",
+                "15:35",
+                "16:14",
+                "16:53",
+                "17:32",
+                "18:11",
+                "18:50",
+                "19:29",
+                "20:08",
+                "20:47",
+                "21:26",
+                "22:05",
+                "22:45"
             ],
             "starting_points_b": [
                 "04:30",
                 "05:10",
-                "05:46",
-                "06:22",
-                "06:58",
-                "07:34",
-                "08:10",
-                "08:46",
-                "09:22",
-                "09:58",
-                "10:34",
-                "11:10",
-                "11:46",
-                "12:22",
+                "05:49",
+                "06:28",
+                "07:07",
+                "07:46",
+                "08:25",
+                "09:04",
+                "09:43",
+                "10:22",
+                "11:01",
+                "11:40",
+                "12:19",
                 "12:58",
-                "13:34",
-                "14:10",
-                "14:46",
-                "15:22",
-                "15:58",
-                "16:34",
-                "17:10",
-                "17:46",
-                "18:22",
-                "18:58",
-                "19:34",
-                "20:10",
+                "13:37",
+                "14:16",
+                "14:55",
+                "15:34",
+                "16:13",
+                "16:52",
+                "17:31",
+                "18:10",
+                "18:49",
+                "19:28",
+                "20:07",
                 "20:46",
-                "21:22",
-                "21:58",
-                "22:34",
-                "23:15"
+                "21:25",
+                "22:05",
+                "22:45",
+                "23:25"
             ]
         }
     },
@@ -68634,6 +69101,7 @@
         "info": [],
         "weekday": {
             "starting_points_a": [
+                "06:10",
                 "06:15",
                 "07:45",
                 "09:35",
@@ -68646,6 +69114,7 @@
             ],
             "starting_points_b": [
                 "05:30",
+                "06:55",
                 "07:00",
                 "08:30",
                 "10:40",
@@ -68689,7 +69158,9 @@
         "id": "700",
         "type": "BUS",
         "title": "Batajnica /Železnička stanica/ - Batajnica /Centar/ - Batajnica /Železnička stanica/",
-        "info": ["Kružna linija"],
+        "info": [
+            "Kružna linija"
+        ],
         "weekday": {
             "starting_points_a": [
                 "05:20",
@@ -71814,16 +72285,44 @@
         "title": "Industrijska zona Barič - Lazarevac",
         "info": [],
         "weekday": {
-            "starting_points_a": ["06:20", "09:00", "14:20", "17:05", "22:20"],
-            "starting_points_b": ["04:15", "07:40", "12:15", "15:45", "20:15"]
+            "starting_points_a": [
+                "06:20",
+                "09:00",
+                "14:20",
+                "17:05",
+                "22:20"
+            ],
+            "starting_points_b": [
+                "04:15",
+                "07:40",
+                "12:15",
+                "15:45",
+                "20:15"
+            ]
         },
         "saturday": {
-            "starting_points_a": ["06:20", "09:00", "14:20"],
-            "starting_points_b": ["04:15", "07:40", "12:15"]
+            "starting_points_a": [
+                "06:20",
+                "09:00",
+                "14:20"
+            ],
+            "starting_points_b": [
+                "04:15",
+                "07:40",
+                "12:15"
+            ]
         },
         "sunday": {
-            "starting_points_a": ["06:20", "09:00", "14:20"],
-            "starting_points_b": ["04:15", "07:40", "12:15"]
+            "starting_points_a": [
+                "06:20",
+                "09:00",
+                "14:20"
+            ],
+            "starting_points_b": [
+                "04:15",
+                "07:40",
+                "12:15"
+            ]
         }
     },
     {
@@ -72475,12 +72974,36 @@
             ]
         },
         "saturday": {
-            "starting_points_a": ["06:35", "09:45", "12:55", "16:05", "19:15"],
-            "starting_points_b": ["05:00", "08:10", "11:20", "14:30", "17:40"]
+            "starting_points_a": [
+                "06:35",
+                "09:45",
+                "12:55",
+                "16:05",
+                "19:15"
+            ],
+            "starting_points_b": [
+                "05:00",
+                "08:10",
+                "11:20",
+                "14:30",
+                "17:40"
+            ]
         },
         "sunday": {
-            "starting_points_a": ["06:35", "09:45", "12:55", "16:05", "19:15"],
-            "starting_points_b": ["05:00", "08:10", "11:20", "14:30", "17:40"]
+            "starting_points_a": [
+                "06:35",
+                "09:45",
+                "12:55",
+                "16:05",
+                "19:15"
+            ],
+            "starting_points_b": [
+                "05:00",
+                "08:10",
+                "11:20",
+                "14:30",
+                "17:40"
+            ]
         }
     },
     {
@@ -73929,16 +74452,35 @@
         "title": "Obrenovac - Mala Moštanica - Beograd",
         "info": [],
         "weekday": {
-            "starting_points_a": ["05:05", "06:05"],
-            "starting_points_b": ["17:15", "20:05", "22:40"]
+            "starting_points_a": [
+                "05:05",
+                "06:05"
+            ],
+            "starting_points_b": [
+                "17:15",
+                "20:05",
+                "22:40"
+            ]
         },
         "saturday": {
-            "starting_points_a": ["05:05", "18:45"],
-            "starting_points_b": ["20:05", "22:40"]
+            "starting_points_a": [
+                "05:05",
+                "18:45"
+            ],
+            "starting_points_b": [
+                "20:05",
+                "22:40"
+            ]
         },
         "sunday": {
-            "starting_points_a": ["05:05", "18:45"],
-            "starting_points_b": ["20:05", "22:40"]
+            "starting_points_a": [
+                "05:05",
+                "18:45"
+            ],
+            "starting_points_b": [
+                "20:05",
+                "22:40"
+            ]
         }
     },
     {
@@ -73947,16 +74489,31 @@
         "title": "Sopot - Mala Ivanča - Mali Požarevac - Beograd",
         "info": [],
         "weekday": {
-            "starting_points_a": ["11:15", "13:20"],
-            "starting_points_b": ["06:30", "07:30", "20:00"]
+            "starting_points_a": [
+                "11:15",
+                "13:20"
+            ],
+            "starting_points_b": [
+                "06:30",
+                "07:30",
+                "20:00"
+            ]
         },
         "saturday": {
-            "starting_points_a": ["13:20"],
-            "starting_points_b": ["07:30"]
+            "starting_points_a": [
+                "13:20"
+            ],
+            "starting_points_b": [
+                "07:30"
+            ]
         },
         "sunday": {
-            "starting_points_a": ["13:20"],
-            "starting_points_b": ["07:30"]
+            "starting_points_a": [
+                "13:20"
+            ],
+            "starting_points_b": [
+                "07:30"
+            ]
         }
     }
 ]
